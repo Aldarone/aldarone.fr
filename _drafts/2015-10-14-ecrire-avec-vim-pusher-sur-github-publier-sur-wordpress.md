@@ -1,8 +1,16 @@
 ---
-post_title: Écrire avec VIM, pusher sur github, publier sur WordPress
+ID: 1658
+post_title: >
+  Écrire avec VIM, pusher sur github,
+  publier sur WordPress
+author: ""
+post_date: 2015-10-14 12:11:57
+post_excerpt: ""
 layout: post
+permalink: http://aldarone.fr/?p=1658
 published: false
 ---
+
 
 ## Résumé des épisodes précédents
 
