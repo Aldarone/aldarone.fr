@@ -9,18 +9,18 @@ permalink: >
   http://aldarone.fr/brocoup-de-bruit-pour-rien-much-ado-for-brothing/
 published: true
 ---
-<p>À la fin de la semaine passée, une nouvelle inquiétante (pour ne pas dire catastrophique) a commencé à se répandre sur les internets :
-Mozilla agirait de concert avec les féministes pour faire peser une insupportable censure sur le géant Google.</p>
+À la fin de la semaine passée, une nouvelle inquiétante (pour ne pas dire catastrophique) a commencé à se répandre sur les internets :
+Mozilla agirait de concert avec les féministes pour faire peser une insupportable censure sur le géant Google.
 
 Voyez plutôt :
 
-<p>Google a annoncé fin septembre, le 22, un nouvel algorithme de compression nommé Brotli, capable d'offrir une compression équivalente à LZMA ou bzip2
+Google a annoncé fin septembre, le 22, un nouvel algorithme de compression nommé Brotli, capable d'offrir une compression équivalente à LZMA ou bzip2
 pour des performances approchant celles de deflate. Qui dit nouveau format dit également nouvelle extension de fichier, c'est pourquoi, en suivant une convention
 aussi vieille que techniquement dépassée, il fut tout naturellement proposé de tronquer le nom de l'algorithme à 3 caractère, donnant ainsi l'extension .bro
-aux fichiers compressés par brotli.</p>
+aux fichiers compressés par brotli.
 
-<p>C'est là que le bat blesse et que les vilaines féministes entrent en jeu pour exercer une pression terrible sur la personne ayant fait cette proposition,
-forçant ainsi le malheureux développeur à s'auto-censurer pour ne pas subir plus de harcèlement de la part de ces furies.</p>
+C'est là que le bat blesse et que les vilaines féministes entrent en jeu pour exercer une pression terrible sur la personne ayant fait cette proposition,
+forçant ainsi le malheureux développeur à s'auto-censurer pour ne pas subir plus de harcèlement de la part de ces furies.
 
 Pour lutter contre la pensée unique qui émane de leur action, je décide ce soir, en dépit des risques, de reproduire ici les vifs échanges ayant eu lieu <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=366559#c146">sur le bugtracker de Mozilla</a> :
 
