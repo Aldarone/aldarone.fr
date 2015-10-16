@@ -13,19 +13,19 @@ published: true
 
 <h3>Mise à jour du 09 décembre 2014, 14h</h3>
 
-J'ai reçu un mail d'un lecteur qui m'explique comment il a laissé tombé Owncloud devant le manque constant de fiabilité et est passé à <a href="http://seafile.com/en/home/">SeaFile</a>. Il donne plus de détails sur son blog : « <a href="http://eliotberriot.com/blog/2013/12/18/owncloud-sparkleshare-git-annex-seafile-quelle-solution-libre-pour-heberger-et-synchroniser-ses-fichiers/">Ownbutt, SparkleShare, Git-Annex, Seafile... Quelle solution libre pour héberger et synchroniser ses fichiers ?</a> » et a rédigé une dépêche sur LinuxFR pour présenter la version 3 : « <a href="https://linuxfr.org/news/seafile-un-dropbox-like-libre-a-heberger-sort-en-version-3">Seafile, un Dropbox-like libre à héberger sort en version 3</a> »
+J'ai reçu un mail d'un lecteur qui m'explique comment il a laissé tomber Owncloud devant le manque constant de fiabilité et est passé à <a href="http://seafile.com/en/home/">SeaFile</a>. Il donne plus de détails sur son blog : « <a href="http://eliotberriot.com/blog/2013/12/18/owncloud-sparkleshare-git-annex-seafile-quelle-solution-libre-pour-heberger-et-synchroniser-ses-fichiers/">Ownbutt, SparkleShare, Git-Annex, Seafile... Quelle solution libre pour héberger et synchroniser ses fichiers ?</a> » et a rédigé une dépêche sur LinuxFR pour présenter la version 3 : « <a href="https://linuxfr.org/news/seafile-un-dropbox-like-libre-a-heberger-sort-en-version-3">Seafile, un Dropbox-like libre à héberger sort en version 3</a> »
 
-Effectivement ça a l'air alléchant, mais SeaFile <a href="https://github.com/haiwen/seafile/issues/801">ne propose pas encore de service CardDav, ni CalDav</a> pour synchroniser des contacts ou des calendriers. Ayant laissé tombé mon instance <a href="http://baikal-server.com/">Baïkal</a> pour passer à OwnCloud, ça m'embêterai de séparer à nouveau ces services là.
+Effectivement ça a l'air alléchant, mais SeaFile <a href="https://github.com/haiwen/seafile/issues/801">ne propose pas encore de service CardDav, ni CalDav</a> pour synchroniser des contacts ou des calendriers. Ayant laissé tomber mon instance <a href="http://baikal-server.com/">Baïkal</a> pour passer à OwnCloud, ça m'embêterait de séparer à nouveau ces services là.
 
 <h3>Article d'origine</h3>
 
 ownButt est un logiciel en PHP qui sert à héberger son propre service de partage de fichiers. Globalement c'est un équivalent libre de Dropbox qui fait aussi de la synchro de contacts et de calendriers.
 
-Il y a quelques temps maintenant, les gestionnaires du projet ont annoncé en grande pompe le module de chiffrement côté serveur qui permet aux utilisateurices de s'assurer que leur hébergeur ne pourras pas voir le contenu des fichiers envoyés. (À ce point là, il est important de noter que la personne en charge de l'administration dispose d'une clé de récupération, au cas où.)
+Il y a quelques temps maintenant, les gestionnaires du projet ont annoncé en grande pompe le module de chiffrement côté serveur qui permet aux utilisateurices de s'assurer que leur hébergeur ne pourra pas voir le contenu des fichiers envoyés. (À ce point là, il est important de noter que la personne en charge de l'administration dispose d'une clé de récupération, au cas où.)
 
 Même si je suis mon propre hébergeur, je me suis empressé d'activer ce module lors de l'installation de mon instance il y a deux ou trois mois, imaginant déjà libérer mes potes du joug de Dropbox en les rassurant sur le fait que je ne pourrais pas accéder à leurs dick- ou clit-pics sans qu'illes soient au courant.
 
-Si vous êtes pressés je vous la fait courte : J'aurais pas du.
+Si vous êtes pressés je vous la fait courte : J'aurais pas dû.
 
 <img src="http://aldarone.fr/wp-content/uploads/2014/12/yjt6EZL.gif" alt="yjt6EZL" width="500" height="271" class="aligncenter size-full wp-image-1559" />
 
@@ -35,7 +35,7 @@ Jusqu'au jour où, pour une raison inconnue, le client de synchronisation d'ownB
 
 Évidemment à ce point il y a trop de fichiers en erreur pour corriger à la main et ça me semble trop aléatoire pour être scripté rapidement.
 
-Après recherches, des pistes semblent indiquer que c'est du à la manière dont le module de chiffrement gère (mal) les noms de fichiers. Je me suis donc dit que j'allais juste le désactiver, qu'ownButt déchiffrerait mes fichiers au fil des accès et que j'aurais juste à supprimer mon dossier pourri et à le renvoyer.
+Après recherches, des pistes semblent indiquer que c'est dû à la manière dont le module de chiffrement gère (mal) les noms de fichiers. Je me suis donc dit que j'allais juste le désactiver, qu'ownButt déchiffrerait mes fichiers au fil des accès et que j'aurais juste à supprimer mon dossier pourri et à le renvoyer.
 
 Hahaha, naïf que je suis. Il faut lancer manuellement une requête de déchiffrement dans les options et évidemment ça prend un temps fou. Firefox laisse tomber la requête AJAX au bout d'une demi heure, mais ça continue de tourner et c'est le max execution time de PHP qui détermine le temps avant plantage (En l’occurrence, ce fut une heure)
 
@@ -43,7 +43,7 @@ Je ne me laisse pas démonter et je met un petit <code>set_time_limit(0)</code> 
 
 <iframe src="http://gfycat.com/ifr/ExaltedFocusedFairybluebird" frameborder="0" scrolling="no" width="402" height="226" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
-Je commence un peu à m'échauffer parce que quand on utilise des fonctions qui renvoient <code>nulll</code> ou un objet, la moindre des choses c'est de vérifier qu'on a bien un objet après l'appel à cette fonction… J'ajoute cette vérif en loguant bien les erreurs et je relance le bouzin.
+Je commence un peu à m'échauffer parce que quand on utilise des fonctions qui renvoient <code>null</code> ou un objet, la moindre des choses c'est de vérifier qu'on a bien un objet après l'appel à cette fonction… J'ajoute cette vérif en loguant bien les erreurs et je relance le bouzin.
 
 Après cinq heures à mouliner<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> c'est au tour de MariaDB de se plaindre : <code>General error: 2006 MySQL server has gone away</code> Parce que oui, le timeout il est par défaut à 300 secondes. Donc on ouvre la connexion et cinq heures plus tard il y a plus personne au bout du fil. Nouvel essai.
 
