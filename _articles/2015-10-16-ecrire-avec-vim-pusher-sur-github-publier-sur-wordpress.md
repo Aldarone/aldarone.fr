@@ -38,7 +38,7 @@ Sauf que Aldarone.fr c'est pas juste mon blog, c'est aussi un réseau WordPress 
 
 ## La solution
 
-Heureusement parmis les plugins WordPress il y a à boire et à manger, j'ai donc fini par trouver mon graal : [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/)
+Heureusement parmi les plugins WordPress il y a à boire et à manger, j'ai donc fini par trouver mon graal : [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/)
 
 Après la création d'un dépôt dédié sur Github, l'autorisation du plugin à y accéder et à être notifié quand le dépôt change, voila tous mes articles regroupés sur [Aldarone/aldarone.fr](https://github.com/Aldarone/aldarone.fr)
 
