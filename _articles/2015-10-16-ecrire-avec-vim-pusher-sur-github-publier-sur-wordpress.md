@@ -1,14 +1,14 @@
 ---
 ID: 1658
-post_title: &gt;
+post_title: >
   Écrire avec VIM, pusher sur GitHub,
   publier sur WordPress
 author:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_date:
-  - 2015-10-14 12:11:57
+  - 'a:1:{i:0;s:19:"2015-10-14 12:11:57";}'
 post_excerpt:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 layout: post
 permalink:
   - ""
