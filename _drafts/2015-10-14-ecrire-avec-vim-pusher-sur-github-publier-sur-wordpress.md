@@ -42,6 +42,8 @@ Après la création d'un dépôt dédié sur Github, l'autorisation du plugin à
 
 À partir de maintenant il me suffit d'enregistrer un fichier ````.md```` sur la branche master avec un peu de YAML dans l'en-tête pour définir son titre et son statut de publication pour que ce dernier soit automatiquement créé dans WordPress. De même, à chaque modification depuis l'administration, WPGHS fera un commit dans le dépôt pour répercuter les changements.
 
+Tout n'est pas parfait et à l'heure actuelle je dois encore me rendre dans l'administration pour envoyer les images et gérer les catégories, les tags et l'image d'en tête, mais je vais pas trop me plaindre non plus.
+
 ## Et qu'est-ce que ça implique ?
 
 Déjà, écrire son blog dans un dépôt Git c'est intéressant en terme de suivi de modifications. C'est en tout cas plus pratique que le système moisi de révisions intégré à WordPress.
