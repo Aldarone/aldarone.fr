@@ -12,7 +12,6 @@ post_excerpt:
 layout: post
 published: true
 ---
-
 Cette semaine j'ai installé la dernière version de Resurrection Remix sur mon Galaxy S3.
 
 J'ai fait la totale :
