@@ -10,8 +10,7 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:0:"";}'
 layout: post
-permalink:
-  - ""
+permalink: ""
 published: true
 ---
 ## Résumé des épisodes précédents
