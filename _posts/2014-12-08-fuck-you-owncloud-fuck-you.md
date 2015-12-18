@@ -8,6 +8,7 @@ post_date:
 post_excerpt:
   - ""
 layout: post
+permalink: /fuck-you-owncloud-fuck-you/
 published: true
 ---
 

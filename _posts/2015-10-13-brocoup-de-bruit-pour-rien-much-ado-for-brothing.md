@@ -8,6 +8,8 @@ post_date:
 post_excerpt:
   - ""
 layout: post
+permalink: >
+  /brocoup-de-bruit-pour-rien-much-ado-for-brothing/
 published: true
 ---
 

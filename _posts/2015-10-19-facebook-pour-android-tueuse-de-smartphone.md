@@ -10,6 +10,8 @@ post_date:
 post_excerpt:
   - ""
 layout: post
+permalink: >
+  /facebook-pour-android-tueuse-de-smartphone/
 published: true
 ---
 Cette semaine j'ai installé la dernière version de Resurrection Remix sur mon Galaxy S3.
