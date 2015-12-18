@@ -8,7 +8,6 @@ post_date:
 post_excerpt:
   - ""
 layout: post
-permalink: ""
 published: true
 ---
 
