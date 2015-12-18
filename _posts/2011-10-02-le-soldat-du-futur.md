@@ -5,7 +5,7 @@ author: Alda
 post_date: 2011-10-02 09:10:27
 post_excerpt: ""
 layout: post
-permalink: http://aldarone.fr/le-soldat-du-futur/
+permalink: /le-soldat-du-futur/
 published: true
 head_img:
   - >

@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-07-21 13:09:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/les-webavardes-communication-fail/
+permalink: /les-webavardes-communication-fail/
 published: true
 head_img:
   - http://aldarone.fr/assets/webavardes.jpg

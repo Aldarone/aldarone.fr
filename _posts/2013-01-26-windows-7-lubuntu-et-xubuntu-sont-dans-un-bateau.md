@@ -8,7 +8,7 @@ post_date: 2013-01-26 12:00:25
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau/
+  /windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau/
 published: true
 bitlyURL:
   - http://ltch.fr/11YNt2d

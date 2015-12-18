@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-01-29 16:30:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/comment-tu-telecharges-toi/
+permalink: /comment-tu-telecharges-toi/
 published: true
 bitlyURL:
   - http://bit.ly/yk7aVW

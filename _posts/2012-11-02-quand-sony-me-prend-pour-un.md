@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-11-02 19:37:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/quand-sony-me-prend-pour-un/
+permalink: /quand-sony-me-prend-pour-un/
 published: true
 head_img:
   - >

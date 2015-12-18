@@ -8,7 +8,7 @@ post_date: 2013-06-19 20:11:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/une-comparaison-entre-misandrie-et-misogynie/
+  /une-comparaison-entre-misandrie-et-misogynie/
 published: true
 ---
 On pourrait croire à première vue que les deux se valent. Que toutes les formes de violence sont équivalentes, injustifiées et injustifiables. Et que la misandrie est tout aussi dommageable que la misogynie. (J'ai bien dit « <em>dommageable</em> » et pas « <em>condamnable</em>. »)

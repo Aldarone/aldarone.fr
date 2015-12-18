@@ -6,7 +6,7 @@ post_date: 2013-02-24 12:30:36
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/
+  /on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/
 published: true
 bitlyURL:
   - http://ltch.fr/WbQIC5

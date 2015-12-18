@@ -6,7 +6,7 @@ post_date: 2013-03-01 18:03:34
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite/
+  /la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite/
 published: true
 bitlyURL:
   - http://ltch.fr/XfkfJY

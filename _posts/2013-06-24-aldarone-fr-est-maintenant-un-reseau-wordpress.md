@@ -8,7 +8,7 @@ post_date: 2013-06-24 14:30:27
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/aldarone-fr-est-maintenant-un-reseau-wordpress/
+  /aldarone-fr-est-maintenant-un-reseau-wordpress/
 published: true
 ---
 Un réseau WordPress ? Quézaquo ?

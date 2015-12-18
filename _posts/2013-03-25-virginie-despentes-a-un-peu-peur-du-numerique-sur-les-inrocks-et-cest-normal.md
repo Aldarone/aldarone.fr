@@ -6,7 +6,7 @@ post_date: 2013-03-25 12:00:24
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/virginie-despentes-a-un-peu-peur-du-numerique-sur-les-inrocks-et-cest-normal/
+  /virginie-despentes-a-un-peu-peur-du-numerique-sur-les-inrocks-et-cest-normal/
 published: true
 bitlyURL:
   - http://ltch.fr/14iFM8s

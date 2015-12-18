@@ -6,7 +6,7 @@ post_date: 2012-08-24 13:59:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/windows-8-le-bien-le-moins-bien-le-pourri/
+  /windows-8-le-bien-le-moins-bien-le-pourri/
 published: true
 head_img:
   - >

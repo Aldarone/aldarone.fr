@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-10-02 13:28:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/les-adaptations-dasimov-au-cinema/
+permalink: /les-adaptations-dasimov-au-cinema/
 published: true
 head_img:
   - >

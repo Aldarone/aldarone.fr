@@ -6,7 +6,7 @@ post_date: 2011-10-07 10:43:22
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/parent-theme-aldarone-fr-roots-wordpress/
+  /parent-theme-aldarone-fr-roots-wordpress/
 published: true
 head_img:
   - >

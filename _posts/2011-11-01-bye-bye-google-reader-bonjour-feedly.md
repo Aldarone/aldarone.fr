@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-11-01 12:00:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/bye-bye-google-reader-bonjour-feedly/
+permalink: /bye-bye-google-reader-bonjour-feedly/
 published: true
 head_img:
   - http://aldarone.fr/assets/Feedly.png

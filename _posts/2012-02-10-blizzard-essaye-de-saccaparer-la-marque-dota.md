@@ -6,7 +6,7 @@ post_date: 2012-02-10 10:15:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/blizzard-essaye-de-saccaparer-la-marque-dota/
+  /blizzard-essaye-de-saccaparer-la-marque-dota/
 published: true
 head_img:
   - http://aldarone.fr/assets/DotA2.jpg

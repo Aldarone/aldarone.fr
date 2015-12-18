@@ -5,8 +5,7 @@ author: Alda
 post_date: 2015-03-12 20:43:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/jouer-a-discworld-sur-un-pc-recent/
+permalink: /jouer-a-discworld-sur-un-pc-recent/
 published: true
 ---
 https://twitter.com/terryandrob/status/576036599047258112

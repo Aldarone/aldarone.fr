@@ -8,7 +8,7 @@ post_date: 2012-01-20 09:50:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/one-does-not-simply-shut-megaupload-down/
+  /one-does-not-simply-shut-megaupload-down/
 published: true
 head_img:
   - >

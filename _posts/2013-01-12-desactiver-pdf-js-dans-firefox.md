@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-01-12 12:28:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/desactiver-pdf-js-dans-firefox/
+permalink: /desactiver-pdf-js-dans-firefox/
 published: true
 bitlyURL:
   - http://ltch.fr/X0PsMw

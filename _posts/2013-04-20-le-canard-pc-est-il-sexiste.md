@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-04-20 19:40:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/le-canard-pc-est-il-sexiste/
+permalink: /le-canard-pc-est-il-sexiste/
 published: true
 ---
 <p><strong>[Mise à jour 22/04/2013 11:30]: Ajout d'une partie comparant la part de femmes chez Canard PC avec le reste de la presse et plus seulement avec l'industrie du Jeu Vidéo.</strong></p>

@@ -6,7 +6,7 @@ post_date: 2012-02-27 12:00:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus/
+  /la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus/
 published: true
 head_img:
   - http://aldarone.fr/assets/MemoryLeak.png

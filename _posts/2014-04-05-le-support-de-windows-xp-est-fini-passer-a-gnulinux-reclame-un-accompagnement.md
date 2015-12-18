@@ -9,7 +9,7 @@ post_date: 2014-04-05 16:27:35
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement/
+  /le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement/
 published: true
 ---
 Le support de Windows XP arrive à son terme dans 3 jours. Après 13 ans, un support étendu de 5 ans, il va enfin entrer dans les archives de l'histoire et on en parlera plus. (En fait pas vraiment, la quasi-totalité du parc de distributeurs bancaire est sous XP et les banques n'ont pas assez d'argent -- lol --- pour le renouveler, donc Microsoft a annoncé qu'il développerait des patchs payant sur mesure.)

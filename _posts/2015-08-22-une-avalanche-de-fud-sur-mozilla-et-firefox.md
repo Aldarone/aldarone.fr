@@ -8,7 +8,7 @@ post_date: 2015-08-22 15:04:57
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox/
+  /une-avalanche-de-fud-sur-mozilla-et-firefox/
 published: true
 ---
 <strong>Attention</strong> : Cet article est un peu technique et certaines notions risquent de vous échapper si vous n'avez pas quelques connaissances de base en développement web.

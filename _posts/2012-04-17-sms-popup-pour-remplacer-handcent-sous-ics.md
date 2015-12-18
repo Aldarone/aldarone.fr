@@ -8,7 +8,7 @@ post_date: 2012-04-17 12:44:38
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/sms-popup-pour-remplacer-handcent-sous-ics/
+  /sms-popup-pour-remplacer-handcent-sous-ics/
 published: true
 head_img:
   - >

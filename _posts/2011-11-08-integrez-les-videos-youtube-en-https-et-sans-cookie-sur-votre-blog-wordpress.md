@@ -8,7 +8,7 @@ post_date: 2011-11-08 10:15:58
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress/
+  /integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress/
 published: true
 head_img:
   - http://aldarone.fr/assets/cookies.jpg

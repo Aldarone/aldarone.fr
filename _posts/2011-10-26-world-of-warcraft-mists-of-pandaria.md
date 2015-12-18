@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-10-26 11:00:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/world-of-warcraft-mists-of-pandaria/
+permalink: /world-of-warcraft-mists-of-pandaria/
 published: true
 head_img:
   - >

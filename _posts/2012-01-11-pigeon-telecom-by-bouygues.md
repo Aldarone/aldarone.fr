@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-01-11 12:43:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/pigeon-telecom-by-bouygues/
+permalink: /pigeon-telecom-by-bouygues/
 published: true
 head_img:
   - >

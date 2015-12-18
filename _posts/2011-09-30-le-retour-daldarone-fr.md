@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-09-30 15:24:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/le-retour-daldarone-fr/
+permalink: /le-retour-daldarone-fr/
 published: true
 dsq_thread_id:
   - "430649354"

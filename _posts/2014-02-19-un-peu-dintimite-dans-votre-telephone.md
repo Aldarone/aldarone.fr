@@ -5,8 +5,7 @@ author: Alda
 post_date: 2014-02-19 12:59:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/un-peu-dintimite-dans-votre-telephone/
+permalink: /un-peu-dintimite-dans-votre-telephone/
 published: true
 ---
 En ces temps troublés de surveillance généralisée, les écoutes de la NSA, le scandale Amesys il ne fait plus aucun doute que tout ce qu'on dit ou écrit en clair sur Internet est enregistré et sera utilisé contre nous.

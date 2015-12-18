@@ -8,7 +8,7 @@ post_date: 2012-02-23 13:43:08
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/les-rois-de-la-suede-tentent-un-troll-mais-se-plantent-magistralement/
+  /les-rois-de-la-suede-tentent-un-troll-mais-se-plantent-magistralement/
 published: true
 head_img:
   - >

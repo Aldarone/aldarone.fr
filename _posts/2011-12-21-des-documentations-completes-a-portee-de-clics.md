@@ -8,7 +8,7 @@ post_date: 2011-12-21 15:30:45
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/des-documentations-completes-a-portee-de-clics/
+  /des-documentations-completes-a-portee-de-clics/
 published: true
 head_img:
   - >

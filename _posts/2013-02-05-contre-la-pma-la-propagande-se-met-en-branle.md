@@ -8,7 +8,7 @@ post_date: 2013-02-05 08:30:39
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/contre-la-pma-la-propagande-se-met-en-branle/
+  /contre-la-pma-la-propagande-se-met-en-branle/
 published: true
 bitlyURL:
   - http://ltch.fr/Urg7aA

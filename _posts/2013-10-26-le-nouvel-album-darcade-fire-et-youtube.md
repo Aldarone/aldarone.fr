@@ -6,7 +6,7 @@ post_date: 2013-10-26 11:39:32
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/le-nouvel-album-darcade-fire-et-youtube/
+  /le-nouvel-album-darcade-fire-et-youtube/
 published: true
 ---
 C'est tellement ridiculement pathétique que mes côtes me font encore mal à force d'hilarité. Voyez donc :

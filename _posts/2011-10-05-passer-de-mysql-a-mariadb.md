@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-10-05 08:45:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/passer-de-mysql-a-mariadb/
+permalink: /passer-de-mysql-a-mariadb/
 published: true
 head_img:
   - >

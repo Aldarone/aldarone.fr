@@ -6,7 +6,7 @@ post_date: 2013-04-24 14:50:15
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/tas-eu-ce-que-tu-voulais-pourquoi-touvres-encore-ta-gueule/
+  /tas-eu-ce-que-tu-voulais-pourquoi-touvres-encore-ta-gueule/
 published: true
 ---
 Voila, le vote final du projet de loi ouvrant le mariage et l'adoption aux personnes de même sexe a été voté et adopté hier et la France a fait un pas vers plus d'égalité.

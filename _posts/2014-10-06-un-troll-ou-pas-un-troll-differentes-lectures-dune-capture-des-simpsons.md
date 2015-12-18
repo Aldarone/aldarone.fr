@@ -6,7 +6,7 @@ post_date: 2014-10-06 19:37:55
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons/
+  /un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons/
 published: true
 ---
 Cette après-midi je suis tombé sur un partage trollesque d'un gros malin qui voulait se payer une bonne tranche de rigolade au détriment de ces imbéciles de féministes qui prennent la tête (cliquez sur la miniature pour le lire en entier) :

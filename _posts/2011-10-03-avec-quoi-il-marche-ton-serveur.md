@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-10-03 10:58:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/avec-quoi-il-marche-ton-serveur/
+permalink: /avec-quoi-il-marche-ton-serveur/
 published: true
 head_img:
   - >

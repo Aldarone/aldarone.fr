@@ -8,7 +8,7 @@ post_date: 2011-11-02 10:15:50
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/wtcraft-com-offre-un-xperia-play-edition-limitee-minecraft/
+  /wtcraft-com-offre-un-xperia-play-edition-limitee-minecraft/
 published: true
 head_img:
   - http://aldarone.fr/assets/WTCraft.jpg

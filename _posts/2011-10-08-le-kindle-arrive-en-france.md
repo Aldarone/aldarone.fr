@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-10-08 09:30:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/le-kindle-arrive-en-france/
+permalink: /le-kindle-arrive-en-france/
 published: true
 head_img:
   - >

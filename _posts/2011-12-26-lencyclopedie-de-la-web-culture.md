@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-12-26 11:30:08
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/lencyclopedie-de-la-web-culture/
+permalink: /lencyclopedie-de-la-web-culture/
 published: true
 head_img:
   - >

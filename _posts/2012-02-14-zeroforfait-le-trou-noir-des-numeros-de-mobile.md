@@ -8,7 +8,7 @@ post_date: 2012-02-14 11:45:19
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/zeroforfait-le-trou-noir-des-numeros-de-mobile/
+  /zeroforfait-le-trou-noir-des-numeros-de-mobile/
 published: true
 head_img:
   - >

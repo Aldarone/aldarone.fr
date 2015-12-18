@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-05-10 12:40:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/ca-fait-dans-la-prevention/
+permalink: /ca-fait-dans-la-prevention/
 published: true
 ---
 <h2>Communiqué officiel</h2>

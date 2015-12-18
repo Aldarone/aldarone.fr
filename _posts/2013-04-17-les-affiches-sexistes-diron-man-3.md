@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-04-17 16:30:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/les-affiches-sexistes-diron-man-3/
+permalink: /les-affiches-sexistes-diron-man-3/
 published: true
 ---
 Oui, je me suis dit que j'allais annoncer la couleur dès le départ et plutôt que donner la version soft : "les affiches genrées" allons y carrément et appelons un chat un chat.

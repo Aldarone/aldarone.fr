@@ -6,7 +6,7 @@ post_date: 2012-11-07 09:00:14
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/la-communaute-des-gamers-nest-pas-sexiste-non-non/
+  /la-communaute-des-gamers-nest-pas-sexiste-non-non/
 published: true
 bitlyURL:
   - http://ltch.fr/YHj0CC

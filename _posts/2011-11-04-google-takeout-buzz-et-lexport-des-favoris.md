@@ -6,7 +6,7 @@ post_date: 2011-11-04 18:45:10
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/google-takeout-buzz-et-lexport-des-favoris/
+  /google-takeout-buzz-et-lexport-des-favoris/
 published: true
 head_img:
   - >

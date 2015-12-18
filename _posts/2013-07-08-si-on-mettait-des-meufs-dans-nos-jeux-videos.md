@@ -8,7 +8,7 @@ post_date: 2013-07-08 14:15:01
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/si-on-mettait-des-meufs-dans-nos-jeux-videos/
+  /si-on-mettait-des-meufs-dans-nos-jeux-videos/
 published: true
 ---
 C'est une bonne idée ça non ? Mettre des meufs dans un jeu. Ça devrait faire plaisir à tout le monde. Les joueurs ils vont kiffer de pouvoir mater et les gonzesses elles vont pouvoir s'identifier plus facilement. En plus comme ça, les féministes peuvent pas dire qu'il est que pour les mecs et que les créateurs sont des connard sexistes.

@@ -5,7 +5,7 @@ author: Alda
 post_date: 2013-01-30 10:45:57
 post_excerpt: ""
 layout: post
-permalink: http://aldarone.fr/looper-loupe/
+permalink: /looper-loupe/
 published: true
 bitlyURL:
   - http://ltch.fr/128RkKm

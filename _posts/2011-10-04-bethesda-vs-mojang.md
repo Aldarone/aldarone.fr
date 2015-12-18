@@ -5,7 +5,7 @@ author: Alda
 post_date: 2011-10-04 09:41:31
 post_excerpt: ""
 layout: post
-permalink: http://aldarone.fr/bethesda-vs-mojang/
+permalink: /bethesda-vs-mojang/
 published: true
 head_img:
   - >

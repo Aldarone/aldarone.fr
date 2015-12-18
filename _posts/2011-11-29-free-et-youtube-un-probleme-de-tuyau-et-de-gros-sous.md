@@ -6,7 +6,7 @@ post_date: 2011-11-29 10:23:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous/
+  /free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous/
 published: true
 head_img:
   - http://aldarone.fr/assets/Rodolphe.jpg

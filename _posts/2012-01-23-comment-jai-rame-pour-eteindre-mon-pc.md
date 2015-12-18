@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-01-23 10:00:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/comment-jai-rame-pour-eteindre-mon-pc/
+permalink: /comment-jai-rame-pour-eteindre-mon-pc/
 published: true
 head_img:
   - http://aldarone.fr/assets/rame.jpg

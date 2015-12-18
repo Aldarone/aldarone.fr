@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-04-10 18:30:32
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/ecouter-la-radio-sur-le-net/
+permalink: /ecouter-la-radio-sur-le-net/
 published: true
 ---
 <p>Pour certains, il est agréable (voire nécessaire) d'avoir un fond sonore plus ou moins discret pour travailler.</p>

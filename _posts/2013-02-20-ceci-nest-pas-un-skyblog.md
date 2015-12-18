@@ -5,8 +5,7 @@ author: Alda
 post_date: 2013-02-20 15:48:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/ceci-nest-pas-un-skyblog/
+permalink: /ceci-nest-pas-un-skyblog/
 published: true
 bitlyURL:
   - http://ltch.fr/VJHqgX

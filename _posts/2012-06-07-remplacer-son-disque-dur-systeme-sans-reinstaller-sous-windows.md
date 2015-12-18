@@ -8,7 +8,7 @@ post_date: 2012-06-07 22:40:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/remplacer-son-disque-dur-systeme-sans-reinstaller-sous-windows/
+  /remplacer-son-disque-dur-systeme-sans-reinstaller-sous-windows/
 published: true
 head_img:
   - >

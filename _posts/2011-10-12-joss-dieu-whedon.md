@@ -5,7 +5,7 @@ author: Alda
 post_date: 2011-10-12 09:30:21
 post_excerpt: ""
 layout: post
-permalink: http://aldarone.fr/joss-dieu-whedon/
+permalink: /joss-dieu-whedon/
 published: true
 head_img:
   - >

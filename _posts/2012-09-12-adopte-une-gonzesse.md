@@ -5,7 +5,7 @@ author: Alda
 post_date: 2012-09-12 15:30:00
 post_excerpt: ""
 layout: post
-permalink: http://aldarone.fr/adopte-une-gonzesse/
+permalink: /adopte-une-gonzesse/
 published: true
 head_img:
   - >

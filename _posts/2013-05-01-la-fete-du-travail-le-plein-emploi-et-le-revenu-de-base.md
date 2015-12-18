@@ -6,7 +6,7 @@ post_date: 2013-05-01 12:04:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/la-fete-du-travail-le-plein-emploi-et-le-revenu-de-base/
+  /la-fete-du-travail-le-plein-emploi-et-le-revenu-de-base/
 published: true
 ---
 Aujourd'hui c'est la fête du travail, enfin à ce qu'il parait. Il paraît aussi que c'est l'occasion de manifester en faveur du plein emploi, de la baisse du chômage et tutti quanti.

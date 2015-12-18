@@ -5,8 +5,7 @@ author: Alda
 post_date: 2011-11-07 08:45:44
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/les-flux-rss-shaarli-et-pubsubhubbub/
+permalink: /les-flux-rss-shaarli-et-pubsubhubbub/
 published: true
 head_img:
   - >

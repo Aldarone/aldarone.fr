@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-11-18 16:45:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/la-misandrie-nexiste-pas/
+permalink: /la-misandrie-nexiste-pas/
 published: true
 bitlyURL:
   - http://ltch.fr/SWkynr

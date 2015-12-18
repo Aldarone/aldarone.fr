@@ -6,7 +6,7 @@ post_date: 2012-01-13 13:15:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://aldarone.fr/utilisez-plutot-dailymotion-xavier-niel/
+  /utilisez-plutot-dailymotion-xavier-niel/
 published: true
 head_img:
   - >

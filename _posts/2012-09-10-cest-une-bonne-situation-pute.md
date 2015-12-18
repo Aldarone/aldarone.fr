@@ -5,8 +5,7 @@ author: Alda
 post_date: 2012-09-10 17:30:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://aldarone.fr/cest-une-bonne-situation-pute/
+permalink: /cest-une-bonne-situation-pute/
 published: true
 bitlyURL:
   - http://ltch.fr/NXNrCR
