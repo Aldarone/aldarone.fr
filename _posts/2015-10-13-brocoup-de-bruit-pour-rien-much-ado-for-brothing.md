@@ -1,14 +1,18 @@
 ---
 ID: 1646
 post_title: 'Brocoup de bruit pour rien &#8211; Much ado for Brothing'
-author: Alda
-post_date: 2015-10-13 13:05:49
-post_excerpt: ""
+author:
+  - Alda
+post_date:
+  - 2015-10-13 13:05:49
+post_excerpt:
+  - ""
 layout: post
-permalink: >
-  http://aldarone.fr/brocoup-de-bruit-pour-rien-much-ado-for-brothing/
+permalink:
+  - ""
 published: true
 ---
+
 À la fin de la semaine passée, une nouvelle inquiétante (pour ne pas dire catastrophique) a commencé à se répandre sur les internets :
 Mozilla agirait de concert avec les féministes pour faire peser une insupportable censure sur le géant Google.
 

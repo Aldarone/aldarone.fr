@@ -1,15 +1,19 @@
 ---
 ID: 1556
 post_title: Fuck you ownCloud. Fuck you.
-author: Alda
-post_date: 2014-12-08 23:09:57
-post_excerpt: ""
+author:
+  - Alda
+post_date:
+  - 2014-12-08 23:09:57
+post_excerpt:
+  - ""
 layout: post
-permalink: >
-  http://aldarone.fr/fuck-you-owncloud-fuck-you/
+permalink:
+  - ""
 published: true
 ---
-/!\ Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d'en tenir compte lors de votre lecture. /!\
+
+/! Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d'en tenir compte lors de votre lecture. /!
 
 <h3>Mise à jour du 09 décembre 2014, 14h</h3>
 
@@ -41,11 +45,11 @@ Hahaha, naïf que je suis. Il faut lancer manuellement une requête de déchiffr
 
 Je ne me laisse pas démonter et je met un petit <code>set_time_limit(0)</code> au début du script histoire d'être sûr et je le relance en gardant un œil sur les logs dans un <a href="http://danielmiessler.com/study/tmux/">tmux</a>. Deux heures plus tard il plante à nouveau <code>Calling method -&gt;machintruc() on a non-object</code>
 
-<iframe src="http://gfycat.com/ifr/ExaltedFocusedFairybluebird" frameborder="0" scrolling="no" width="402" height="226" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+
 
 Je commence un peu à m'échauffer parce que quand on utilise des fonctions qui renvoient <code>null</code> ou un objet, la moindre des choses c'est de vérifier qu'on a bien un objet après l'appel à cette fonction… J'ajoute cette vérif en loguant bien les erreurs et je relance le bouzin.
 
-Après cinq heures à mouliner<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> c'est au tour de MariaDB de se plaindre : <code>General error: 2006 MySQL server has gone away</code> Parce que oui, le timeout il est par défaut à 300 secondes. Donc on ouvre la connexion et cinq heures plus tard il y a plus personne au bout du fil. Nouvel essai.
+Après cinq heures à mouliner<sup id="fnref:1"><a href="1" rel="footnote">1</a></sup> c'est au tour de MariaDB de se plaindre : <code>General error: 2006 MySQL server has gone away</code> Parce que oui, le timeout il est par défaut à 300 secondes. Donc on ouvre la connexion et cinq heures plus tard il y a plus personne au bout du fil. Nouvel essai.
 
 Après 6 heures, les logs s'arrêtent de défiler (j'ai rajouté le log du chemin de chaque fichier déchiffré histoire de voir quand ça s'arrête parce que sinon c'est le noir complet) et comme il n'y a pas d'erreur je commence à me dire que ça y est, peut-être mes galères sont terminées. Je me connecte donc à l'interface web pour voir et… « <em>Le chiffrement était désactivé mais vos fichiers sont toujours chiffrés. Veuillez vous rendre sur vos Paramètres personnels pour déchiffrer vos fichiers.</em> » cette cochonnerie de message est toujours là. MAIS IL Y A PAS D'ERREUR ! APACHE SE TOURNE LES POUCES !
 
@@ -53,7 +57,7 @@ Après 6 heures, les logs s'arrêtent de défiler (j'ai rajouté le log du chemi
 
 Bref, je suis bon pour tout supprimer et tout renvoyer. Ce qui avec mon accès ADSL va prendre environ… 130 heures à vitesse maxi. (&#12494;&#3232;&#30410;&#3232;)&#12494;
 
-<iframe src="http://gfycat.com/ifr/WateryNeglectedCavy" frameborder="0" scrolling="no" width="426" height="240" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+
 
 N'activez pas le module de chiffrement d'ownButt. Sauf si vous voulez vous prendre la tête pour rien.
 
@@ -62,7 +66,7 @@ N'activez pas le module de chiffrement d'ownButt. Sauf si vous voulez vous prend
 <ol>
 
 <li id="fn:1">
-J'ai 7Go de données, je veux bien que ça prenne du temps, mais c'est rageant quand ça plante pour des conneries…&#160;<a href="#fnref:1" rev="footnote">&#8617;</a>
+J'ai 7Go de données, je veux bien que ça prenne du temps, mais c'est rageant quand ça plante pour des conneries…&#160;<a href="1" rev="footnote">&#8617;</a>
 </li>
 
 </ol>
