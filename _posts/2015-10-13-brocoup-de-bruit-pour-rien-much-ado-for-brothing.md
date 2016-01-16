@@ -128,7 +128,7 @@ Sur <a href="http://tech.slashdot.org/story/15/10/10/2212233/there-is-no-bro-in-
 
 Si on regarde la chronologie des fait, c'est n'est absolument pas le cas :
 
-Brotli a été annoncé le 22 septembre. Le premier commentaire que je cite plus haut a été posté le 05 octobre, la proposition de passer à .br plutôt que .bro a été émise, acceptée et commitée le 06 septembre. Le post sur Slashdot est arrivé le 10 septembre, soit 4 jours après « la bataille »
+Brotli a été annoncé le 22 septembre. Le premier commentaire que je cite plus haut a été posté le 05 octobre, la proposition de passer à .br plutôt que .bro a été émise, acceptée et commitée le 06 octobre. Le post sur Slashdot est arrivé le 10 octobre, soit 4 jours après « la bataille »
 
 C'est aussi à partir de ce moment que l'on trouve en trouve des traces sur Reddit et que les commentaires du ticket Bugzilla ainsi que du commit validant la modification commencent à se faire troller.
 
