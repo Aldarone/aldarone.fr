@@ -14,7 +14,7 @@ bitlyURL:
   - http://ltch.fr/Urg7aA
   - http://ltch.fr/Urg7aA
 ---
-<p><img src="http://aldarone.fr/assets/contre_le_droit_de_vote_femmes_m-205x295.jpg" alt="Contre le droit de vote des femmes" width="205" height="295" class="alignleft size-thumbnail wp-image-825" /></p>
+<p><img src="https://aldarone.fr/assets/contre_le_droit_de_vote_femmes_m-205x295.jpg" alt="Contre le droit de vote des femmes" width="205" height="295" class="alignleft size-thumbnail wp-image-825" /></p>
 
 <p>Hier soir au journal de 20h de <del>RTF TV2</del> France 2 les téléspectateurs ont eu l'occasion d'avoir un aperçu de ce qui attend notre société si la PMA est finalement autorisée. Un reportage de 4 minutes réalisé aux États-Unis à propos de ces femmes célibataires qui ont recourt aux banques de sperme.</p>
 
@@ -32,7 +32,7 @@ bitlyURL:
 
 <p>Pujadas reprend la parole d'un ton réprobateur: "<em>Voila pour ce modèle américain</em>" l'air de nous demander si nous voulons vraiment d'une telle déchéance.</p>
 
-<p><a class="dailymotion" href="http://www.dailymotion.com/video/xxacyc_jt20h-76737882-cut_news"><img src="http://aldarone.fr/wp-content/uploads/2013/02/david-pujadas-1.jpg" alt="JT20h FR2 04/02/2013" width="461" height="290" class="aligncenter size-full wp-image-826" /></a></p>
+<p><a class="dailymotion" href="http://www.dailymotion.com/video/xxacyc_jt20h-76737882-cut_news"><img src="https://aldarone.fr/wp-content/uploads/2013/02/david-pujadas-1.jpg" alt="JT20h FR2 04/02/2013" width="461" height="290" class="aligncenter size-full wp-image-826" /></a></p>
 
 <p>À l'heure où le gouvernement fait prochainement adopter la loi sur le mariage pour les couples homosexuels (dont le volet PMA a été retiré à la dernière minute) et nous promet que cette PMA fera partie intégrante d'une loi sur la famille ce reportage <em>absolument pas orienté</em> tombe comme un cheveux sur la soupe.</p>
 

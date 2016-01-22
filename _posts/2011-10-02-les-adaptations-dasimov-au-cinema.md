@@ -9,9 +9,9 @@ permalink: /les-adaptations-dasimov-au-cinema/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/IsaacAsimov.jpg
+    https://aldarone.fr/assets/IsaacAsimov.jpg
   - >
-    http://aldarone.fr/assets/IsaacAsimov.jpg
+    https://aldarone.fr/assets/IsaacAsimov.jpg
 head_img_alt:
   - Isaac Asimov
   - Isaac Asimov
@@ -36,7 +36,7 @@ On se souvient de « <em>L'homme Bicentenaire</em> » par Chris Colombus, avec R
 
 Mais aussi « <em>I, Robot</em> » qui m'a laissé un plutôt mauvais souvenir en proposant un gloubi-boulga de diverses nouvelle et en obtenant un thriller grand spectacle. Pas le meilleur rôle de Will Smith.
 
-<img src="http://aldarone.fr/wp-content/uploads/2011/10/cavernes_d_acier.jpg" alt="Couverture du livre Les cavernes d&#039;acier." title="cavernes_d_acier" width="240" height="354" class="alignleft size-full wp-image-159" />
+<img src="https://aldarone.fr/wp-content/uploads/2011/10/cavernes_d_acier.jpg" alt="Couverture du livre Les cavernes d&#039;acier." title="cavernes_d_acier" width="240" height="354" class="alignleft size-full wp-image-159" />
 
 Sur les rails il y a donc une adaptation des « <em>Cavernes d'Acier</em> » par la Fox. On part avec un handicap puisqu'ils ont déjà produit « <em>I, Robot</em> » et qu'ils ont collés Henry Hobson (un mec qui crée des générique) à la réalisation avec un scénariste inconnu (John Scott III –Même son nom ressemble à une trilogie de blockbusters–)
 
@@ -46,7 +46,7 @@ Orange nous donne ce synopsis:
 
 Il devrait donc arriver « <em>sur Terre</em> » ou les humains seront semble-t-il captifs des Spaciens et de leurs robots... Cette adaptation s'annonce excessivement fidèle.
 
-<img src="http://aldarone.fr/assets/Fondation-Asimov-260x437.jpg" alt="" title="Fondation-Asimov" width="260" height="437" class="alignright size-medium wp-image-161" />
+<img src="https://aldarone.fr/assets/Fondation-Asimov-260x437.jpg" alt="" title="Fondation-Asimov" width="260" height="437" class="alignright size-medium wp-image-161" />
 
 De l'autre côté on a une adaptation d'un monument: « <em>Fondation</em> » qui se fait par Columbia. Aux commandes se trouve Roland Emmerich qui a réalisé (entre autres) « <em>Independence Day</em> », « <em>Stargate</em> », « <em>Godzilla</em> », etc.. (Bref, que des films intelligents comme une nouvelle d'Asimov.)
 

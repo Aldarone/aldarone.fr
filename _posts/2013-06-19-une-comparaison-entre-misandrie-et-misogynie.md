@@ -71,7 +71,7 @@ En français :
 
 Bien évidemment, comme à chaque fois, certains vont réagir en rappelant qu'eux ne sont pas comme ça ; Que c'est honteux de tenir des propos pareils et de mettre tous les hommes dans le même sac ; Que ça c'est de la misandrie et… que lire ce post les a profondément blessés.
 
-[caption id="attachment_1297" align="aligncenter" width="367"]<img src="http://aldarone.fr/wp-content/uploads/2013/06/Misandry-report.png" alt="Misandry-report" width="367" height="223" class="size-full wp-image-1297" /> « Allo les urgences ? Je voudrais signaler un cas de Misandrie ! Oui, cette fille a surgit de nulle part et a complètement ignoré mes impressions masculines ! »[/caption]
+[caption id="attachment_1297" align="aligncenter" width="367"]<img src="https://aldarone.fr/wp-content/uploads/2013/06/Misandry-report.png" alt="Misandry-report" width="367" height="223" class="size-full wp-image-1297" /> « Allo les urgences ? Je voudrais signaler un cas de Misandrie ! Oui, cette fille a surgit de nulle part et a complètement ignoré mes impressions masculines ! »[/caption]
 
 Peut-être même iront-ils jusqu'à affirmer que la misandrie a les mêmes résultats que la misogynie, comme toutes les haines.
 
@@ -93,7 +93,7 @@ Je ne suis pas certain d'avoir la réponse à cette question. Les seules fois o�
 
 Une accusation résultant de propos vexants donc.
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/06/Male-tears.gif" alt="Male-tears" width="500" height="275" class="aligncenter size-full wp-image-1300" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/06/Male-tears.gif" alt="Male-tears" width="500" height="275" class="aligncenter size-full wp-image-1300" />
 
 Connait-on des cas de misandrie qui se traduisent par l'agression physique systématique d'hommes ? Y-a-t-il des femmes misandres qui considèrent que les hommes en général sont des bons à rien et qui du coup les violent, blessent, tuent ?
 
@@ -158,4 +158,4 @@ Chaque fois qu'une accusation de misandrie est lancée en opposition à une fém
 
 Dans ce contexte, l'accusation de misandrie mérite autant d'attention que ceci :
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/06/Fishandry.gif" alt="Fishandry" width="306" height="156" class="aligncenter size-full wp-image-1304" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/06/Fishandry.gif" alt="Fishandry" width="306" height="156" class="aligncenter size-full wp-image-1304" />

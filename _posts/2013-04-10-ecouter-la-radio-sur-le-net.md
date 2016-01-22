@@ -18,7 +18,7 @@ published: true
 
 <h2>Heureusement il y a <a href="http://radiotray.sourceforge.net/">Radiotray</a></h2>
 
-<p><img src="http://aldarone.fr/assets/radiotray-200x200.png" alt="radiotray" width="200" height="200" class="alignright size-thumbnail wp-image-1057" /></p>
+<p><img src="https://aldarone.fr/assets/radiotray-200x200.png" alt="radiotray" width="200" height="200" class="alignright size-thumbnail wp-image-1057" /></p>
 
 <p>Radiotray c'est un très bon exemple de logiciel <a href="https://fr.wikipedia.org/wiki/Keep_it_Simple,_Stupid">KISS</a> puisqu'il ne fait qu'une chose et qu'il a une interface tout à fait minimaliste:</p>
 
@@ -29,7 +29,7 @@ published: true
 <li>Et la molette permet de changer le volume par pas de 5%.</li>
 </ul>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/Radiotray-System-Tray.png"><img src="http://aldarone.fr/wp-content/uploads/2013/04/Radiotray-System-Tray.png" alt="Radiotray-System-Tray" width="592" height="414" class="aligncenter size-full wp-image-1065" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/Radiotray-System-Tray.png"><img src="https://aldarone.fr/wp-content/uploads/2013/04/Radiotray-System-Tray.png" alt="Radiotray-System-Tray" width="592" height="414" class="aligncenter size-full wp-image-1065" /></a></p>
 
 <p>Comme il est léger, on peut le lancer au démarrage de session sans risquer de ralentissement.</p>
 

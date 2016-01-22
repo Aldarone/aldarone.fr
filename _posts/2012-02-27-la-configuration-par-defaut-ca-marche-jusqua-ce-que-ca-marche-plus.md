@@ -9,8 +9,8 @@ permalink: >
   /la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus/
 published: true
 head_img:
-  - http://aldarone.fr/assets/MemoryLeak.png
-  - http://aldarone.fr/assets/MemoryLeak.png
+  - https://aldarone.fr/assets/MemoryLeak.png
+  - https://aldarone.fr/assets/MemoryLeak.png
 head_img_alt:
   - Ouh la belle fuite de mémoire.
   - Ouh la belle fuite de mémoire.
@@ -30,7 +30,7 @@ dsq_needs_sync:
 
 <p>C'est de cette dernière chose dont je vais vous parler aujourd'hui: des plantages récurrents de mon serveur depuis Janvier.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2012/02/screenshot.54.png" class="picture"><img src="http://aldarone.fr/assets/screenshot.54-540x133.png" alt="Host Unreachable" title="Host Unreachable" width="540" height="133" class="aligncenter size-large wp-image-577" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2012/02/screenshot.54.png" class="picture"><img src="https://aldarone.fr/assets/screenshot.54-540x133.png" alt="Host Unreachable" title="Host Unreachable" width="540" height="133" class="aligncenter size-large wp-image-577" /></a></p>
 
 <p>Un serveur qui plante sans explication c'est pas très cool. Sans charge particulière, un coup il marche, la seconde d'après il répond plus aux pings. Et même pas un message d'erreur dans les logs. Au début du moins, puis un jour j'ai remarqué la ligne suivante dans <code>kern.log</code> : <code>[Hardware Error]: Machine check events logged</code></p>
 
@@ -84,6 +84,6 @@ dsq_needs_sync:
 
 <p>Mais c'était sans compter la loi de Murphy qui s'est acoquinée avec la loi des séries (celle qui veut qu'une emmerde n'arrive jamais seule)</p>
 
-<p><img src="http://aldarone.fr/assets/epic-trollface-540x496.jpg" alt="Epic Trollface" title="Epic Trollface" width="540" height="496" class="aligncenter size-large wp-image-583" /></p>
+<p><img src="https://aldarone.fr/assets/epic-trollface-540x496.jpg" alt="Epic Trollface" title="Epic Trollface" width="540" height="496" class="aligncenter size-large wp-image-583" /></p>
 
 <p>Oui parce qu'une semaine plus tard c'est l'alimentation du serveur qui grillait. Puis quelques heures plus tard, le serveur plantait à nouveau comme en janvier. OVH a donc gentiment changé la RAM (pour la 3<sup>ème</sup> fois), la carte mère et le CPU. Depuis, je touche du bois.</p>

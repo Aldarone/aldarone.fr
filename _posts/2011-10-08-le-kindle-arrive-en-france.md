@@ -9,9 +9,9 @@ permalink: /le-kindle-arrive-en-france/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Amazon-Kindle.jpg
+    https://aldarone.fr/assets/Amazon-Kindle.jpg
   - >
-    http://aldarone.fr/assets/Amazon-Kindle.jpg
+    https://aldarone.fr/assets/Amazon-Kindle.jpg
 head_img_alt:
   - Amazon Kindle
   - Amazon Kindle

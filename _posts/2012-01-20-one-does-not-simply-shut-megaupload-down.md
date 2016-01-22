@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/J-edgar-megaupload.jpg
+    https://aldarone.fr/assets/J-edgar-megaupload.jpg
   - >
-    http://aldarone.fr/assets/J-edgar-megaupload.jpg
+    https://aldarone.fr/assets/J-edgar-megaupload.jpg
 head_img_alt:
   - >
     J. Edgar demandant la coupure de
@@ -33,7 +33,7 @@ Hier soir, <a href="http://www.justice.gov/opa/pr/2012/January/12-crm-074.html">
 
 <h3>De quoi est accusé Megaupload ?</h3>
 
-<img src="http://aldarone.fr/assets/243531-godfather15_flip_large-260x356.jpg" alt="Le Parrain" title="Le Parrain" width="260" height="356" class="aligncenter size-medium wp-image-494" />
+<img src="https://aldarone.fr/assets/243531-godfather15_flip_large-260x356.jpg" alt="Le Parrain" title="Le Parrain" width="260" height="356" class="aligncenter size-medium wp-image-494" />
 
 Le groupe est évidemment accusé de faire du piratage son fond de commerce en promouvant le partage simplifié d'œuvres protégées par le droit d'auteur. Les dirigeants quant à eux sont accusés de « complot pour avoir commis un racket », de « complot pour avoir commis des infractions au copyright », de « complot pour avoir commis du blanchiment d'argent » et de « violation de copyright »
 
@@ -51,7 +51,7 @@ On en revient à la comparaison avec un outil quelconque: Qui aurait l'idée d'i
 
 <h3>Pourquoi ça m'inquiète ?</h3>
 
-<img src="http://aldarone.fr/assets/censor-this-cunt-260x194.jpg" alt="Censure" title="Censure" width="260" height="194" class="aligncenter size-medium wp-image-495" />
+<img src="https://aldarone.fr/assets/censor-this-cunt-260x194.jpg" alt="Censure" title="Censure" width="260" height="194" class="aligncenter size-medium wp-image-495" />
 
 Évidemment, peu de temps après l'annonce de la fermeture de Megaupload et de ses satellites, tout twitter en parlait et des gens ont commencés à se plaindre du fait que « C'est bon, Megaupload c'est pas toute votre vie quand même. »
 
@@ -63,7 +63,7 @@ Vous n'avez pas l'impression que quelque chose cloche ?
 
 <h3>Les représailles ont déjà commencées</h3>
 
-<img src="http://aldarone.fr/assets/anonymouslogo1-260x257.jpg" alt="Anonymous" title="Anonymous" width="260" height="257" class="aligncenter size-medium wp-image-496" />
+<img src="https://aldarone.fr/assets/anonymouslogo1-260x257.jpg" alt="Anonymous" title="Anonymous" width="260" height="257" class="aligncenter size-medium wp-image-496" />
 
 <a href="http://www.pcinpact.com/news/68433-anonymous-mpaa-riaa-universal-music-hadopi-megaupload.htm">Anonymous n'a pas perdu de temps</a> et 15 min après la fermeture de Mega les attaques DDOS inondaient les sites du Département de la Justice Américaine, de la RIAA, de la MPAA et de l'Hadopi. Les accès ont été rétablis depuis mais les sites sont toujours d'une lenteur effroyable.
 

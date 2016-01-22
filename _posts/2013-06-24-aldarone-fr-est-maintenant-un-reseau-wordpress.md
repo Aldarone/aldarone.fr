@@ -17,7 +17,7 @@ C'est une fonction de WordPress apparue avec la version 3 (avant il existait Wor
 
 J'ai à l'heure actuelle quatre blogs (et sites) utilisant WordPress sur mon serveur, chacun ayant des extensions, thèmes, espaces web et configurations Nginx différente. Et c'est juste hyper relou à administrer puisqu'à chaque mise à jour je dois passer faire 4 fois les mêmes modifications.
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/06/AllWorkAndNoPlay.gif" alt="All Work And No Play" width="500" height="281" class="aligncenter size-full wp-image-1338" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/06/AllWorkAndNoPlay.gif" alt="All Work And No Play" width="500" height="281" class="aligncenter size-full wp-image-1338" />
 
 Centraliser tout ça va donc accélérer les mises à jour et diminuer le risque de faire une erreur en changeant une config'
 

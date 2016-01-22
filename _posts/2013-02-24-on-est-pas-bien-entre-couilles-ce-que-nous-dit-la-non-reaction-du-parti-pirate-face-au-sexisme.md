@@ -98,5 +98,5 @@ bitlyURL:
 
 <ul>
 <li>Un adhérent de Midi-Pyrénées parle de son ressenti vis à vis de la réaction de Romain sur son blog : <a href="http://www.famille-isla.net/raphael/blog/index.php?post/2013/02/24/Agression-et-cons%C3%A9quences">Agression et conséquences</a></li>
-<li>La suite de l'histoire se trouve ici : <a href="http://aldarone.fr/la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite/">La falaise du Patriarcat. (« On est pas bien entre couilles ? » suite)</a></li>
+<li>La suite de l'histoire se trouve ici : <a href="https://aldarone.fr/la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite/">La falaise du Patriarcat. (« On est pas bien entre couilles ? » suite)</a></li>
 </ul>

@@ -16,7 +16,7 @@ bitlyURL:
 ---
 <h1>De Windows 7…</h1>
 
-<p><img src="http://aldarone.fr/assets/windows-7-boot-screen-205x153.jpg" alt="windows 7 boot screen" width="205" height="153" class="alignleft size-thumbnail wp-image-785" /></p>
+<p><img src="https://aldarone.fr/assets/windows-7-boot-screen-205x153.jpg" alt="windows 7 boot screen" width="205" height="153" class="alignleft size-thumbnail wp-image-785" /></p>
 
 <p>Il y a un peu moins d'un an, <a href="http://echarlotte.fr/">ma chère et tendre</a> qui utilisait Win7 sur son PC a attrapé un méchant ransomware qui passait par là (par une faille Java plus précisément.)</p>
 
@@ -32,7 +32,7 @@ bitlyURL:
 
 <h1>… à peut-être Windows 8</h1>
 
-<p><img src="http://aldarone.fr/assets/windows-8-clean-install-03-205x153.png" alt="windows 8 boot screen" width="205" height="153" class="alignright size-thumbnail wp-image-791" /></p>
+<p><img src="https://aldarone.fr/assets/windows-8-clean-install-03-205x153.png" alt="windows 8 boot screen" width="205" height="153" class="alignright size-thumbnail wp-image-791" /></p>
 
 <p>De mon côté, mon passage à Windows 8 était concluant et je songeais à y rester pour un moment si je trouvais un moyen de prolonger le compte à rebours de la Consumer Preview (limitée à 2 x 90 jours d'usage.)</p>
 
@@ -46,7 +46,7 @@ bitlyURL:
 
 <h1>Lubuntu</h1>
 
-<p><img src="http://aldarone.fr/assets/TVVBS-205x153.png" alt="Lubuntu 12.10 Boot" width="205" height="153" class="alignleft size-thumbnail wp-image-793" /></p>
+<p><img src="https://aldarone.fr/assets/TVVBS-205x153.png" alt="Lubuntu 12.10 Boot" width="205" height="153" class="alignleft size-thumbnail wp-image-793" /></p>
 
 <p>Lubuntu que j'utilise depuis quelques temps sur mon netbook faiblard et qui fait bien son boulot (mieux que son affreuse grande sœur Ubuntu…)</p>
 
@@ -90,7 +90,7 @@ bitlyURL:
 
 <h1>Xubuntu</h1>
 
-<p><img src="http://aldarone.fr/assets/xubuntu12.10-login-screen-205x153.png" alt="xubuntu 12.10 login screen" width="205" height="153" class="alignright size-thumbnail wp-image-796" /></p>
+<p><img src="https://aldarone.fr/assets/xubuntu12.10-login-screen-205x153.png" alt="xubuntu 12.10 login screen" width="205" height="153" class="alignright size-thumbnail wp-image-796" /></p>
 
 <p>On repart donc de zéro sans plein de paquets alternatifs installés dans tous les sens.</p>
 

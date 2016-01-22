@@ -9,9 +9,9 @@ permalink: /world-of-warcraft-mists-of-pandaria/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
+    https://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
   - >
-    http://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
+    https://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
 head_img_alt:
   - World of Warcraft Mists of Pandaria
   - World of Warcraft Mists of Pandaria
@@ -28,7 +28,7 @@ Si vous vivez en dehors de l'Internet (et que vous regardez France2), vous avez 
 
 Il se trouve que c'est Blizzard Entertainment qui développe ce jeu dont je suis un grand fan et à la BlizzCon 2011 ils ont annoncé la 4<sup>ème</sup> extension: <a class="youtube" title="World of Warcraft : Mists of Pandaria" href="http://www.youtube.com/watch?v=OsqQYG-SYI4">Mists of Pandaria</a>.
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-09-full.jpg" title="Mists of Pandaria Artwork 01"><img src="http://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-09-preview.jpg" alt="Mists of Pandaria Artwork 01 preview" title="Mists of Pandaria Artwork 01" width="540" height="270" class="aligncenter size-full wp-image-297" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-09-full.jpg" title="Mists of Pandaria Artwork 01"><img src="https://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-09-preview.jpg" alt="Mists of Pandaria Artwork 01 preview" title="Mists of Pandaria Artwork 01" width="540" height="270" class="aligncenter size-full wp-image-297" /></a>
 
 <h2>La vérité à propos de l'origine des Pandarens :</h2>
 
@@ -38,7 +38,7 @@ Les amateurs sont au courant de se qui se trame à la seule évocation du nom: A
 
 Ne le nions pas, WoW est en perte de vitesse (après 6 ans de loyaux services et après avoir explosé les records d'abonnés pour un <abbr title="Massively Multiplayer Online Game">MMOG</abbr> je trouve ça plutôt honorable) et Blizzard cherche évidemment à jouer sur le côté kawaii des pandas pour ramener du monde (d'autant qu'ils incluent un mini-game à la pokemon par la même occasion, mais je reviendrais là dessus plus tard). Néanmoins, ce n'est pas du simple opportunisme et le choix des pandarens est bien plus logique que celui des draeneïs de la 1<sup>ère</sup> extension.
 
-<img src="http://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-00-full.jpg" alt="Mists of Pandaria Artwork 02" title="Mists of Pandaria Artwork 02" width="540" height="226" class="aligncenter size-full wp-image-302" />
+<img src="https://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-00-full.jpg" alt="Mists of Pandaria Artwork 02" title="Mists of Pandaria Artwork 02" width="540" height="226" class="aligncenter size-full wp-image-302" />
 
 Les pandarens sont nés sur une carte de vœux dessinées par <a href="http://fr.wikipedia.org/wiki/Samwise_Didier">Sam « Samwise » Didier</a> (le Directeur Artistique de Blizzard et créateur des pochettes des albums de Hammerfall, un gars bien donc) à l'occasion du premier noël de sa fille, tout simplement parce que ses amis le surnomment « panda. » Seulement, quand il en a accroché un exemplaire sur le mur de son bureau, plein de monde s'est emballé en demandant si il voulait inclure des pandas dans l'univers Warcraft.
 
@@ -50,7 +50,7 @@ Depuis ce jour (en été 2003) les fans de warcraft n'ont de cesse de demander �
 
 Si on réfléchit 5 minutes, pourquoi les pandarens auraient-ils moins de légitimité que des vaches dotés d'une culture amérindienne ? Que des trolls rasta vivant dans des ruines aztèques ? Ou que des extraterrestres pour qui il a fallu changer entièrement l'histoire d'un personnage clé afin de les intégrer correctement ?
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-20-full.jpg" title="Mists of Pandaria Artwork 01"><img src="http://aldarone.fr/assets/wowx4-artwork-20-full-540x386.jpg" alt="Mists of Pandaria Artwork 02" title="Mists of Pandaria Artwork 02" width="540" height="386" class="aligncenter size-large wp-image-306" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2011/10/wowx4-artwork-20-full.jpg" title="Mists of Pandaria Artwork 01"><img src="https://aldarone.fr/assets/wowx4-artwork-20-full-540x386.jpg" alt="Mists of Pandaria Artwork 02" title="Mists of Pandaria Artwork 02" width="540" height="386" class="aligncenter size-large wp-image-306" /></a>
 
 <h2>Les autres nouveautés de l'extension :</h2>
 
@@ -60,7 +60,7 @@ En plus d'une nouvelle race et des nouvelles zones l'accompagnant, il y a la cla
 
 Blizzard est bien conscient que parfois, quand on attend du monde avant un raid ou qu'on est en file pour un donjon et qu'il n'y a pas de tank, ben on se fait sacrément chier. Alors ils se sont dit: « Et si on intégrait une activité passionnante mais inutile de plus ? » Ainsi arrivèrent les combats d'animaux.
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2011/10/wow_mop_combat_mascottes_image_01_hd.jpg" title="World of Warcraft Mists of Pandaria Combat de Mascottes"><img src="http://aldarone.fr/assets/wow_mop_combat_mascottes_image_01_hd-540x405.jpg" alt="World of Warcraft Mists of Pandaria Combat de Mascottes" title="World of Warcraft Mists of Pandaria Combat de Mascottes" width="540" height="405" class="aligncenter size-large wp-image-307" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2011/10/wow_mop_combat_mascottes_image_01_hd.jpg" title="World of Warcraft Mists of Pandaria Combat de Mascottes"><img src="https://aldarone.fr/assets/wow_mop_combat_mascottes_image_01_hd-540x405.jpg" alt="World of Warcraft Mists of Pandaria Combat de Mascottes" title="World of Warcraft Mists of Pandaria Combat de Mascottes" width="540" height="405" class="aligncenter size-large wp-image-307" /></a>
 
 La possibilité de combattre avec les mascottes, ces petites bêtes auparavant complètement inutiles qu'on collectionnait et qui nous suivaient partout. Mais aussi la possibilité de les capturer à l'état sauvage au lieu de farmer des heures pour en trouver certaines.
 

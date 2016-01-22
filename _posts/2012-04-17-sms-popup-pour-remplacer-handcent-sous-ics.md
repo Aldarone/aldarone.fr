@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/IceCreamSandwich.jpg
+    https://aldarone.fr/assets/IceCreamSandwich.jpg
   - >
-    http://aldarone.fr/assets/IceCreamSandwich.jpg
+    https://aldarone.fr/assets/IceCreamSandwich.jpg
 head_img_alt:
   - Ice Cream Sandwich
   - Ice Cream Sandwich
@@ -37,7 +37,7 @@ Je me suis donc retrouvé à pester contre Handcent SMS que j'utilisais depuis l
 
 C'était sans compter sur l'Android Market (Google Play maintenant…) qui, en cherchant bien, a toujours l'application qu'il nous faut. En l'occurence: SMS Popup.
 
-<a href="http://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg"><img src="http://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg" alt="SMS Popup" title="SMS Popup" width="288" height="512" class="aligncenter size-full wp-image-594" /></a>
+<a href="https://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg"><img src="https://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg" alt="SMS Popup" title="SMS Popup" width="288" height="512" class="aligncenter size-full wp-image-594" /></a>
 
 Réponse rapide, navigation entre plusieurs SMS non lus, rappel de notification, sonneries SMS différentes selon les contacts, etc… Tout y est. 
 

@@ -9,9 +9,9 @@ permalink: /bethesda-vs-mojang/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
+    https://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
   - >
-    http://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
+    https://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
 head_img_alt:
   - Mojang vs Bethesda
   - Mojang vs Bethesda

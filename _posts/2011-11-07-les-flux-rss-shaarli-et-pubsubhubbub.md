@@ -9,9 +9,9 @@ permalink: /les-flux-rss-shaarli-et-pubsubhubbub/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/PubSubHubbub.png
+    https://aldarone.fr/assets/PubSubHubbub.png
   - >
-    http://aldarone.fr/assets/PubSubHubbub.png
+    https://aldarone.fr/assets/PubSubHubbub.png
 head_img_alt:
   - Logo de PubSubHubbub
   - Logo de PubSubHubbub

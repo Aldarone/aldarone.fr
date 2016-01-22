@@ -9,9 +9,9 @@ permalink: /quand-sony-me-prend-pour-un/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/WarrenMears.jpg
+    https://aldarone.fr/assets/WarrenMears.jpg
   - >
-    http://aldarone.fr/assets/WarrenMears.jpg
+    https://aldarone.fr/assets/WarrenMears.jpg
 head_img_alt:
   - >
     Warren Mears, le geek misogyne par
@@ -51,7 +51,7 @@ Du 31 Octobre au 04 Novembre a lieu la Paris Games Week. Le salon qui se veut ê
 
 Pour l'occasion, les constructeurs de console et les éditeurs mettent les petits plats dans les grands pour assurer leur promo comme il se doit, et il faut reconnaître que cette année, Sony s'est particulièrement surpassé pour la PS Vita.
 
-<a href="http://aldarone.fr/wp-content/uploads/2012/11/PsVita-PGW.jpg"><img class="aligncenter size-medium wp-image-719" title="PsVita-PGW" alt="Sony et les femmes" src="http://aldarone.fr/assets/PsVita-PGW-260x146.jpg" width="260" height="146" /></a>
+<a href="https://aldarone.fr/wp-content/uploads/2012/11/PsVita-PGW.jpg"><img class="aligncenter size-medium wp-image-719" title="PsVita-PGW" alt="Sony et les femmes" src="https://aldarone.fr/assets/PsVita-PGW-260x146.jpg" width="260" height="146" /></a>
 
 Oui vous lisez bien, « <strong>Deux faces tactiles, deux fois plus de sensation</strong> » avec une photo de torse féminin ayant quatre seins. Oui, juste un torse. Même pas une femme entière, elle aurait une bouche et risquerait de l'ouvrir pour faire chier.
 
@@ -81,11 +81,11 @@ Sony affirme donc texto que l'humour sexiste c'est ok quand c'est fait entre cou
 
 Comment ça se serait passé s'ils avaient fait une blague antisémite ?
 
-<a href="http://aldarone.fr/wp-content/uploads/2012/11/PSVita-Antisemite.jpg"><img class="aligncenter size-medium wp-image-732" title="PSVita-Antisemite" alt="PSVita-Antisemite" src="http://aldarone.fr/assets/PSVita-Antisemite-260x195.jpg" width="260" height="195" /></a>
+<a href="https://aldarone.fr/wp-content/uploads/2012/11/PSVita-Antisemite.jpg"><img class="aligncenter size-medium wp-image-732" title="PSVita-Antisemite" alt="PSVita-Antisemite" src="https://aldarone.fr/assets/PSVita-Antisemite-260x195.jpg" width="260" height="195" /></a>
 
 Ou esclavagiste ?
 
-<a href="http://aldarone.fr/wp-content/uploads/2012/11/PSVita-Escalvagiste.jpg"><img class="aligncenter size-medium wp-image-733" title="PSVita-Escalvagiste" alt="" src="http://aldarone.fr/assets/PSVita-Escalvagiste-260x195.jpg" width="260" height="195" /></a>
+<a href="https://aldarone.fr/wp-content/uploads/2012/11/PSVita-Escalvagiste.jpg"><img class="aligncenter size-medium wp-image-733" title="PSVita-Escalvagiste" alt="" src="https://aldarone.fr/assets/PSVita-Escalvagiste-260x195.jpg" width="260" height="195" /></a>
 
 « Boaf après tout c'est pas grave ! Pourquoi ils se vexeraient ? C'est pas eux la cible ! Nous on trouve ça plutôt drôle. »
 

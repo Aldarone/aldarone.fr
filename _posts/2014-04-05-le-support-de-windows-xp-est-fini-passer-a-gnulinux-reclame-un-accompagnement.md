@@ -16,7 +16,7 @@ Le support de Windows XP arrive à son terme dans 3 jours. Après 13 ans, un sup
 
 Depuis quelques jours, les personnes qui ont encore ce système d'exploitation voient s'afficher un message leur annonçant la nouvelle et les redirigeant vers une page de la boutique de Microsoft.
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/04/fin-support-windows-xp-1.png" alt="fin-support-windows-xp-1" width="345" height="152" class="aligncenter size-full wp-image-1500" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/04/fin-support-windows-xp-1.png" alt="fin-support-windows-xp-1" width="345" height="152" class="aligncenter size-full wp-image-1500" />
 
 Ces personnes se tournent donc vers leur proche « qui s'y connait® » pour lui demander conseil. Pour peu que ce proche soit un libriste, il y a de grandes chance pour que la réponse ressemble un peu à ceci :
 
@@ -54,7 +54,7 @@ login: _
 
 Et que fatalement, on aura un coup de fil affolé : « <em>Mon PC il marche plus, j'ai rien fait, Linux c'est de la merde</em> »
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/04/gollum-scream.gif" alt="gollum-scream" width="500" height="208" class="aligncenter size-full wp-image-1506" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/04/gollum-scream.gif" alt="gollum-scream" width="500" height="208" class="aligncenter size-full wp-image-1506" />
 
 On voudrait que les gens soient aussi passionnés d'informatique que nous et acceptent de passer 2 heures à chercher dans des wikis comment installer cette fichue imprimante multifonction en wifi. Mais ils le sont pas. Et ils le seront jamais.
 
@@ -72,7 +72,7 @@ Pour ça, il faut prendre nos responsabilités et assurer un vrai accompagnement
   Oui, ça va être dur. Oui, tu vas perdre tes marques et t'auras l'impression de repartir de zéro. Mais ça arrivera aussi avec ce nouveau Windows. Et si tu prends GNU/Linux, je serais là pour te filer un coup de main quand tu en auras besoin.
 </blockquote>
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/04/independance.gif" alt="independance" width="500" height="203" class="aligncenter size-full wp-image-1508" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/04/independance.gif" alt="independance" width="500" height="203" class="aligncenter size-full wp-image-1508" />
 
 <h2>Étape par étape</h2>
 
@@ -82,7 +82,7 @@ Ensuite, il faut lever cette impression de voyage sans retour. C'est à dire ne 
 
 Installer une dérivée d'Ubuntu sur le PC, déjà ça prend une petite demi-heure, une heure avec les mises à jour si on est ni en Avril ni en Octobre, on peut rajouter le redimensionnement de partition (et donc la sauvegarde des données au cas où) etc. Ça fait peur à la personne qui assiste à ça et qui, à la fin, comprend pas pourquoi son PC a démarré tout seul sur Ubuntu alors qu'il fallait booter Windows<sup id="fnref:4"><a href="#fn:4" rel="footnote">3</a></sup>.
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/04/barney-why.gif" alt="barney-why" width="360" height="306" class="aligncenter size-full wp-image-1513" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/04/barney-why.gif" alt="barney-why" width="360" height="306" class="aligncenter size-full wp-image-1513" />
 
 Heureusement, on peut facilement installer un GNU/Linux sur une clé USB, non pas comme LiveUSB mais comme système complet et persistant :
 
@@ -90,7 +90,7 @@ Heureusement, on peut facilement installer un GNU/Linux sur une clé USB, non pa
   Tiens, quand t'as besoin de faire un truc précis tu démarres ton PC normalement pour pas être perdu. Et quand tu veux juste glandouiller, surfer un peu, tu mets cette clé avant d'allumer ton PC comme ça tu t'habitues doucement. Et quand t'en aura marre de Windows, tu viens me voir et on fera ce qu'il faut.
 </blockquote>
 
-Démarrer GNU/Linux devient aussi simple et indolore que d'<a href="http://aldarone.fr/wp-content/uploads/2014/04/4d-usb.jpg">insérer une clé USB dans un port</a> et l'utilisateur/rice est rassuré⋅e parce que son disque dur est intact.
+Démarrer GNU/Linux devient aussi simple et indolore que d'<a href="https://aldarone.fr/wp-content/uploads/2014/04/4d-usb.jpg">insérer une clé USB dans un port</a> et l'utilisateur/rice est rassuré⋅e parce que son disque dur est intact.
 
 Pour finir, il faut rester disponible et à l'écoute. On vous fait déjà le plaisir de mettre cette foutue clé de temps en temps, s'il faut attendre 3 jours pour avoir du support ou se faire envoyer chier, elle va vite finir aux oubliettes.
 

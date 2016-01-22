@@ -10,9 +10,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/DataLiberationFront.jpg
+    https://aldarone.fr/assets/DataLiberationFront.jpg
   - >
-    http://aldarone.fr/assets/DataLiberationFront.jpg
+    https://aldarone.fr/assets/DataLiberationFront.jpg
 head_img_alt:
   - Data Liberation Front
   - Data Liberation Front
@@ -29,17 +29,17 @@ J'ai pu trouver la liste de ces partages en bidouillant des URL (genre ils sont 
 
 Heureusement, avec la sortie de Google+, Google a rendu disponible un outil nommé Google Takeout (développé par un groupuscule interne: le Data Liberation Front, les joyeux drilles sur la photo ci-dessus) qui promet de nous permettre de télécharger toutes les données que Google a sur nous. Je m'attendais donc à voir une belle option: « Google Reader » dans la liste. Mais non.
 
-<img src="http://aldarone.fr/wp-content/uploads/2011/11/GoogleTakeout01.png" alt="Les options de Google Takeout" title="Google Takeout" width="540" height="300" class="aligncenter size-full wp-image-345" />
+<img src="https://aldarone.fr/wp-content/uploads/2011/11/GoogleTakeout01.png" alt="Les options de Google Takeout" title="Google Takeout" width="540" height="300" class="aligncenter size-full wp-image-345" />
 
 C'est là que je me suis souvenu que les partages Google Reader se retrouvaient automatiquement sur Buzz. Logiquement en téléchargeant mes données Buzz je devrais récupérer ce que j'ai partagé (je ne m'en suis jamais servi autrement que via Reader…)
 
 Et effectivement, Google me propose un fichier zip contenant 287 fichiers html. Oui, un fichier par partage:
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2011/11/screenshot.10.png"><img src="http://aldarone.fr/assets/screenshot.10-540x421.png" alt="screenshot.10" title="screenshot.10" width="540" height="421" class="aligncenter size-large wp-image-346" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2011/11/screenshot.10.png"><img src="https://aldarone.fr/assets/screenshot.10-540x421.png" alt="screenshot.10" title="screenshot.10" width="540" height="421" class="aligncenter size-large wp-image-346" /></a>
 
 Et ce n'est même pas une capture de la page partagée : il n'y a que la photo de profil, et le lien:
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2011/11/screenshot.11.png"><img src="http://aldarone.fr/assets/screenshot.11-540x53.png" alt="screenshot.11" title="screenshot.11" width="540" height="53" class="aligncenter size-large wp-image-347" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2011/11/screenshot.11.png"><img src="https://aldarone.fr/assets/screenshot.11-540x53.png" alt="screenshot.11" title="screenshot.11" width="540" height="53" class="aligncenter size-large wp-image-347" /></a>
 
 Ce n'est donc pas décemment exploitable. J'ai donc passé mon après-midi sur une solution permettant de regrouper tous ces liens et d'en faire un fichier bookmarks.html au format Netscape qui puisse être importé dans tous les navigateurs et services de bookmarking. Ça tombe bien, j'apprends le PHP, c'est un bon exercice.
 
@@ -136,7 +136,7 @@ function real_url($link){
 }
 </pre>
 
-Le résultat final est disponible ici : <a href="http://aldarone.fr/assets/buzz2bookmarks.txt">Télécharger le script pour passer de Buzz à bookmarks.html</a>.
+Le résultat final est disponible ici : <a href="https://aldarone.fr/assets/buzz2bookmarks.txt">Télécharger le script pour passer de Buzz à bookmarks.html</a>.
 
 J'y ai ajouté une variable pour choisir le dossier qui contient les fichiers html de Buzz, ainsi que la boucle qui les parcourt. Il ne prend pas de paramètres et vous aurez besoin du fichier <a href="http://sourceforge.net/projects/simplehtmldom/files/latest/download">simple_html_dom.php</a>. Au niveau du temps d'exécution... La vérification de la validité des liens prend un peu de temps: Pour 287 fichiers il a fallu 5 minutes et le nombre de lien valides est de 209 (mais là ça dépendra de vos partages.)
 

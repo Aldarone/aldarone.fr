@@ -12,7 +12,7 @@ bitlyURL:
   - http://ltch.fr/XfkfJY
   - http://ltch.fr/XfkfJY
 ---
-<p>Pour avoir le début de l'histoire, vous pouvez vous rendre ici: <a href="http://aldarone.fr/on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/">« On est pas bien entre couilles ? » – Ce que nous dit la non-réaction du Parti Pirate face au sexisme</a>.</p>
+<p>Pour avoir le début de l'histoire, vous pouvez vous rendre ici: <a href="https://aldarone.fr/on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/">« On est pas bien entre couilles ? » – Ce que nous dit la non-réaction du Parti Pirate face au sexisme</a>.</p>
 
 <p>J'avoue avoir eu de l'espoir cette semaine:</p>
 
@@ -28,13 +28,13 @@ bitlyURL:
 
 <p>Un parti entier, sans faux semblants, où tout était à faire ce qui du coup lui permettait d'avoir des bases saines (ou au moins la possibilité de rectifier ses erreurs avant qu'elles ne soient trop fermement ancrées.)</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/Hurray.jpg"><img src="http://aldarone.fr/assets/Hurray-205x139.jpg" alt="Hurray" width="205" height="139" class="alignleft size-thumbnail wp-image-923" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/Hurray.jpg"><img src="https://aldarone.fr/assets/Hurray-205x139.jpg" alt="Hurray" width="205" height="139" class="alignleft size-thumbnail wp-image-923" /></a></p>
 
 <p>Le bonheur et la motivation étaient à leur comble en octobre quand les adhérents validaient une refonte de fonctionnement qui mettait en place un collège de coordinateurs facilement éligibles et révocables en lieu et place d'une assemblée restreinte de personnes élues pour un an qui avaient les pleins pouvoir. Le parti pirate gagnait encore en souplesse de fonctionnement.</p>
 
 <p>Il fallait pourtant continuer à se battre contre ceux à qui une telle ouverture faisait peur, qui n'hésitaient pas à mettre des bâtons dans les roues des autres pour les empêcher de travailler en rond. Mais la motivation était là, on allait dans la bonne direction.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/Sexy-Pirate.jpg"><img src="http://aldarone.fr/assets/Sexy-Pirate-205x273.jpg" alt="Sexy-Pirate" width="205" height="273" class="alignright size-thumbnail wp-image-929" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/Sexy-Pirate.jpg"><img src="https://aldarone.fr/assets/Sexy-Pirate-205x273.jpg" alt="Sexy-Pirate" width="205" height="273" class="alignright size-thumbnail wp-image-929" /></a></p>
 
 <p>Et puis à côté il y avait l'image de geek-sexiste que se trimballait le parti. Une image qui ne me convenait pas, et que j'avais la ferme intention de changer. Heureusement pour moi, je n'étais pas seul et je suis ravi d'avoir rencontré plusieurs pirates féministes.</p>
 
@@ -44,7 +44,7 @@ bitlyURL:
 
 <p>Est arrivé Romain et la gestion désastreuse de la crise de cette semaine. Mais au vu des opinions qui s'expriment (et dominent) au sein du Parti Pirate, comment cette crise aurait-elle pu être mieux gérée ? J'ai eu l'impression d'un masque qui tombe.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/KKK.gif"><img src="http://aldarone.fr/wp-content/uploads/2013/03/KKK.gif" alt="KKK" width="500" height="244" class="aligncenter size-full wp-image-934" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/KKK.gif"><img src="https://aldarone.fr/wp-content/uploads/2013/03/KKK.gif" alt="KKK" width="500" height="244" class="aligncenter size-full wp-image-934" /></a></p>
 
 <h2>Le topic "<a href="https://forum.partipirate.org/discussions/feminisme-t10147.html">Féminisme</a>" du forum</h2>
 
@@ -56,7 +56,7 @@ bitlyURL:
 
 <h2>La réunion de la CN</h2>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/GoblinKing-Facepalm.gif"><img src="http://aldarone.fr/wp-content/uploads/2013/03/GoblinKing-Facepalm.gif" alt="GoblinKing Facepalm" width="500" height="215" class="aligncenter size-full wp-image-936" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/GoblinKing-Facepalm.gif"><img src="https://aldarone.fr/wp-content/uploads/2013/03/GoblinKing-Facepalm.gif" alt="GoblinKing Facepalm" width="500" height="215" class="aligncenter size-full wp-image-936" /></a></p>
 
 <p>Le plus démoralisant est venu du traitement de cette affaire par les responsables du Parti Pirate.</p>
 
@@ -72,7 +72,7 @@ bitlyURL:
 
 <h3>J'ai entendu Romain pleurer sur son sort :</h3>
 
-<p>Sa ligne de défense figure <del>toute entière sur <a href="http://storify.com/romain_pp/qui-est-vraiment-sexiste">un Storify de son cru</a></del> (Lien mort, lui qui prétend assumer ses propos, il l'a supprimé. Heureusement, une personne prévoyante <a href="http://aldarone.fr/archives/qui-est-vraiment-sexiste.html">a fait une sauvegarde</a>.)</p>
+<p>Sa ligne de défense figure <del>toute entière sur <a href="http://storify.com/romain_pp/qui-est-vraiment-sexiste">un Storify de son cru</a></del> (Lien mort, lui qui prétend assumer ses propos, il l'a supprimé. Heureusement, une personne prévoyante <a href="https://aldarone.fr/archives/qui-est-vraiment-sexiste.html">a fait une sauvegarde</a>.)</p>
 
 <p>Il est venu nous expliquer qu'aucun de ses tweets ne pose problème. Ils seraient même plutôt aimable et respectueux. Ce n'est pas possible qu'il soit le monstre dont les gens le traitent. Il y est allé de son histoire personnelle pour nous convaincre qu'en vrai, c'est un gars gentil. Ce qui m'a surtout convaincu qu'il n'hésite pas à instrumentaliser la souffrance d'autrui pour mettre en avant sa serviabilité.</p>
 
@@ -90,11 +90,11 @@ bitlyURL:
 
 <p>C'est oublier que dans une situation d'oppression sociale comme le patriarcat, la liberté d'expression est l'outil préféré des oppresseurs, toujours prompt à se cacher derrière comme un vulgaire paravent.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/LiberteDExpression.png"><img src="http://aldarone.fr/assets/LiberteDExpression-510x382.png" alt="LiberteDExpression" width="510" height="382" class="aligncenter size-medium wp-image-942" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/LiberteDExpression.png"><img src="https://aldarone.fr/assets/LiberteDExpression-510x382.png" alt="LiberteDExpression" width="510" height="382" class="aligncenter size-medium wp-image-942" /></a></p>
 
 <p>La liberté d'expression est un droit. Mais c'est surtout un grand pouvoir.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/GreatPowers-Spiderman.gif"><img src="http://aldarone.fr/wp-content/uploads/2013/03/GreatPowers-Spiderman.gif" alt="GreatPowers Spiderman" width="500" height="209" class="aligncenter size-full wp-image-938" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/GreatPowers-Spiderman.gif"><img src="https://aldarone.fr/wp-content/uploads/2013/03/GreatPowers-Spiderman.gif" alt="GreatPowers Spiderman" width="500" height="209" class="aligncenter size-full wp-image-938" /></a></p>
 
 <p>Nous avons le pouvoir non pas d'empêcher les gens de s'exprimer mais d'exprimer notre opposition. Ce pouvoir devient même un devoir quand il s'agit de propos tellement contraires aux valeurs Pirate que ceux dont il est question ici.</p>
 
@@ -108,7 +108,7 @@ bitlyURL:
 
 <p>Après la liberté d'expression, les autres coordinateurs se sont mis à la recherche d'un autre moyen de dédouaner Romain. C'est donc tout naturellement qu'ils se sont tournés vers @_LaMarquise.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/slut_shaming.jpg"><img src="http://aldarone.fr/wp-content/uploads/2013/03/slut_shaming.jpg" alt="slut_shaming" width="440" height="314" class="aligncenter size-full wp-image-947" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/slut_shaming.jpg"><img src="https://aldarone.fr/wp-content/uploads/2013/03/slut_shaming.jpg" alt="slut_shaming" width="440" height="314" class="aligncenter size-full wp-image-947" /></a></p>
 
 <p>En effet, quand Romain à tweeté, elle venait d'échapper à son agresseur, elle était bouleversée et donc n'était pas en état psychologique d'apprécier son trait d'humour (La justification par l'humour n'est venue qu'après, ce qui laisse penser son sérieux au moment du tweet.) Les autres personnes personnes ayant réagi ont probablement été aveuglées par une sorte de solidarité féministe qui les pousse à se conduire comme une meute avide de chair.</p>
 
@@ -130,7 +130,7 @@ bitlyURL:
 
 <p>On atteint de nouveaux sommets quand un coordinateur se plaint du fait que @_LaMarquise accuse les hommes d'être des violeurs en puissance, faisant à nouveau preuve d'une consternante ignorance sur le sujet.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif"><img src="http://aldarone.fr/assets/misandry-205x205.png" alt="misandry" width="205" height="205" class="alignleft size-thumbnail wp-image-951" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif"><img src="https://aldarone.fr/assets/misandry-205x205.png" alt="misandry" width="205" height="205" class="alignleft size-thumbnail wp-image-951" /></a></p>
 
 <p>Quand une femme parle de la crainte d'être violée à chaque coin de rue qu'on leur inculque en tant que femme, qu'elle parle du viol comme un privilège masculin, qu'elle affirme que les hommes <em>peuvent</em> violer elle ne fait pas preuve d'une honteuse misandrie.</p>
 
@@ -172,7 +172,7 @@ bitlyURL:
 
 <h2>Je n'ai plus la force</h2>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif"><img src="http://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif" alt="FuckThisShit" width="500" height="281" class="aligncenter size-full wp-image-953" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif"><img src="https://aldarone.fr/wp-content/uploads/2013/03/FuckThisShit.gif" alt="FuckThisShit" width="500" height="281" class="aligncenter size-full wp-image-953" /></a></p>
 
 <p>La résistance rencontrée au sein du Parti Pirate face aux tentatives de le sensibiliser au féminisme, ainsi que la défense systématique de propos misogynes et cautionnant le viol auront eu raison de moi.</p>
 

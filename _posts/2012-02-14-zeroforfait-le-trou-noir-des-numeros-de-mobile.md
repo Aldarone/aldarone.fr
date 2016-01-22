@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/zeroforfait.png
+    https://aldarone.fr/assets/zeroforfait.png
   - >
-    http://aldarone.fr/assets/zeroforfait.png
+    https://aldarone.fr/assets/zeroforfait.png
 head_img_alt:
   - Zéro Forfait
   - Zéro Forfait

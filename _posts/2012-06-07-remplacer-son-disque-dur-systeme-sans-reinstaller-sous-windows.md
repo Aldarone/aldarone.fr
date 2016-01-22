@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/FuckThatShit.jpg
+    https://aldarone.fr/assets/FuckThatShit.jpg
   - >
-    http://aldarone.fr/assets/FuckThatShit.jpg
+    https://aldarone.fr/assets/FuckThatShit.jpg
 head_img_alt:
   - Fuck That Shit
   - Fuck That Shit
@@ -31,7 +31,7 @@ dsq_thread_id:
 
 <p>Heureusement pour moi il a bien voulu continuer de fonctionner et j'ai pu me précipiter chez mon fournisseur pour commander un nouveau disque dur (non, toujours pas un SSD, je suis pauvre moi m'sieur/dame.)</p>
 
-<p>[caption id="attachment_605" align="aligncenter" width="400" caption="Non, il ne ressemble pas à ça tout de même."]<img src="http://aldarone.fr/wp-content/uploads/2012/06/the-foolproof-option-remove-and-destroy-your-hard-drive.jpg" alt="Disque dur détruit" title="Disque dur détruit" width="400" height="300" class="size-full wp-image-605" />[/caption]</p>
+<p>[caption id="attachment_605" align="aligncenter" width="400" caption="Non, il ne ressemble pas à ça tout de même."]<img src="https://aldarone.fr/wp-content/uploads/2012/06/the-foolproof-option-remove-and-destroy-your-hard-drive.jpg" alt="Disque dur détruit" title="Disque dur détruit" width="400" height="300" class="size-full wp-image-605" />[/caption]</p>
 
 <p>3 jours plus tard je reçois le nouveau disque dans ma boite à lettres et je commence à chercher le moyen de copier à l'identique le contenu et les partitions de l'ancien.</p>
 

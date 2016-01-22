@@ -9,9 +9,9 @@ permalink: /pigeon-telecom-by-bouygues/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/pigeon-telecom.jpg
+    https://aldarone.fr/assets/pigeon-telecom.jpg
   - >
-    http://aldarone.fr/assets/pigeon-telecom.jpg
+    https://aldarone.fr/assets/pigeon-telecom.jpg
 head_img_alt:
   - Pigeon Telecom
   - Pigeon Telecom

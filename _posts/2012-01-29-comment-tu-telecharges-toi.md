@@ -11,8 +11,8 @@ bitlyURL:
   - http://bit.ly/yk7aVW
   - http://bit.ly/yk7aVW
 head_img:
-  - http://aldarone.fr/assets/usenet.jpg
-  - http://aldarone.fr/assets/usenet.jpg
+  - https://aldarone.fr/assets/usenet.jpg
+  - https://aldarone.fr/assets/usenet.jpg
 head_img_alt:
   - Usenet
   - Usenet

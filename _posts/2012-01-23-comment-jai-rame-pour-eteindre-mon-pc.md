@@ -8,8 +8,8 @@ layout: post
 permalink: /comment-jai-rame-pour-eteindre-mon-pc/
 published: true
 head_img:
-  - http://aldarone.fr/assets/rame.jpg
-  - http://aldarone.fr/assets/rame.jpg
+  - https://aldarone.fr/assets/rame.jpg
+  - https://aldarone.fr/assets/rame.jpg
 head_img_alt:
   - Rameur
   - Rameur
@@ -26,7 +26,7 @@ Dire que je pensais maîtriser parfaitement tout ce qui touchait de près ou de 
 
 Comme sur l'ancienne interface j'allais dans le menu « Démarrer ». Là, s'affichait un menu avec le bouton « arrêter » bien en évidence, il suffisait de cliquer dessus puis de sélectionner l'action à exécuter et de cliquer sur OK.
 
-<a href="http://aldarone.fr/wp-content/uploads/2012/01/winMe-start.jpg"><img src="http://aldarone.fr/assets/winMe-start-260x61.jpg" alt="Windows Millenium Menu Démarrer" title="winMe-start" width="260" height="61" class="aligncenter size-medium wp-image-510" /></a>
+<a href="https://aldarone.fr/wp-content/uploads/2012/01/winMe-start.jpg"><img src="https://aldarone.fr/assets/winMe-start-260x61.jpg" alt="Windows Millenium Menu Démarrer" title="winMe-start" width="260" height="61" class="aligncenter size-medium wp-image-510" /></a>
 
 Mais avec Windows 7 impossible de trouver ce fameux menu démarrer ! Il avait complètement disparu, remplacé par un bouton rond avec un logo aux couleurs de Google Chrome.
 
@@ -36,11 +36,11 @@ C'est donc du basico-basique mais si j'ai pas trouvé du premier coup, ça peut 
 
 Cliquez sur le bouton rond avec le logo de Chrome bizarre:
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2012/01/screenshot.31.png"><img src="http://aldarone.fr/assets/screenshot.31-260x56.png" alt="Menu démarrer Win7" title="Menu démarrer Win7" width="260" height="56" class="aligncenter size-medium wp-image-511" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2012/01/screenshot.31.png"><img src="https://aldarone.fr/assets/screenshot.31-260x56.png" alt="Menu démarrer Win7" title="Menu démarrer Win7" width="260" height="56" class="aligncenter size-medium wp-image-511" /></a>
 
 S'il n'y a pas écrit « Arrêter » dans le cadre gris à droite, cliquez sur la petite flèche blanche:
 
-<a class="picture" href="http://aldarone.fr/wp-content/uploads/2012/01/screenshot.32.png"><img src="http://aldarone.fr/assets/screenshot.32-260x93.png" alt="Menu arrêter Win7" title="Menu arrêter Win7" width="260" height="93" class="aligncenter size-medium wp-image-512" /></a>
+<a class="picture" href="https://aldarone.fr/wp-content/uploads/2012/01/screenshot.32.png"><img src="https://aldarone.fr/assets/screenshot.32-260x93.png" alt="Menu arrêter Win7" title="Menu arrêter Win7" width="260" height="93" class="aligncenter size-medium wp-image-512" /></a>
 
 Cliquez sur l'action à exécuter. <span style="color:red;font-weight:bold">Attention ! Il n'y a pas de fenêtre de confirmation !</span>
 

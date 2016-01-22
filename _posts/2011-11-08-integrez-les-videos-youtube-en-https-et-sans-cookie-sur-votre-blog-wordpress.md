@@ -11,8 +11,8 @@ permalink: >
   /integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress/
 published: true
 head_img:
-  - http://aldarone.fr/assets/cookies.jpg
-  - http://aldarone.fr/assets/cookies.jpg
+  - https://aldarone.fr/assets/cookies.jpg
+  - https://aldarone.fr/assets/cookies.jpg
 head_img_alt:
   - Cookies
   - Cookies
@@ -34,11 +34,11 @@ Pour plus de confidentialité, j'ai créé un petit plugin (30 lignes, excusez d
 <pre class="brush: php">
 /*
 Plugin Name: Youtube oEmbed NoCookie/SSL
-Plugin URI: http://aldarone.fr/
+Plugin URI: https://aldarone.fr/
 Description: Ce plugin sert à intégrer les videos youtube en utilisant une iframe, le protocole HTTPS et le domaine nocookie de youtube.
 Version: 1.0a1
 Author: Alda Marteau-Hardi
-Author URI: http://aldarone.fr/
+Author URI: https://aldarone.fr/
 License: CC BY-NC-SA
 */
 

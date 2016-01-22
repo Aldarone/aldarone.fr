@@ -27,7 +27,7 @@ Cette section concerne les SMS et équivalents et se compose de trois logiciels 
 
 <h2>Textsecure</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/02/textsecure.jpg" alt="TextSecure, la sécurité simplifiée" width="705" height="344" class="size-full wp-image-1464" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/02/textsecure.jpg" alt="TextSecure, la sécurité simplifiée" width="705" height="344" class="size-full wp-image-1464" />
 
 Celui là c'est un peu mon préféré. Il était déjà opérationnel l'an dernier et je l'utilise quotidiennement depuis ce moment là.
 
@@ -49,13 +49,13 @@ Concernant le mode de transport il y a plusieurs choses à savoir :
 Comme les communications sont chiffrées, Google pourra uniquement voir que vous utilisez l'application (mais comme vous l'avez installée, ils se savent déjà) et de son côté OpenWhisper ne verra que l'identifiant de la personne à qui vous envoyez un message (pour lui délivrer un message, il est logique que le transporteur en connaisse l'adresse)</li>
 </ul>
 
-<a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"><img src="http://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Télécharger TextSecure sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
+<a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"><img src="https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Télécharger TextSecure sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
 
 Néanmoins, pour ne pas passer par Google et OpenWhisper ou pour ne pas être obligé⋅e d'utiliser internet, il y a une alternative : SMSSecure.
 
 <h2>SMSSecure</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/05/smssecure.png" alt="SMS Encryption made easy" width="450" height="120" class="size-full wp-image-1591" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/05/smssecure.png" alt="SMS Encryption made easy" width="450" height="120" class="size-full wp-image-1591" />
 
 SMSSecure est très proche de TextSecure puisqu'il partage une grande partie de son code source et donc la même méthode de chiffrement.
 
@@ -76,13 +76,13 @@ Concernant le mode de transport il y a là aussi des choses à savoir :
 <li>Contrairement à TextSecure où Google peut savoir que vous l'utilisez et où OpenWhisper peut savoir à qui vous écrivez, ici c'est votre opérateur mobile et toute personne qui écoute le réseau téléphonique qui peut savoir à qui vous écrivez. À vous de choisir à qui vous préférez exposer votre liste d'interlocuteur⋅ices.</li>
 </ul>
 
-<a href="https://play.google.com/store/apps/details?id=org.smssecure.smssecure"><img src="http://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Téléchargez SMSSecure sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
+<a href="https://play.google.com/store/apps/details?id=org.smssecure.smssecure"><img src="https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Téléchargez SMSSecure sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
 
-<a href="https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure"><img src="http://aldarone.fr/wp-content/uploads/2015/05/Get_it_on_F-Droid-300x104.png" alt="Get_it_on_F-Droid" width="300" height="104" class="aligncenter size-medium wp-image-1596" /></a>
+<a href="https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure"><img src="https://aldarone.fr/wp-content/uploads/2015/05/Get_it_on_F-Droid-300x104.png" alt="Get_it_on_F-Droid" width="300" height="104" class="aligncenter size-medium wp-image-1596" /></a>
 
 <h2>Signal</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg" alt="Signal - Private Messenger" width="202" height="195" class="aligncenter size-full wp-image-1600" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg" alt="Signal - Private Messenger" width="202" height="195" class="aligncenter size-full wp-image-1600" />
 
 Il y a un an, aucune solution libre n'existait pour les personnes possédant un iPhone. Mais maintenant il y a Signal.
 
@@ -92,7 +92,7 @@ L'application utilise la même procédure d'activation que TextSecure : Au premi
 
 La seule différence est qu'Apple n'autorise pas les applications tierces à accéder aux SMS, vous ne pourrez donc pas récupérer tous vos messages dans une seule application et le seul mode de transport disponible sera le même que TextSecure, avec les mêmes points à retenir que ceux cités plus haut.
 
-<a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669"><img src="http://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg" alt="Téléchargez Signal sur l'App Store" width="300" height="111" class="aligncenter size-medium wp-image-1595" /></a>
+<a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669"><img src="https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg" alt="Téléchargez Signal sur l'App Store" width="300" height="111" class="aligncenter size-medium wp-image-1595" /></a>
 
 <h1>Les appels mobiles</h1>
 
@@ -100,7 +100,7 @@ Pour ce point, il y a une solution pour Android : RedPhone, et une solution pour
 
 <h2>RedPhone</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681.jpg" alt="RedPhone, la sécurité simplifiée." width="705" height="344" class="size-full wp-image-1458" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681.jpg" alt="RedPhone, la sécurité simplifiée." width="705" height="344" class="size-full wp-image-1458" />
 
 Développée par OpenWhisper (les mêmes qui font TextSecure et Signal, décidément), RedPhone permet de passer des appels chiffrés via Internet. Ce ne sera donc pas décompté de votre forfait voix, mais de votre quota de données (sauf si vous êtes en Wifi, ce qui permet de s'affranchir du même coup d'une mauvaise couverture.)
 
@@ -108,17 +108,17 @@ L'activation se déroule comme avec TextSecure et l'usage est ensuite transparen
 
 Comme pour TextSecure, les données transitent par Google et OpenWhisper, donc Google sait que vous utilisez RedPhone et OpenWhisper sait qui vous appelez. Encore une fois, sans RedPhone c'est votre opérateur mobile qui sait qui vous appelez mais il sait également ce que vous racontez.
 
-<a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone"><img src="http://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Télécharger RedPhone sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
+<a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone"><img src="https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg" alt="Télécharger RedPhone sur Google Play" width="300" height="110" class="aligncenter size-medium wp-image-1594" /></a>
 
 <h2>Signal</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg" alt="Signal - Private Messenger" width="202" height="195" class="aligncenter size-full wp-image-1600" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg" alt="Signal - Private Messenger" width="202" height="195" class="aligncenter size-full wp-image-1600" />
 
 Pour iPhone, OpenWhisper a choisi d'unifier les usages et Signal permet également de recevoir ou d'émettre des appels vers d'autres personnes utilisant Signal ou RedPhone.
 
 L'activation se fait en même temps que l'activation des messages et pour appeler quelqu'un il suffit de se rendre dans l'historique des messages et de cliquer sur appeler.
 
-<a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669"><img src="http://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg" alt="Téléchargez Signal sur l'App Store" width="300" height="111" class="aligncenter size-medium wp-image-1595" /></a>
+<a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669"><img src="https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg" alt="Téléchargez Signal sur l'App Store" width="300" height="111" class="aligncenter size-medium wp-image-1595" /></a>
 
 <h1>La messagerie instantanée et les conférences audio/vidéo</h1>
 
@@ -130,7 +130,7 @@ Pour le remplacer, il n'y a pas grand monde. Mais l'alternative la plus aboutie 
 
 <h2>Tox</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/05/tox4.png" alt="Tox me maybe" width="650" height="200" class="aligncenter size-full wp-image-1593" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/05/tox4.png" alt="Tox me maybe" width="650" height="200" class="aligncenter size-full wp-image-1593" />
 
 Tox est un logiciel encore incomplet mais néanmoins déjà utilisable au quotidien.
 

@@ -9,8 +9,8 @@ permalink: >
   /blizzard-essaye-de-saccaparer-la-marque-dota/
 published: true
 head_img:
-  - http://aldarone.fr/assets/DotA2.jpg
-  - http://aldarone.fr/assets/DotA2.jpg
+  - https://aldarone.fr/assets/DotA2.jpg
+  - https://aldarone.fr/assets/DotA2.jpg
 head_img_alt:
   - DotA 2
   - DotA 2

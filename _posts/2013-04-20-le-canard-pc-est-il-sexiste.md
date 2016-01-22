@@ -51,7 +51,7 @@ Et au niveau des effectifs ? Sur environ 15 personnes à temps complet, Canard P
 
 <h4>Faisons dire aux chiffres ce que nous voulons</h4>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/screenshot16.png"><img class="alignleft size-quarter wp-image-1111" alt="La rédac de Canard PC" src="http://aldarone.fr/assets/screenshot16-45x200.png" width="45" height="200" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/screenshot16.png"><img class="alignleft size-quarter wp-image-1111" alt="La rédac de Canard PC" src="https://aldarone.fr/assets/screenshot16-45x200.png" width="45" height="200" /></a></p>
 
 <p>Sur une page de leur site, on peut voir les membres de l'équipe du Canard sous forme d'un sympathique petit personnage dessiné. On en compte ainsi 16, dont deux femmes.</p>
 
@@ -59,7 +59,7 @@ Et au niveau des effectifs ? Sur environ 15 personnes à temps complet, Canard P
 
 <p>La même petite infobulle ne prend par contre pas la peine de prévenir quand on se trouve face à un individu masculin. En effet les femmes se définissent d'abord par rapport à leur sexe, ensuite peut-être par rapport à leur poste. Les hommes non.</p>
 
-<p>[caption id="attachment_1112" align="alignright" width="360"]<img class="size-full wp-image-1112" alt="Le sexe des Canards" src="http://aldarone.fr/wp-content/uploads/2013/04/Picto-canard.png" width="360" height="180" /> J'imagine que les mecs de la rédac' ont besoin de ces infobulles pour distinguer leurs collègues. "Sonia, fâââme. Booooooobs."[/caption]</p>
+<p>[caption id="attachment_1112" align="alignright" width="360"]<img class="size-full wp-image-1112" alt="Le sexe des Canards" src="https://aldarone.fr/wp-content/uploads/2013/04/Picto-canard.png" width="360" height="180" /> J'imagine que les mecs de la rédac' ont besoin de ces infobulles pour distinguer leurs collègues. "Sonia, fâââme. Booooooobs."[/caption]</p>
 
 <p>Mais ne nous arrêtons pas en si bon chemin. Si on se souvient du compte annoncé dans l'encadré, il y aurait 15 personnes "<em>environ</em>" dont 3 femmes. Donc 20% de femmes à Canard PC.</p>
 
@@ -124,7 +124,7 @@ Et au niveau des effectifs ? Sur environ 15 personnes à temps complet, Canard P
 
 <p>Outre le fait que ce soit la seule rubrique écrite par une femme, c'est aussi la seule rubrique avec une charte en rose, là où les autres pages arborent de l'orange, du rouge, du vert ou du bleu.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/2013-04-20-10.17.18.jpg"><img class="aligncenter size-medium wp-image-1127" alt="Canard PC Casual Gaming" src="http://aldarone.fr/assets/2013-04-20-10.17.18-600x800.jpg" width="600" height="800" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/2013-04-20-10.17.18.jpg"><img class="aligncenter size-medium wp-image-1127" alt="Canard PC Casual Gaming" src="https://aldarone.fr/assets/2013-04-20-10.17.18-600x800.jpg" width="600" height="800" /></a></p>
 
 <p>Voila une association à laquelle on ne s'attendait pas. La seule femme rédactrice écrit la rubrique que les gamers attribuent communément au genre féminin et sa charte est d'une couleur à la symbolique moderne plutôt… chargée<sup id="fnref-1101:6"><a href="#fn-1101:6" rel="footnote">7</a></sup>.</p>
 
@@ -134,19 +134,19 @@ Et au niveau des effectifs ? Sur environ 15 personnes à temps complet, Canard P
 
 <p>Nous n'allons pas aller bien loin, les exemples fournis par Mar_Lard suffisent amplement (remis dans le contexte de l'encadré, ils prennent même une nouvelle saveur) :</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/canard-secretworld.jpg"><img class="aligncenter size-medium wp-image-1118" alt="Canard PC Secret World" src="http://aldarone.fr/assets/canard-secretworld-600x360.jpg" width="600" height="360" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/canard-secretworld.jpg"><img class="aligncenter size-medium wp-image-1118" alt="Canard PC Secret World" src="https://aldarone.fr/assets/canard-secretworld-600x360.jpg" width="600" height="360" /></a></p>
 
 <blockquote>Nous signalons l'inanité des personnages croulant sous les couches de clichés, qu'ils soient hommes ou femmes.</blockquote>
 
 <p>Enfin, surtout quand les femmes sont aussi fortes que des "hommes" et que les hommes sont aussi faibles que des "femmes".</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/canard-tanya-short.jpeg"><img class="aligncenter size-medium wp-image-1120" alt="Canard Tanya Short" src="http://aldarone.fr/assets/canard-tanya-short-600x643.jpeg" width="600" height="643" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/canard-tanya-short.jpeg"><img class="aligncenter size-medium wp-image-1120" alt="Canard Tanya Short" src="https://aldarone.fr/assets/canard-tanya-short-600x643.jpeg" width="600" height="643" /></a></p>
 
 <blockquote>La presse fait parfois partie du problème, ne serait-ce qu'en […] rivalisant de démagogie.</blockquote>
 
 <p>Par contre, ironiser sur les prétendues qualifications et sur le sens de la mesure des personnes qui parlent de la place de la femme dans le jeu vidéo, ce n'est pas de la démagogie. Et parler de "<em>Demoiselle</em>" qui "<em>y va de sa petite initiative</em>" n'est pas <strong>du tout</strong> condescendant.</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/canard-trlegend.jpg"><img class="aligncenter size-medium wp-image-1122" alt="Canard Tomb Raider Legend" src="http://aldarone.fr/assets/canard-trlegend-600x855.jpg" width="600" height="855" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/canard-trlegend.jpg"><img class="aligncenter size-medium wp-image-1122" alt="Canard Tomb Raider Legend" src="https://aldarone.fr/assets/canard-trlegend-600x855.jpg" width="600" height="855" /></a></p>
 
 <blockquote>Nous essayons de regarder le jeu vidéo avec la distance minimale qui consiste à en moquer les caricatures.</blockquote>
 
@@ -156,9 +156,9 @@ Et au niveau des effectifs ? Sur environ 15 personnes à temps complet, Canard P
 
 <p>Ou pas. C'est ainsi qu'on trouve <strong>dans ce même numéro sur le sexisme</strong> la brève suivante:</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2013/04/2013-04-20-12.03.03.jpeg"><img class="aligncenter size-medium wp-image-1125" alt="Canard PC bricolage" src="http://aldarone.fr/assets/2013-04-20-12.03.03-600x450.jpeg" width="600" height="450" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2013/04/2013-04-20-12.03.03.jpeg"><img class="aligncenter size-medium wp-image-1125" alt="Canard PC bricolage" src="https://aldarone.fr/assets/2013-04-20-12.03.03-600x450.jpeg" width="600" height="450" /></a></p>
 
-<p><img class="alignleft size-full wp-image-1135" alt="Parité-canard" src="http://aldarone.fr/wp-content/uploads/2013/04/Parité-canard.jpg" width="168" height="168" /></p>
+<p><img class="alignleft size-full wp-image-1135" alt="Parité-canard" src="https://aldarone.fr/wp-content/uploads/2013/04/Parité-canard.jpg" width="168" height="168" /></p>
 
 <p>Oui vous lisez bien, le niveau laser est "<em>moins coûteux en zircon<sup id="fnref-1101:4"><a href="#fn-1101:4" rel="footnote">8</a></sup> et plus fiable qu'une entité féminine</em>" .</p>
 

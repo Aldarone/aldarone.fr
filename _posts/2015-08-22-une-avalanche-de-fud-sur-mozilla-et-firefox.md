@@ -143,4 +143,4 @@ J'ai, en revanche du mal à saisir ce qui pousse des gens qui ont tout à perdre
 
 Le seul effet que ces critiques ont est de ternir l'image d'un Firefox qui n'en a pas besoin et d'affaiblir le seul navigateur Libre et indépendant, poussant les gens à… utiliser Chrome.
 
-À suivre : <a href="http://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/">Les requêtes envoyées par un Firefox tout neuf</a>.
+À suivre : <a href="https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/">Les requêtes envoyées par un Firefox tout neuf</a>.

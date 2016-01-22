@@ -9,9 +9,9 @@ permalink: /passer-de-mysql-a-mariadb/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Larry-Ellison.jpg
+    https://aldarone.fr/assets/Larry-Ellison.jpg
   - >
-    http://aldarone.fr/assets/Larry-Ellison.jpg
+    https://aldarone.fr/assets/Larry-Ellison.jpg
 head_img_alt:
   - Larry Ellison
   - Larry Ellison
@@ -22,7 +22,7 @@ dsq_thread_id:
   - "434543036"
   - "434543036"
 ---
-<p><strong>Mise à jour 16/10/2011</strong>: Dans la première version j'utilisais l'ancienne version stable de MariaDB (5.1), suite au <a href="http://aldarone.fr/passer-de-mysql-a-mariadb/#comment-335383041">commentaire de Guillaume</a> je l'ai mis à jour pour utiliser la version 5.2.</p>
+<p><strong>Mise à jour 16/10/2011</strong>: Dans la première version j'utilisais l'ancienne version stable de MariaDB (5.1), suite au <a href="https://aldarone.fr/passer-de-mysql-a-mariadb/#comment-335383041">commentaire de Guillaume</a> je l'ai mis à jour pour utiliser la version 5.2.</p>
 
 <p>Depuis quelques temps, Oracle ne se sent plus pisser: Ils rachètent Sun, ils ferment les sources des logiciels qu'ils possèdent, ils font des procès pour gagner des thunes,...</p>
 

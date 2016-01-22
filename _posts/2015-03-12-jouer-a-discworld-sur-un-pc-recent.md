@@ -16,7 +16,7 @@ https://twitter.com/terryandrob/status/576036888190038016
 
 C'est l'occasion de découvrir ou de redécouvrir ce point'n click de légende adapté de l'univers de ce grand monsieur et doublé par <a href="http://en.wikipedia.org/wiki/Eric_Idle">Eric Idle</a>.
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/03/tumblr_mlme6myVhA1s9677oo1_500.gif" alt="tumblr_mlme6myVhA1s9677oo1_500" width="500" height="313" class="aligncenter size-full wp-image-1576" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/03/tumblr_mlme6myVhA1s9677oo1_500.gif" alt="tumblr_mlme6myVhA1s9677oo1_500" width="500" height="313" class="aligncenter size-full wp-image-1576" />
 
 Pour y jouer il nous faut trois choses :
 
@@ -34,7 +34,7 @@ Maintenant, on va démarrer et configurer ScummVM. Une fois la fenêtre ouverte,
 
 Vous devez maintenant chercher le dossier <code>DISCWLD</code> dans la liste de chemins, quand vous y êtes cliquez sur choisir, puis sélectionnez la langue avec laquelle vous voulez jouer (ce ne sont que pour les sous-titres) et terminez par « Ok. »
 
-<img src="http://aldarone.fr/wp-content/uploads/2015/03/scummvm-ajouter.png" alt="scummvm-ajouter" width="628" height="469" class="aligncenter size-full wp-image-1571" />
+<img src="https://aldarone.fr/wp-content/uploads/2015/03/scummvm-ajouter.png" alt="scummvm-ajouter" width="628" height="469" class="aligncenter size-full wp-image-1571" />
 
 Vous êtes maintenant prêt⋅e à cliquer sur démarrer et à passer quelques heures d'amusement dans l'univers unique du Disque Monde.
 

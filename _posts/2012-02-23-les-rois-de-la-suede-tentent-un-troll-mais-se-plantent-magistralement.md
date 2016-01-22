@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Rois-de-la-suede.jpg
+    https://aldarone.fr/assets/Rois-de-la-suede.jpg
   - >
-    http://aldarone.fr/assets/Rois-de-la-suede.jpg
+    https://aldarone.fr/assets/Rois-de-la-suede.jpg
 head_img_alt:
   - Les Rois de la Suède
   - Les Rois de la Suède
@@ -59,7 +59,7 @@ Et comment financer un nouvel album ? En lançant un appel sur <a href="http://w
 
 Le problème ce ne sont pas les internautes qui téléchargent, ni la culture qui devrait être prétendument gratuite. Le problème ce sont les personnes qui ne se rendent pas compte que le monde évolue, que la culture n'a pas toujours été distribuée comme elle l'a été ces dernières années et qu'elle ne le sera plus jamais. Nous sommes à l'air du numérique, <strong>il est temps pour eux de se servir des nouveaux moyens à leur disposition au lieu de vouloir se cantonner aux anciens qui sont devenu caduques</strong>.
 
-<a class="dailymotion" href="http://www.dailymotion.com/video/xox1zi_les-rois-de-la-suede-ta-liberte-de-voler_music"><img src="http://aldarone.fr/wp-content/uploads/2012/02/ta-liberte-de-voler-video.jpg" alt="Video Ta Liberté de Voler" title="Video Ta Liberté de Voler" width="540" height="270" class="aligncenter size-full wp-image-566" /></a>
+<a class="dailymotion" href="http://www.dailymotion.com/video/xox1zi_les-rois-de-la-suede-ta-liberte-de-voler_music"><img src="https://aldarone.fr/wp-content/uploads/2012/02/ta-liberte-de-voler-video.jpg" alt="Video Ta Liberté de Voler" title="Video Ta Liberté de Voler" width="540" height="270" class="aligncenter size-full wp-image-566" /></a>
 
 <blockquote>T’as ça sous le nez
 t’as qu’à remplir ton panier

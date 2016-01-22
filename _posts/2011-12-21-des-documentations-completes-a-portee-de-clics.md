@@ -12,9 +12,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/dochub-preview.png
+    https://aldarone.fr/assets/dochub-preview.png
   - >
-    http://aldarone.fr/assets/dochub-preview.png
+    https://aldarone.fr/assets/dochub-preview.png
 head_img_alt:
   - "Capture d'écran de dochub"
   - "Capture d'écran de dochub"
