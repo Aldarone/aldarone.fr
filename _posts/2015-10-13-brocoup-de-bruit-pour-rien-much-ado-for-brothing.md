@@ -98,7 +98,7 @@ Pour lutter contre la pensée unique qui émane de leur action, je décide ce so
 
 Quelle pression insupportable pèse sur les épaules de ce malheureux Jyrki.
 
-<img src="http://stream1.gifsoup.com/view/991630/dramatic-look-o.gif" alt="dramatic look" />
+<img src="https://stream1.gifsoup.com/view/991630/dramatic-look-o.gif" alt="dramatic look" />
 
 <h2>Un peu de sérieux s'il vous plait.</h2>
 
