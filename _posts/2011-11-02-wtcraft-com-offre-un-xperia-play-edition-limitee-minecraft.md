@@ -11,8 +11,8 @@ permalink: >
   /wtcraft-com-offre-un-xperia-play-edition-limitee-minecraft/
 published: true
 head_img:
-  - http://aldarone.fr/assets/WTCraft.jpg
-  - http://aldarone.fr/assets/WTCraft.jpg
+  - https://aldarone.fr/assets/WTCraft.jpg
+  - https://aldarone.fr/assets/WTCraft.jpg
 head_img_alt:
   - Logo WTCraft.com
   - Logo WTCraft.com
@@ -39,7 +39,7 @@ Et dans quel but ? Survivre.
 
 Je ne serais pas capable d'expliquer correctement donc le mieux est que je vous laisse une video faite par des gens plus doués:
 
-<a class="dailymotion" href="http://www.dailymotion.com/video/xgwycj_video-test-minecraft_videogames" title="Video d&#039;un test de minecraft"><img src="http://aldarone.fr/wp-content/uploads/2011/11/MinecraftTest.jpg" alt="Video d&#039;un test de minecraft" title="MinecraftTest" width="540" height="270" class="aligncenter size-full wp-image-337" /></a>
+<a class="dailymotion" href="http://www.dailymotion.com/video/xgwycj_video-test-minecraft_videogames" title="Video d&#039;un test de minecraft"><img src="https://aldarone.fr/wp-content/uploads/2011/11/MinecraftTest.jpg" alt="Video d&#039;un test de minecraft" title="MinecraftTest" width="540" height="270" class="aligncenter size-full wp-image-337" /></a>
 
 Donc, <a href="http://wtcraft.com/">WTCraft.com</a> organise un méga concours avec des lots super chouette à gagner (si on est fan de minecraft bien sûr. Du plus petit au plus important on a:
 

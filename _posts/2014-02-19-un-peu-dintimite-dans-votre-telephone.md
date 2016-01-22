@@ -10,7 +10,7 @@ published: true
 ---
 En ces temps troublés de surveillance généralisée, les écoutes de la NSA, le scandale Amesys il ne fait plus aucun doute que tout ce qu'on dit ou écrit en clair sur Internet est enregistré et sera utilisé contre nous.
 
-[caption id="attachment_1454" align="alignleft" width="200"]<img src="http://aldarone.fr/wp-content/uploads/2014/02/team_fortress_2_wallpaper_happy_spy_by_dunkmovies-d5rg9xh-200x125.jpg" alt="« La curiosité c&#039;est mon péché mignon »" width="200" height="125" class="size-quarter wp-image-1454" /> « La curiosité c'est mon péché mignon »[/caption]
+[caption id="attachment_1454" align="alignleft" width="200"]<img src="https://aldarone.fr/wp-content/uploads/2014/02/team_fortress_2_wallpaper_happy_spy_by_dunkmovies-d5rg9xh-200x125.jpg" alt="« La curiosité c&#039;est mon péché mignon »" width="200" height="125" class="size-quarter wp-image-1454" /> « La curiosité c'est mon péché mignon »[/caption]
 
 Et si vous pensez n'avoir rien à cacher, vous ne pourriez être plus dans l'erreur. Seriez-vous prêt⋅es, par exemple, à m'envoyer une copie de vos mails ? À me laisser lire vos SMS ou vos messages facebook ? Voire à me laisser installer de quoi en rediriger systématiquement une copie chez moi pour que cette consultation ne soit plus ponctuelle mais systématique et automatique ?
 
@@ -30,7 +30,7 @@ En revanche, elles ne sont pas anonymisantes. Un observateur sera <strong><em>ca
 
 <h2>Pour sécuriser ses appels : RedPhone</h2>
 
-[caption id="attachment_1458" align="alignright" width="300"]<img src="http://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681-300x146.jpg" alt="RedPhone, la sécurité simplifiée." width="300" height="146" class="size-medium wp-image-1458" /> RedPhone, la sécurité simplifiée.[/caption]
+[caption id="attachment_1458" align="alignright" width="300"]<img src="https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681-300x146.jpg" alt="RedPhone, la sécurité simplifiée." width="300" height="146" class="size-medium wp-image-1458" /> RedPhone, la sécurité simplifiée.[/caption]
 
 RedPhone est une solution libre de VoIP chiffrée. Concrètement, ça veut dire que vous allez passer des appels qui passeront par la 3G (et seront comptés dans votre consommation « data ») ou WiFi au lieu d'être décomptés de votre forfait voix et que le flux audio sera chiffré pour que seul votre correspondant puisse entendre ce que vous dites.
 
@@ -50,7 +50,7 @@ Nous avons vu à quel point il était aisé de passer des appels sécurisés, ma
 
 <h3>La sécurité sans concession : TextSecure</h3>
 
-[caption id="attachment_1464" align="alignright" width="300"]<img src="http://aldarone.fr/wp-content/uploads/2014/02/textsecure-300x146.jpg" alt="TextSecure, la sécurité simplifiée" width="300" height="146" class="size-medium wp-image-1464" /> TextSecure, la sécurité simplifiée[/caption]
+[caption id="attachment_1464" align="alignright" width="300"]<img src="https://aldarone.fr/wp-content/uploads/2014/02/textsecure-300x146.jpg" alt="TextSecure, la sécurité simplifiée" width="300" height="146" class="size-medium wp-image-1464" /> TextSecure, la sécurité simplifiée[/caption]
 
 TextSecure est une solution libre d'envoi de SMS chiffrés. Concrètement, cela veut dire que vous allez envoyer des SMS chiffrés qui seront traités comme n'importe quel SMS par votre opérateur et qui seront déchiffrés sur le téléphone de votre correspondant⋅e. Depuis la version 2 il est également possible de passer par les serveurs de TextSecure (qui ont le même rôle que ceux de RedPhone) afin que votre opérateur soit dans l'incapacité de savoir avec qui vous communiquez.
 
@@ -70,13 +70,13 @@ Notez tout de même que si vous créer un mot de passe au démarrage de l'applic
 
 <h3>La sécurité pratique : Telegram</h3>
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/02/Telegram.png" alt="Telegram" width="300" height="300" class="alignright size-full wp-image-1472" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/02/Telegram.png" alt="Telegram" width="300" height="300" class="alignright size-full wp-image-1472" />
 
 Dans la première édition de cet article, je présentais Telegram comme une alternative moins sécurisée mais plus pratique à TextSecure, toutefois depuis la sortie de TextSecure V2 il n'y a plus davantage à utiliser Telegram puisque l'écart de fonctionnalité est inexistant et la sécurité est bien meilleure.
 
 <h2>Simple comme bonjour</h2>
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/02/Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift-150x150.jpg" alt="Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift" width="150" height="150" class="alignleft size-thumbnail wp-image-1480" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/02/Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift-150x150.jpg" alt="Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift" width="150" height="150" class="alignleft size-thumbnail wp-image-1480" />
 
 Après de longues années où le besoin de confidentialité croissait et où les solutions pour en profiter à un niveau suffisant étaient particulièrement rebutantes, nous voyons à présent arriver de nouvelles applications qui s'installent en un clic et sont aussi simple d'utilisation et pratique que n'importe quelle autre application non sécurisée.
 

@@ -25,7 +25,7 @@ Alors oui, les homosexuels pourront se marier dès que le Président publiera le
 
 <h2>L'<abbr title="Assistance Médicale à la Procréation">AMP</abbr></h2>
 
-[caption id="attachment_1177" align="alignleft" width="200"]<a href="http://aldarone.fr/wp-content/uploads/2013/04/ICSI.jpg"><img src="http://aldarone.fr/assets/ICSI-200x136.jpg" alt="Fécondation In Vitro" width="200" height="136" class="size-quarter wp-image-1177" /></a> Eugene Ermolovich (CC BY-SA)[/caption]
+[caption id="attachment_1177" align="alignleft" width="200"]<a href="https://aldarone.fr/wp-content/uploads/2013/04/ICSI.jpg"><img src="https://aldarone.fr/assets/ICSI-200x136.jpg" alt="Fécondation In Vitro" width="200" height="136" class="size-quarter wp-image-1177" /></a> Eugene Ermolovich (CC BY-SA)[/caption]
 
 L'<abbr title="Assistance Médicale à la Procréation">AMP</abbr> c'est le nom légal de la <abbr title="Procréation Médicalement Assistée">PMA</abbr> et ça regroupe entre autre la <abbr title="Gestation Pour Autrui">GPA</abbr> et la <abbr title="Fécondation In Vitro">FIV</abbr>.
 
@@ -47,7 +47,7 @@ Non, il faudra y venir. Mais les boucliers ne manqueront pas de se lever et on e
 
 <h2>L'égalité des transgenre</h2>
 
-[caption id="attachment_1187" align="alignright" width="200"]<a href="http://aldarone.fr/wp-content/uploads/2013/04/DrapeauTranssexuel.png"><img src="http://aldarone.fr/assets/DrapeauTranssexuel-200x100.png" alt="Ce drapeau est transgenre et pourtant il n&#039;a pas subit d&#039;examen médical pour autant." width="200" height="100" class="size-quarter wp-image-1187" /></a> Ce drapeau est transgenre et il n'a pas subit d'examen médical pour autant.[/caption]
+[caption id="attachment_1187" align="alignright" width="200"]<a href="https://aldarone.fr/wp-content/uploads/2013/04/DrapeauTranssexuel.png"><img src="https://aldarone.fr/assets/DrapeauTranssexuel-200x100.png" alt="Ce drapeau est transgenre et pourtant il n&#039;a pas subit d&#039;examen médical pour autant." width="200" height="100" class="size-quarter wp-image-1187" /></a> Ce drapeau est transgenre et il n'a pas subit d'examen médical pour autant.[/caption]
 
 Là où une personne cis-genre<sup id="fnref:2"><a href="2" rel="footnote">2</a></sup> peut sans problème (on en a pas besoin en fait) se déclarer homme ou femme sans que personne n'y trouve à redire, c'est un peu plus compliqué pour les personnes transgenre qui doivent affronter des montagnes de transphobie.
 
@@ -71,7 +71,7 @@ Imagine-t-on un examen obligatoire pour tout citoyen français qui devrait se pl
 
 <h2>La laïcité laïque</h2>
 
-[caption id="attachment_1190" align="alignleft" width="200"]<a href="http://aldarone.fr/wp-content/uploads/2013/04/MuslimahPride.jpg"><img src="http://aldarone.fr/assets/MuslimahPride-200x130.jpg" alt="Muslimah Pride" width="200" height="130" class="size-quarter wp-image-1190" /></a> "J'ai oubliée d'être oppressée, je suis trop occupée à être géniale."[/caption]
+[caption id="attachment_1190" align="alignleft" width="200"]<a href="https://aldarone.fr/wp-content/uploads/2013/04/MuslimahPride.jpg"><img src="https://aldarone.fr/assets/MuslimahPride-200x130.jpg" alt="Muslimah Pride" width="200" height="130" class="size-quarter wp-image-1190" /></a> "J'ai oubliée d'être oppressée, je suis trop occupée à être géniale."[/caption]
 
 J'en entends crier "pléonasme !" dans le fond mais détrompez vous. La France n'est pas laïque, elle est laïque catholique. À savoir qu'on essaye de nous faire passer le catholicisme comme religion d'État tout en faisant passer ça pour de la laïcité.
 
@@ -83,7 +83,7 @@ La laïcité ce n'est pas l'interdiction de pratiquer sa religion en public. C'e
 
 <h2>Mais ce n'est pas tout</h2>
 
-[caption id="attachment_1192" align="aligncenter" width="200"]<a href="http://aldarone.fr/wp-content/uploads/2013/04/intersectionality.jpg"><img src="http://aldarone.fr/wp-content/uploads/2013/04/intersectionality.jpg" alt="intersectionality" width="200" height="150" class="size-full wp-image-1192" /></a> Les discriminations se recoupent.[/caption]
+[caption id="attachment_1192" align="aligncenter" width="200"]<a href="https://aldarone.fr/wp-content/uploads/2013/04/intersectionality.jpg"><img src="https://aldarone.fr/wp-content/uploads/2013/04/intersectionality.jpg" alt="intersectionality" width="200" height="150" class="size-full wp-image-1192" /></a> Les discriminations se recoupent.[/caption]
 
 Parce que la liste est bien trop énorme et que cet article devient bien trop long je ne peux pas énumérer toutes les inégalités existantes. Je n'ai que survolé les dimensions concernant l'orientation sexuelle et les pratiques religieuses sans aborder les inégalités de classes sociales, le racisme ou le sexisme.<sup id="fnref:6"><a href="6" rel="footnote">6</a></sup>
 

@@ -10,9 +10,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Roots-parent-theme.jpg
+    https://aldarone.fr/assets/Roots-parent-theme.jpg
   - >
-    http://aldarone.fr/assets/Roots-parent-theme.jpg
+    https://aldarone.fr/assets/Roots-parent-theme.jpg
 head_img_alt:
   - Roots Parent Theme
   - Roots Parent Theme
@@ -23,7 +23,7 @@ dsq_thread_id:
   - "436609076"
   - "436609076"
 ---
-Après avoir parlé un peu de l'architecture système qui se cache derrière ce blog (avec mes articles sur <a href="http://aldarone.fr/avec-quoi-il-marche-ton-serveur/" title="Avec quoi il marche ton serveur ?">Comment utiliser nginx et php-fpm</a> et <a href="http://aldarone.fr/passer-de-mysql-a-mariadb/" title="Passer de MySQL à MariaDB">Comment remplacer MySQL par MariaDB</a>) je vais vous parler un peu de Wordpress.
+Après avoir parlé un peu de l'architecture système qui se cache derrière ce blog (avec mes articles sur <a href="https://aldarone.fr/avec-quoi-il-marche-ton-serveur/" title="Avec quoi il marche ton serveur ?">Comment utiliser nginx et php-fpm</a> et <a href="https://aldarone.fr/passer-de-mysql-a-mariadb/" title="Passer de MySQL à MariaDB">Comment remplacer MySQL par MariaDB</a>) je vais vous parler un peu de Wordpress.
 
 Le thème est un « <a href="http://codex.wordpress.org/Child_Themes">child theme</a> » créé par moi et basé sur l'excellent <a href="http://www.rootstheme.com/">Roots</a> (dans le sens où c'est le seul « parent theme » qui ai réussi à me donner envie de faire un child plutôt que tout faire moi même).
 

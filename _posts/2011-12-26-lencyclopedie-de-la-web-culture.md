@@ -9,9 +9,9 @@ permalink: /lencyclopedie-de-la-web-culture/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/encyclo-web-culture.jpg
+    https://aldarone.fr/assets/encyclo-web-culture.jpg
   - >
-    http://aldarone.fr/assets/encyclo-web-culture.jpg
+    https://aldarone.fr/assets/encyclo-web-culture.jpg
 head_img_alt:
   - Encyclopédie de la web culture
   - Encyclopédie de la web culture

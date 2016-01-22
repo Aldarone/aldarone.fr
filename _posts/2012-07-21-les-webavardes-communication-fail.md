@@ -8,8 +8,8 @@ layout: post
 permalink: /les-webavardes-communication-fail/
 published: true
 head_img:
-  - http://aldarone.fr/assets/webavardes.jpg
-  - http://aldarone.fr/assets/webavardes.jpg
+  - https://aldarone.fr/assets/webavardes.jpg
+  - https://aldarone.fr/assets/webavardes.jpg
 head_img_alt:
   - Les Webavardes
   - Les Webavardes
@@ -29,7 +29,7 @@ dsq_needs_sync:
 
 <p>Quelque chose comme les mots « résolument » (je n'ai jamais vu ce mot ailleurs que dans des magazines dits « féminin »), « geekette » et « girly » mais des mots ça ne suffit pas. Alors pour le côté <strong>girly</strong> il fallait un atelier <strong>massage des mains</strong>, et pour le côté <strong>geekette</strong> il fallait <strong>des iPads</strong>.</p>
 
-<p><img src="http://aldarone.fr/wp-content/uploads/2012/07/mario-ongle-500x204.jpg" alt="Manucure Mario" title="Manucure Mario" width="500" height="204" class="aligncenter size-full wp-image-646" /></p>
+<p><img src="https://aldarone.fr/wp-content/uploads/2012/07/mario-ongle-500x204.jpg" alt="Manucure Mario" title="Manucure Mario" width="500" height="204" class="aligncenter size-full wp-image-646" /></p>
 
 <p>Voila, le Girl Geek Dinner de Strasbourg était né, une espèce de rassemblement de blogueuses mode se branlant le haricot sur le dernier iDevice en parlant astuces makeup (pour les hommes on dit « nouille », pour les femmes j'aime bien utiliser « haricot ») vous pouvez en lire un résumé chez <a href="http://www.saiko-sama.fr/jai-teste-pour-vous-le-girl-geek-dinner-de-strasbourg/">Saiko Sama</a>.</p>
 
@@ -54,7 +54,7 @@ dsq_needs_sync:
 <p>Ce ne sont donc pas des <strong>femmes</strong> mais des <strong>filles</strong>. D'où vient ce besoin de s'infantiliser, sachant qu'elles ont toutes dépassé la vingtaine ? Ce serait honteux d'être une femme ? Vous avez peur de vieillir et de devenir moins intéressantes ?</p></li>
 <li><p>Leur site web qui n'est pas terminé :</p>
 
-<p><a href="http://aldarone.fr/wp-content/uploads/2012/07/screenshot.121-e1342868555593.png" class="picture"><img src="http://aldarone.fr/wp-content/uploads/2012/07/screenshot.121-e1342868555593.png" alt="LesWebavardes.fr en construction" title="LesWebavardes.fr en construction" width="540" height="473" class="aligncenter size-large wp-image-659" /></a></p>
+<p><a href="https://aldarone.fr/wp-content/uploads/2012/07/screenshot.121-e1342868555593.png" class="picture"><img src="https://aldarone.fr/wp-content/uploads/2012/07/screenshot.121-e1342868555593.png" alt="LesWebavardes.fr en construction" title="LesWebavardes.fr en construction" width="540" height="473" class="aligncenter size-large wp-image-659" /></a></p>
 
 <p>Admirez le menu en haut à droite, la page d'exemple toujours accessible, le fond de la page qui apparait sous le footer,…</p></li>
 <li><p>Leur site web qui n'est pas valide : <a href="http://validator.w3.org/check?uri=http://www.leswebavardes.fr/page-d-exemple/">9 erreurs, 2 avertissements</a>.</p>

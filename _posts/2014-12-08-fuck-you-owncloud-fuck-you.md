@@ -30,7 +30,7 @@ Même si je suis mon propre hébergeur, je me suis empressé d'activer ce module
 
 Si vous êtes pressés je vous la fait courte : J'aurais pas dû.
 
-<img src="http://aldarone.fr/wp-content/uploads/2014/12/yjt6EZL.gif" alt="yjt6EZL" width="500" height="271" class="aligncenter size-full wp-image-1559" />
+<img src="https://aldarone.fr/wp-content/uploads/2014/12/yjt6EZL.gif" alt="yjt6EZL" width="500" height="271" class="aligncenter size-full wp-image-1559" />
 
 J'ai donc commencé à utiliser le client de synchronisation d'abord en transférant toute ma dropbox, puis en activant l'envoi automatique de mes photos prises sur mon téléphone, puis en y mettant mes dotfiles pour y avoir accès de partout.
 

@@ -10,9 +10,9 @@ permalink: >
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/cable-madness.jpg
+    https://aldarone.fr/assets/cable-madness.jpg
   - >
-    http://aldarone.fr/assets/cable-madness.jpg
+    https://aldarone.fr/assets/cable-madness.jpg
 head_img_alt:
   - Couloir de cables
   - Couloir de cables
@@ -38,7 +38,7 @@ Google demande à Free de payer parce que les abonnés Free payent pour pouvoir 
 
 Xavier, je t'aime bien, mais là c'est Google qui a raison. Je te paie pour pouvoir aller sur Youtube et c'est à toi de te démerder par tous les moyens pour que je puisse y accéder dans de bonnes conditions.
 
-On sait déjà que Google met ses contenus en France pour t'éviter de traverser l'Atlantique pour les récupérer. <a href="http://aldarone.fr/free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous/" title="Free et Youtube: un problème de tuyau et de gros sous" target="_blank">Aucun autre FAI ne semble avoir de problèmes</a> (par exemple quand j'active mon proxy chez OVH ça marche nickel.)
+On sait déjà que Google met ses contenus en France pour t'éviter de traverser l'Atlantique pour les récupérer. <a href="https://aldarone.fr/free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous/" title="Free et Youtube: un problème de tuyau et de gros sous" target="_blank">Aucun autre FAI ne semble avoir de problèmes</a> (par exemple quand j'active mon proxy chez OVH ça marche nickel.)
 
 Et tu sais ce qu'il y a de pire qu'un opérateur mobile qui s'accorde avec les autres ? Un fournisseur de service qui fait payer ses clients ET qui taxe ses propres fournisseurs.
 

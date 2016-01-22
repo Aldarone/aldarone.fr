@@ -9,9 +9,9 @@ permalink: /avec-quoi-il-marche-ton-serveur/
 published: true
 head_img:
   - >
-    http://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
+    https://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
   - >
-    http://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
+    https://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
 head_img_alt:
   - Logo Ubuntu Nginx MariaDB PHP
   - Logo Ubuntu Nginx MariaDB PHP
@@ -63,7 +63,7 @@ sudo apt-get install php5-fpm
 
     #Réécriture d'URL pour supprimer www
     if ($host !~* ^aldarone.fr ) {
-            rewrite ^/(.*)$ http://aldarone.fr/$1 permanent;
+            rewrite ^/(.*)$ https://aldarone.fr/$1 permanent;
     }
 
     #La partie intéressante

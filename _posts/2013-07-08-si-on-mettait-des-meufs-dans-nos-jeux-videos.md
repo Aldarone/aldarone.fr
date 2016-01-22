@@ -17,7 +17,7 @@ C'est une bonne idée ça non ? Mettre des meufs dans un jeu. Ça devrait faire 
 
 En effet, si il suffisait de rajouter un personnage féminin dans un jeu pour le rendre irréprochable, on serait en droit de se croire au pays des bisounours et les féministes pourraient simplement se détendre en allumant leur console et profiter paisiblement de cette incroyable bulle sans sexisme.
 
-[caption id="attachment_1358" align="aligncenter" width="500"]<img src="http://aldarone.fr/wp-content/uploads/2013/07/Soap-Bubble-Pop.gif" alt="Zone sans sexisme explosant suite à l&#039;intrusion du premier individu venu" width="500" height="275" class="size-full wp-image-1358" /> Zone sans sexisme explosant suite à l'intrusion du premier individu venu[/caption]
+[caption id="attachment_1358" align="aligncenter" width="500"]<img src="https://aldarone.fr/wp-content/uploads/2013/07/Soap-Bubble-Pop.gif" alt="Zone sans sexisme explosant suite à l&#039;intrusion du premier individu venu" width="500" height="275" class="size-full wp-image-1358" /> Zone sans sexisme explosant suite à l'intrusion du premier individu venu[/caption]
 
 Dans la vraie vie justement la partie « <em>Les joueurs ils vont kiffer de pouvoir mater</em> » est prépondérante et la quasi totalité des personnages féminins dans les jeux vidéo sont là pour être reluqués. L'esprit humain est même tellement fort qu'il trouve moyen de le faire partout, y compris là où on ne s'y attend pas forcément.
 
@@ -49,11 +49,11 @@ De 1995 à 2003, on observe donc une certaine diversité chez les personnages f�
 
 À contrario, les ptizêtres, ont directement été envisagés comme étant des variations comportementales d'une même base:
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/07/TeensiensCA.jpg" alt="TeensiensCA" width="309" height="395" class="aligncenter size-full wp-image-1369" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/07/TeensiensCA.jpg" alt="TeensiensCA" width="309" height="395" class="aligncenter size-full wp-image-1369" />
 
 <h3>Les Rayman suivants</h3>
 
-[caption id="attachment_1398" align="alignleft" width="150"]<a href="http://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn.png"><img src="http://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn-150x200.png" alt="Tu as beaucoup changé Bétilla…" width="150" height="200" class="size-quarter wp-image-1398" /></a> Tu as beaucoup changé Bétilla…[/caption]
+[caption id="attachment_1398" align="alignleft" width="150"]<a href="https://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn.png"><img src="https://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn-150x200.png" alt="Tu as beaucoup changé Bétilla…" width="150" height="200" class="size-quarter wp-image-1398" /></a> Tu as beaucoup changé Bétilla…[/caption]
 
 Ce qui nous amène à Rayman Origins et Rayman Legends qui sont les deux opus où la différence de traitement est la plus flagrante.
 
@@ -63,16 +63,16 @@ Toutes sont emprisonnées, toutes ont le même physique<sup id="fnref:2"><a href
 
 C'est particulièrement flagrant dans la vidéo suivante qui met bout à bout les libérations des Fées :
 
-<a href="http://www.youtube.com/watch?v=GfbPtJ3cKtE"><img src="http://aldarone.fr/wp-content/uploads/2013/07/Rayman_Origins_Nymphs.png" alt="Rayman_Origins_Nymphs" width="639" height="357" class="aligncenter size-full wp-image-1371" /></a>
+<a href="http://www.youtube.com/watch?v=GfbPtJ3cKtE"><img src="https://aldarone.fr/wp-content/uploads/2013/07/Rayman_Origins_Nymphs.png" alt="Rayman_Origins_Nymphs" width="639" height="357" class="aligncenter size-full wp-image-1371" /></a>
 
 Et de ce qu'on sait de Rayman Legends, il n'y a pas vraiment de quoi se réjouir non plus puisque si nous verrons l'introduction d'un nouveau personnage féminin jouable<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> il est lui aussi loin d'être idéal : Barbara la barbare
 
 [caption id="attachment_1373" align="aligncenter" width="711"]
 
-<p><a href="http://www.youtube.com/watch?v=e8vQOh5sFPI"><img src="http://aldarone.fr/wp-content/uploads/2013/07/image_rayman_legends-19892-2528_0006.jpg" alt="Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi." width="711" height="400" class="size-full wp-image-1373" /></a> Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi.
+<p><a href="http://www.youtube.com/watch?v=e8vQOh5sFPI"><img src="https://aldarone.fr/wp-content/uploads/2013/07/image_rayman_legends-19892-2528_0006.jpg" alt="Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi." width="711" height="400" class="size-full wp-image-1373" /></a> Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi.
 [/caption]</p>
 
-[caption id="attachment_1375" align="alignleft" width="189"]<img src="http://aldarone.fr/wp-content/uploads/2013/07/Vikings-Lagertha-189x200.jpg" alt="Ça c&#039;est une viking. Barbara, c&#039;est ce qu&#039;imagine un développeur de Jeux vidéo qui pense avec ses couilles." width="189" height="200" class="size-quarter wp-image-1375" /> Ça c'est une viking. Barbara, c'est ce qu'imagine un développeur de Jeux vidéo qui pense avec ses couilles.[/caption]
+[caption id="attachment_1375" align="alignleft" width="189"]<img src="https://aldarone.fr/wp-content/uploads/2013/07/Vikings-Lagertha-189x200.jpg" alt="Ça c&#039;est une viking. Barbara, c&#039;est ce qu&#039;imagine un développeur de Jeux vidéo qui pense avec ses couilles." width="189" height="200" class="size-quarter wp-image-1375" /> Ça c'est une viking. Barbara, c'est ce qu'imagine un développeur de Jeux vidéo qui pense avec ses couilles.[/caption]
 
 Mais en tant que guerrière, pourquoi est-elle aussi court vêtue ?
 
@@ -90,13 +90,13 @@ Les seuls personnages féminins présent dans Origins et Legends<sup id="fnref:1
 
 Mon second exemple est l'alternative libre à Super Mario Kart, le jeu Super Tux Kart.
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/07/SuperTuxKart.jpg" alt="SuperTuxKart" width="800" height="600" class="aligncenter size-full wp-image-1352" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/07/SuperTuxKart.jpg" alt="SuperTuxKart" width="800" height="600" class="aligncenter size-full wp-image-1352" />
 
 De base, le jeu propose 15 personnages différents, tous des mascottes de projets libres comme Tux, eMule, Mozilla, GNU etc. Uniquement des animaux donc et pas forcément masculins (on retrouve ainsi la chimpanzé Suzanne qui vient de Blender)
 
 Les développeurs ont toutefois trouvé judicieux d'intégrer une femme comme personnage jouable dans la prochaine version, une magicienne provenant du projet <a href="http://opengameart.org/content/faq#q-purpose">Open Game Art</a>
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/07/Sara-Wizard.png" alt="Sara-Wizard" width="335" height="240" class="aligncenter size-full wp-image-1380" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/07/Sara-Wizard.png" alt="Sara-Wizard" width="335" height="240" class="aligncenter size-full wp-image-1380" />
 
 Ici encore, ce qui part d'un bon sentiment va complètement taper à côté à cause de la lorgnette sexiste qui pousse les gens à ne voir les femmes que comme des objets de désir.
 
@@ -147,7 +147,7 @@ Si il y en a d'autres dans Legends, Ubisoft ne juge pas bon de communiquer dessu
 </li>
 
 <li id="fn:7">
-Je rappelle que Peach et Daisy, quand elles sont en moto, ont la présence d'esprit de <a href="http://aldarone.fr/wp-content/uploads/2013/07/590px-Mario_Kart_Wii_-_Daisy.png">se mettre en combinaison</a>&#160;<a href="#fnref:7" rev="footnote">&#8617;</a>
+Je rappelle que Peach et Daisy, quand elles sont en moto, ont la présence d'esprit de <a href="https://aldarone.fr/wp-content/uploads/2013/07/590px-Mario_Kart_Wii_-_Daisy.png">se mettre en combinaison</a>&#160;<a href="#fnref:7" rev="footnote">&#8617;</a>
 </li>
 
 <li id="fn:8">

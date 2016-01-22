@@ -11,7 +11,7 @@ published: true
 ---
 Cette après-midi je suis tombé sur un partage trollesque d'un gros malin qui voulait se payer une bonne tranche de rigolade au détriment de ces imbéciles de féministes qui prennent la tête (cliquez sur la miniature pour le lire en entier) :
 
-[caption id="attachment_1537" align="aligncenter" width="193"]<a href="http://aldarone.fr/wp-content/uploads/2014/10/1jxCprf.jpg"><img src="http://aldarone.fr/wp-content/uploads/2014/10/1jxCprf-193x300-1412615085.jpg" alt="L&#039;homme et la femme sont égaux...ou pas...enfin si !" width="193" height="300" class="size-medium wp-image-1537" /></a> L'homme et la femme sont égaux...ou pas...enfin si ![/caption]
+[caption id="attachment_1537" align="aligncenter" width="193"]<a href="https://aldarone.fr/wp-content/uploads/2014/10/1jxCprf.jpg"><img src="https://aldarone.fr/wp-content/uploads/2014/10/1jxCprf-193x300-1412615085.jpg" alt="L&#039;homme et la femme sont égaux...ou pas...enfin si !" width="193" height="300" class="size-medium wp-image-1537" /></a> L'homme et la femme sont égaux...ou pas...enfin si ![/caption]
 
 Ce truc est « intéressant » à plusieurs égards.
 
@@ -19,7 +19,7 @@ D'abord parce qu'il est partagé par des gens qui généralement s'érigent cont
 
 Ensuite parce qu'il enchaîne des arguments pouvant être vus différemment selon le contexte où ils sont énoncés.
 
-[caption id="attachment_1544" align="aligncenter" width="196"]<img src="http://aldarone.fr/wp-content/uploads/2014/10/Simpsons-1ereCase-2-196x300.jpg" alt="- Hommes, femmes, c&#039;est la même chose. - Êtes-vous en train de dire que les hommes et les femmes sont identiques ?" width="196" height="300" class="size-medium wp-image-1544" /> - Hommes, femmes, c'est la même chose.<br />- Êtes-vous en train de dire que les hommes et les femmes sont identiques ?[/caption]
+[caption id="attachment_1544" align="aligncenter" width="196"]<img src="https://aldarone.fr/wp-content/uploads/2014/10/Simpsons-1ereCase-2-196x300.jpg" alt="- Hommes, femmes, c&#039;est la même chose. - Êtes-vous en train de dire que les hommes et les femmes sont identiques ?" width="196" height="300" class="size-medium wp-image-1544" /> - Hommes, femmes, c'est la même chose.<br />- Êtes-vous en train de dire que les hommes et les femmes sont identiques ?[/caption]
 
 Quand cette phrase provient d'une personne identifiée comme féministe, il est évident qu'on se place dans un contexte militant énonçant les choses comme elles devraient être (selon le point de vue de la personne.)
 
@@ -36,7 +36,7 @@ Dans ce cas, c'est là que les féministes arrivent et expliquent que la situati
 
 C'est là aussi que des gens comme (par exemple) les anti-gender de la manif pour tous arrivent (mais ils ne sont pas les seuls) et protestent puisque selon eux les hommes et les femmes étant biologiquement différents, il est donc naturel que les unes soient traitées différemment des autres. Ils en profitent au passage pour passer sous silence que <a href="http://uneheuredepeine.blogspot.fr/2013/06/lexperience-de-la-boite.html">ce qui est « naturel » n'est pas si évident et intuitif à définir que ça</a> mais aussi <a href="http://sexes.blogs.liberation.fr/agnes_giard/2014/07/les-enfants-sauvages-sont-ils-capables-de-se-reproduire-.html">que nos comportements et nos actes sont très largement influencés par notre culture</a>.
 
-[caption id="attachment_1545" align="aligncenter" width="197"]<img src="http://aldarone.fr/wp-content/uploads/2014/10/Simpsons-UniqueWomen-2-197x300.jpg" alt="- Les femmes sont uniques dans tous les sens du terme. - Et maintenant il dit que les hommes et les femmes ne sont pas égales !" width="197" height="300" class="size-medium wp-image-1545" /> - Les femmes sont uniques dans tous les sens du terme.<br />- Et maintenant il dit que les hommes et les femmes ne sont pas égales ![/caption]
+[caption id="attachment_1545" align="aligncenter" width="197"]<img src="https://aldarone.fr/wp-content/uploads/2014/10/Simpsons-UniqueWomen-2-197x300.jpg" alt="- Les femmes sont uniques dans tous les sens du terme. - Et maintenant il dit que les hommes et les femmes ne sont pas égales !" width="197" height="300" class="size-medium wp-image-1545" /> - Les femmes sont uniques dans tous les sens du terme.<br />- Et maintenant il dit que les hommes et les femmes ne sont pas égales ![/caption]
 
 On peut retrouver ce point de vue dans « Women are unique in every way » puisque si les femmes sont uniques mais ont toujours pour point commun d'être des femmes, elles sont bien à traiter différemment (on peut même y voir le sexisme bienveillant du galant homme qui traite chaque femme de manière exceptionnelle.) D'où la protestation : « Now he's saying women and men aren't equal. »
 

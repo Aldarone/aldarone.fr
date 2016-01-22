@@ -25,7 +25,7 @@ bitlyURL:
 
 <p>Je ne pense pas devenir complètement végétalien (et donc pas vegan non plus) parce que ça impliquerait par exemple de se priver d'œufs alors que je ne suis pas convaincu du fait qu'un œuf non fécond va manquer à une poule élevée dans de bonnes conditions. Parce que oui, la poule elle pond quoi qu'il arrive.</p>
 
-<p>[caption id="attachment_852" align="aligncenter" width="275"] <img src="http://aldarone.fr/wp-content/uploads/2013/02/Chicken.gif" alt="Une poule" width="275" height="205" class="size-full wp-image-852" /> En plus de pondre des œufs, les poules sont trop fortes pour… ne pas bouger la tête. [/caption]</p>
+<p>[caption id="attachment_852" align="aligncenter" width="275"] <img src="https://aldarone.fr/wp-content/uploads/2013/02/Chicken.gif" alt="Une poule" width="275" height="205" class="size-full wp-image-852" /> En plus de pondre des œufs, les poules sont trop fortes pour… ne pas bouger la tête. [/caption]</p>
 
 <p>Il faudrait aussi se passer de médicaments puisque leur mise sur le marché impose des tests sur animaux (et on ne peux décemment pas s'en passer malheureusement, là c'est mon côté spéciste qui parle.) Et les médecines alternatives à base d'homéopathie ou de jeûne heu… #lol</p>
 
@@ -59,7 +59,7 @@ bitlyURL:
 
 <p>Bref, une période de vaches maigres s'annonce et si ils continuent tous sur leur lancée je boycotterais. (Sauf si, en bon pirate, il y a moyen de faire quelque chose.)</p>
 
-<p>[caption id="attachment_854" align="aligncenter" width="439"] <img src="http://aldarone.fr/wp-content/uploads/2013/02/UbisoftvsPirates.gif" alt="Ubisoft vs Pirates" width="439" height="310" class="size-full wp-image-854" /> À ce petit jeu, on sait déjà qui gagne. [/caption]</p>
+<p>[caption id="attachment_854" align="aligncenter" width="439"] <img src="https://aldarone.fr/wp-content/uploads/2013/02/UbisoftvsPirates.gif" alt="Ubisoft vs Pirates" width="439" height="310" class="size-full wp-image-854" /> À ce petit jeu, on sait déjà qui gagne. [/caption]</p>
 
 <h2>4/ Est-ce qu’il y a une cause pour laquelle tu te bats ?</h2>
 
@@ -77,7 +77,7 @@ bitlyURL:
 
 <p>Je vais passer pour un gros régionaliste mais…</p>
 
-<p>[caption id="attachment_856" align="aligncenter" width="510"] <img src="http://aldarone.fr/assets/la-biere-savernoise-licorne-510x476.jpg" alt="Bière Licorne" width="510" height="476" class="size-medium wp-image-856" /> Si je bois pas régulièrement de la bière, je dépéris. [/caption]</p>
+<p>[caption id="attachment_856" align="aligncenter" width="510"] <img src="https://aldarone.fr/assets/la-biere-savernoise-licorne-510x476.jpg" alt="Bière Licorne" width="510" height="476" class="size-medium wp-image-856" /> Si je bois pas régulièrement de la bière, je dépéris. [/caption]</p>
 
 <h2>7/ Des météorites tombent du ciel, quelle est ta première réaction ?</h2>
 
@@ -93,7 +93,7 @@ bitlyURL:
 
 <p>J'utilise Linux sur les serveurs dont je m'occupe évidemment mais ce n'est que récemment (le mois dernier) que je suis passé à temps plein sur ArchLinux. Avant je me contentais d'installer Ubuntu à l'occasion de la sortie de nouvelles versions pour voir comment ça avançait (SPOILER: Pas dans le bon sens à mon avis.)</p>
 
-<p>J'ai <a href="http://aldarone.fr/windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau/">installé Xubuntu sur le PC de ma chérie</a> aussi, et pour l'instant ça se passe bien.</p>
+<p>J'ai <a href="https://aldarone.fr/windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau/">installé Xubuntu sur le PC de ma chérie</a> aussi, et pour l'instant ça se passe bien.</p>
 
 <h2>9/ Les films avec lunettes 3D, tu en penses quoi ?</h2>
 
@@ -133,4 +133,4 @@ bitlyURL:
 
 <p>Et je vais le demander à <a href="http://sebsauvage.net/rhaa/index.php?2013/02/21/09/36/35-patate-chaude">SebSauvage</a>, <a href="http://lecerebro.leetchee.fr/tag-ceci-nest-pas-un-skyblog-et-autres-questions-feministes-mais-pas-que/">Marquise</a>, <a href="http://fvsch.com/notes/">fvsch</a>, <a href="http://kadlife.blogspot.fr/2013/02/jme-suis-fait-tagge.html">Kadc0m</a>, <a href="http://blog.m0le.net/2013/02/21/le-jeu-des-11-questions/">Nono</a>, <a href="http://lehollandaisvolant.net/index.php?mode=links&amp;id=20130221123854">Timo</a>, <a href="http://physalice.tumblr.com/post/43579216584/bien-ca-fait-longtemps-que-je-nai-rien-poste">Physalice</a> et <a href="http://www.suumitsu.eu/2013/02/nope-spas-un-skyblog/">Mitsu</a>. J'espère qu'elles et ils jugeront mes questions assez intéressantes pour y répondre !</p>
 
-<p>[caption id="attachment_842" align="aligncenter" width="500"] <img src="http://aldarone.fr/wp-content/uploads/2013/02/TheGrinch.gif" alt="The Grinch" width="500" height="240" class="size-full wp-image-842" /> Vous êtes contents hein ? [/caption]</p>
+<p>[caption id="attachment_842" align="aligncenter" width="500"] <img src="https://aldarone.fr/wp-content/uploads/2013/02/TheGrinch.gif" alt="The Grinch" width="500" height="240" class="size-full wp-image-842" /> Vous êtes contents hein ? [/caption]</p>

@@ -8,8 +8,8 @@ layout: post
 permalink: /bye-bye-google-reader-bonjour-feedly/
 published: true
 head_img:
-  - http://aldarone.fr/assets/Feedly.png
-  - http://aldarone.fr/assets/Feedly.png
+  - https://aldarone.fr/assets/Feedly.png
+  - https://aldarone.fr/assets/Feedly.png
 head_img_alt:
   - Feedly Logo
   - Feedly Logo

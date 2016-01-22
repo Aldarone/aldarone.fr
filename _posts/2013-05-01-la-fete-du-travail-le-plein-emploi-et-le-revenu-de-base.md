@@ -43,7 +43,7 @@ C'est la lutte de ces militants qui voulaient réduire leur temps de travail et 
 
 <h2>Travail, Famille, Patrie</h2>
 
-[caption id="attachment_1209" align="alignright" width="200"]<a href="http://aldarone.fr/wp-content/uploads/2013/05/Philippe_Pétain_en_civil_autour_de_1930.jpg"><img src="http://aldarone.fr/assets/Philippe_Pétain_en_civil_autour_de_1930-200x252.jpg" alt="Philippe Pétain" width="200" height="252" class="size-thumbnail wp-image-1209" /></a> Philippe Pétain. Source: <a href="http://www.loc.gov/pictures/resource/hec.21606/">Harris &amp; Ewing Collection, Library of Congress</a>[/caption]
+[caption id="attachment_1209" align="alignright" width="200"]<a href="https://aldarone.fr/wp-content/uploads/2013/05/Philippe_Pétain_en_civil_autour_de_1930.jpg"><img src="https://aldarone.fr/assets/Philippe_Pétain_en_civil_autour_de_1930-200x252.jpg" alt="Philippe Pétain" width="200" height="252" class="size-thumbnail wp-image-1209" /></a> Philippe Pétain. Source: <a href="http://www.loc.gov/pictures/resource/hec.21606/">Harris &amp; Ewing Collection, Library of Congress</a>[/caption]
 
 Les trois mamelles de la propagande pétainiste. Tout est clair, il faut vivre pour travailler et à ce titre le 1er Mai devient "La fête du Travail" mettant de côté la mémoire des travailleurs pour célébrer plutôt l’assujettissement.
 
@@ -78,7 +78,7 @@ Les hôte⋅sse⋅s de caisse sont remplacé⋅e⋅s par des automates où le cl
 
 Et tout ceci va dans le bon sens, celui du progrès technique qui libère l'humain des tâches pénibles et lui permet de vivre mieux.
 
-[caption id="attachment_1215" align="aligncenter" width="480"]<a href="http://www.youtube.com/watch?v=IVBLcpAkNN8"><img src="http://aldarone.fr/wp-content/uploads/2013/05/LeTravailDisparait.jpg" alt="Le Travail Disparait" width="480" height="360" class="size-full wp-image-1215" /></a> "Le Travail disparait et c'est ce qu'on voulait" - <a href="https://fr.wikipedia.org/wiki/Paul_Jorion">Paul Jorion</a>[/caption]
+[caption id="attachment_1215" align="aligncenter" width="480"]<a href="http://www.youtube.com/watch?v=IVBLcpAkNN8"><img src="https://aldarone.fr/wp-content/uploads/2013/05/LeTravailDisparait.jpg" alt="Le Travail Disparait" width="480" height="360" class="size-full wp-image-1215" /></a> "Le Travail disparait et c'est ce qu'on voulait" - <a href="https://fr.wikipedia.org/wiki/Paul_Jorion">Paul Jorion</a>[/caption]
 
 Il serait donc temps de chercher des solutions pour épargner aux gens le besoin de travailler pour gagner leur vie<sup id="fnref:4"><a href="4" rel="footnote">4</a></sup> au lieu de continuer dans cette course élancée, désespérée (et sans espoir) pour le maintient d'emplois qui n'ont plus lieu d'être.
 
@@ -90,7 +90,7 @@ Le revenu de base, c'est un concept qui offre à chaque être humain un revenu p
 
 Pour que plus personne n'ait besoin de travailler pour vivre et encore moins de vivre pour travailler et ainsi augmenter le bien être général<sup id="fnref:5"><a href="5" rel="footnote">5</a></sup>.
 
-<img src="http://aldarone.fr/wp-content/uploads/2013/05/cerveau_revenu_de_base_inconditionnel.png" alt="cerveau_revenu_de_base_inconditionnel" width="700" height="389" class="aligncenter size-full wp-image-1219" />
+<img src="https://aldarone.fr/wp-content/uploads/2013/05/cerveau_revenu_de_base_inconditionnel.png" alt="cerveau_revenu_de_base_inconditionnel" width="700" height="389" class="aligncenter size-full wp-image-1219" />
 
 Quand l'argent n'est plus un problème, on peut commencer à penser à autre chose. Et la première crainte des opposants à ce revenu inconditionnel c'est que les gens resteront inertes.
 

@@ -18,7 +18,7 @@ Un certains <a href="https://twitter.com/FeaRoFDerbi">FeaRoFDerbi</a>, probablem
 
 Et le moins que je puisse dire c'est que… je voudrais pas être une gameuse, je vous laisse juger :
 
-<a class="youtube" href="http://www.youtube.com/watch?v=-ywFpQU4xW8"><img class="aligncenter size-large wp-image-756" title="MW3 / Fille &amp; Réactions de dalleux" alt="MW3 / Fille &amp; Réactions de dalleux" src="http://aldarone.fr/assets/MW3-Fille-Réactions-de-dalleux-540x328.jpg" width="540" height="328" /></a>
+<a class="youtube" href="http://www.youtube.com/watch?v=-ywFpQU4xW8"><img class="aligncenter size-large wp-image-756" title="MW3 / Fille &amp; Réactions de dalleux" alt="MW3 / Fille &amp; Réactions de dalleux" src="https://aldarone.fr/assets/MW3-Fille-Réactions-de-dalleux-540x328.jpg" width="540" height="328" /></a>
 
 Le gamer qui voit cette vidéo va passer par plusieurs phases successives pour se désolidariser du sexisme ambiant, se rassurer du fait qu'il n'est pas comme ça et finir par nier le problème. Quel est le cheminement de pensée « standard » ?
 <blockquote>

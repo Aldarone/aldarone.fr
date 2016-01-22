@@ -22,7 +22,7 @@ bitlyURL:
   
   <p>En passant leur contrat avec les mafias du futur, les loopers acceptent de tuer leur "futur-moi" quand il arrivera devant eux. Leur contrat prend alors fin et ils récoltent un joli paquet de lingots d'or pour passer une retraite dorée qui durera 30 ans. Ensuite il seront renvoyés dans le passé pour être froidement mis à mort part leur "ancien-moi". La boucle est bouclée.</p>
   
-  <p><img src="http://aldarone.fr/wp-content/uploads/2013/01/tumblr_mhcgna5Uec1qafimoo1_500.gif" alt="Un looper sachant looper" width="500" height="230" class="aligncenter size-full wp-image-806" /></p>
+  <p><img src="https://aldarone.fr/wp-content/uploads/2013/01/tumblr_mhcgna5Uec1qafimoo1_500.gif" alt="Un looper sachant looper" width="500" height="230" class="aligncenter size-full wp-image-806" /></p>
   
   <p>Oh et aussi il y a des gens qui ont des pouvoir télékinésiques et qui arrivent à faire voler des petits objets à quelques centimètres au dessus de leurs mains.</p>
   
@@ -31,7 +31,7 @@ bitlyURL:
   <p>Comme c'est Bruce Willis, il arrive à se libérer et à éliminer ses agresseur. Et il va décider de retourner quand même dans le passé pour tuer le méchant en chef, un mec super balèze appelé <strong>Le Rainmaker</strong> qui s'est hissé tout seul à la tête de la mafia en 6 mois. Évidemment, il échappe à son "ancien-moi" qui du coup va le traquer pour boucler sa boucle.</p>
 </blockquote>
 
-<p><img src="http://aldarone.fr/wp-content/uploads/2013/01/tumblr_mha9h8Ur7s1r0jbbho1_500.gif" alt="Un briquet qui (Gordon-)Levitt" width="500" height="213" class="aligncenter size-full wp-image-808" /></p>
+<p><img src="https://aldarone.fr/wp-content/uploads/2013/01/tumblr_mha9h8Ur7s1r0jbbho1_500.gif" alt="Un briquet qui (Gordon-)Levitt" width="500" height="213" class="aligncenter size-full wp-image-808" /></p>
 
 <p>Je suis ébahi de la longueur du résumé en comparaison avec la chiantitude du film. Parce que chiant il l'est. L'action est molle, les plans qui traînent sont légions (un peu comme si le réalisateur se croyait dans un film indé, la sensibilité nécessaire en moins.)</p>
 
@@ -46,7 +46,7 @@ bitlyURL:
 
 <p>Et pour finir, j'ai été profondément désolé face à l’inexistence la plus totale de continuité temporelle (et l'absence de phénomène l'expliquant)</p>
 
-<p>Ainsi, au bout de 30 min de film, on nous explique que parfois un looper (en l'occurence, <a href="http://aldarone.fr/wp-content/uploads/2013/01/Paul+Dano+i+Looper.jpg">Seth</a> dans le film) n'arrive pas à boucler sa boucle et laisse s'évader son "futur-moi," il est alors torturé et mis à mort.</p>
+<p>Ainsi, au bout de 30 min de film, on nous explique que parfois un looper (en l'occurence, <a href="https://aldarone.fr/wp-content/uploads/2013/01/Paul+Dano+i+Looper.jpg">Seth</a> dans le film) n'arrive pas à boucler sa boucle et laisse s'évader son "futur-moi," il est alors torturé et mis à mort.</p>
 
 <p>Oui, vous avez bien lu ils mettent à mort les loopers du présent parce qu'ils ont laissés s'échapper leur "futur-moi." C'est là que tous ceux qui sont sensible au respect de la causalité se mettent à crier de rage (ou à pleurer de désespoir.)</p>
 
@@ -54,10 +54,10 @@ bitlyURL:
 
 <p>Si il disparait, c'est qu'il n'a jamais existé, sa vie s'arrête en 2044 et il ne peux pas être kidnappé en 2074 puis renvoyé dans le passé pour mourir. Mais alors, si vieux-Seth n'existe pas, qui a échappé a Seth ?</p>
 
-<p><a class="youtube" href="https://www.youtube.com/watch?v=vY_Ry8J_jdw"><img src="http://aldarone.fr/wp-content/uploads/2013/01/tumblr_mc6pglkg8C1r8u39k.gif" alt="Wibbly wobbly timey winey… stuff" width="490" height="289" class="aligncenter size-full wp-image-813" /></a></p>
+<p><a class="youtube" href="https://www.youtube.com/watch?v=vY_Ry8J_jdw"><img src="https://aldarone.fr/wp-content/uploads/2013/01/tumblr_mc6pglkg8C1r8u39k.gif" alt="Wibbly wobbly timey winey… stuff" width="490" height="289" class="aligncenter size-full wp-image-813" /></a></p>
 
 <p>Bref, un bon vieux <a href="https://fr.wikipedia.org/wiki/Paradoxe_du_grand-p%C3%A8re">paradoxe du grand-père</a> sans aucune solution fournie. Le film reposant toute entier sur ce principe, les incohérences n'ont de cesse de sauter aux yeux. La seule solution aurait-été de ne pas faire disparaître vieux-Seth (ni ses membres), il serait revenu dans un univers parallèle distinct, causant la mort de Seth-2 mais sans influence sur la vie de Seth-1.</p>
 
 <p>Et pour avoir un résumé en 3 min de tout ce qui reste et qui ne va pas dans Looper, il y a la vidéo suivante :</p>
 
-<p><a class="youtube" href="http://www.youtube.com/watch?v=XwDbqhl_p3g"><img src="http://aldarone.fr/wp-content/uploads/2013/01/bruce_willis_looper-wide.jpg" alt="Everything wrong with looper in 3min or less" width="464" height="290" class="aligncenter size-full wp-image-816" /></a></p>
+<p><a class="youtube" href="http://www.youtube.com/watch?v=XwDbqhl_p3g"><img src="https://aldarone.fr/wp-content/uploads/2013/01/bruce_willis_looper-wide.jpg" alt="Everything wrong with looper in 3min or less" width="464" height="290" class="aligncenter size-full wp-image-816" /></a></p>
