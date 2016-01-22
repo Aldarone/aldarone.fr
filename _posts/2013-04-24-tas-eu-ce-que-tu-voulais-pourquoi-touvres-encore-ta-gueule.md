@@ -13,11 +13,11 @@ Voila, le vote final du projet de loi ouvrant le mariage et l'adoption aux perso
 
 Pour autant, comme l'a rappelé Noel Mamère dans un discours poignant, tout n'est pas rose :
 
-http://www.dailymotion.com/video/xz9u8d_explication-de-vote-de-noel-mamere-pour-le-groupe-ecologiste_news
+https://www.dailymotion.com/video/xz9u8d_explication-de-vote-de-noel-mamere-pour-le-groupe-ecologiste_news
 
 <blockquote>
   Alors oui, nous pouvons dire aujourd'hui que nous sommes peut-être pas dans un jour comme les autres mais franchement, arrêtons les emphases et les grands mots. Nous ne sommes pas dans un jour historique parce que la France n'est en train que de rattraper son retard par rapport à d'autres pays de l'Union Européenne et du Monde qui ont ouvert le mariage à des personnes de même sexe.
-  
+
   Dois-je vous dire ici chers collègues, que nos voisins du Danemark ont ouvert le mariage dès 1989. Dois-je vous rappeler l'Espagne, la Hollande, le Portugal, l'Afrique du Sud <strong>de l'apartheid</strong> en 1994. Et voila qu'il nous a fallu attendre jusqu'en 2013, dans le bruit, la fureur et la haine homophobe. Nous n'avons pas à être fiers de nous !
 </blockquote>
 
