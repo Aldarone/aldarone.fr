@@ -2,11 +2,11 @@
 ID: 1752
 post_title: '#OnVautMieuxQueCa'
 author: Alda
-post_date: 2016-02-24 20:41:54
+post_date: 2016-02-24 20:50:45
 post_excerpt: ""
 layout: post
-permalink: /?p=1752
-published: false
+permalink: /onvautmieuxqueca/
+published: true
 ---
 https://www.youtube.com/watch?v=E3EbLui2B2k
 
@@ -63,6 +63,8 @@ Quelqu'un (probablement un stagiaire) devait donc parcourir l'usine avec un char
 Arrivant dans l'open-space, le préposé fait donc sa besogne en déposant un chocolat sur le bureau de chacun des admins alors en réunion, puis s'approche du bureau des techniciens.
 
 Voyant ça par la vitre de la salle de réunion, le chef d'équipe se précipite alors dans l'open space pour l'informer : « **Ben non, eux c'est des externes, il y ont pas droit.** »
+
+<img src="https://aldarone.fr/wp-content/uploads/2016/02/BPowerLogo.png" alt="BPowerLogo" width="300" height="286" class="aligncenter size-full wp-image-1755" />
 
 **Franchement, vous trouvez pas qu'on vaut mieux que ça ?**
 
