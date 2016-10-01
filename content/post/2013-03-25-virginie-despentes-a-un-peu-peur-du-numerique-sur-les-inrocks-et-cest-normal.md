@@ -1,17 +1,7 @@
 ---
-ID: 981
-author: Alda
-bitlyURL:
-- http://ltch.fr/14iFM8s
-- http://ltch.fr/14iFM8s
 date: 2013-03-25T00:00:00Z
-post_date: 2013-03-25 12:00:24
-post_excerpt: ""
-post_title: Virginie Despentes a un peu peur du numérique sur Les Inrocks (Et c&rsquo;est
-  normal)
-published: true
-url: |
-  /virginie-despentes-a-un-peu-peur-du-numerique-sur-les-inrocks-et-cest-normal/
+title: "Virginie Despentes a un peu peur du numérique sur Les Inrocks (Et c'est normal)"
+slug: "virginie-despentes-a-un-peu-peur-du-numerique-sur-les-inrocks-et-cest-normal"
 ---
 
 <p>Il y a peu, Virginie Despente a donné une interview aux Inrocks sur sa vision du livre numérique en tant qu'autrice.</p>
@@ -22,13 +12,11 @@ url: |
 
 <p>Si ses craintes sont tout à fait justifiées puisque tout ce qu'elle cite existe déjà, il nous reste un espoir puisque leur application n'est pas (<em>encore</em>) systématique. Malheureusement, elle ne semble pas au courant de l'existence d'alternatives (en tout cas rien n'est mentionné.) et c'est bien là le seul problème de cette interview.</p>
 
-<!--more-->
-
 <h2>Nous ne sommes plus propriétaires de nos livres.</h2>
 
 <blockquote>
   <p>Mais à présent j’achète et lis souvent les romans français contemporains sur iPad. […] Davantage que la fin du livre papier, je crains les facilités qu’offre le numérique : si on veut censurer une page, on l’efface dans toutes les liseuses. Si on veut retirer un roman, on l’efface dans toutes les liseuses, etc.</p>
-  
+
   <p>Enfin le livre digital ne se prête pas. Ne s’offre pas.</p>
 </blockquote>
 

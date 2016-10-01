@@ -1,15 +1,7 @@
 ---
-ID: 802
-author: Alda
-bitlyURL:
-- http://ltch.fr/128RkKm
-- http://ltch.fr/128RkKm
 date: 2013-01-30T00:00:00Z
-post_date: 2013-01-30 10:45:57
-post_excerpt: ""
-post_title: Looper… loupé
-published: true
-url: /looper-loupe/
+title: "Looper… loupé"
+slug: "looper-loupe"
 ---
 
 <p>TL;DR : J'ai vu le film Looper et je n'ai pas aimé.</p>
@@ -18,17 +10,17 @@ url: /looper-loupe/
 
 <blockquote>
   <p>Dans le futur, les voyages dans le temps sont possibles mais illégaux. Et il est extrêmement difficile pour les mafias qui dirigent le monde de tuer les gens impunément.</p>
-  
+
   <p>Pour résoudre ce petit problème, elles se contentent de kidnapper les gêneurs pour les envoyer dans le passé où ils seront froidement abattu par leurs "<em>loopers</em>", des hommes payés en lingots d'argents qui se contentent d'attendre à heure fixe qu'une victime arrive, tirent un coup de fusil et se débarrassent du corps.</p>
-  
+
   <p>En passant leur contrat avec les mafias du futur, les loopers acceptent de tuer leur "futur-moi" quand il arrivera devant eux. Leur contrat prend alors fin et ils récoltent un joli paquet de lingots d'or pour passer une retraite dorée qui durera 30 ans. Ensuite il seront renvoyés dans le passé pour être froidement mis à mort part leur "ancien-moi". La boucle est bouclée.</p>
-  
+
   <p><img src="https://aldarone.fr/wp-content/uploads/2013/01/tumblr_mhcgna5Uec1qafimoo1_500.gif" alt="Un looper sachant looper" width="500" height="230" class="aligncenter size-full wp-image-806" /></p>
-  
+
   <p>Oh et aussi il y a des gens qui ont des pouvoir télékinésiques et qui arrivent à faire voler des petits objets à quelques centimètres au dessus de leurs mains.</p>
-  
+
   <p>Notre héros s'appelle Joe et c'était un looper, du genre efficace et consciencieux. Il a sagement épargné la moitié de son butin pour se la couler douce en Chine. Mais un jour la mafia débarque pour l'envoyer dans le passé. Sa femme se fait malencontreusement abattre au passage, et les méchants incendient sa maison.</p>
-  
+
   <p>Comme c'est Bruce Willis, il arrive à se libérer et à éliminer ses agresseur. Et il va décider de retourner quand même dans le passé pour tuer le méchant en chef, un mec super balèze appelé <strong>Le Rainmaker</strong> qui s'est hissé tout seul à la tête de la mafia en 6 mois. Évidemment, il échappe à son "ancien-moi" qui du coup va le traquer pour boucler sa boucle.</p>
 </blockquote>
 

@@ -1,16 +1,7 @@
 ---
-ID: 1646
-author:
-- Alda
 date: 2015-10-13T00:00:00Z
-post_date:
-- 2015-10-13 13:05:49
-post_excerpt:
-- ""
-post_title: Brocoup de bruit pour rien &#8211; Much ado for Brothing
-published: true
-url: |
-  /brocoup-de-bruit-pour-rien-much-ado-for-brothing/
+title: "Brocoup de bruit pour rien - Much ado for Brothing"
+slug: "brocoup-de-bruit-pour-rien-much-ado-for-brothing"
 ---
 
 À la fin de la semaine passée, une nouvelle inquiétante (pour ne pas dire catastrophique) a commencé à se répandre sur les internets :

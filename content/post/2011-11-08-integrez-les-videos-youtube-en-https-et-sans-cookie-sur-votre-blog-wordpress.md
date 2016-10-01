@@ -1,26 +1,11 @@
 ---
-ID: 377
-author: Alda
-bitlyURL:
-- http://bit.ly/urRtDQ
-- http://bit.ly/urRtDQ
 date: 2011-11-08T00:00:00Z
-dsq_thread_id:
-- "465016355"
-- "465016355"
 head_img:
-- https://aldarone.fr/assets/cookies.jpg
 - https://aldarone.fr/assets/cookies.jpg
 head_img_alt:
 - Cookies
-- Cookies
-post_date: 2011-11-08 10:15:58
-post_excerpt: ""
-post_title: |
-  Intégrez les videos youtube en HTTPS et sans cookie sur votre blog wordpress
-published: true
-url: |
-  /integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress/
+title: "Intégrez les videos youtube en HTTPS et sans cookie sur votre blog wordpress"
+slug: "integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress"
 ---
 
 Beaucoup de gens l'ignorent (moi-même jusqu'à la semaine dernière…) mais il est possible de consulter Youtube de manière sécurisée et sans se faire suivre par tout un tas de cookies.

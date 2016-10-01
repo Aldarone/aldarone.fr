@@ -1,28 +1,12 @@
 ---
-ID: 602
-author: Alda
-bitlyURL:
-- http://bit.ly/LyVFsC
-- http://bit.ly/LyVFsC
 date: 2012-06-07T00:00:00Z
-dsq_thread_id:
-- "717352181"
-- "717352181"
 head_img:
-- |
-  https://aldarone.fr/assets/FuckThatShit.jpg
 - |
   https://aldarone.fr/assets/FuckThatShit.jpg
 head_img_alt:
 - Fuck That Shit
-- Fuck That Shit
-post_date: 2012-06-07 22:40:44
-post_excerpt: ""
-post_title: |
-  Remplacer son disque dur système sans réinstaller (Sous Windows)
-published: true
-url: |
-  /remplacer-son-disque-dur-systeme-sans-reinstaller-sous-windows/
+title: "Remplacer son disque dur système sans réinstaller (Sous Windows)"
+slug: "remplacer-son-disque-dur-systeme-sans-reinstaller-sous-windows"
 ---
 
 <p>J'étais tranquillement en train de jouer à <a href="http://www.bay12games.com/dwarves/">Dwarf Fortress</a> quand mon ordi s'est brusquement figé en émettant un des bruits les plus horrible qui soit: <strong>Celui d'un disque dur à l'agonie</strong>.</p>

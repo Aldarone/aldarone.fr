@@ -1,28 +1,12 @@
 ---
-ID: 562
-author: Alda
-bitlyURL:
-- http://bit.ly/wPDOkj
-- http://bit.ly/wPDOkj
 date: 2012-02-23T00:00:00Z
-dsq_thread_id:
-- "586520674"
-- "586520674"
 head_img:
-- |
-  https://aldarone.fr/assets/Rois-de-la-suede.jpg
 - |
   https://aldarone.fr/assets/Rois-de-la-suede.jpg
 head_img_alt:
 - Les Rois de la Suède
-- Les Rois de la Suède
-post_date: 2012-02-23 13:43:08
-post_excerpt: ""
-post_title: |
-  Les rois de la suède tentent un troll, mais se plantent magistralement
-published: true
-url: |
-  /les-rois-de-la-suede-tentent-un-troll-mais-se-plantent-magistralement/
+title: "Les rois de la suède tentent un troll, mais se plantent magistralement"
+slug: "les-rois-de-la-suede-tentent-un-troll-mais-se-plantent-magistralement"
 ---
 
 <a href="http://lesroisdelasuede.com">Les rois de la suède</a>, c'est un groupe fondé par Ivan Callot (ex Fatal Picard) et Monsieur Poulpe (Nolife en peignoir). Passons vite fait sur ce qu'ils font, autant j'apprécie Poulpe à la « télé » et Ivan quand il était chez les Fatals Picards, autant les Rois de la Suède je trouve ça plutôt pauvre.

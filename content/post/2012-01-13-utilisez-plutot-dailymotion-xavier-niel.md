@@ -1,29 +1,12 @@
 ---
-ID: 483
-author: Alda
-bitlyURL:
-- http://bit.ly/wOP0vz
-- http://bit.ly/wOP0vz
 date: 2012-01-13T00:00:00Z
-dsq_thread_id:
-- "537414024"
-- "537414024"
 head_img:
-- |
-  https://aldarone.fr/assets/cable-madness.jpg
 - |
   https://aldarone.fr/assets/cable-madness.jpg
 head_img_alt:
 - Couloir de cables
-- Couloir de cables
-- Couloir de cables
-- Couloir de cables
-post_date: 2012-01-13 13:15:26
-post_excerpt: ""
-post_title: « Utilisez plutôt Dailymotion » &#8211; Xavier Niel
-published: true
-url: |
-  /utilisez-plutot-dailymotion-xavier-niel/
+title: "« Utilisez plutôt Dailymotion » - Xavier Niel"
+slug: "utilisez-plutot-dailymotion-xavier-niel"
 ---
 
 Invité chez Le Nouvel Obs à <a href="http://tempsreel.nouvelobs.com/les-forfaits-free-mobile/20120112.OBS8685/xavier-niel-que-nos-concurrents-proposent-un-forfait-illimite-a-10-euros.html" target="_blank">s'exprimer sur Free Mobile</a>, Xavier Niel a également répondu à une question concernant les difficultés d'accès à Youtube à partir du réseau Free:

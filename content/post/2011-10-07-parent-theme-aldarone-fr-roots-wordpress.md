@@ -1,28 +1,10 @@
 ---
-ID: 211
-author: Alda
-bitlyURL:
-- http://bit.ly/p2XhqQ
-- http://bit.ly/p2XhqQ
-date: 2011-10-07T00:00:00Z
-dsq_thread_id:
-- "436609076"
-- "436609076"
-head_img:
-- |
-  https://aldarone.fr/assets/Roots-parent-theme.jpg
-- |
-  https://aldarone.fr/assets/Roots-parent-theme.jpg
-head_img_alt:
-- Roots Parent Theme
-- Roots Parent Theme
-post_date: 2011-10-07 10:43:22
-post_excerpt: ""
-post_title: 'Le parent-theme d&rsquo;Aldarone.fr: Roots pour WordPress'
-published: true
-url: |
-  /parent-theme-aldarone-fr-roots-wordpress/
+date: "2011-10-07T00:00:00Z"
+title: "Le parent-theme d'Aldarone.fr: Roots pour WordPress"
+slug: "parent-theme-aldarone-fr-roots-wordpress"
 ---
+
+![Roots Parent Theme](/img/Roots-parent-theme.jpg)
 
 Après avoir parlé un peu de l'architecture système qui se cache derrière ce blog (avec mes articles sur <a href="https://aldarone.fr/avec-quoi-il-marche-ton-serveur/" title="Avec quoi il marche ton serveur ?">Comment utiliser nginx et php-fpm</a> et <a href="https://aldarone.fr/passer-de-mysql-a-mariadb/" title="Passer de MySQL à MariaDB">Comment remplacer MySQL par MariaDB</a>) je vais vous parler un peu de Wordpress.
 

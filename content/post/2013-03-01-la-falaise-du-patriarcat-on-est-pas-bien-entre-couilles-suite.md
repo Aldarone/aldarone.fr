@@ -1,17 +1,7 @@
 ---
-ID: 920
-author: Alda
-bitlyURL:
-- http://ltch.fr/XfkfJY
-- http://ltch.fr/XfkfJY
 date: 2013-03-01T00:00:00Z
-post_date: 2013-03-01 18:03:34
-post_excerpt: ""
-post_title: La falaise du Patriarcat. (&laquo;&nbsp;On est pas bien entre couilles
-  ?&nbsp;&raquo; suite)
-published: true
-url: |
-  /la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite/
+title: "La falaise du Patriarcat. (« On est pas bien entre couilles ? » suite)"
+slug: "la-falaise-du-patriarcat-on-est-pas-bien-entre-couilles-suite"
 ---
 
 <p>Pour avoir le début de l'histoire, vous pouvez vous rendre ici: <a href="https://aldarone.fr/on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/">« On est pas bien entre couilles ? » – Ce que nous dit la non-réaction du Parti Pirate face au sexisme</a>.</p>

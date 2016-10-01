@@ -1,12 +1,7 @@
 ---
-ID: 1076
-author: Alda
 date: 2013-04-17T00:00:00Z
-post_date: 2013-04-17 16:30:56
-post_excerpt: ""
-post_title: Les affiches sexistes d&rsquo;Iron Man 3
-published: true
-url: /les-affiches-sexistes-diron-man-3/
+title: "Les affiches sexistes d'Iron Man 3"
+slug: "les-affiches-sexistes-diron-man-3"
 ---
 
 Oui, je me suis dit que j'allais annoncer la couleur dès le départ et plutôt que donner la version soft : "les affiches genrées" allons y carrément et appelons un chat un chat.
@@ -61,15 +56,15 @@ Peut-être ces affiches sont elles une espèce de vengeance de la production env
 
 <blockquote>
   How do we have it so she’s not going [whining], ‘Tony!’ and I’m going [growling], ‘Where’s Pepper?’…
-  
+
   That’s the other thing that I have been pushing for. She’s in great shape, she’s really game.
-  
+
   There’s all these genre movies and you have these capable women and they’re like, ‘Oh my god, some action is happening, I better step away or get caught in something over here.’ It’s like, ‘Really, is that where we’re at in the 21st century?’
-  
+
   Comment pouvons nous faire en sorte qu'elle ne passe pas son temps à gémir "Tony !" et moi accourant en grognant "Où est Pepper ??"
-  
+
   C'est une des choses sur lesquelles j'ai insisté. Elle est en grande forme et elle fait vraiment partie du jeu.
-  
+
   Il y a toujours ce genre de films avec ces femmes tout à fait capable de prendre soin d'elles qui persistent pourtant a faire "Oh mon dieu, il y a de l'action, je ferais mieux de m'éloigner ou de rester coincée quelque part par là…" et vraiment ? Nous en sommes encore à ce point au 21<sup>ème</sup> siècle ?
 </blockquote>
 

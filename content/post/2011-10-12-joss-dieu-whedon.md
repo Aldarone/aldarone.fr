@@ -1,45 +1,10 @@
 ---
-ID: 233
-author: Alda
-bitlyURL:
-- http://bit.ly/rsO877
-- http://bit.ly/rsO877
 date: 2011-10-12T00:00:00Z
-dsq_thread_id:
-- "440893701"
-- "440893701"
-head_img:
-- |
-  https://aldarone.fr/assets/Joss-Whedon-Eliza-Dushku-David-Boreanaz.jpg
-- |
-  https://aldarone.fr/assets/Joss-Whedon-Eliza-Dushku-David-Boreanaz.jpg
-head_img_alt:
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-- |
-  Joss Whedon, Eliza Dushku, David Boreanaz
-post_date: 2011-10-12 09:30:21
-post_excerpt: ""
-post_title: Joss « Dieu » Whedon
-published: true
-url: /joss-dieu-whedon/
+title: "Joss « Dieu » Whedon"
+slug: "joss-dieu-whedon"
 ---
+
+![Joss Whedon, Eliza Dushku, David Boreanaz](/img/Joss-Whedon-Eliza-Dushku-David-Boreanaz.jpg)
 
 Je profite de la sortie du <a class="youtube" href="http://www.youtube.com/watch?v=SDV-t5sgDgI" title="The Avengers - Trailer Premiere [Official] [HD]">premier trailer du film « The Avengers »</a> pour m'exprimer un peu sur le réalisateur de ce film. Pourquoi ? Parce que c'est un grand génie et que systématiquement tout ce qu'il fait est génial (et sous-estimé.)
 

@@ -1,26 +1,12 @@
 ---
-ID: 293
-author: Alda
-bitlyURL:
-- http://bit.ly/vAkx06
-- http://bit.ly/vAkx06
 date: 2011-10-26T00:00:00Z
-dsq_thread_id:
-- "453453502"
-- "453453502"
 head_img:
-- |
-  https://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
 - |
   https://aldarone.fr/assets/WoW-Mists-of-Pandaria.jpg
 head_img_alt:
 - World of Warcraft Mists of Pandaria
-- World of Warcraft Mists of Pandaria
-post_date: 2011-10-26 11:00:38
-post_excerpt: ""
-post_title: 'World of Warcraft: Mists of Pandaria'
-published: true
-url: /world-of-warcraft-mists-of-pandaria/
+title: "World of Warcraft: Mists of Pandaria"
+slug: "world-of-warcraft-mists-of-pandaria"
 ---
 
 Le week-end dernier, c'était la Paris Games Week et je suis allé y faire un tour avec <a href="http://twitter.com/PtiteNoli">@PtiteNoli</a>. Mais c'était aussi le week-end de la conférence annuelle de <a href="http://eu.blizzard.com/fr-fr/">Blizzard Entertainment</a>: La BlizzCon (et c'est tout à fait volontairement que je ne dis pas Activision-Blizzard, mon petit côté réac' sans doute)

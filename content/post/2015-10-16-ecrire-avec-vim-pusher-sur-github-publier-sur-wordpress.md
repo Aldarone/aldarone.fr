@@ -1,17 +1,7 @@
 ---
-ID: 1658
-author:
-- a:1:{i:0;s:0:"";}
 date: 2015-10-16T00:00:00Z
-post_date:
-- a:1:{i:0;s:19:"2015-10-14 12:11:57";}
-post_excerpt:
-- a:1:{i:0;s:0:"";}
-post_title: |
-  Écrire avec VIM, pusher sur GitHub, publier sur WordPress
-published: true
-url: |
-  /ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress/
+title: "Écrire avec VIM, pusher sur GitHub, publier sur WordPress"
+slug: "ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress"
 ---
 
 ## Résumé des épisodes précédents

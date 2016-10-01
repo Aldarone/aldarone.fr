@@ -1,27 +1,10 @@
 ---
-ID: 167
-author: Alda
-bitlyURL:
-- http://bit.ly/oczbnR
-- http://bit.ly/oczbnR
-date: 2011-10-03T00:00:00Z
-dsq_thread_id:
-- "432718683"
-- "432718683"
-head_img:
-- |
-  https://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
-- |
-  https://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg
-head_img_alt:
-- Logo Ubuntu Nginx MariaDB PHP
-- Logo Ubuntu Nginx MariaDB PHP
-post_date: 2011-10-03 10:58:29
-post_excerpt: ""
-post_title: Avec quoi il marche ton serveur ?
-published: true
-url: /avec-quoi-il-marche-ton-serveur/
+date: "2011-10-03T00:00:00Z"
+title: Avec quoi il marche ton serveur ?
+slug: "avec-quoi-il-marche-ton-serveur"
 ---
+
+![Logo Ubuntu Nginx MariaDB PHP](https://aldarone.fr/assets/Ubuntu-Nginx-MariaDB-PHP.jpg)
 
 <p>Comme promis, un billet un peu technique pour vous expliquer quels logiciels se cachent derrière ce blog et comment ils sont configurés pour vivre en harmonie.</p>
 

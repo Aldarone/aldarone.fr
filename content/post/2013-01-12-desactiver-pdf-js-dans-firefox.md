@@ -1,15 +1,7 @@
 ---
-ID: 776
-author: Alda
-bitlyURL:
-- http://ltch.fr/X0PsMw
-- http://ltch.fr/X0PsMw
 date: 2013-01-12T00:00:00Z
-post_date: 2013-01-12 12:28:14
-post_excerpt: ""
-post_title: Désactiver PDF.js dans Firefox
-published: true
-url: /desactiver-pdf-js-dans-firefox/
+title: "Désactiver PDF.js dans Firefox"
+slug: "desactiver-pdf-js-dans-firefox"
 ---
 
 <p>La version 18 de Firefox pointe le bout de son nez et déjà le canal beta adopte la version 19.</p>

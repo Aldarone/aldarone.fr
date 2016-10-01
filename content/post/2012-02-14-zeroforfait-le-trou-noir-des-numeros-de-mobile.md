@@ -1,28 +1,12 @@
 ---
-ID: 547
-author: Alda
-bitlyURL:
-- http://bit.ly/zSzEvd
-- http://bit.ly/zSzEvd
 date: 2012-02-14T00:00:00Z
-dsq_thread_id:
-- "575576398"
-- "575576398"
 head_img:
-- |
-  https://aldarone.fr/assets/zeroforfait.png
 - |
   https://aldarone.fr/assets/zeroforfait.png
 head_img_alt:
 - Zéro Forfait
-- Zéro Forfait
-post_date: 2012-02-14 11:45:19
-post_excerpt: ""
-post_title: |
-  ZéroForfait, le trou noir des numéros de mobile.
-published: true
-url: |
-  /zeroforfait-le-trou-noir-des-numeros-de-mobile/
+title: "ZéroForfait, le trou noir des numéros de mobile."
+slug: "zeroforfait-le-trou-noir-des-numeros-de-mobile"
 ---
 
 Vous voulez changer de numéro de mobile mais vous voulez une manière un peu plus fantaisiste que la classique résiliation puis réabonnement chez un autre opérateur ? Essayez ZeroForfait.
@@ -37,7 +21,7 @@ Elle attend donc patiemment de récupérer sa carte SIM et son nouvel abonnement
 
 Quand sa carte SIM est désactivée le 30 Janvier elle est agacée mais pas très surprise. Free a des problèmes pour assurer les portabilités et les livraisons de SIM.
 
-Quatre jours plus tard elle se décide quand même a appeler le service client de Free pour l'informer du problème: 
+Quatre jours plus tard elle se décide quand même a appeler le service client de Free pour l'informer du problème:
 <blockquote>Ne vous inquiétez pas, votre carte SIM vous a été envoyée, vous la recevrez très prochainement.</blockquote>
 
 Une semaine après la désactivation de son numéro et ne voyant toujours rien arriver, je prends le relais et contacte à mon tour la hotline de Free:

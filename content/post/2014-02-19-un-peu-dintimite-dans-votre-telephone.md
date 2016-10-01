@@ -1,12 +1,7 @@
 ---
-ID: 1449
-author: Alda
 date: 2014-02-19T00:00:00Z
-post_date: 2014-02-19 12:59:47
-post_excerpt: ""
-post_title: Un peu d&rsquo;intimité dans votre téléphone
-published: true
-url: /un-peu-dintimite-dans-votre-telephone/
+title: "Un peu d'intimité dans votre téléphone"
+slug: "un-peu-dintimite-dans-votre-telephone"
 ---
 
 En ces temps troublés de surveillance généralisée, les écoutes de la NSA, le scandale Amesys il ne fait plus aucun doute que tout ce qu'on dit ou écrit en clair sur Internet est enregistré et sera utilisé contre nous.

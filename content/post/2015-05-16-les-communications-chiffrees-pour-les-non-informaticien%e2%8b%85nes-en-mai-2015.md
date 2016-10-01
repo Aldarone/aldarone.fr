@@ -1,14 +1,7 @@
 ---
-ID: 1590
-author: Alda
 date: 2015-05-16T00:00:00Z
-post_date: 2015-05-16 14:55:35
-post_excerpt: ""
-post_title: |
-  Les communications chiffrées faciles en Mai 2015
-published: true
-url: |
-  /les-communications-chiffrees-pour-les-non-informaticien%e2%8b%85nes-en-mai-2015/
+title: "Les communications chiffrées faciles en Mai 2015"
+slug: "les-communications-chiffrees-pour-les-non-informaticien%e2%8b%85nes-en-mai-2015"
 ---
 
 Il y a un peu plus d'un an, j'ai parlé de moyens pour sécuriser nos communications sur nos téléphones mobiles. J'avais parlé de TextSecure, Redphone et Telegram.

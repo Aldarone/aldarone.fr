@@ -1,27 +1,10 @@
 ---
-ID: 215
-author: Alda
-bitlyURL:
-- http://bit.ly/otL99c
-- http://bit.ly/otL99c
-date: 2011-10-08T00:00:00Z
-dsq_thread_id:
-- "437453547"
-- "437453547"
-head_img:
-- |
-  https://aldarone.fr/assets/Amazon-Kindle.jpg
-- |
-  https://aldarone.fr/assets/Amazon-Kindle.jpg
-head_img_alt:
-- Amazon Kindle
-- Amazon Kindle
-post_date: 2011-10-08 09:30:18
-post_excerpt: ""
-post_title: Le Kindle arrive en France
-published: true
-url: /le-kindle-arrive-en-france/
+date: "2011-10-08T00:00:00Z"
+title: "Le Kindle arrive en France"
+slug: "le-kindle-arrive-en-france"
 ---
+
+![Amazon Kindle](/img/Amazon-Kindle.jpg)
 
 C'est la grande nouvelle d'hier, après 4 ans de bons et loyaux services aux État-Unis, le Kindle arrive enfin en France.
 

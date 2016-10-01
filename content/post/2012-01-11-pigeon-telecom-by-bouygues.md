@@ -1,26 +1,12 @@
 ---
-ID: 468
-author: Alda
-bitlyURL:
-- http://bit.ly/zeUM6X
-- http://bit.ly/zeUM6X
 date: 2012-01-11T00:00:00Z
-dsq_thread_id:
-- "534911289"
-- "534911289"
 head_img:
-- |
-  https://aldarone.fr/assets/pigeon-telecom.jpg
 - |
   https://aldarone.fr/assets/pigeon-telecom.jpg
 head_img_alt:
 - Pigeon Telecom
-- Pigeon Telecom
-post_date: 2012-01-11 12:43:07
-post_excerpt: ""
-post_title: Pigeon Telecom by Bouygues
-published: true
-url: /pigeon-telecom-by-bouygues/
+title: "Pigeon Telecom by Bouygues"
+slug: "pigeon-telecom-by-bouygues"
 ---
 
 La première réponse construite d'un opérateur mobile à l'arrivée de Free Mobile nous vient de Bouygues Telecom sous la forme d'un <a href="https://www.facebook.com/notes/bouygues-telecom/non-vous-n%C3%AAtes-pas-des-pigeons-/10150452670936534">looooooooong post Facebook</a> (sans doute n'ont-ils pas les moyens de se payer un site internet) intitulé: « Non, vous n'êtes pas des pigeons ! »

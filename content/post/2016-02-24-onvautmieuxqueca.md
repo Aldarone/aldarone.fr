@@ -1,12 +1,7 @@
 ---
-ID: 1752
-author: Alda
 date: 2016-02-24T00:00:00Z
-post_date: 2016-02-24 20:50:45
-post_excerpt: ""
-post_title: '#OnVautMieuxQueCa'
-published: true
-url: /onvautmieuxqueca/
+title: '#OnVautMieuxQueCa'
+slug: "onvautmieuxqueca"
 ---
 
 https://www.youtube.com/watch?v=E3EbLui2B2k

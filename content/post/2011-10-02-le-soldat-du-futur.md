@@ -1,50 +1,7 @@
 ---
-ID: 135
-author: Alda
-bitlyURL:
-- http://bit.ly/mWQPyD
-- http://bit.ly/mWQPyD
-date: 2011-10-02T00:00:00Z
-dsq_thread_id:
-- "431831228"
-- "431831228"
-head_img:
-- |
-  https://aldarone.fr/assets/Exosquelette.jpg
-- |
-  https://aldarone.fr/assets/Exosquelette.jpg
-head_img_alt:
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-- Preview Exosquelette
-post_date: 2011-10-02 09:10:27
-post_excerpt: ""
-post_title: Le soldat du futur
-published: true
-url: /le-soldat-du-futur/
+date: "2011-10-02T00:00:00Z"
+title: "Le soldat du futur"
+slug: "le-soldat-du-futur"
 ---
 
 Le ninja en armure de Metal Gear Solid, Iron man,... Bientôt le tour de l'armée réelle ?

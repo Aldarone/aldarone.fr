@@ -1,18 +1,10 @@
 ---
-ID: 1556
-author:
-- Alda
 date: 2014-12-08T00:00:00Z
-post_date:
-- 2014-12-08 23:09:57
-post_excerpt:
-- ""
-post_title: Fuck you ownCloud. Fuck you.
-published: true
-url: /fuck-you-owncloud-fuck-you/
+title: "Fuck you ownCloud. Fuck you."
+slug: "fuck-you-owncloud-fuck-you"
 ---
 
-/! Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d'en tenir compte lors de votre lecture. /!
+/!\ Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d'en tenir compte lors de votre lecture. /!\
 
 <h3>Mise à jour du 09 décembre 2014, 14h</h3>
 

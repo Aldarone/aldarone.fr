@@ -1,28 +1,12 @@
 ---
-ID: 592
-author: Alda
-bitlyURL:
-- http://bit.ly/J6Jymi
-- http://bit.ly/J6Jymi
 date: 2012-04-17T00:00:00Z
-dsq_thread_id:
-- "652986943"
-- "652986943"
 head_img:
-- |
-  https://aldarone.fr/assets/IceCreamSandwich.jpg
 - |
   https://aldarone.fr/assets/IceCreamSandwich.jpg
 head_img_alt:
 - Ice Cream Sandwich
-- Ice Cream Sandwich
-post_date: 2012-04-17 12:44:38
-post_excerpt: ""
-post_title: |
-  SMS Popup, pour remplacer Handcent sous ICS
-published: true
-url: |
-  /sms-popup-pour-remplacer-handcent-sous-ics/
+title: "SMS Popup, pour remplacer Handcent sous ICS"
+slug: "sms-popup-pour-remplacer-handcent-sous-ics"
 ---
 
 Il y a deux semaines je me suis fait plaisir et je me suis offert un <a href="http://fr.wikipedia.org/wiki/HTC_Desire_HD">HTC Desire HD</a> pour remplacer mon vieillissant <a href="http://fr.wikipedia.org/wiki/HTC_Tattoo">HTC Tattoo</a> dont l'écran résistif et la lenteur devenaient un peu pénibles.
@@ -39,7 +23,7 @@ C'était sans compter sur l'Android Market (Google Play maintenant…) qui, en c
 
 <a href="https://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg"><img src="https://aldarone.fr/wp-content/uploads/2012/04/sms-popup.jpg" alt="SMS Popup" title="SMS Popup" width="288" height="512" class="aligncenter size-full wp-image-594" /></a>
 
-Réponse rapide, navigation entre plusieurs SMS non lus, rappel de notification, sonneries SMS différentes selon les contacts, etc… Tout y est. 
+Réponse rapide, navigation entre plusieurs SMS non lus, rappel de notification, sonneries SMS différentes selon les contacts, etc… Tout y est.
 
 SMS Popup fait son job sans pour autant remplacer complètement la gestion de SMS de votre téléphone. Et comme ça, vous pouvez profiter d'une fonction indispensable (à mon sens) tout en gardant un téléphone visuellement harmonieux.
 

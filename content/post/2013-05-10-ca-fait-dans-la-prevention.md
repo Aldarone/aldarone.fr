@@ -1,12 +1,7 @@
 ---
-ID: 1255
-author: Alda
 date: 2013-05-10T00:00:00Z
-post_date: 2013-05-10 12:40:26
-post_excerpt: ""
-post_title: Sexisme, C&amp;A fait dans la prévention
-published: true
-url: /ca-fait-dans-la-prevention/
+title: "Sexisme, C&A fait dans la prévention"
+slug: "ca-fait-dans-la-prevention"
 ---
 
 <h2>Communiqué officiel</h2>

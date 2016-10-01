@@ -1,14 +1,7 @@
 ---
-ID: 1498
-author: Alda
 date: 2014-04-05T00:00:00Z
-post_date: 2014-04-05 16:27:35
-post_excerpt: ""
-post_title: |
-  Le support de Windows XP est fini, passer à GNU/Linux réclame un accompagnement
-published: true
-url: |
-  /le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement/
+title: "Le support de Windows XP est fini, passer à GNU/Linux réclame un accompagnement"
+slug: "le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement"
 ---
 
 Le support de Windows XP arrive à son terme dans 3 jours. Après 13 ans, un support étendu de 5 ans, il va enfin entrer dans les archives de l'histoire et on en parlera plus. (En fait pas vraiment, la quasi-totalité du parc de distributeurs bancaire est sous XP et les banques n'ont pas assez d'argent -- lol --- pour le renouveler, donc Microsoft a annoncé qu'il développerait des patchs payant sur mesure.)
@@ -21,15 +14,15 @@ Ces personnes se tournent donc vers leur proche « qui s'y connait® » pour lui
 
 <blockquote>
   Si tu es prêt à faire quelques efforts, je te conseille de passer à Linux.
-  
+
   Windows est mal pensé et lourd. Il y a aussi plein de failles d'où la nécessité d'installer des antivirus et des anti-malwares etc.
-  
+
   De toute façon ce qu'il y a de mieux c'est Linux parce que le code est ouvert, ça veut dire qu'on peut aller voir ce qui se passe dedans et le modifier si il nous convient pas. C'est formidable ! Microsoft et Apple sont méchants, leur code est fermé, on sait pas ce qu'ils font, d'ailleurs la NSA a sûrement des porte dérobé pour prendre le contrôle de ton ordinateur, avec les logiciels libre c'est pas possible de faire ça.
-  
+
   Il y a 4-5 ans Linux c'était compliqué mais plus maintenant<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, il y a des interfaces graphiques pour tout. Et tout les logiciels de base dont on a besoin sont installés. Et pour en installer de nouveau c'est très simple. En plus l'installation est signée pour être bien sûr qu'on installe la bonne version et pas une version modifiée par quelqu'un de malveillant.
-  
+
   J'ai passé ma grand-mère à Linux il y a 3 ans<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> et elle en est très contente. Bref, Linux c'est cool.
-  
+
   Par contre, je n'assure pas le support technique :P
 </blockquote>
 

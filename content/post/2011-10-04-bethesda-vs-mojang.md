@@ -1,27 +1,10 @@
 ---
-ID: 181
-author: Alda
-bitlyURL:
-- http://bit.ly/or12Et
-- http://bit.ly/or12Et
-date: 2011-10-04T00:00:00Z
-dsq_thread_id:
-- "433607404"
-- "433607404"
-head_img:
-- |
-  https://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
-- |
-  https://aldarone.fr/assets/Mojang-vs-Bethesda.jpg
-head_img_alt:
-- Mojang vs Bethesda
-- Mojang vs Bethesda
-post_date: 2011-10-04 09:41:31
-post_excerpt: ""
-post_title: Bethesda vs. Mojang
-published: true
-url: /bethesda-vs-mojang/
+date: "2011-10-04T00:00:00Z"
+title: "Bethesda vs. Mojang"
+slug: "bethesda-vs-mojang"
 ---
+
+![Mojang vs Bethesda](/img/Mojang-vs-Bethesda.jpg)
 
 J'ignore à quoi joue Bethesda, mais ils baissent dans mon estime.
 

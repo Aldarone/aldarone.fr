@@ -1,15 +1,7 @@
 ---
-ID: 1242
-author: Alda
-bitlyURL:
-- http://ltch.fr/SWkynr
-- http://ltch.fr/SWkynr
 date: 2012-11-18T00:00:00Z
-post_date: 2012-11-18 16:45:31
-post_excerpt: ""
-post_title: La misandrie n&rsquo;existe pas
-published: true
-url: /la-misandrie-nexiste-pas/
+title: "La misandrie n'existe pas"
+slug: "la-misandrie-nexiste-pas"
 ---
 
 Désolé de vous l'apprendre comme ça de but en blanc, mais c'est ce qui est expliqué dans l'article « <a href="http://riotrite.tumblr.com/post/35869108510/misandry-isnt-real-dudez">Misandry isn't real, dudez</a> » que je viens de lire et qui est tellement juste que je me sens presque obligé de le traduire pour le diffuser plus largement encore.

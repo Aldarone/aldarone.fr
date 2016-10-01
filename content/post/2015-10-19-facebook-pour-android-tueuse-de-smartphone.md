@@ -1,17 +1,7 @@
 ---
-ID: 1664
-author:
-- Alda
 date: 2015-10-19T00:00:00Z
-post_date:
-- 2015-10-19 13:50:44
-post_excerpt:
-- ""
-post_title: |
-  Facebook pour Android, tueuse de smartphone
-published: true
-url: |
-  /facebook-pour-android-tueuse-de-smartphone/
+title: "Facebook pour Android, tueuse de smartphone"
+slug: "facebook-pour-android-tueuse-de-smartphone"
 ---
 
 Cette semaine j'ai installé la dernière version de Resurrection Remix sur mon Galaxy S3.

@@ -1,12 +1,7 @@
 ---
-ID: 1054
-author: Alda
 date: 2013-04-10T00:00:00Z
-post_date: 2013-04-10 18:30:32
-post_excerpt: ""
-post_title: Écouter la radio sur le net
-published: true
-url: /ecouter-la-radio-sur-le-net/
+title: "Écouter la radio sur le net"
+slug: "ecouter-la-radio-sur-le-net"
 ---
 
 <p>Pour certains, il est agréable (voire nécessaire) d'avoir un fond sonore plus ou moins discret pour travailler.</p>

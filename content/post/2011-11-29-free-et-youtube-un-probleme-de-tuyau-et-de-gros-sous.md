@@ -1,25 +1,11 @@
 ---
-ID: 410
-author: Alda
-bitlyURL:
-- http://bit.ly/tejTaM
-- http://bit.ly/tejTaM
 date: 2011-11-29T00:00:00Z
-dsq_thread_id:
-- "487214904"
-- "487214904"
 head_img:
-- https://aldarone.fr/assets/Rodolphe.jpg
 - https://aldarone.fr/assets/Rodolphe.jpg
 head_img_alt:
 - Rodolphe de Free
-- Rodolphe de Free
-post_date: 2011-11-29 10:23:41
-post_excerpt: ""
-post_title: 'Free et Youtube: un problème de tuyau et de gros sous'
-published: true
-url: |
-  /free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous/
+title: "Free et Youtube: un problème de tuyau et de gros sous"
+slug: "free-et-youtube-un-probleme-de-tuyau-et-de-gros-sous"
 ---
 
 Voila le sujet qui anime la twitto/blogosphère française en ce moment: Le débit pour regarder les videos sur youtube est déplorable quand on a « tout compris » (ce qui au final donne l'impression de n'avoir rien compris en fait.)
@@ -60,11 +46,11 @@ Quand on est chez SFR, l'itinéraire n'est pas du tout pareil:
  4  133.143.96.84.rev.sfr.net (84.96.143.133)  47.917 ms  47.930 ms *
  5  V3799.nts1-co-1.gaoland.net (84.96.251.133)  60.548 ms
     V4073.cbv3-co-1.n9uf.net (62.39.148.85)  60.561 ms
-    V3799.nts1-co-1.gaoland.net (84.96.251.133)  60.561 ms 
- 6  72.14.217.1 (72.14.217.1)  60.558 ms  80.897 ms 
-    86.201.118.80.rev.sfr.net   (80.118.201.86)  82.589 ms 
- 7  72.14.238.234 (72.14.238.234)  95.165 ms 42.796 ms  42.791 ms 
- 8  209.85.242.47 (209.85.242.47)  42.798 ms  42.782 ms 52.550 ms 
+    V3799.nts1-co-1.gaoland.net (84.96.251.133)  60.561 ms
+ 6  72.14.217.1 (72.14.217.1)  60.558 ms  80.897 ms
+    86.201.118.80.rev.sfr.net   (80.118.201.86)  82.589 ms
+ 7  72.14.238.234 (72.14.238.234)  95.165 ms 42.796 ms  42.791 ms
+ 8  209.85.242.47 (209.85.242.47)  42.798 ms  42.782 ms 52.550 ms
  9  173.194.34.37 (173.194.34.37)  52.559 ms  52.563 ms  52.561 ms</pre>
 
 On quitte SFR et « <em>OH ! Google !</em> » directement.

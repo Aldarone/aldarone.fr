@@ -1,24 +1,11 @@
 ---
-ID: 508
-author: Alda
-bitlyURL:
-- http://bit.ly/yRzMoW
-- http://bit.ly/yRzMoW
 date: 2012-01-23T00:00:00Z
-dsq_thread_id:
-- "549443469"
-- "549443469"
 head_img:
-- https://aldarone.fr/assets/rame.jpg
 - https://aldarone.fr/assets/rame.jpg
 head_img_alt:
 - Rameur
-- Rameur
-post_date: 2012-01-23 10:00:00
-post_excerpt: ""
-post_title: Comment j&rsquo;ai ramé pour éteindre mon PC
-published: true
-url: /comment-jai-rame-pour-eteindre-mon-pc/
+title: "Comment j'ai ramé pour éteindre mon PC"
+slug: "comment-jai-rame-pour-eteindre-mon-pc"
 ---
 
 Simple comme bonjour ! Sauf que passant tout juste de Windows Millenium à Windows 7 je me suis retrouvé fort dépourvu en voulant éteindre pour la première fois mon PC avec le nouveau système !

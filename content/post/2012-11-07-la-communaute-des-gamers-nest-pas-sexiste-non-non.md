@@ -1,16 +1,7 @@
 ---
-ID: 752
-author: Alda
-bitlyURL:
-- http://ltch.fr/YHj0CC
-- http://ltch.fr/YHj0CC
 date: 2012-11-07T00:00:00Z
-post_date: 2012-11-07 09:00:14
-post_excerpt: ""
-post_title: La communauté des gamers n&rsquo;est pas sexiste ! Non, non
-published: true
-url: |
-  /la-communaute-des-gamers-nest-pas-sexiste-non-non/
+post_title: "La communauté des gamers n'est pas sexiste ! Non, non"
+slug: "la-communaute-des-gamers-nest-pas-sexiste-non-non"
 ---
 
 Hier, on a attiré mon attention sur une vidéo qui illustre un phénomène auquel tout gamer a pu assister au moins une fois dans sa vie, et que toutes les gameuses subissent au quotidien : Le harcèlement sexuel en ligne.

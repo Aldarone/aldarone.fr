@@ -1,14 +1,7 @@
 ---
-ID: 1621
-author: Alda
 date: 2015-08-27T00:00:00Z
-post_date: 2015-08-27 15:58:52
-post_excerpt: ""
-post_title: |
-  Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ?
-published: true
-url: |
-  /que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/
+title: "Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ?"
+slug: "que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier"
 ---
 
 En lien avec les évènements relatés dans mon article précédent « <a href="https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox/">Une avalanche de FUD sur Mozilla et Firefox.</a> » <a href="https://ecirtam.net/links/">Oros</a> a conduit <a href="https://www.ecirtam.net/links/?40QYwg">une petite étude du comportement d'un Firefox fraîchement installé</a> et en a tiré <a href="https://github.com/Oros42/firefox_change_prefs">un fichier de configuration à appliquer</a> pour le rendre complètement silencieux.

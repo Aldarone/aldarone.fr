@@ -1,27 +1,10 @@
 ---
-ID: 193
-author: Alda
-bitlyURL:
-- http://bit.ly/r8kt80
-- http://bit.ly/r8kt80
-date: 2011-10-05T00:00:00Z
-dsq_thread_id:
-- "434543036"
-- "434543036"
-head_img:
-- |
-  https://aldarone.fr/assets/Larry-Ellison.jpg
-- |
-  https://aldarone.fr/assets/Larry-Ellison.jpg
-head_img_alt:
-- Larry Ellison
-- Larry Ellison
-post_date: 2011-10-05 08:45:01
-post_excerpt: ""
-post_title: Passer de MySQL à MariaDB
-published: true
-url: /passer-de-mysql-a-mariadb/
+date: "2011-10-05T00:00:00Z"
+title: "Passer de MySQL à MariaDB"
+slug: "passer-de-mysql-a-mariadb"
 ---
+
+![Larry Ellison](/img/Larry-Ellison.jpg)
 
 <p><strong>Mise à jour 16/10/2011</strong>: Dans la première version j'utilisais l'ancienne version stable de MariaDB (5.1), suite au <a href="https://aldarone.fr/passer-de-mysql-a-mariadb/#comment-335383041">commentaire de Guillaume</a> je l'ai mis à jour pour utiliser la version 5.2.</p>
 
@@ -73,7 +56,7 @@ MariaDB [(none)]&gt;
 
 <p>Pour y remédier, il suffit de supprimer le mode strict dans le fichier de configuration <code>/etc/mysql/my.cnf</code> en commentant la ligne suivante:</p>
 
-<pre><code>sql-mode = STRICT_TRANS_TABLES 
+<pre><code>sql-mode = STRICT_TRANS_TABLES
 </code></pre>
 
 <p>J'imagine que vous êtes des gens responsables et donc il est inutile que je précise qu'il est recommandé de faire des backups et des tests avant d'opérer une migration sur un serveur en production.</p>

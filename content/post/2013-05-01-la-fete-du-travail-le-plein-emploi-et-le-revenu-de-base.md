@@ -1,14 +1,7 @@
 ---
-ID: 1206
-author: Alda
 date: 2013-05-01T00:00:00Z
-post_date: 2013-05-01 12:04:56
-post_excerpt: ""
-post_title: La &laquo;&nbsp;fête du travail&nbsp;&raquo; , le plein emploi et le revenu
-  de base
-published: true
-url: |
-  /la-fete-du-travail-le-plein-emploi-et-le-revenu-de-base/
+title: "La « fête du travail », le plein emploi et le revenu de base"
+slug: "la-fete-du-travail-le-plein-emploi-et-le-revenu-de-base"
 ---
 
 Aujourd'hui c'est la fête du travail, enfin à ce qu'il parait. Il paraît aussi que c'est l'occasion de manifester en faveur du plein emploi, de la baisse du chômage et tutti quanti.

@@ -1,14 +1,7 @@
 ---
-ID: 1535
-author: Alda
 date: 2014-10-06T00:00:00Z
-post_date: 2014-10-06 19:37:55
-post_excerpt: ""
-post_title: Un troll ? Ou pas un troll ? Différentes lectures d&rsquo;une capture
-  des Simpsons
-published: true
-url: |
-  /un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons/
+title: "Un troll ? Ou pas un troll ? Différentes lectures d'une capture des Simpsons"
+slug: "un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons"
 ---
 
 Cette après-midi je suis tombé sur un partage trollesque d'un gros malin qui voulait se payer une bonne tranche de rigolade au détriment de ces imbéciles de féministes qui prennent la tête (cliquez sur la miniature pour le lire en entier) :

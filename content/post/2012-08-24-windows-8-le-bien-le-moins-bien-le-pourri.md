@@ -1,51 +1,27 @@
 ---
-ID: 700
-author: Alda
-bitlyURL:
-- http://ltch.fr/OzWt5y
-- http://ltch.fr/OzWt5y
 date: 2012-08-24T00:00:00Z
 head_img:
 - |
   https://aldarone.fr/assets/Microsoft-Logo-2012.png
-- |
-  https://aldarone.fr/assets/Microsoft-Logo-2012.png
 head_img_alt:
 - Microsoft Logo 2012
-- Microsoft Logo 2012
-post_date: 2012-08-24 13:59:41
-post_excerpt: ""
-post_title: 'Windows 8: le bien, le moins bien, le pourri'
-published: true
-url: |
-  /windows-8-le-bien-le-moins-bien-le-pourri/
+title: "Windows 8: le bien, le moins bien, le pourri"
+slug: "windows-8-le-bien-le-moins-bien-le-pourri"
 ---
 
 Cela fait maintenant quelques jours que la version finale de Windows 8 est disponible et Microsoft a eu la « gentillesse » de proposer la version complète gratuitement utilisable pendant 90 jours. Ne nous leurrons pas, il n'y a pas d'altruisme là derrière, juste un calcul marketing pour se faire un petit coup de pub.
 
-
-
 Mais comme le marketing ça marche bien, et que je suis un traître à ma cause (Un pirate dont le PC d'utilisation quotidienne est sous un OS microsoft et se contentant de Linux pour ses serveurs ça étrangle plus d'une personne.) j'ai profité du fait que mon installation de Windows 7 s'est corrompu à la suite d'une mise à jour malheureuse pour installer cette version de test.
 
-
-
 Je vais donc vous en parler en trois parties, par ordre croissant d'importance.
-
-
 
 <h2>Windows 8 est cool, pourquoi :</h2>
 
 Je partais avec tout un tas d'à prioris négatifs sur ce nouvel OS : L'interface Metro taillée pour les tablettes dont l'utilisation serait douteuse sur les PC de bureau et les PC portables, la disparition du menu démarrer, l'intégration poussée des comptes Microsoft Live, les critiques par Mozilla, Opera, Notch, Newell et Blizzard…
 
-
-
 Force est de constater qu'ils ont <em>presque</em> tous volés en éclat après seulement une journée et demi d'utilisation.
 
-
-
 Le menu démarrer a été rendu inutile. Absolument inutile. En appuyant sur la touche Windows du clavier l'accueil Metro s'affiche instantanément en plein écran permettant de choisir les applications épinglées sur l'accueil. Si une application n'est pas disponible, il suffit de commencer à taper son nom sur le clavier pour passer en mode recherche.
-
-
 
 <a href="https://aldarone.fr/wp-content/uploads/2012/08/screenshot.141.png"><img src="https://aldarone.fr/assets/screenshot.141-540x303.png" alt="Accueil Interface Windows 8" title="Accueil Interface Windows 8" width="540" height="303" class="aligncenter size-large wp-image-703" /></a>
 

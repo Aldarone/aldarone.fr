@@ -1,15 +1,7 @@
 ---
-ID: 841
-author: Alda
-bitlyURL:
-- http://ltch.fr/VJHqgX
-- http://ltch.fr/VJHqgX
 date: 2013-02-20T00:00:00Z
-post_date: 2013-02-20 15:48:13
-post_excerpt: ""
-post_title: Ceci n&rsquo;est pas un Skyblog
-published: true
-url: /ceci-nest-pas-un-skyblog/
+title: "Ceci n'est pas un Skyblog"
+slug: "ceci-nest-pas-un-skyblog"
 ---
 
 <p>Et pourtant, avec l'article que vous allez lire on pourrait croire que si.</p>

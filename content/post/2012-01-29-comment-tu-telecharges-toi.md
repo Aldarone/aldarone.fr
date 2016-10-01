@@ -1,24 +1,11 @@
 ---
-ID: 521
-author: Alda
-bitlyURL:
-- http://bit.ly/yk7aVW
-- http://bit.ly/yk7aVW
 date: 2012-01-29T00:00:00Z
-dsq_thread_id:
-- "556712682"
-- "556712682"
 head_img:
-- https://aldarone.fr/assets/usenet.jpg
 - https://aldarone.fr/assets/usenet.jpg
 head_img_alt:
 - Usenet
-- Usenet
-post_date: 2012-01-29 16:30:26
-post_excerpt: ""
-post_title: Comment tu télécharges toi ?
-published: true
-url: /comment-tu-telecharges-toi/
+title: "Comment tu télécharges toi ?"
+slug: "comment-tu-telecharges-toi"
 ---
 
 Cette question, de plus en plus de personnes me la posent en voyant que je ne suis pas inquiété plus que ça par la fermeture de Megaupload.

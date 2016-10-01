@@ -1,14 +1,7 @@
 ---
-ID: 1173
-author: Alda
 date: 2013-04-24T00:00:00Z
-post_date: 2013-04-24 14:50:15
-post_excerpt: ""
-post_title: T&rsquo;as eu ce que tu voulais, pourquoi t&rsquo;ouvres encore ta gueule
-  ?
-published: true
-url: |
-  /tas-eu-ce-que-tu-voulais-pourquoi-touvres-encore-ta-gueule/
+title: "T'as eu ce que tu voulais, pourquoi t'ouvres encore ta gueule ?"
+slug: "tas-eu-ce-que-tu-voulais-pourquoi-touvres-encore-ta-gueule"
 ---
 
 Voila, le vote final du projet de loi ouvrant le mariage et l'adoption aux personnes de même sexe a été voté et adopté hier et la France a fait un pas vers plus d'égalité.

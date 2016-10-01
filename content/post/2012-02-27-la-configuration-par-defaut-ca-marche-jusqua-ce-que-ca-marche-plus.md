@@ -1,29 +1,11 @@
 ---
-ID: 575
-author: Alda
-bitlyURL:
-- http://bit.ly/wTB9ip
-- http://bit.ly/wTB9ip
 date: 2012-02-27T00:00:00Z
-dsq_needs_sync:
-- "1"
-- "1"
-dsq_thread_id:
-- "590827816"
-- "590827816"
 head_img:
-- https://aldarone.fr/assets/MemoryLeak.png
 - https://aldarone.fr/assets/MemoryLeak.png
 head_img_alt:
 - Ouh la belle fuite de mémoire.
-- Ouh la belle fuite de mémoire.
-post_date: 2012-02-27 12:00:51
-post_excerpt: ""
-post_title: La configuration par défaut, ça marche jusqu&rsquo;à ce que ça marche
-  plus
-published: true
-url: |
-  /la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus/
+title: "La configuration par défaut, ça marche jusqu&rsquo;à ce que ça marche plus."
+slug: "la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus"
 ---
 
 <p>Je n'administre clairement pas mon serveur perso de manière admirable, la config par défaut est laissée pour la plupart des logiciels sans l'avoir vérifiée, il n'y a pas de système d'alertes pour l'occupation des disques ou de la RAM, ni même en cas de non réponse au ping. Pas bien tout ça !</p>

@@ -1,17 +1,7 @@
 ---
-ID: 824
-author: Alda
-bitlyURL:
-- http://ltch.fr/Urg7aA
-- http://ltch.fr/Urg7aA
 date: 2013-02-05T00:00:00Z
-post_date: 2013-02-05 08:30:39
-post_excerpt: ""
-post_title: |
-  Contre la PMA, la propagande se met en branle
-published: true
-url: |
-  /contre-la-pma-la-propagande-se-met-en-branle/
+title: "Contre la PMA, la propagande se met en branle"
+slug: "contre-la-pma-la-propagande-se-met-en-branle"
 ---
 
 <p><img src="https://aldarone.fr/assets/contre_le_droit_de_vote_femmes_m-205x295.jpg" alt="Contre le droit de vote des femmes" width="205" height="295" class="alignleft size-thumbnail wp-image-825" /></p>

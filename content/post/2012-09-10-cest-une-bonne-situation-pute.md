@@ -1,23 +1,12 @@
 ---
-ID: 1239
-author: Alda
-bitlyURL:
-- http://ltch.fr/NXNrCR
-- http://ltch.fr/NXNrCR
 date: 2012-09-10T00:00:00Z
 head_img:
 - |
   http://hs.aldarone.fr/wp-content/uploads/2012/09/UnderBridge.jpg
-- |
-  http://hs.aldarone.fr/wp-content/uploads/2012/09/UnderBridge.jpg
 head_img_alt:
 - Sous les ponts
-- Sous les ponts
-post_date: 2012-09-10 17:30:26
-post_excerpt: ""
-post_title: « C&rsquo;est une bonne situation pute ? »
-published: true
-url: /cest-une-bonne-situation-pute/
+title: "« C'est une bonne situation pute ? »"
+slug: "cest-une-bonne-situation-pute"
 ---
 
 Ça fait un moment qu'il me démange cet article et je me décide enfin à l'écrire après mon accrochage avec <a href="https://twitter.com/melangeinstable">@melangeinstable</a> d'hier.

@@ -1,13 +1,7 @@
 ---
-ID: 1439
-author: Alda
 date: 2013-10-26T00:00:00Z
-post_date: 2013-10-26 11:39:32
-post_excerpt: ""
-post_title: Le nouvel album d&rsquo;Arcade Fire et Youtube
-published: true
-url: |
-  /le-nouvel-album-darcade-fire-et-youtube/
+title: "Le nouvel album d'Arcade Fire et Youtube"
+slug: "le-nouvel-album-darcade-fire-et-youtube"
 ---
 
 C'est tellement ridiculement pathétique que mes côtes me font encore mal à force d'hilarité. Voyez donc :

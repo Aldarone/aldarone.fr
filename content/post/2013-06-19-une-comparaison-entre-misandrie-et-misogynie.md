@@ -1,14 +1,7 @@
 ---
-ID: 1290
-author: Alda
 date: 2013-06-19T00:00:00Z
-post_date: 2013-06-19 20:11:56
-post_excerpt: ""
-post_title: |
-  Une comparaison entre misandrie et misogynie
-published: true
-url: |
-  /une-comparaison-entre-misandrie-et-misogynie/
+title: "Une comparaison entre misandrie et misogynie"
+slug: "une-comparaison-entre-misandrie-et-misogynie"
 ---
 
 On pourrait croire à première vue que les deux se valent. Que toutes les formes de violence sont équivalentes, injustifiées et injustifiables. Et que la misandrie est tout aussi dommageable que la misogynie. (J'ai bien dit « <em>dommageable</em> » et pas « <em>condamnable</em>. »)
@@ -17,25 +10,25 @@ Or, comme l'explique simplement <a href="http://egalitariste.tumblr.com/post/532
 
 <blockquote>
   motivation behind misogyny :
-  
+
   <ul>
   <li>men maintaining power over women</li>
   </ul>
-  
+
   results of misogyny :
-  
+
   <ul>
   <li>rape, abuse, murder, lower pay, less opportunities, general discrimination and loss of power, restrictive gender roles, and much, much more.</li>
   </ul>
-  
+
   motivation behind misandry :
-  
+
   <ul>
   <li>men as a group sure do a lot of bad things as a result of their gendered power and male privilege, im not sure that i trust them or even like them.</li>
   </ul>
-  
+
   results of misandry :
-  
+
   <ul>
   <li>hurt feelings</li>
   </ul>
@@ -45,25 +38,25 @@ En français :
 
 <blockquote>
   Intention de la misogynie :
-  
+
   <ul>
   <li>Faire en sorte que les hommes maintiennent la domination qu'ils exercent sur les femmes.</li>
   </ul>
-  
+
   Résultats de la misogynie :
-  
+
   <ul>
   <li>Viol, agression sexuelle, meurtre, salaire inférieur, moins d'opportunités, discrimination, manque de pouvoir, rôles genrés restrictifs et beaucoup, beaucoup d'autres…</li>
   </ul>
-  
+
   Intention de la misandrie :
-  
+
   <ul>
   <li>Les hommes en tant que groupes font plein de choses désagréables en conséquence de leur pouvoir genré et des privilèges acquis en étant un homme, je ne suis pas certaine de leur faire confiance, ni même de les apprécier.</li>
   </ul>
-  
+
   Résultats de la misandrie :
-  
+
   <ul>
   <li>Blessure morale</li>
   </ul>
@@ -107,14 +100,14 @@ J'ai <a href="http://www.sosfemmes.com/violences/viol_chiffres.htm">des statisti
 
 <blockquote>
   Sexe des victimes :
-  
+
   <ul>
   <li>Sexe féminin : 91,2 %</li>
   <li>Sexe masculin : 8,8 %</li>
   </ul>
-  
+
   Personnes mises en cause :
-  
+
   <ul>
   <li>Hommes : 96,3 %</li>
   <li>Femmes : 3,7 %</li>

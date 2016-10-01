@@ -1,17 +1,7 @@
 ---
-ID: 782
-author: Alda
-bitlyURL:
-- http://ltch.fr/11YNt2d
-- http://ltch.fr/11YNt2d
 date: 2013-01-26T00:00:00Z
-post_date: 2013-01-26 12:00:25
-post_excerpt: ""
-post_title: |
-  Windows 7, Lubuntu et Xubuntu sont dans un bateau
-published: true
-url: |
-  /windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau/
+title: "Windows 7, Lubuntu et Xubuntu sont dans un bateau"
+slug: "windows-7-lubuntu-et-xubuntu-sont-dans-un-bateau"
 ---
 
 <h1>De Windows 7…</h1>

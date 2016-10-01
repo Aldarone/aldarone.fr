@@ -1,30 +1,13 @@
 ---
-ID: 490
-author: Alda
-bitlyURL:
-- http://bit.ly/xz9DQ4
-- http://bit.ly/xz9DQ4
 date: 2012-01-20T00:00:00Z
-dsq_thread_id:
-- "546305539"
-- "546305539"
 head_img:
-- |
-  https://aldarone.fr/assets/J-edgar-megaupload.jpg
 - |
   https://aldarone.fr/assets/J-edgar-megaupload.jpg
 head_img_alt:
 - |
   J. Edgar demandant la coupure de Megaupload
-- |
-  J. Edgar demandant la coupure de Megaupload
-post_date: 2012-01-20 09:50:44
-post_excerpt: ""
-post_title: |
-  One does not simply shut Megaupload down.
-published: true
-url: |
-  /one-does-not-simply-shut-megaupload-down/
+title: "One does not simply shut Megaupload down."
+slug: "one-does-not-simply-shut-megaupload-down"
 ---
 
 Hier soir, <a href="http://www.justice.gov/opa/pr/2012/January/12-crm-074.html">le FBI a déclaré la guerre à Internet en fermant Megaupload sans sommations</a>. En effet, un procureur a ouvert une procédure dans l'état de Virginie contre le célèbre site de d'hébergement de fichiers ( « Nous ne sommes qu'un gros disque dur. » <a href="http://www.pcinpact.com/news/68222-megaupload-emmanuel-gadaix-cto-hadopi.htm">déclarait Emmaunel Gadait, directeur technologique du groupe Mega, à PC INpact</a>) et le FBI a pu librement débarquer chez l'hébergeur principal du groupe pour éteindre les serveurs. La police de plusieurs autres pays (Royaume-Uni, Australie, Canada, Allemagne, Nouvelle-Zélande, Philippines, Pays-Bas et Hong-Kong) est également intervenue pour arrêter les dirigeants de Mega quand ils étaient hors de la juridiction des États-Unis. 6 personnes, dont le fondateur, ont été arrêtées à travers le monde.

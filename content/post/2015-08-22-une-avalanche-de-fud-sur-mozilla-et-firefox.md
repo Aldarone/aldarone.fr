@@ -1,14 +1,7 @@
 ---
-ID: 1613
-author: Alda
 date: 2015-08-22T00:00:00Z
-post_date: 2015-08-22 15:04:57
-post_excerpt: ""
-post_title: |
-  Une avalanche de FUD sur Mozilla et Firefox.
-published: true
-url: |
-  /une-avalanche-de-fud-sur-mozilla-et-firefox/
+title: "Une avalanche de FUD sur Mozilla et Firefox."
+slug: "une-avalanche-de-fud-sur-mozilla-et-firefox"
 ---
 
 <strong>Attention</strong> : Cet article est un peu technique et certaines notions risquent de vous échapper si vous n'avez pas quelques connaissances de base en développement web.
@@ -103,7 +96,7 @@ Dans <a href="https://linuxfr.org/users/kalenx/journaux/la-fin-du-permissive-add
 
 <blockquote>
   L'impossibilité d'accéder au coeur de Firefox et de son interface mènera à la disparition d'extensions extrêmement appréciées et utilisées telles que, outre DownThemAll, TreeStyleTab, NoScript, FireGestures, Drag2Go, Greasemonkey, TabMixPlus, FireFTP, FoxyProxy, AllInOne Sidebar et beaucoup d'autres.
-  
+
   Comprenons-nous bien : on ne parle pas ici d'un classique cassage d'API qui requiert la réécriture de certaines parties de ces extensions pour les rendre compatibles. Non, on parle d'un changement qui rendra ces extensions impossibles à implémenter en tout ou en partie.
 </blockquote>
 
@@ -113,7 +106,7 @@ Là encore, rien n'est fondé puisque dans l'article même de cette annonce, Moz
 
 <blockquote>
   We plan to add our own APIs based on the needs of existing Firefox add-ons :
-  
+
   <ul>
   <li><strong>NoScript</strong>-type functionality. This would come in the form of extensions to webRequest and possibly contentSettings.</li>
   <li>Sidebars. Opera already supports sidebar functionality; Chrome may soon. We would like to be able to implement <strong>Tree Style Tabs</strong> or <strong>Vertical Tabs</strong> by hiding the tab strip and showing a tab sidebar.</li>

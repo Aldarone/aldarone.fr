@@ -1,41 +1,13 @@
 ---
-ID: 716
-author: Alda
-bitlyURL:
-- http://ltch.fr/PrJh5A
-- http://ltch.fr/PrJh5A
 date: 2012-11-02T00:00:00Z
 head_img:
-- |
-  https://aldarone.fr/assets/WarrenMears.jpg
 - |
   https://aldarone.fr/assets/WarrenMears.jpg
 head_img_alt:
 - |
   Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-- |
-  Warren Mears, le geek misogyne par excellent
-post_date: 2012-11-02 19:37:46
-post_excerpt: ""
-post_title: Quand Sony me prend pour un  ***
-published: true
-url: /quand-sony-me-prend-pour-un/
+post_title: "Quand Sony me prend pour un  ***"
+slug: "quand-sony-me-prend-pour-un"
 ---
 
 Du 31 Octobre au 04 Novembre a lieu la Paris Games Week. Le salon qui se veut être <strong>la</strong> référence nationale du jeu vidéo en France.

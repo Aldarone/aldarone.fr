@@ -1,32 +1,21 @@
 ---
-ID: 70
-author: Alda
-bitlyURL:
-- http://ltch.fr/SbCkBq
-- http://ltch.fr/SbCkBq
 date: 2012-09-12T00:00:00Z
 head_img:
 - |
   http://hs.aldarone.fr/wp-content/uploads/2012/09/AdopteUneGrognasse.jpg
-- |
-  http://hs.aldarone.fr/wp-content/uploads/2012/09/AdopteUneGrognasse.jpg
 head_img_alt:
 - Adopte une Gonzesse
-- Adopte une Gonzesse
-post_date: 2012-09-12 15:30:00
-post_excerpt: ""
-post_title: Adopte une gonzesse
-published: true
-url: /adopte-une-gonzesse/
+title: Adopte une gonzesse
+slug: "adopte-une-gonzesse"
 ---
 
 <blockquote>
   Le fameux site de rencontre sur internet <strong>Adopte une gonzesse</strong> va franchir une étape de son développement en ouvrant une boutique physique dédiée au shopping de femmes objets qui y seront présentées comme des produits de supermarché.
-  
+
   Les différents rayons <em>-- Rousse, blonde, noire, asiatique, cougar, maigre, grosse --</em> présenteront les femmes (<em>toutes membres du site et volontaires, pas des actrices</em>) dans un emballage similaire à celui des poupées Barbie que l'ont trouve dans les magasins de jouet, un iPad dédié affichant les infos du produit.
-  
+
   À l'étage, un bar avec billards, canapés et télévisions diffusant des rediffusion de match de foot pour jauger de la capacité du modèle de votre choix à vous apporter une bière bien fraîche et décider peut-être de repartir avec…
-  
+
   Le site revendique une image humoristique axée second degré et assure que les modèles en vente ne sont pas maltraités pendant les déplacements.
 </blockquote>
 

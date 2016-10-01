@@ -1,27 +1,11 @@
 ---
-ID: 644
-author: Alda
-bitlyURL:
-- http://ltch.fr/M26uuM
-- http://ltch.fr/M26uuM
 date: 2012-07-21T00:00:00Z
-dsq_needs_sync:
-- "1"
-- "1"
-dsq_thread_id:
-- "774340691"
-- "774340691"
 head_img:
-- https://aldarone.fr/assets/webavardes.jpg
 - https://aldarone.fr/assets/webavardes.jpg
 head_img_alt:
 - Les Webavardes
-- Les Webavardes
-post_date: 2012-07-21 13:09:42
-post_excerpt: ""
-post_title: 'Les Webavardes : Communication Fail.'
-published: true
-url: /les-webavardes-communication-fail/
+title: "Les Webavardes : Communication Fail."
+slug: "les-webavardes-communication-fail"
 ---
 
 <p>En général, je suis d'un naturel patient et serein. Mais des fois (de plus en plus souvent en fait) je vois des choses qui me font m'enflammer. Le bullshit des communicants, <a href="https://odieuxconnard.wordpress.com/2012/03/07/geek-chic-geek-shit/">les mi-geeks</a>, les attaques contre Internet ou encore le sexisme par exemple. Et bien « <strong>Les Webavardes</strong> » ont réussi à cumuler 3 de ces 4 exemples.</p>

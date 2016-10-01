@@ -1,30 +1,11 @@
 ---
-ID: 321
-author: Alda
-bitlyURL:
-- http://bit.ly/tasup6
-- http://bit.ly/tasup6
 date: 2011-11-01T00:00:00Z
-dsq_thread_id:
-- "458601556"
-- "458601556"
 head_img:
-- https://aldarone.fr/assets/Feedly.png
 - https://aldarone.fr/assets/Feedly.png
 head_img_alt:
 - Feedly Logo
-- Feedly Logo
-- Feedly Logo
-- Feedly Logo
-- Feedly Logo
-- Feedly Logo
-- Feedly Logo
-- Feedly Logo
-post_date: 2011-11-01 12:00:20
-post_excerpt: ""
-post_title: Bye bye Google Reader, bonjour Feedly
-published: true
-url: /bye-bye-google-reader-bonjour-feedly/
+title: "Bye bye Google Reader, bonjour Feedly"
+slug: "bye-bye-google-reader-bonjour-feedly"
 ---
 
 Google l'avait <a href="http://googlereader.blogspot.com/2011/10/upcoming-changes-to-reader-new-look-new.html">annoncé il y a quelques jours</a>, Google Reader allait subir une refonte. J'aurais pu dire « bénéficier d'une mise à jour » si j'avais été positif mais « subir » est le bon mot.

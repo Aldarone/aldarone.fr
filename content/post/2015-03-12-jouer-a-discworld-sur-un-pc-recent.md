@@ -1,12 +1,7 @@
 ---
-ID: 1568
-author: Alda
 date: 2015-03-12T00:00:00Z
-post_date: 2015-03-12 20:43:57
-post_excerpt: ""
-post_title: Jouer à Discworld sur un PC récent
-published: true
-url: /jouer-a-discworld-sur-un-pc-recent/
+title: "Jouer à Discworld sur un PC récent"
+slug: "jouer-a-discworld-sur-un-pc-recent"
 ---
 
 https://twitter.com/terryandrob/status/576036599047258112

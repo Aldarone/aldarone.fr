@@ -1,27 +1,12 @@
 ---
-ID: 343
-author: Alda
-bitlyURL:
-- http://bit.ly/tOEQzC
-- http://bit.ly/tOEQzC
 date: 2011-11-04T00:00:00Z
-dsq_thread_id:
-- "462020152"
-- "462020152"
 head_img:
-- |
-  https://aldarone.fr/assets/DataLiberationFront.jpg
 - |
   https://aldarone.fr/assets/DataLiberationFront.jpg
 head_img_alt:
 - Data Liberation Front
-- Data Liberation Front
-post_date: 2011-11-04 18:45:10
-post_excerpt: ""
-post_title: Google Takeout, Buzz et l&rsquo;export des favoris
-published: true
-url: |
-  /google-takeout-buzz-et-lexport-des-favoris/
+title: "Google Takeout, Buzz et l'export des favoris"
+slug: "google-takeout-buzz-et-lexport-des-favoris"
 ---
 
 Comme annoncé dans un article précédent, Google Reader a mis fin aux partages d'articles comme on le connaissait. Dommage pour moi, je m'en servais aussi comme outil de bookmarking (un peu comme ce que d'autres font avec Delicious)
@@ -56,7 +41,7 @@ Le minimum est là, on peut donc commencer:
     $title = $html-&gt;find('div[class=entry-title]', 0)-&gt;plaintext;
     $date = $html-&gt;find('abbr[class=published]', 0)-&gt;title;
     $link = $html-&gt;find('div[class=entry-content]', 0)-&gt;first_child()-&gt;href;
-	
+
     echo '<DT><A HREF="'.$link.'">'.$title.'</A></DT>'."n";
 
     $html-&gt;clear();
@@ -75,7 +60,7 @@ function date_convert($date){
     $hour = substr($date, 11, 2);
     $min = substr($date, 14, 2);
     $sec = substr($date, 17, 2);
- 
+
     $date = mktime($hour, $min, $sec, $month, $day, $year);
     return $date;
 }
@@ -100,24 +85,24 @@ function real_url($link){
     if ( ! empty($link) ) { return; }
     $options = array(
      CURLOPT_NOBODY         =&gt; true,     // Asks header only
-     CURLOPT_RETURNTRANSFER =&gt; true,     // return web page 
-     CURLOPT_HEADER         =&gt; true,    // return headers 
-     CURLOPT_FOLLOWLOCATION =&gt; true,     // follow redirects 
-     CURLOPT_ENCODING       =&gt; "",       // handle all encodings 
-     CURLOPT_USERAGENT      =&gt; "spider", // who am i 
-     CURLOPT_AUTOREFERER    =&gt; true,     // set referer on redirect 
-     CURLOPT_CONNECTTIMEOUT =&gt; 10,      // timeout on connect 
-     CURLOPT_TIMEOUT        =&gt; 15,      // timeout on response 
-     CURLOPT_MAXREDIRS      =&gt; 10,       // stop after 10 redirects 
-    ); 
+     CURLOPT_RETURNTRANSFER =&gt; true,     // return web page
+     CURLOPT_HEADER         =&gt; true,    // return headers
+     CURLOPT_FOLLOWLOCATION =&gt; true,     // follow redirects
+     CURLOPT_ENCODING       =&gt; "",       // handle all encodings
+     CURLOPT_USERAGENT      =&gt; "spider", // who am i
+     CURLOPT_AUTOREFERER    =&gt; true,     // set referer on redirect
+     CURLOPT_CONNECTTIMEOUT =&gt; 10,      // timeout on connect
+     CURLOPT_TIMEOUT        =&gt; 15,      // timeout on response
+     CURLOPT_MAXREDIRS      =&gt; 10,       // stop after 10 redirects
+    );
 
-    $ch      = curl_init( $link ); 
-    curl_setopt_array( $ch, $options ); 
-    $content = curl_exec( $ch ); 
-    $err     = curl_errno( $ch ); 
-    $errmsg  = curl_error( $ch ); 
-    $header  = curl_getinfo( $ch ); 
-    curl_close( $ch ); 
+    $ch      = curl_init( $link );
+    curl_setopt_array( $ch, $options );
+    $content = curl_exec( $ch );
+    $err     = curl_errno( $ch );
+    $errmsg  = curl_error( $ch );
+    $header  = curl_getinfo( $ch );
+    curl_close( $ch );
 
     $http_code = $header["http_code"];
     $url = $header["url"];

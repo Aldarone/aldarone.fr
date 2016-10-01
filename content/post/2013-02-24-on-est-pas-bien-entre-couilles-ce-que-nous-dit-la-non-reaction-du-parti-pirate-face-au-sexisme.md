@@ -1,20 +1,10 @@
 ---
-ID: 890
-author: Alda
-bitlyURL:
-- http://ltch.fr/WbQIC5
-- http://ltch.fr/WbQIC5
 date: 2013-02-24T00:00:00Z
-post_date: 2013-02-24 12:30:36
-post_excerpt: ""
-post_title: '&laquo;&nbsp;On n&rsquo;est pas bien entre couilles ?&nbsp;&raquo; &#8211;
-  Ce que nous dit la non-réaction du Parti Pirate face au sexisme'
-published: true
-url: |
-  /on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme/
+title: "« On n'est pas bien entre couilles ? » - Ce que nous dit la non-réaction du Parti Pirate face au sexisme"
+slug: "on-est-pas-bien-entre-couilles-ce-que-nous-dit-la-non-reaction-du-parti-pirate-face-au-sexisme"
 ---
 
-<p>Hier soir, et suite à des tweets irrespectueux de la part d'un ex-candidat aux élections législatives, une shitstorm est tombée sur le Parti Pirate Français. Et force est de constater qu'il n'en est pas sorti grandi… <!--more--></p>
+<p>Hier soir, et suite à des tweets irrespectueux de la part d'un ex-candidat aux élections législatives, une shitstorm est tombée sur le Parti Pirate Français. Et force est de constater qu'il n'en est pas sorti grandi… </p>
 
 <h2>Comment ça a commencé :</h2>
 

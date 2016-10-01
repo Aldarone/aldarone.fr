@@ -1,28 +1,12 @@
 ---
-ID: 449
-author: Alda
-bitlyURL:
-- http://bit.ly/sdxozh
-- http://bit.ly/sdxozh
 date: 2011-12-21T00:00:00Z
-dsq_thread_id:
-- "511716714"
-- "511716714"
 head_img:
-- |
-  https://aldarone.fr/assets/dochub-preview.png
 - |
   https://aldarone.fr/assets/dochub-preview.png
 head_img_alt:
 - Capture d'écran de dochub
-- Capture d'écran de dochub
-post_date: 2011-12-21 15:30:45
-post_excerpt: ""
-post_title: |
-  Des documentations web complètes à portée de clics
-published: true
-url: |
-  /des-documentations-completes-a-portee-de-clics/
+title: "Des documentations web complètes à portée de clics"
+slug: "des-documentations-completes-a-portee-de-clics"
 ---
 
 Si vous êtes comme moi, quand vous êtes en train de coder (surtout si vous commencer à dompter un nouveau language) vous êtes sans arrêt en train de vous demander « Quelle est la syntaxe exacte de cette fonction déjà ? » ou « C'est quoi l'ordre des propriétés de ce raccourci en CSS ? » (Enfin, sans arrêt, c'est une façon de parler hein, mais ça arrive.) Alors on file sur google pour systématiquement finir sur les mêmes sites: <a href="http://www.w3schools.com/">W3School</a>, <a href="http://www.php.net/manual/en/">PHP.net</a>, <a href="http://docs.jquery.com/Main_Page">jQuery.com</a>, … à naviguer à travers des pages et des exemples pas toujours très clairs.

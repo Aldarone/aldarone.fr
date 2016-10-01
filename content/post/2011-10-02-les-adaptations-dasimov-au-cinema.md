@@ -1,35 +1,10 @@
 ---
-ID: 157
-author: Alda
-bitlyURL:
-- http://bit.ly/niS55S
-- http://bit.ly/niS55S
-date: 2011-10-02T00:00:00Z
-dsq_thread_id:
-- "431966867"
-- "431966867"
-head_img:
-- |
-  https://aldarone.fr/assets/IsaacAsimov.jpg
-- |
-  https://aldarone.fr/assets/IsaacAsimov.jpg
-head_img_alt:
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-- Isaac Asimov
-post_date: 2011-10-02 13:28:14
-post_excerpt: ""
-post_title: Les adaptations d&rsquo;Asimov au cinéma
-published: true
-url: /les-adaptations-dasimov-au-cinema/
+date: "2011-10-02"
+title: "Les adaptations d'Asimov au cinéma"
+slug: "les-adaptations-dasimov-au-cinema"
 ---
+
+![IsaacAsimov](/img/IsaacAsimov.jpg)
 
 J'ai appris il y a quelques jours que de nouvelles adaptations des romans d'Isaac Asimov étaient en cours.
 

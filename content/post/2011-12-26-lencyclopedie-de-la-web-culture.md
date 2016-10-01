@@ -1,30 +1,12 @@
 ---
-ID: 457
-author: Alda
-bitlyURL:
-- http://bit.ly/rWIyFs
-- http://bit.ly/rWIyFs
 date: 2011-12-26T00:00:00Z
-dsq_thread_id:
-- "516509710"
-- "516509710"
 head_img:
-- |
-  https://aldarone.fr/assets/encyclo-web-culture.jpg
 - |
   https://aldarone.fr/assets/encyclo-web-culture.jpg
 head_img_alt:
 - Encyclopédie de la web culture
-- Encyclopédie de la web culture
-- Encyclopédie de la web culture
-- Encyclopédie de la web culture
-- Encyclopédie de la web culture
-- Encyclopédie de la web culture
-post_date: 2011-12-26 11:30:08
-post_excerpt: ""
-post_title: L&rsquo;Encyclopédie de la Web Culture
-published: true
-url: /lencyclopedie-de-la-web-culture/
+title: "L'Encyclopédie de la Web Culture"
+slug: "lencyclopedie-de-la-web-culture"
 ---
 
 C'est l'heure du grand étalage annuel des cadeaux reçus. Cette année impossible de se tromper, j'ai fait ma wishlist sur amazon et j'ai dit: « Si vous savez pas quoi m'offrir, piochez là dedans ! »

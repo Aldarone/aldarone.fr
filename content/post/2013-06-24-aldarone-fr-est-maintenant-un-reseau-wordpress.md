@@ -1,14 +1,7 @@
 ---
-ID: 1335
-author: Alda
 date: 2013-06-24T00:00:00Z
-post_date: 2013-06-24 14:30:27
-post_excerpt: ""
-post_title: |
-  Aldarone.fr est maintenant un réseau WordPress
-published: true
-url: |
-  /aldarone-fr-est-maintenant-un-reseau-wordpress/
+title: "Aldarone.fr est maintenant un réseau WordPress"
+slug: "aldarone-fr-est-maintenant-un-reseau-wordpress"
 ---
 
 Un réseau WordPress ? Quézaquo ?

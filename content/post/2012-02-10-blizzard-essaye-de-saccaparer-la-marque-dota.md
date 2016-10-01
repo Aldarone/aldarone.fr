@@ -1,29 +1,11 @@
 ---
-ID: 537
-author: Alda
-bitlyURL:
-- http://bit.ly/xqBxYj
-- http://bit.ly/xqBxYj
 date: 2012-02-10T00:00:00Z
-dsq_thread_id:
-- "570997516"
-- "570997516"
 head_img:
-- https://aldarone.fr/assets/DotA2.jpg
 - https://aldarone.fr/assets/DotA2.jpg
 head_img_alt:
 - DotA 2
-- DotA 2
-- DotA 2
-- DotA 2
-- DotA 2
-- DotA 2
-post_date: 2012-02-10 10:15:11
-post_excerpt: ""
-post_title: Blizzard essaye de s&rsquo;accaparer la marque DotA
-published: true
-url: |
-  /blizzard-essaye-de-saccaparer-la-marque-dota/
+title: "Blizzard essaye de s'accaparer la marque DotA"
+slug: "blizzard-essaye-de-saccaparer-la-marque-dota"
 ---
 
 Activision-Blizzard a entrepris des actions auprès du bureau Américain des brevets et des marques déposées pour empêcher Valve d'utiliser la marque DotA au prétexte que c'est un type de carte pour Warcraft 3 et que du coup, les joueurs l'associent fortement à Blizzard.

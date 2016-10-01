@@ -1,26 +1,12 @@
 ---
-ID: 360
-author: Alda
-bitlyURL:
-- http://bit.ly/sgWSAF
-- http://bit.ly/sgWSAF
 date: 2011-11-07T00:00:00Z
-dsq_thread_id:
-- "463622275"
-- "463622275"
 head_img:
-- |
-  https://aldarone.fr/assets/PubSubHubbub.png
 - |
   https://aldarone.fr/assets/PubSubHubbub.png
 head_img_alt:
 - Logo de PubSubHubbub
-- Logo de PubSubHubbub
-post_date: 2011-11-07 08:45:44
-post_excerpt: ""
-post_title: Les flux RSS, Shaarli et PubSubHubbub
-published: true
-url: /les-flux-rss-shaarli-et-pubsubhubbub/
+title: "Les flux RSS, Shaarli et PubSubHubbub"
+slug: "les-flux-rss-shaarli-et-pubsubhubbub"
 ---
 
 Derrière ces termes barbares se cache trois outils qui servent beaucoup à la diffusion du contenu sur internet.
@@ -75,12 +61,12 @@ function showRSS()
 {
     global $LINKSDB;
 
-// ...    
+// ...
 
      echo 'Shared linksfr-FR'.$pageaddr.''."nn";
     echo '<!-- PubSubHubbub Discovery -->
-          
-          
+
+
           <!-- End Of PubSubHubbub Discovery -->';
     $i=0;
     $keys=array(); foreach($linksToDisplay as $key=&gt;$value) { $keys[]=$key; }  // No, I can't use array_keys().
@@ -102,7 +88,7 @@ function showATOM()
     if (!$GLOBALS['config']['HIDE_TIMESTAMPS'] || isLoggedIn()) $feed.=''.htmlspecialchars($latestDate).'';
     $feed.='';
     $feed.='<!-- PubSubHubbub Discovery -->
-            
+
             <!-- End Of PubSubHubbub Discovery -->';
     $feed.=''.htmlspecialchars($pageaddr).'';
     $feed.=''.htmlspecialchars($pageaddr).''."nn"; // Yes, I know I should use a real IRI (RFC3987), but the site URL will do.
@@ -117,7 +103,7 @@ function showATOM()
     // -------- User clicked the "Save" button when editing a link: Save link to database.
     if (isset($_POST['save_edit']))
     {
-        
+
 // ...
 
         $LINKSDB-&gt;savedb(); // save to disk
