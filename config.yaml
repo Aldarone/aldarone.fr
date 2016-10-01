@@ -1,5 +1,25 @@
-baseurl: https://aldarone.fr/
+baseurl: "https://aldarone.fr/"
 disablePathToLower: true
-languageCode: fr-fr
-title: Aldarone.fr
+languageCode: "fr-fr"
+title: "Aldarone.fr"
+theme: "hugo-theme-casper"
+Copyright: "2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+params:
+  title: "Aldarone.fr"
+  author: "Alda Marteau-Hardi"
+  authorlocation: "Alsace, France"
+  authorwebsite: "http://aldarone.fr/"
+  cover: "img/cover.jpg"
+  bio: "Je fais du PHP et du Javascript. Et j'essaye aussi d'être un humain décent."
+  twitterName: "WebScrewdriver"
+  githubName: "aldarone"
+  hideHUGOSupport: true
+
+permalinks:
+  post: "/:slug"
 ...
