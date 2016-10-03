@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ? &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2015-08-27T00:00:00Z" />
+
+    
+    
+
+  <title>
+     Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ? &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ?</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2015-08-27T00:00:00Z">
+            Aug 27, 2015
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>En lien avec les évènements relatés dans mon article précédent « <a href="https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox/">Une avalanche de FUD sur Mozilla et Firefox.</a> » <a href="https://ecirtam.net/links/">Oros</a> a conduit <a href="https://www.ecirtam.net/links/?40QYwg">une petite étude du comportement d&rsquo;un Firefox fraîchement installé</a> et en a tiré <a href="https://github.com/Oros42/firefox_change_prefs">un fichier de configuration à appliquer</a> pour le rendre complètement silencieux.</p>
+
+<p>Cependant, je trouve non seulement que son analyse manque cruellement d&rsquo;explications et que son fichier de configuration propose des valeurs qui vont beaucoup trop loin à mon goût, d&rsquo;autant que ces choix ont pour seule justification le fait de faire taire Firefox. Cette approche est donc dommageable et on voit déjà des partages affolés de la part de gens pour qui « requête réseau » signifie que Firefox vends leurs données personnelles à des grosses corporations :</p>
+
+<p><a href="https://twitter.com/molokoloco/status/636533449269084160">https://twitter.com/molokoloco/status/636533449269084160</a></p>
+
+<p>Je vais donc détailler un peu à quoi correspondent les requêtes listées ainsi que ce qui se trouve dans ce fichier de configuration et, quand c&rsquo;est le cas, pourquoi j&rsquo;estime qu&rsquo;une telle désactivation est problématique.</p>
+
+<p>Pour les requêtes réseaux, je n&rsquo;ai pas leur contenu et ne pourrai donc pas en expliquer certaines mais les noms de domaine des autres sont pour la plupart assez parlants.</p>
+
+<pre><code>1 : www.mozilla.org.
+1 : snippets.cdn.mozilla.net.
+1 : geo.mozilla.org.
+1 : location.services.mozilla.com.
+1 : search.services.mozilla.com.
+1 : self-repair.mozilla.org.
+1 : aus4.mozilla.org.
+3 : search.yahoo.com.
+3 : ff.search.yahoo.com.
+1 : ciscobinary.openh264.org.
+1 : clients1.google.com.
+1 : safebrowsing.google.com.
+53 : safebrowsing-cache.google.com.
+1 : ocsp.digicert.com.
+</code></pre>
+
+<p><code>geo.mozilla.org</code> et <code>location.services.mozilla.com</code> correspondent de manière assez évidente à un service de géolocalisation. Mozilla connait donc l&rsquo;emplacement approximatif de tel navigateur. Ces requêtes disparaissent en passant <code>browser.search.geoip.url</code> à <code>false</code> cela a donc à voir avec les fonctionnalités de recherche comme nous le verrons dans le détails des options.</p>
+
+<p><code>search.services.mozilla.com</code>, <code>aus4.mozilla.org</code> et  <code>self-repair.mozilla.org</code> sont des domaines utilisés par Mozilla pour la maintenance de Firefox : des vérifications de mises à jour pour les deux premiers et le service Heartbeat pour le dernier. <a href="https://support.mozilla.org/en-US/kb/rate-your-firefox-experience-heartbeat">Heartbeat étant le service de feedback</a> pour Firefox (ce panneau « Rate your experience with Firefox » qu&rsquo;on voit s&rsquo;afficher de temps en temps.) Il permet à Mozilla de savoir combien de personnes démarrent leur Firefox chaque jour pour avoir un suivi statistique.</p>
+
+<p><code>search.yahoo.com</code> et <code>ff.search.yahoo.com</code> sont là pour fournir à Yahoo des statistiques d&rsquo;utilisation. Ils ont un contrat avec Mozilla pour être le moteur de recherche par défaut, ces appels servent à justifier l&rsquo;utilité de ce deal.</p>
+
+<p><code>ciscobinary.openh264.org</code> a rapport avec le décodage des vidéos en h264 dans le lecteur HTML5. h264 est un codec brevet et les éditeurs de logiciel qui distribuent un codec h264 doivent payer une licence pour chaque codec distribué. Ça ne s&rsquo;applique pas en Europe car (pour l&rsquo;instant) les brevets logiciels sont encore considérés comme nuls mais aux États-Unis notamment, il faut passer à la caisse. Pour éviter à Mozilla de devoir mettre la plupart de ses économies dans le paiement de la licence à MPEG-LA, Cisco lui fournit gracieusement un codec nommé openh264. Cet appel réseau peut donc aussi bien être présent à des fins de statistiques mais aussi de mise à jour. (Si vous allez dans les Préférences - Modules - Plugins, <a href="https://aldarone.fr/wp-content/uploads/2015/08/Capture-d’écran_2015-08-26_19-11-46.png">vous verrez le codec en question</a>.)</p>
+
+<p>Le grand nombre d&rsquo;appels à Google ont rapport au service SafeBrowsing de Google (Navigation Sécurisée en français). C&rsquo;est une liste noire de domaines qui contiennent ou ont contenu divers malwares ou qui pratiquent le phishing. Cela permet au navigateur de bloquer la page avant même de la charger et d&rsquo;<a href="https://aldarone.fr/wp-content/uploads/2015/08/Capture-d’écran_2015-08-26_19-11-46.png">afficher une alerte</a> mais cela implique d&rsquo;envoyer l&rsquo;URL visitée au service. Et ce service est tenu par Google.</p>
+
+<p>Le dernier, <code>ocsp.digicert.com</code>, concerne le protocole OCSP (<a href="https://fr.wikipedia.org/wiki/Online_Certificate_Status_Protocol">Online Certificate Status Protocol</a>) et sert à vérifier la validité d&rsquo;un certificat chez son émetteur (ici, DigiCert) afin de s&rsquo;assurer qu&rsquo;il n&rsquo;a pas été révoqué. Ni information personnelle, ni statistique, il s&rsquo;agit d&rsquo;un protocole de sécurité qui va de pair avec TLS.</p>
+
+<p>On remarquera aussi que, contrairement aux cris d&rsquo;horreur poussés par les détracteurs de Firefox Hello et de l&rsquo;intégration de Pocket, strictement aucune requête réseau ne concerne ces fonctionnalités.</p>
+
+<p>Voila pour les appels réseau que j&rsquo;ai pu identifier, passons maintenant aux différents blocs du fichier de configuration.</p>
+
+<h3>Le rafraichissement automatique de certaines pages</h3>
+
+<pre><code>user_pref("accessibility.blockautorefresh",true);
+</code></pre>
+
+<p>On commence bien avec un réglage de bon sens. <code>accessibility.blockautorefresh</code> bloque le rafraichissement automatique de certaines pages. Cette fonction était sensée avant la démocratisation d&rsquo;AJAX pour mettre à jour une page qui disposait d&rsquo;un nouveau contenu mais la technique est usée et abusée par les sites de presse qui profitent des onglets en arrière plan pour se booster les vues et rentabiliser leurs lecteur⋅ices. Pour plus d&rsquo;infos : <a href="http://kb.mozillazine.org/Accessibility.blockautorefresh">accessibility.blockautorefresh sur Mozillazine</a>.</p>
+
+<h3>Des préférences sans lien avec le réseau</h3>
+
+<pre><code>user_pref("browser.cache.disk.enable", false);
+user_pref("browser.download.panel.shown", true);
+user_pref("browser.newtab.url","about:blank");
+</code></pre>
+
+<p>Ces trois-là portent plus matière à controverse puisqu&rsquo;il s&rsquo;agit de préférence personnelle.</p>
+
+<p>Pour le premier pas de cache sur le disque signifie potentiellement moins d&rsquo;accès disques (et c&rsquo;est bien) mais ça signifie aussi que le cache se vide quand on ferme Firefox. Il faudra donc charger à nouveau toutes les ressources sur chaque site web. Ça veut donc dire plus de trafic réseau, plus de charge sur les serveurs et des pages qui s&rsquo;affichent globalement moins vite.</p>
+
+<p>Pour le second, on force Firefox à nous demander où enregistrer les fichiers qu&rsquo;on télécharge au lieu de les mettre d&rsquo;office dans un dossier spécifié. C&rsquo;est bien quand on apprécie ce comportement, c&rsquo;est moins bien quand on préfère le comportement par défaut. De plus la présence de cette ligne empêche de modifier l&rsquo;option dans Préférences - Général - Téléchargement.</p>
+
+<p>Idem pour le dernier du bloc, afficher <code>about:blank</code> à l&rsquo;ouverture d&rsquo;un onglet n&rsquo;est peut-être pas du goût de tout le monde. Alors que <code>about:mozilla</code> ou <code>about:about</code> valent le détour.</p>
+
+<h3>Google SafeBrowsing</h3>
+
+<pre><code>// I remove all URL because I don't want to
+// connecte my PC to Google
+user_pref("browser.safebrowsing.appRepURL", "");
+user_pref("browser.safebrowsing.downloads.enabled", false);
+user_pref("browser.safebrowsing.downloads.remote.enabled", false);
+user_pref("browser.safebrowsing.enabled", false);
+user_pref("browser.safebrowsing.gethashURL", "");
+user_pref("browser.safebrowsing.malware.enabled", false);
+user_pref("browser.safebrowsing.malware.reportURL", "");
+user_pref("browser.safebrowsing.reportErrorURL", "");
+user_pref("browser.safebrowsing.reportGenericURL", "");
+user_pref("browser.safebrowsing.reportMalwareErrorURL", "");
+user_pref("browser.safebrowsing.reportMalwareURL", "");
+user_pref("browser.safebrowsing.reportPhishURL", "");
+user_pref("browser.safebrowsing.reportURL", "");
+user_pref("browser.safebrowsing.updateURL", "");
+user_pref("browser.trackingprotection.gethashURL", "");
+user_pref("browser.trackingprotection.updateURL", "");
+user_pref("services.sync.prefs.sync.browser.safebrowsing.enabled",false);
+user_pref("services.sync.prefs.sync.browser.safebrowsing.malware.enabled",false);
+</code></pre>
+
+<p>Ici on s&rsquo;attaque à SafeBrowsing de Google. Il y a des pour à propos de cette désactivation : On envoie pas les URLs visitées à Google, mais il y a des contres : on ouvre laisse plus de champs à une infection par Javascript ou à un Phishing. Bref, c&rsquo;est quelque chose qu&rsquo;il faudrait désactiver après réflexion et pas « parce que Firefox envoie des données mon dieu ! »</p>
+
+<p>Ne vous leurrez pas non plus si vous utilisez GNU/Linux, pas plus tard que début août <a href="https://blog.mozilla.org/security/2015/08/06/firefox-exploit-found-in-the-wild/">une faille dans PDF.js permettait à un script JS de récupérer des fichiers de votre ordinateur</a>, l&rsquo;exploit visait <code>/etc/passwd</code>, <code>.my.conf</code> (coucou le mot de passe MySQL) ou encore <code>.bash_history</code>.</p>
+
+<p>Et en aucun cas ne faites ça chez un⋅e ami⋅e ou parent⋅e qui ne maîtrise pas l&rsquo;outil informatique.</p>
+
+<h3>Le moteur de recherche par défaut</h3>
+
+<pre><code>user_pref("browser.search.defaultenginename", "DuckDuckGo");
+</code></pre>
+
+<p>Sur le fait de forcer DuckDuckGo comme moteur de recherche par défaut, je n&rsquo;y vois personnellement aucun inconvénient mais il faudra penser à cette ligne si vous préférez utiliser autre chose. Un méta moteur comme l&rsquo;instance <a href="https://framabee.org/">searx de Framasoft</a> par exemple.</p>
+
+<h3>La géolocalisation</h3>
+
+<pre><code>user_pref("geo.enabled",false);
+user_pref("browser.search.geoip.url", "");
+user_pref("geo.wifi.uri", "");
+</code></pre>
+
+<p>Ces règles de configuration désactivent la géolocalisation du navigateur. <code>geo.enabled</code> permet, quand sa valeur est <code>true</code>, d&rsquo;autoriser certains sites à géolocaliser votre navigateur pour « améliorer » le service fourni. Ça va de Facebook Messenger qui le fait à des fins commerciales et <a href="https://medium.com/faith-and-future/stalking-your-friends-with-facebook-messenger-9da8820bd27d">qui fait fuiter l&rsquo;info à vos amis</a> à <a href="http://www.monprochainbus.eu/">monprochainbus.eu</a> qui indique les arrêts de bus les plus proches sans qu&rsquo;on ait rien à saisir. Dans tous les cas, Firefox vous demande l&rsquo;autorisation.</p>
+
+<p>De son côté, <code>browser.search.geoip.url</code> aide le navigateur à identifier le pays dans lequel vous vous trouvez à l&rsquo;aide de la technique <a href="https://fr.wikipedia.org/wiki/GeoIP">GeoIP</a>. Pour cela il effectue une connexion à l&rsquo;adresse <code><a href="https://location.services.mozilla.com/v1/country?key=%MOZILLA_API_KEY%">https://location.services.mozilla.com/v1/country?key=%MOZILLA_API_KEY%</a></code> et reçoit le nom standardisé du pays. Vous remarquerez l&rsquo;envoi d&rsquo;un identifiant unique <code>%MOZILLA_API_KEY%</code> qui identifie une installation de Firefox. Il est possible que ce soit utilisé à des fins de limitations du nombre de requêtes. Conserver l&rsquo;URL en enlevant <code>?key=%MOZILLA_API_KEY%</code> ne perturbe pas plus Firefox que ça, empêche Mozilla de suivre votre instance particulière de Firefox mais cela fausse aussi certainement leurs statistiques d&rsquo;usage par pays.</p>
+
+<p>Enfin, <code>geo.wifi.uri</code> aide <a href="https://www.mozilla.org/fr/firefox/geolocation/">la géolocalisation de Firefox</a> à se montrer plus précise en utilisant Google Location Services. Firefox envoie donc votre IP, la liste des réseaux Wifi environnants et un identifiant unique régénéré toutes les deux semaines à Google pour obtenir une localisation fiable au niveau de la rue au lieu de n&rsquo;avoir que GeoIP qui est fiable au niveau de la ville (et encore, parfois on a que le pays). Sans cette option, la précision prend un sacré coup ce qui peut jouer des tours aux personnes qui en ont l&rsquo;utilité.</p>
+
+<p>De plus <a href="https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/#comment-449">comme indiqué dans ce commentaire</a>, il est possible d&rsquo;utiliser Mozilla Location Service à la place de Google Location Service pour la préférence <code>geo.wifi.uri</code>.</p>
+
+<h3>D'autres préférences sans rapport avec le réseau</h3>
+
+<pre><code>user_pref("browser.search.openintab",true);
+user_pref("browser.search.showOneOffButtons",false);
+user_pref("browser.startup.page", 0);
+user_pref("browser.tabs.warnOnClose", false);
+user_pref("browser.tabs.warnOnOpen", false);
+user_pref("plugins.click_to_play",true);
+user_pref("general.warnOnAboutConfig",false);
+user_pref("browser.urlbar.trimURLs",false);
+</code></pre>
+
+<p>Ici on retrouve à nouveau des préférences qui n&rsquo;impactent pas la « vie privée », <code>browser.search.openintab</code> force l&rsquo;ouverture d&rsquo;un onglet après une recherche dans la barre de recherche, <code>browser.search.showOneOffButtons</code> masque les boutons des moteurs de recherche installés qui <a href="https://aldarone.fr/wp-content/uploads/2015/08/2014-12-09-12-14-37-199895.png">s&rsquo;affichent en bas du champ de recherche</a>, <code>browser.startup.page</code> définit la page qui s&rsquo;affiche au démarrage du navigateur (ici elle est à 0 donc une page blanche, par défaut c&rsquo;est la page d&rsquo;accueil. Du coup ça fait doublon puisque précédemment on a défini la page d&rsquo;accueil à <code>about:blank</code>), les deux directives <code>browser.tabs</code> suppriment respectivement l&rsquo;alerte du navigateur quand on le ferme et que plusieurs onglets sont ouverts et l&rsquo;avertissement quand on ouvre un nouvel onglet alors qu&rsquo;il y en a déjà 15 ouverts (<code>browser.tabs.warnOnOpen</code> va de pair avec <code>browser.tabs.maxOpenBeforeWarn</code> qui est par défaut à 15)</p>
+
+<p>De son côté <code>plugins.click_to_play</code> force l&rsquo;activation des plugins à « Toujours demander » ce qui est <a href="https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/">le cas par défaut depuis Firefox 31</a>.</p>
+
+<p><code>user_pref(&ldquo;general.warnOnAboutConfig&rdquo;,false);</code> supprime simplement l&rsquo;avertissement qui s&rsquo;affiche en visitant la page <code>about:config</code> (comme quand on coche la case « Ne plus me demander » de cette même page d&rsquo;avertissement.)</p>
+
+<p>Le dernier force l&rsquo;affichage de <code>http://</code> ou de <code>https://</code> dans la barre d&rsquo;adresse puisqu&rsquo;ils sont masqués par défaut depuis Firefox 7. À ça on pourrait rajouter le passage de <code>browser.urlbar.formatting.enabled</code> à <code>false</code> qui va empêcher d&rsquo;afficher le domaine en noir et les autres parties de l&rsquo;URL en gris.</p>
+
+<h3>Les rapports de santé de Firefox</h3>
+
+<pre><code>user_pref("datareporting.healthreport.service.enabled",false);
+user_pref("datareporting.healthreport.uploadEnabled",false);
+</code></pre>
+
+<p>Le service rapport de santé est un service qui enregistre divers statistiques d&rsquo;utilisation comme les derniers crashes de Firefox ou le temps de démarrage moyen. Désactiver le service empêche purement et simplement la création de tels rapports et désactiver le partage fait que Mozilla ne reçoit plus les rapport générés. S&rsquo;il est compréhensible de désactiver le partage du rapport, il peut par contre s&rsquo;avérer problématique de désactiver la création de ces rapports qui peuvent servir à dépanner un Firefox bancal.</p>
+
+<p>Les rapports en question sont accessibles via la page <code>about:healthreport</code>, en cliquant sur données brutes vous pouvez voir les rapports tels qu&rsquo;ils sont envoyés à Mozilla, la page en question contient également un bouton pour désactiver le partage (même effet que <code>datareporting.healthreport.uploadEnabled</code>) et un lien vers une page d&rsquo;explication assez bien faite : <a href="https://support.mozilla.org/fr/kb/bilan-sante-firefox-comprendre-performances">Bilan de santé de Firefox – comprendre vos performances navigateur</a></p>
+
+<h3>L'injection de contenu dans le presse-papier</h3>
+
+<pre><code>user_pref("dom.event.clipboardevents.enable",false);
+</code></pre>
+
+<p>Cette préférence désactive les évènements JavaScript <code>oncopy</code>, <code>oncut</code> et <code>onpaste</code> qui permettent aux sites web de manipuler le contenu du presse papier. Désactiver cette fonction n&rsquo;a que du positif puisque le site sur lequel vous faites un copier-coller ne pourra pas rajouter du texte arbitraire comme un lien promotionnel après le contenu désiré.</p>
+
+<h3>Les suggestions de recherche</h3>
+
+<pre><code>user_pref("browser.search.suggest.enabled",false);
+</code></pre>
+
+<p>Cette option va désactiver les suggestions de la barre de recherche. C&rsquo;est ce qui permet à DuckDuckGo de vous suggérer « Les hommes les plus riches du monde » quand vous saisissez « Les hommes » ou « Les femmes les plus belles du monde » quand vous saisissez « Les femmes » (On notera au passage l&rsquo;influence du patriarcat sur les suggestions de recherche…).</p>
+
+<p>Pour que ça fonctionne, Firefox envoie une requête à chaque lettre tapée dans le champ de recherche. Personnellement j&rsquo;ai du mal à saisir l&rsquo;intérêt de désactiver les suggestions que je trouve souvent pertinentes, d&rsquo;autant que quand je tape une phrase, je me fiche de savoir que mon moteur de recherche sait que j&rsquo;en ai saisi chaque lettre une par une.</p>
+
+<p>Sans les suggestions, Firefox se rabat sur son historique interne.</p>
+
+<h3>Le User Agent et ses potes</h3>
+
+<pre><code>// user-agent
+user_pref("general.appname.override", "");
+user_pref("general.appversion.override", "");
+user_pref("general.oscpu.override", "");
+user_pref("general.platform.override", "");
+user_pref("general.useragent.override", "Mozilla/5.0 ()");
+user_pref("general.useragent.vendor", "");
+</code></pre>
+
+<p>Le user-agent est une chaine de caractère identifiant les différents navigateurs, leur version et leur environnement. À titre d&rsquo;exemple, celui de mon Firefox est <code>Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0</code> On retrouve l&rsquo;environnement pour lequel Firefox a été compilé, sa version, la version de son moteur, etc. Ce bloc-là masque tout ce qu&rsquo;il est possible de masquer dans cette chaine et force en plus sa valeur à une chaine arbitraire et je suis plus que dubitatif sur l&rsquo;utilité de dissimuler cette information.</p>
+
+<p>Par contre la conséquence la plus directe est de faire baisser les statistiques d&rsquo;utilisation de Firefox puisque les sites qui recensent de telles statistiques ne sauront plus par quel navigateur ils sont visités. Les parts de marché de Firefox sont déjà en baisse plus ou moins constante au profit de Chrome et contribuer à les faire diminuer pour aucun bénéfice revient à confirmer Chrome dans sa position de nouvel IE6 (et on ne veut vraiment pas amplifier le mouvement).</p>
+
+<p>Bref, masquer son user-agent, sauf cas spécifiques comme par exemple à des fins de tests ou encore quand on utilise Opera et que Google fournit délibérément une version inutilisable de ses application, n&rsquo;a aucun intérêt.</p>
+
+<p><strong>Mise à jour</strong> : Visiblement Google aime bien faire n&rsquo;importe quoi avec les user-agents et semble empêcher le plein écran sur Youtube si <code>general.useragent.override</code> ne contient pas <code>Gecko</code>, merci à un⋅e anonyme sur OpenNews pour le signalement. (<a href="https://www.ecirtam.net/opennews/?fFXtjQ">Le lien vers la question</a>, <a href="https://www.ecirtam.net/links/?WCa8lg">le lien vers la réponse</a>)</p>
+
+<h3>La lecture HTML5 sous windows et les DRM</h3>
+
+<pre><code>user_pref("media.directshow.enabled",false);
+user_pref("media.windows-media-foundation.enabled",false);
+</code></pre>
+
+<p>Ces deux préférences n&rsquo;ont d&rsquo;intérêt que sous windows et vont désactiver le lecteur interne de Firefox en ce qui concerne les fichiers mp4 et mp3. Le problème qui se pose c&rsquo;est que les sites proposant un lecteur HTML5 comme SoundCloud ou Youtube vont à présent utiliser la rétro-compatibilité et se rabattront sur Flash. Ce qui est un peu paradoxal quand on pense protéger sa vie privée.</p>
+
+<pre><code>user_pref("media.eme.enabled",false);
+user_pref("media.gmp-eme-adobe.enabled",false);
+</code></pre>
+
+<p>Celles-là ont rapport avec le support des EMEs (Encrypted Media Extension) qui sont les DRMs standardisées de HTML5. Comme les DRMs c&rsquo;est purement et simplement de la merde il parait logique de désactiver leur support. Néanmoins, les sites avec EME risquent une fois encore de se rabattre sur Flash qui a lui aussi son système de DRMs, non standardisé lui. Si vous voulez éviter à tout prix les DRMs il faudra donc vous assurer de désactiver Flash également. Et de garder à l&rsquo;esprit que si votre navigateur ne lit pas les fichiers que tous les autres utilisateur⋅ices arrivent à lire, ce n&rsquo;est pas de sa faute.</p>
+
+<h3>Des fuites d'information</h3>
+
+<pre><code>user_pref("media.peerconnection.enabled",false);
+user_pref("network.proxy.socks_remote_dns",true);
+user_pref("network.http.sendRefererHeader",0);
+</code></pre>
+
+<p>La première préférence à rapport à WebRTC. Ce protocole sert à la communication directe entre deux navigateurs. C&rsquo;est ce qui permet par exemple de jouer en réseau ou de faire de la conférence vidéo en web. Ici, WebRTC est désactivé de force car son implémentation actuelle expose les adresses IPs locales de l&rsquo;ordinateur.  N&rsquo;importe quel site web est donc capable de récupérer la liste de vos IPs et est susceptible de contacter d&rsquo;autres ordinateurs sur le réseau avec des appels AJAX depuis votre navigateur. (Il lui faut tout de même connaître les IPs de destination.) Les proxys et les VPN verront eux aussi leurs adresses exposées. Si vous n&rsquo;utilisez pas WebRTC il est donc plus sûr de désactiver cette option. Le bug concernant cette faille est visible ici <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1189167">[meta] ICE candidate generation control and user authorization</a> et les développements autour sont assez actifs.</p>
+
+<p>À noter que Chrome y est également vulnérable car le problème provient d&rsquo;un flou dans le standard WebRTC.</p>
+
+<p>La seconde force Firefox à envoyer les requêtes DNS à travers le proxy si vous en utilisez un. Avec la valeur par défaut, les requêtes sont envoyées sur le résolveur DNS de l&rsquo;ordinateur et le réseau que vous essayez de contourner à l&rsquo;aide d&rsquo;un proxy connait tous les domaines que vous visitez.</p>
+
+<p>Finalement, la dernière bloque l&rsquo;envoi du referer aux sites que vous visitez. Le referer est le site de provenance quand vous cliquez sur un lien. Par exemple si je visite le Shaarli de SebSauvage et que je clique sur un lien vers le blog de Kevin, ce dernier aura la possibilité de savoir que j&rsquo;ai cliqué sur un lien chez Seb pour arriver chez lui. Ce n&rsquo;est valable qu&rsquo;en HTTP car en HTTPS le referer n&rsquo;est jamais envoyé par Firefox.</p>
+
+<h3>Des requêtes en avance</h3>
+
+<pre><code>user_pref("network.dns.disablePrefetch",true);
+user_pref("network.http.speculative-parallel-limit",0);
+</code></pre>
+
+<p>Ces deux-là visent à améliorer le temps de réaction de Firefox au moment de cliquer sur un lien. Ainsi, le DNS Prefetch consite à lister les liens d&rsquo;une page et de résoudre les noms de domaines associés pour s&rsquo;épargner la durée de résolution au moment du clic. Ça fournit à votre résolveur DNS la liste des domaines liés sur une page et le désactiver augmente le temps de réponse de Firefox de quelques millisecondes (le temps de la résolution DNS). À la fin de la journée, le gain en vitesse cumulé est appréciable et le risque en terme de vie privée est pour le moins inexistant.</p>
+
+<h3>Activation de Firefox Hello</h3>
+
+<pre><code>user_pref("loop.enabled",true);
+</code></pre>
+
+<p>Cette préférence active Firefox Hello, c&rsquo;est la valeur par défaut donc on empêche sa désactivation. Ce qui ne mène à rien puisque Firefox Hello est basé sur WebRTC qui a été désactivé quelques lignes avant.</p>
+
+<h3>Les versions de TLS</h3>
+
+<pre><code>user_pref("security.ssl3.dhe_rsa_aes_128_sha",false);
+user_pref("security.ssl3.dhe_rsa_aes_256_sha",false);
+user_pref("security.tls.version.max",3);
+user_pref("security.tls.version.min",2);
+</code></pre>
+
+<p>Ces lignes concernent le protocole TLS qui définit la sécurité en HTTPS. La valeur de <code>tls.version.min</code> indique qu&rsquo;on accepte au moins TLS1.1 et celle de <code>tls.version.max</code> indique qu&rsquo;on accepte au plus TLS1.2 (la dernière en date). Les deux premières lignes ont rapport à SSLv3 et ne sont pas pertinentes puisque SSLv3 est antérieure à TLS1.0 et est donc désactivé.</p>
+
+<h3>Un bloqueur de traqueur intégré</h3>
+
+<pre><code>user_pref("privacy.trackingprotection.enabled",false);
+</code></pre>
+
+<p>À partir de la version 35, Firefox intègre un bloqueur de traceurs basé sur la liste de Disconnect.me, il serait remarquablement efficace puisqu&rsquo;une paire de chercheurs <a href="http://www.ghacks.net/2015/05/24/firefox-tracking-protection-decreases-page-load-times-by-44/">ont publié une étude à son sujet début 2015</a> indiquant une augmentation de 44% de la vitesse de chargement, une diminution de 39% du traffic réseau et une diminution de 66% du nombre de cookies. Cette fonction est désactivée par défaut et la valeur de cette préférence empêche ici son éventuelle activation (ce qui n&rsquo;est pas très logique si notre but est d&rsquo;améliorer la protection de notre vie privée avec Firefox).</p>
+
+<h3>La télémétrie : analyse des performances et des fonctions les plus utilisées de Firefox</h3>
+
+<pre><code>user_pref("toolkit.telemetry.enabled",false);
+</code></pre>
+
+<p>La télémétrie permet à Mozilla de recueillir des informations importante sur le comportement de Firefox dans une vaste diversité d&rsquo;environnements. Elle est désactivée par défaut dans Firefox Stable et ESR mais activée par défaut sur Beta, Developper et Aurora. La présence de cette préférence empêche son activation et on se retrouve donc à utiliser Firefox sans contribuer à son amélioration. Et c&rsquo;est dommage.</p>
+
+<h3>Conclusion</h3>
+
+<p>S&rsquo;il est tout à fait justifié de surveiller les usages réseaux de nos applications favorites pour veiller à ce qu&rsquo;elles ne nous trahissent pas, chercher aveuglément à les bloquer est loin d&rsquo;être une solution pertinente. Surtout quand cela amène à proposer une configuration à poser puis oublier présentée comme « Améliorant la vie privée » quand cette configuration mêle préférences personnelles, lignes obsolètes ou redondantes et valeurs exposant à plus de tracking ou de malwares, en dépit de quelques parties pertinentes.</p>
+
+<p>Au vu du temps que m&rsquo;a pris la simple recherche pour comprendre l&rsquo;intérêt de ces options, je suis convaincu que la plupart des gens qui verront et appliqueront ce fichier ne feront que le survoler se retrouvant du coup avec un Firefox au fonctionnement modifié pouvant même être considéré comme défaillant (puisqu&rsquo;il n&rsquo;y a plus de WebRTC, plus de lecteur HTML5, plus d&rsquo;optimisation du chargement de certaines pages) et j&rsquo;estime qu&rsquo;il y a une certaine responsabilité qui ne doit pas se limiter à une bête notice « Lisez le fichier avant de l&rsquo;appliquer » quand on fournit une telle configuration sur internet. (Non, je n&rsquo;aime pas trop <a href="http://opensource.org/licenses/mit-license.php">la licence MIT</a> non plus.)</p>
+
+<p>Néanmoins, j&rsquo;espère que cet article vous aura permis d&rsquo;en apprendre plus sur le fonctionnement de Firefox et que vous mesurerez bien les tenants et les aboutissants des modifications de configuration que vous ferez à l&rsquo;avenir.</p>
+
+<hr />
+
+<p>Crédit photo: <a href="https://www.flickr.com/photos/mpastwa/2671066786/">social network hub</a> par <a href="https://www.flickr.com/photos/mpastwa/">Mathias Pastwa</a></p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Que%20fait%20Firefox%20sur%20le%20r%c3%a9seau%20quand%20on%20le%20d%c3%a9marre%20et%20faut-il%20y%20rem%c3%a9dier%20%3f&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fque-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fque-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fque-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier&amp;description=Que%20fait%20Firefox%20sur%20le%20r%c3%a9seau%20quand%20on%20le%20d%c3%a9marre%20et%20faut-il%20y%20rem%c3%a9dier%20%3f"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fque-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+

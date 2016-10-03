@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" Écrire avec VIM, pusher sur GitHub, publier sur WordPress &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2015-10-16T00:00:00Z" />
+
+    
+    
+
+  <title>
+     Écrire avec VIM, pusher sur GitHub, publier sur WordPress &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Écrire avec VIM, pusher sur GitHub, publier sur WordPress</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2015-10-16T00:00:00Z">
+            Oct 16, 2015
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<h2 id="résumé-des-épisodes-précédents">Résumé des épisodes précédents</h2>
+
+<p>Depuis à peu près un an mon code s&rsquo;écrit dans VIM. Un VIM avec plein de plugins, mais un VIM quand même.</p>
+
+<p>Depuis j&rsquo;ai installé <a href="http://www.vimperator.org/vimperator/">VIMperator</a> qui permet l&rsquo;utilisation de Firefox au clavier, VIM-style, je suis passé de XFCE4 à GNOME3 à <a href="http://i3wm.org/">i3wm</a> et je me tâte sérieusement à installer <a href="http://www.vimperator.org/muttator">muttator</a> pour Thunderbird.</p>
+
+<p>Et c&rsquo;est tellement confortable que je n&rsquo;arrive juste plus à m&rsquo;en passer. Qu&rsquo;on me demande d&rsquo;utiliser un SublimeText, un IntelliJ ou un Notepad++ et je me met à pester devant tant d&rsquo;inefficacité.</p>
+
+<p>Ça a l&rsquo;air un peu prétentieux dit comme ça et je me souviens très bien de ce que je trouve agaçant chez la plupart des évangélistes VIM : Ils oublient très souvent que passer à VIM c&rsquo;est un investissement conséquent.</p>
+
+<p>Il faut désapprendre à peu près tout ce qu&rsquo;on sait sur les éditeurs de texte, apprendre une palanquée de raccourcis clavier et supporter d&rsquo;être parfaitement inefficace pendant des semaines, voire des mois.</p>
+
+<p>Impossible donc de jeter la pierre à celles et ceux qui n&rsquo;ont pas le temps ou l&rsquo;envie de s&rsquo;y mettre.</p>
+
+<p>Mais bref, je suis passé à VIM et je ne peux pas revenir en arrière. Du coup l&rsquo;écriture d&rsquo;article dans l&rsquo;éditeur WordPress je kiffais moyen et j&rsquo;avais commencé à écrire mes articles dans un fichier .md, des fois synchronisé sur ownCloud, des fois posé un peu n&rsquo;importe ou sur mon disque dur.</p>
+
+<p>C&rsquo;était un joyeux bordel et je devais toujours me coltiner le copier-coller dans WordPress. Pour corriger l&rsquo;orthographe, la grammaire ou réécrire des bouts c&rsquo;était soit dans l&rsquo;éditeur, soit à nouveau un copier-coller sur le PC. Bref, c&rsquo;était chiant.</p>
+
+<p>Et puis j&rsquo;ai entendu parler de <a href="http://jekyllrb.com/">Jekyll</a> qui permet d&rsquo;écrire son blog en markdown et de générer des fichiers HTML qui vont bien.</p>
+
+<p>Sauf que Aldarone.fr c&rsquo;est pas juste mon blog, c&rsquo;est aussi un réseau WordPress multisite qui héberge d&rsquo;autres blogs, je peux pas simplement virer WordPress pour le remplacer par Jekyll. Il aurait aussi fallu gérer la conservation des URLs et tout. Bref, c&rsquo;était chiant.</p>
+
+<h2 id="la-solution">La solution</h2>
+
+<p>Heureusement parmi les plugins WordPress il y a à boire et à manger, j&rsquo;ai donc fini par trouver mon graal : <a href="https://wordpress.org/plugins/wp-github-sync/">WordPress GitHub Sync</a></p>
+
+<p>Après la création d&rsquo;un dépôt dédié sur Github, l&rsquo;autorisation du plugin à y accéder et à être notifié quand le dépôt change, voila tous mes articles regroupés sur <a href="https://github.com/Aldarone/aldarone.fr">Aldarone/aldarone.fr</a></p>
+
+<p>À partir de maintenant il me suffit d&rsquo;enregistrer un fichier <code>.md</code> sur la branche master avec un peu de YAML dans l&rsquo;en-tête pour définir son titre et son statut de publication pour que ce dernier soit automatiquement créé dans WordPress. De même, à chaque modification depuis l&rsquo;administration, WPGHS fera un commit dans le dépôt pour répercuter les changements.</p>
+
+<p>Tout n&rsquo;est pas parfait et à l&rsquo;heure actuelle je dois encore me rendre dans l&rsquo;administration pour envoyer les images et gérer les catégories, les tags et l&rsquo;image d&rsquo;en tête, mais je vais pas trop me plaindre non plus.</p>
+
+<h2 id="et-qu-est-ce-que-ça-implique">Et qu&rsquo;est-ce que ça implique ?</h2>
+
+<p>Déjà, écrire son blog dans un dépôt Git c&rsquo;est intéressant en terme de suivi de modifications. C&rsquo;est en tout cas plus pratique que le système moisi de révisions intégré à WordPress.</p>
+
+<p>En terme de sauvegarde c&rsquo;est assez chouette aussi puisque tous mes articles depuis le début du blog ont été placés dans le dépôt et les prochains seront eux aussi conservés dans un format facilement exploitable si un jour je change de plateforme.</p>
+
+<p>Enfin, comme le dépôt est public, mes brouillons seront visibles dessus avant publication, je pourrais les faire relire et corriger plus facilement.</p>
+
+<p>Je ne compte pas désactiver le système de tickets ni de pull request donc les lecteurs et lectrices qui savent utiliser GitHub pourront proposer des corrections et modifications très simplement avec une PR, les autres pourront ouvrir un ticket pour signaler les erreurs.</p>
+
+<p>Dans tous les cas, améliorer mon workflow d&rsquo;écriture m&rsquo;a donné un petit boost de motivation et je devrais publier plus régulièrement pendant un moment.</p>
+
+<p>À la prochaine !</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=%c3%89crire%20avec%20VIM%2c%20pusher%20sur%20GitHub%2c%20publier%20sur%20WordPress&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fecrire-avec-vim-pusher-sur-github-publier-sur-wordpress"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fecrire-avec-vim-pusher-sur-github-publier-sur-wordpress"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fecrire-avec-vim-pusher-sur-github-publier-sur-wordpress&amp;description=%c3%89crire%20avec%20VIM%2c%20pusher%20sur%20GitHub%2c%20publier%20sur%20WordPress"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fecrire-avec-vim-pusher-sur-github-publier-sur-wordpress"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" La configuration par défaut, ça marche jusqu&amp;rsquo;à ce que ça marche plus. &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2012-02-27T00:00:00Z" />
+
+    
+    
+
+  <title>
+     La configuration par défaut, ça marche jusqu&amp;rsquo;à ce que ça marche plus. &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/la-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">La configuration par défaut, ça marche jusqu&amp;rsquo;à ce que ça marche plus.</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2012-02-27T00:00:00Z">
+            Feb 27, 2012
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Je n'administre clairement pas mon serveur perso de manière admirable, la config par défaut est laissée pour la plupart des logiciels sans l'avoir vérifiée, il n'y a pas de système d'alertes pour l'occupation des disques ou de la RAM, ni même en cas de non réponse au ping. Pas bien tout ça !</p>
+
+<p>Alors du coup, j'ai décidé de m'y mettre au fil de l'eau. J'ai installé un système de sauvegarde quand j'ai transféré la gestion de mes mails dessus, j'ai mis diverses alertes et vérifié la configuration de php et de mysql quand j'ai remarqué des fuites de mémoire.</p>
+
+<p>C'est de cette dernière chose dont je vais vous parler aujourd'hui: des plantages récurrents de mon serveur depuis Janvier.</p>
+
+<p><a href="https://aldarone.fr/wp-content/uploads/2012/02/screenshot.54.png" class="picture"><img src="https://aldarone.fr/assets/screenshot.54-540x133.png" alt="Host Unreachable" title="Host Unreachable" width="540" height="133" class="aligncenter size-large wp-image-577" /></a></p>
+
+<p>Un serveur qui plante sans explication c'est pas très cool. Sans charge particulière, un coup il marche, la seconde d'après il répond plus aux pings. Et même pas un message d'erreur dans les logs. Au début du moins, puis un jour j'ai remarqué la ligne suivante dans <code>kern.log</code> : <code>[Hardware Error]: Machine check events logged</code></p>
+
+<p>Elle s'est mise à apparaître systématiquement après chaque reboot. En cherchant un peu, il s'avère que la commande <code>mcelog</code> permet d'en savoir plus. Dans mon cas elle renvoyait ceci :</p>
+
+<pre><code>HARDWARE ERROR. This is *NOT* a software problem!
+ Please contact your hardware vendor
+ MCE 0
+ CPU 0 BANK 0
+ MISC 61ba0000500010e ADDR cf9
+ TIME 1329936775 Wed Feb 22 19:52:55 2012
+ MCG status:
+ MCi status:
+ Uncorrected error
+ MCi_MISC register valid
+ MCi_ADDR register valid
+ Processor context corrupt
+ MCA: BUS Level-3 Observed-error-as-third-party Generic
+ Memory-access Request-timeout Error
+ Model:Response hard fail
+ STATUS ae00030010020c03 MCGSTATUS 0
+ MCGCAP 180204 APICID 0 SOCKETID 0
+ CPUID Vendor Intel Family 15 Model 4
+</code></pre>
+
+<p>Ni une ni deux, j'ai demandé à OVH le remplacement de la RAM dans mon serveur. Une intervention plus tard, le problème avait empiré puisque le serveur était presque inutilisable : Les applications n'arrêtaient pas de planter en faisant des erreurs de segmentation (même Bash…)</p>
+
+<p>Rebelote, OVH change à nouveau la RAM et le serveur repart correctement. Pendant 3 jours.</p>
+
+<p>Nouveau problème : Le serveur répondait au ping, et c'est tout. Un tour dans l'interface de monitoring d'OVH et je me retrouve avec le graphique présenté en haut de cet article. Les processus qui consomment le plus ? 1 mysqld qui est à 1.3Go d'occupation et 10 php-fpm à 500Mo chacun. Sachant que j'ai 2Go + 500Mo de swap, ça peut pas coller. Tu m'étonnes qu'il est dans les choux !</p>
+
+<p>La solution se trouvait évidemment dans la config.</p>
+
+<p>MySQL pouvait ouvrir jusqu'à 100 threads pour supporter autant de connections, augmentant chaque fois l'occupation RAM. Or il n'y a que Dovecot, Prosody et PHP qui l'utilisent, chacun avec un nombre de connexions limitées.</p>
+
+<p>Il suffit de changer la ligne suivante de <code>my.cnf</code> en remplaçant 100 par 30 (et encore, c'est large dans mon cas) et voila, on divise la RAM occupée par 3:</p>
+
+<pre><code>max_connections = 100
+</code></pre>
+
+<p>De son côté, PHP-fpm est configuré pour ouvrir 10 processus fixes. Mais ils ne sont jamais recyclés par défaut, donc si un script a une fuite de mémoire et ne fait pas bien le ménage après exécution, le thread gonfle sans fin.</p>
+
+<p>La solution se trouve dans php-fpm.conf, remplacez le 0 par 100 (ou plus, ça dépend de ce dont vous disposez comme ressources, à chaque fois qu'un processus est redémarré on perd le bénéfice d'Xcache par exemple) :</p>
+
+<pre><code>pm.max_requests = 0
+</code></pre>
+
+<p>Ainsi, toutes les 100 requêtes exécutées, le processus est recyclé et la mémoire qu'il occupait est libérée.</p>
+
+<p>Et tout de suite ça va mieux. Je pourrais (et vais) pousser un peu puisque le taux de RAM occupée oscille à présent entre 35 et 50%.</p>
+
+<p>Mais c'était sans compter la loi de Murphy qui s'est acoquinée avec la loi des séries (celle qui veut qu'une emmerde n'arrive jamais seule)</p>
+
+<p><img src="https://aldarone.fr/assets/epic-trollface-540x496.jpg" alt="Epic Trollface" title="Epic Trollface" width="540" height="496" class="aligncenter size-large wp-image-583" /></p>
+
+<p>Oui parce qu'une semaine plus tard c'est l'alimentation du serveur qui grillait. Puis quelques heures plus tard, le serveur plantait à nouveau comme en janvier. OVH a donc gentiment changé la RAM (pour la 3<sup>ème</sup> fois), la carte mère et le CPU. Depuis, je touche du bois.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=La%20configuration%20par%20d%c3%a9faut%2c%20%c3%a7a%20marche%20jusqu%26rsquo%3b%c3%a0%20ce%20que%20%c3%a7a%20marche%20plus.&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fla-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fla-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fla-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus&amp;description=La%20configuration%20par%20d%c3%a9faut%2c%20%c3%a7a%20marche%20jusqu%26rsquo%3b%c3%a0%20ce%20que%20%c3%a7a%20marche%20plus."
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fla-configuration-par-defaut-ca-marche-jusqua-ce-que-ca-marche-plus"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+

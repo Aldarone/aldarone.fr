@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" Une avalanche de FUD sur Mozilla et Firefox. &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2015-08-22T00:00:00Z" />
+
+    
+    
+
+  <title>
+     Une avalanche de FUD sur Mozilla et Firefox. &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Une avalanche de FUD sur Mozilla et Firefox.</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2015-08-22T00:00:00Z">
+            Aug 22, 2015
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p><strong>Attention</strong> : Cet article est un peu technique et certaines notions risquent de vous échapper si vous n&rsquo;avez pas quelques connaissances de base en développement web.</p>
+
+<p>Depuis l&rsquo;introduction d&rsquo;un bouton Pocket dans Firefox il ne se passe pas une seule semaine (j&rsquo;aurais pratiquement même tendance à dire « un seul jour » au point où on en est) sans que Mozilla se prenne un nouveau FUD dans la face.</p>
+
+<h2>Petite définition de FUD :</h2>
+
+<p>FUD est un acronyme signifiant « Fear, uncertainty and doubt » ou, en français : « Peur, incertitude, doute »</p>
+
+<p>C&rsquo;est généralement une stratégie marketing organisée par une entreprise pour dénigrer un concurrent en semant la peur, l&rsquo;incertitude et le doute dans l&rsquo;esprit des clients.</p>
+
+<p>Il s&rsquo;agit de manipuler une information pour la parsemer d&rsquo;hypothèses et de conditionnel afin de la rendre angoissante. La répétition de cette manipulation ancre le FUD dans l&rsquo;inconscient collectif et le rend plus efficace.</p>
+
+<h2>Les derniers FUD auquel Mozilla a du faire face :</h2>
+
+<h3>Firefox Social API, ou Facebook dans mon Firefox</h3>
+
+<p>Celui là est assez vieux et il a fini par être oublié. En 2012, Mozilla active la Social API dans Firefox Beta et <a href="https://blog.mozilla.org/futurereleases/2012/10/22/help-us-test-the-social-api-with-facebook-messenger-for-firefox/">lance un appel à testeures</a> pour essayer leur intégration de Facebook Messenger.</p>
+
+<p>Cette API est très simple et se configure à l&rsquo;aide d&rsquo;une bête chaine en JSON passée au navigateur à l&rsquo;aide d&rsquo;un évènement Javascript. En gros, on indique un nom, quelques urls et l&rsquo;emplacement de boutons et de cadres.</p>
+
+<p>Ensuite Firefox demande confirmation aux utilisateurices pour l&rsquo;activation du module et le navigateur se charge d&rsquo;afficher le contenus des pages référencées dans les cadres définis.</p>
+
+<p>Si vous voulez voir un exemple d&rsquo;implémentation, j&rsquo;ai participé en mai à l&rsquo;ajout du <a href="https://github.com/shaarli/Shaarli/commit/8b3c67fccbe7e68b304d3071b1f7a77e0f1fc048#diff-103112dc6ce11f478e58961c697d9931R18">module Social API sur Shaarli</a>. Comme on peut le voir c&rsquo;est très simple et très innocent.</p>
+
+<p>Pourtant, dès cette annonce on a pu voir des inquiets s&rsquo;agiter et répéter à tort et à travers que Facebook s&rsquo;infiltrait dans un module propriétaire de Firefox, que c&rsquo;était la fin de la protection de la vie privée par Mozilla, une pluie de pierre et de feu, sacrifices humains, copulation entre chiens et chats, etc.</p>
+
+<p>En dépit du fait que Mozilla avait accompagné un article expliquant que les modules Social n&rsquo;avaient accès à aucune information (à l&rsquo;exception de l&rsquo;URL et de la description de la page quand l&rsquo;utilisateure cliquait sur « Partager » évidemment) : <a href="https://blog.mozilla.org/privacy/2012/10/22/being-social-with-privacy-in-mind/">Being social with privacy in mind</a></p>
+
+<blockquote>
+  This new functionality doesn’t give your social network access to any additional information from your browser. Again: it’s a lot like having a tab open to your social network.
+</blockquote>
+
+<p>Trois ans plus tard la Social API est largement tombée dans l&rsquo;oubli, Facebook a supprimé la page d&rsquo;activation du module et les gens ont heureusement oublié que « Facebook est intégré par défaut dans Firefox »</p>
+
+<h3>Firefox Hello</h3>
+
+<p>Un peu sur le même modèle mais beaucoup plus récent, fin 2014, <a href="https://blog.mozilla.org/futurereleases/2014/10/16/test-the-new-firefox-hello-webrtc-feature-in-firefox-beta/">Mozilla annonce l&rsquo;arrivée de Firefox Hello</a>. Un bouton permettant la discussion instantanée directement dans Firefox en utilisant le protocole WebRTC.</p>
+
+<p>Pour l&rsquo;occasion ils ont fait un partenariat avec TokBoxi (propriétée de Telefonica), spécialiste dans les communications WebRTC, pour utiliser leur plateforme.</p>
+
+<p>Rebelote, Mozilla a vendu la vie privée de ses utilisateuricess avec une extension privatrice rendue obligatoire qui ralenti incroyablement Firefox et qui espionne leurs moindres faits et gestes.</p>
+
+<p>Alors que le bouton ne fait strictement rien tant qu&rsquo;on ne clique pas dessus, de même que son affichage ne ralenti par Firefox puisque les boutons de barre d&rsquo;outils sont chargés de manière asynchrone.</p>
+
+<h3>Firefox Pocket integration</h3>
+
+<p>C&rsquo;est cette fois en Juin 2015 que Mozilla annonce <a href="https://blog.mozilla.org/blog/2015/06/02/firefox-puts-you-in-control-of-your-online-life/">l&rsquo;intégration d&rsquo;un bouton Pocket dans Firefox</a>. Pocket est un service de marque-page dont le principal intérêt est sa capacité à reformater le contenu des pages qu&rsquo;on y enregistre pour qu&rsquo;elles soient plus lisibles.</p>
+
+<p>Ici encore, sacrifice de la vie privée, espionnage des utilisateurs, ralentissements du navigateur.</p>
+
+<p>Je vais quand même faire une mention spéciale à Numérama pour le titre le plus imbécilement racoleur et mensonger qu&rsquo;il m&rsquo;ait été donné de voir parmis tous les articles alarmistes sur le sujet : <a href="http://www.donotlink.com/gf33">« L&rsquo;add-on Pocket imposé par Mozilla sur Firefox avait une faille »</a></p>
+
+<p>Notez l&rsquo;élément de langage : « imposé » quand le simple fait de masquer le bouton en deux clic désactive effectivement l&rsquo;add-on en question. Et notez également que la faille dont il est question ici n&rsquo;a absolument rien à voir avec cet addon mais plutôt avec l&rsquo;infrastructure de Pocket. Pour preuve, on peut lire <a href="https://www.gnu.gl/blog/Posts/multiple-vulnerabilities-in-pocket/">l&rsquo;article expliquant les détails de la faille</a> et on peut également utiliser son cerveau et réaliser que Mozilla n&rsquo;a publié aucun correctif en rapport avec Pocket au moment où la faille a été corrigée.</p>
+
+<p>Comme avec Firefox Hello, le bouton ne fait toujours rien tant qu&rsquo;on ne clique pas dessus, son affichage ne ralenti toujours pas Firefox et le simple fait de l&rsquo;enlever de la barre d&rsquo;outil désactive l&rsquo;exécution du code d&rsquo;affichage du bouton (logique).</p>
+
+<h3>La signature obligatoire des add-ons</h3>
+
+<p>En février 2015, Mozilla annonce que <a href="https://blog.mozilla.org/addons/2015/02/10/extension-signing-safer-experience/">Firefox refusera de lancer les add-ons qui n&rsquo;ont pas été signés sur addons.mozilla.org</a> (Aussi appelé AMO). Cette décision est motivée par la sécurité des utilisateurs et vise à analyser le code de toutes les extension Firefox afin d&rsquo;interdire celles qui tenteraient des choses curieuses comme envoyer le contenu de vos fichiers ou la liste de vos mots de passe sur un serveur distant. (Oui, les add-ons peuvent faire ça.)</p>
+
+<p>L&rsquo;initiative vise aussi à diminuer le nombre de barres d&rsquo;outils et de malware publicitaires installés par des programmes comme… Flash Player.</p>
+
+<p>Si les utilisateurices de Firefox peuvent se satisfaire d&rsquo;un add-on installé de base qu&rsquo;il est possible de désactiver, avec la signature obligatoire on touche là au cœur même de la liberté des gens puisque la première plainte émise a été de ne plus pouvoir télécharger ses add-ons ailleurs que sur AMO, d&rsquo;ouvrir la porte à la voie de la censure et de transformer Mozilla en dictature de la pensée unique (rien que ça).</p>
+
+<p>Pourtant, rien de tout ça n&rsquo;est fondé.</p>
+
+<p>Les extensions qui sont déjà sur AMO sont déjà soumise à une procédure de vérification. Elle est manuelle, effectuée par des bénévoles, la vérification peut prendre plusieurs jours. Et ça fait bien longtemps que personne ne s&rsquo;en est plain. Ces add-ons seront signés automatiquement.</p>
+
+<p>Les extensions qui ne sont pas sur AMO, et là est la nouveautée, seront soumises à une vérification automatique puis signées. Si la vérification automatique échoue c&rsquo;est une vérification manuelle qui aura lieu, la même que celle pour les add-ons de l&rsquo;AMO. Après signature, le/la développeureuse récupère le fichier xpi de l&rsquo;extension et est libre de le distribuer où bon lui semble.</p>
+
+<p>Avant signature et pendant le développement de l&rsquo;add-on il faudra utiliser Firefox Aurora ou Firefox Developper Edition pour lancer des add-ons non signés.</p>
+
+<p>Le point faible de tout ça reste la procédure de review manuelle. À titre d&rsquo;exemple <a href="https://github.com/EFForg/https-everywhere/issues/2051#issuecomment-130513727">ça fait 9 mois que HTTPS Everywhere est en review sur l&rsquo;AMO</a>, étant un add-on soutenu par l&rsquo;EFF ils ont pu obtenir une signature rapide en demandant directement à Mozilla mais tout le monde n&rsquo;est pas l&rsquo;EFF.</p>
+
+<p>Mozilla est bien conscient de ça et prévoit d&rsquo;améliorer le processus de vérification automatique ainsi que d&rsquo;augmenter la taille des équipes salariées et bénévoles pour la vérification manuelle.</p>
+
+<h3>La fin des add-ons XUL et SDK</h3>
+
+<p>Hier, le 21 Août 2015, Mozilla annonce <a href="https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/">l&rsquo;obsolescence des add-ons classiques qui utilisent XUL, des add-ons jetpack et des add-ons SDK</a> pour introduire une nouvelle API d&rsquo;add-on qui sera majoritairement compatible avec celle utilisée par Chrome et Opera mais qui sera étendue pour maintenir l&rsquo;existence d&rsquo;add-ons populaires existants.</p>
+
+<p>La raison avancée est que les add-ons dépendant d&rsquo;interface bas niveau empêchent les évolutions du navigateur. Electrolysis qui doit apporter le support du multi-process et le sandboxing des onglets a largement été retarder à cause d&rsquo;incompatibilité avec des extensions très utilisées. Il est impossible de remplacer le Gecko vieillissant par Servo pour les mêmes raisons.</p>
+
+<p>Mettre en place une API limitera, certes, les possibilités de développement d&rsquo;add-ons mais permettra en même temps de faire des changement profonds dans le fonctionnement de Firefox sans trop s&rsquo;inquiéter de voir tous les add-ons crasher dans tous les sens.</p>
+
+<p>Les réactions FUDesques ne sont sont pas fait attendre et <a href="http://www.downthemall.net/the-likely-end-of-downthemall/">le développeur de DownThemAll! a été le premier à s&rsquo;enflammer</a> en déclarant la mort de DownThemAll, NoScript ou Greasemonkey.</p>
+
+<p>Bref, c&rsquo;est la fin de la personnalisation dans Firefox qui achève une transformation en clone de Chrome, transformation entamée avec l&rsquo;arrivée de l&rsquo;interface Australis apparue dans les nightlies fin 2013.</p>
+
+<p>Dans <a href="https://linuxfr.org/users/kalenx/journaux/la-fin-du-permissive-add-on-model-chez-mozilla-ou-comment-flinguer-une-base-d-extensions">les journaux LinuxFR</a> c&rsquo;est la panique également puisqu&rsquo;on apprend ceci :</p>
+
+<blockquote>
+  L'impossibilité d'accéder au coeur de Firefox et de son interface mènera à la disparition d'extensions extrêmement appréciées et utilisées telles que, outre DownThemAll, TreeStyleTab, NoScript, FireGestures, Drag2Go, Greasemonkey, TabMixPlus, FireFTP, FoxyProxy, AllInOne Sidebar et beaucoup d'autres.
+
+  Comprenons-nous bien : on ne parle pas ici d'un classique cassage d'API qui requiert la réécriture de certaines parties de ces extensions pour les rendre compatibles. Non, on parle d'un changement qui rendra ces extensions impossibles à implémenter en tout ou en partie.
+</blockquote>
+
+<p>Ou encore que l&rsquo;API n&rsquo;est pas officiellement publiée alors qu&rsquo;il reste 18 mois à vivre aux extensions old-school.</p>
+
+<p>Là encore, rien n&rsquo;est fondé puisque dans l&rsquo;article même de cette annonce, Mozilla donne le lien vers la documentation actuelle : <a href="https://wiki.mozilla.org/WebExtensions">WebExtensions</a> sur laquelle figure des liens vers les modules et fonctions supportées, les fonctions qui ne sont pas encore implémentées, une mention indiquant qu&rsquo;elles le seront prochainement <strong>ainsi qu&rsquo;une liste de fonctions non supportées par Chrome qui seront conservées dans Firefox pour garder des extensions en vie</strong> :</p>
+
+<blockquote>
+  We plan to add our own APIs based on the needs of existing Firefox add-ons :
+
+  <ul>
+  <li><strong>NoScript</strong>-type functionality. This would come in the form of extensions to webRequest and possibly contentSettings.</li>
+  <li>Sidebars. Opera already supports sidebar functionality; Chrome may soon. We would like to be able to implement <strong>Tree Style Tabs</strong> or <strong>Vertical Tabs</strong> by hiding the tab strip and showing a tab sidebar.</li>
+  <li>Toolbars. Firefox has a lot of existing toolbar add-ons.</li>
+  <li>Better keyboard shortcut support. We'd like to support <strong>Vimperator</strong>-type functionality.</li>
+  <li>Ability to add tabs to about:addons.</li>
+  <li>Ability to modify the tab strip (<strong>Tab Mix Plus</strong>).</li>
+  <li>Ability to take images of frames/tabs (like canvas.drawWindow)</li>
+  </ul>
+</blockquote>
+
+<p>On voit bien que contrairement à ce qui est colporté, Mozilla est conscient de la nécessité de préserver l&rsquo;existence de nombreuses extensions et qu&rsquo;ils ne se priveront pas d&rsquo;aller plus loins que l&rsquo;API de Chrome pour le faire.</p>
+
+<p>En bref, les extensions Chrome seront facilement portables sur Firefox, les extensions simple de Firefox seront facilement portable sur Chrome et les extensions plus lourdes conserveront leurs fonctionnalités avancées.</p>
+
+<h2>Conclusion</h2>
+
+<p>Je suis prêt à admettre qu&rsquo;une certaine inquiétude puisse se faire sentir devant tous les changements opérés par Mozilla cette année mais il me semble qu&rsquo;une fois contextualisés ces changements deviennent soit compréhensibles même si pas idéaux, soit justifiés.</p>
+
+<p>Hello et Pocket résultent de partenariats commerciaux. On le sait et elle était extrêmement critiquée pour ça, Mozilla dépendait grandement du financement de Google (<a href="http://techcrunch.com/2012/11/15/mozilla-releases-annual-report-for-2011-revenue-up-33-to-163m-majority-from-google/">85% en 2011</a>) pourtant et pour s&rsquo;en détacher, c&rsquo;est Yahoo qui devient le nouveau moteur par défaut en Novembre 2014 et on imagine bien qu&rsquo;ils n&rsquo;ont pas la puissance financière d&rsquo;un Google.</p>
+
+<p>Mozilla se trouve donc obligée de diversifier ses partenariat et jusqu&rsquo;à présent en parvenant avec succès à protéger la vie privée de ses utilisateurices.</p>
+
+<p>Du côté des add-ons, il s&rsquo;agit de choix techniques qui visent à diminuer le nombre de malwares infectant le navigateur et à permettre plus facilement la réduction de dette technique présente dans Gecko.</p>
+
+<p>J&rsquo;ai, en revanche du mal à saisir ce qui pousse des gens qui ont tout à perdre de la défection de Firefox à propager des articles alarmistes et infondés pour manifester leur inquiétude.</p>
+
+<p>Le seul effet que ces critiques ont est de ternir l&rsquo;image d&rsquo;un Firefox qui n&rsquo;en a pas besoin et d&rsquo;affaiblir le seul navigateur Libre et indépendant, poussant les gens à… utiliser Chrome.</p>
+
+<p>À suivre : <a href="https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/">Les requêtes envoyées par un Firefox tout neuf</a>.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Une%20avalanche%20de%20FUD%20sur%20Mozilla%20et%20Firefox.&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fune-avalanche-de-fud-sur-mozilla-et-firefox"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fune-avalanche-de-fud-sur-mozilla-et-firefox"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fune-avalanche-de-fud-sur-mozilla-et-firefox&amp;description=Une%20avalanche%20de%20FUD%20sur%20Mozilla%20et%20Firefox."
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fune-avalanche-de-fud-sur-mozilla-et-firefox"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+

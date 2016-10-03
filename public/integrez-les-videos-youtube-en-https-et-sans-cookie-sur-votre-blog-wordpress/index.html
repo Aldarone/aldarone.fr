@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" Intégrez les videos youtube en HTTPS et sans cookie sur votre blog wordpress &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2011-11-08T00:00:00Z" />
+
+    
+    
+
+  <title>
+     Intégrez les videos youtube en HTTPS et sans cookie sur votre blog wordpress &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/integrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Intégrez les videos youtube en HTTPS et sans cookie sur votre blog wordpress</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-11-08T00:00:00Z">
+            Nov 8, 2011
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Beaucoup de gens l&rsquo;ignorent (moi-même jusqu&rsquo;à la semaine dernière…) mais il est possible de consulter Youtube de manière sécurisée et sans se faire suivre par tout un tas de cookies.</p>
+
+<p>Depuis la version 2.9, wordpress gère nativement la découverte oEmbed qui permet aux sites comme youtube, flickr, twitter et bien d&rsquo;autres de fournir automatiquement le code d&rsquo;intégration d&rsquo;une video ou d&rsquo;une photo à celui qui le demande.</p>
+
+<p>C&rsquo;est ainsi qu&rsquo;en collant une URL youtube sur une ligne vide, wordpress est capable d&rsquo;afficher automatiquement le lecteur flash aux visiteurs. Mais par défaut, il intègre la video depuis <a href="http://youtube.com">http://youtube.com</a>.</p>
+
+<p>Pour plus de confidentialité, j&rsquo;ai créé un petit plugin (30 lignes, excusez du peu) qui va dire à wordpress de récupérer le code depuis la version sécurisée et confidentielle de youtube: <a href="https://www.youtube-nocookie.com">https://www.youtube-nocookie.com</a>. Et bien sûr dans une iframe afin d&rsquo;être compatible avec les terminaux mobiles.</p>
+
+<pre class="brush: php">
+/*
+Plugin Name: Youtube oEmbed NoCookie/SSL
+Plugin URI: https://aldarone.fr/
+Description: Ce plugin sert à intégrer les videos youtube en utilisant une iframe, le protocole HTTPS et le domaine nocookie de youtube.
+Version: 1.0a1
+Author: Alda Marteau-Hardi
+Author URI: https://aldarone.fr/
+License: CC BY-NC-SA
+*/
+
+wp_embed_register_handler('youtube_ssl', '#http://(?:www.youtube.com/watch?v=|youtu.be/)([a-z0-9_-]+)#i', 'wp_embed_handler_youtube_ssl');
+
+function wp_embed_handler_youtube_ssl( $matches, $attr, $url, $rawattr ) {
+    // If the user supplied a fixed width AND height, use it
+    if ( !empty($rawattr['width']) &amp;&amp; !empty($rawattr['height']) ) {
+        $width  = (int) $rawattr['width'];
+        $height = (int) $rawattr['height'];
+    } else {
+        list( $width, $height ) = wp_expand_dimensions( 420, 315, $attr['width'], $attr['height'] );
+    }
+    $embed = sprintf(
+                 '',
+                 esc_attr($width),
+                 esc_attr($height),
+                 esc_attr($matches[1])
+             );
+    return apply_filters('embed_youtube_ssl', $embed, $matches, $attr, $url, $rawattr);
+}
+</pre>
+
+<p>Si vous utilisiez cette fonction de wordpress (qui permet d&rsquo;intégrer la video simplement en copiant l&rsquo;url dans une nouvelle ligne, ou avec le shortcode [embed]) vous n&rsquo;avez rien à changer. Une fois le plugin activé vos videos s&rsquo;afficheront dans une iframe sécurisée et sans cookies. A noter que le plugin gère les attribut « width » et « height » du shortcode [embed] et que ça fonctionne aussi avec le domaine raccourci youtu.be.</p>
+
+<p><strong>Trucs à faire</strong> :
+<ul><li><del datetime="2011-11-10T10:30:29+00:00">Prendre en compte les options du player passées dans l&rsquo;URL.</del></li>
+<li>Créer une page d&rsquo;option pour régler certains paramètres par défaut:
+ <ul>
+ <li><del datetime="2011-11-17T09:03:47+00:00">Choix entre <code>iframe</code> (pour ceux qui tiennent à la compatibilité iPhone) et <code>object</code> (pour ceux qui tiennent aux standards du web)</del></li>
+ <li>Format du lecteur (<sup>4</sup>&frasl;<sub>3</sub>, <sup>16</sup>&frasl;<sub>9</sub>, <sup>16</sup>&frasl;<sub>10</sub>, personnalisé.)</li>
+ <li>Afficher les videos similaires.</li>
+ <li>Masquer les contrôles, seulement la barre de progression, tout afficher.</li>
+ </ul></li>
+</ul></p>
+
+<p><strong>Mise à jour 1.0.1 (17/11/2011)</strong> :
+<ul><li>Ajout du plugin dans le dépot wordpress (ça facilite les mises à jour et ça apporte un peu de visibilité)</li>
+<li>Changement du nom du plugin: Youtube Privacy</li>
+<li>Ajout du panel d&rsquo;option avec pour l&rsquo;instant la possibilité de choisir d&rsquo;utiliser une iframe ou un object. (l&rsquo;iframe est compatible iPhone et Opera mobile, object est valide en xhtml strict)</li>
+</ul></p>
+
+<p><strong>Mise à jour 1.0a2 (10/11/2011)</strong> :
+<ul><li>Première mise à jour du plugin, je laisse tomber l&rsquo;iframe pour utiliser la balise object qui est plus recommandée par les instances supérieures du web. (Du coup ça marche plus sous iPhone, merci Apple.)</li>
+<li>Les options du player passées dans l&rsquo;URL sont à présent prises en compte (la liste se trouve ici: <a href="http://code.google.com/intl/fr-FR/apis/youtube/player_parameters.html">YouTube Embedded Player Parameters</a>)</li>
+<li>Vous pouvez également lancer la lecture directement à un moment donné. Par exemple en rajoutant <code>#t=1m10s</code> la lecture se lancera à 1 minute et 10sec de video.</li>
+<li>La taille du player passe d&rsquo;un ratio de <sup>4</sup>&frasl;<sub>3</sub> à <sup>16</sup>&frasl;<sub>9</sub> et les contrôles disparaissent après quelques secondes (et réapparaissent en bougeant la souris bien sûr)</li>
+</ul></p>
+
+<p><a href="http://wordpress.org/extend/plugins/youtube-privacy/">Télécharger le plugin Youtube Privacy</a> (Si vous avez téléchargé une version à partir de cet article, merci de la supprimer et de la réinstaller à partir du dépot wordpress. Sinon pas de mise à jour automatique et sûrement un conflit entre les deux)</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Int%c3%a9grez%20les%20videos%20youtube%20en%20HTTPS%20et%20sans%20cookie%20sur%20votre%20blog%20wordpress&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fintegrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fintegrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fintegrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress&amp;description=Int%c3%a9grez%20les%20videos%20youtube%20en%20HTTPS%20et%20sans%20cookie%20sur%20votre%20blog%20wordpress"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fintegrez-les-videos-youtube-en-https-et-sans-cookie-sur-votre-blog-wordpress"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+

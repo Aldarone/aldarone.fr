@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aldarone.fr</title>
+    <link>https://aldarone.fr/post/</link>
+    <description>Recent content in Posts on Aldarone.fr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
+    <lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aldarone.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>#OnVautMieuxQueCa</title>
+      <link>https://aldarone.fr/onvautmieuxqueca</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/onvautmieuxqueca</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E3EbLui2B2k&#34;&gt;https://www.youtube.com/watch?v=E3EbLui2B2k&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Des youtubeur⋅euses lancent un appel à témoignagne contre le projet de réforme du code du travail.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est l&amp;rsquo;occasion pour moi de raconter quelques situations que j&amp;rsquo;ai subit alors que j&amp;rsquo;étais fraîchement salarié dans une SSII, elle sont bien sûr sans commune mesure par rapport à ce que d&amp;rsquo;autres peuvent subir, mais elle sont suffisamment ubuesques pour valoir la peine d&amp;rsquo;être racontée.&lt;/p&gt;
+
+&lt;h2 id=&#34;je-m-appelle-pas-samson-1&#34;&gt;« Je m&amp;rsquo;appelle pas &lt;a href=&#34;https://en.wikipedia.org/wiki/Samson&#34;&gt;Samson&lt;/a&gt;. »&lt;/h2&gt;
+
+&lt;p&gt;Pour mon premier entretien de placement en régie, j&amp;rsquo;ai été confronté à deux personnes : Un chef de projet sur le départ (mais encore décisionnaire) et l&amp;rsquo;admin qui le remplaçerait dans l&amp;rsquo;année.&lt;/p&gt;
+
+&lt;p&gt;Tout s&amp;rsquo;est bien passé jusqu&amp;rsquo;au moment où l&amp;rsquo;admin me demande : « Et heu, juste par curiosité, bon, tes cheveux là, &lt;strong&gt;si on te demande de les couper pour venir chez nous tu répondrais quoi ?&lt;/strong&gt; »&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;avais beau être jeune et impressionnable, j&amp;rsquo;ai tout de même répondu que ça ne me rendrais pas plus compétent et que donc ça ne risquait pas d&amp;rsquo;arriver.&lt;/p&gt;
+
+&lt;h2 id=&#34;nan-continue-à-la-main&#34;&gt;« Nan continue à la main. »&lt;/h2&gt;
+
+&lt;p&gt;La personne qui était de matin (on était aux 3-8) devait tous les jours se connecter sur une dizaine de serveurs (toujours les  mêmes) et lancer divers commandes (toujours les mêmes) puis remplir un fichier Excel à envoyer aux admins en leur spécifiant quelles valeurs étaient incorrectes.&lt;/p&gt;
+
+&lt;p&gt;La procédure prenait à peu près 2 heures et on avait droit aux froncements de sourcils de rigeur si le fichier n&amp;rsquo;était pas envoyé avant l&amp;rsquo;arrivée des dis admins.&lt;/p&gt;
+
+&lt;p&gt;Personellement, quand je vois des trucs répétitifs qui prennent deux heures à faire tous les matins, j&amp;rsquo;ai tendance à vouloir automatiser.&lt;/p&gt;
+
+&lt;p&gt;En quelques semaines j&amp;rsquo;avais donc fait des petits scripts et un modèle de fichier qui faisaient le job en 15 minutes (copié collé dans le fichier Excel compris). En prime les valeurs problématiques étaient colorées en rouge histoire d&amp;rsquo;attirer l&amp;rsquo;attention.&lt;/p&gt;
+
+&lt;p&gt;Il n&amp;rsquo;aura fallu que deux jours à recevoir le fichier une vingtaine de minute avant mon arrivée pour que je me prenne un joli savon de la part de l&amp;rsquo;admin qui m&amp;rsquo;avait dans le nez au motif &lt;strong&gt;qu&amp;rsquo;on me paie pour faire mon boulot, pas pour gagner du temps et glander sur ma chaise ensuite&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;t-as-30-minutes-pour-intervenir-en-cas-d-astreinte&#34;&gt;«T&amp;rsquo;as 30 minutes pour intervenir en cas d&amp;rsquo;astreinte. »&lt;/h2&gt;
+
+&lt;p&gt;Dans ce même projet, les collègues plus expérimentés avaient des périodes d&amp;rsquo;astreinte.&lt;/p&gt;
+
+&lt;p&gt;Ils devaient donc prendre le téléphone pro le week-end et devaient impérativement se rendre sur place en moins d&amp;rsquo;une demi heure à la moindre alerte.&lt;/p&gt;
+
+&lt;p&gt;Même celui qui habitait à 40 minutes par la nationale, 25 minutes par l&amp;rsquo;autoroute (payante, non remboursée).&lt;/p&gt;
+
+&lt;p&gt;Comment lui a-t-on conseillé de faire ? « &lt;strong&gt;Ben t&amp;rsquo;as qu&amp;rsquo;à attendre dans ta voiture comme ça t&amp;rsquo;es prêt à partir.&lt;/strong&gt; »&lt;/p&gt;
+
+&lt;h2 id=&#34;tu-peux-aller-te-rassoir-maintenant&#34;&gt;« Tu peux aller te rassoir maintenant. »&lt;/h2&gt;
+
+&lt;p&gt;Ayant été déclaré persona non grata un mois à peine après le remplacement du chef de projet par l&amp;rsquo;admin qui m&amp;rsquo;avait dans le nez, il a bien fallu que mon manager me place ailleurs pour que je ne grève pas trop son bonus. Il m&amp;rsquo;a donc envoyé chez un autre client.&lt;/p&gt;
+
+&lt;p&gt;Je bossais toujours en 3-8, toujours avec le bas de la chaîne hiérarchique entièrement consitutée de gars en régie avec les admins internes, eux ; Mais cette fois c&amp;rsquo;était un open-space, et quand une alerte survenait, il était tentant de rester regarder l&amp;rsquo;admin chercher la cause du problème.&lt;/p&gt;
+
+&lt;p&gt;Histoire de peut-être apprendre des trucs et progresser.&lt;/p&gt;
+
+&lt;p&gt;Mais non, « &lt;strong&gt;T&amp;rsquo;es pas payé pour me regarder bosser&lt;/strong&gt; »&lt;/p&gt;
+
+&lt;h2 id=&#34;non-pas-de-cadeau-pour-lui-il-est-externe&#34;&gt;« Non, pas de cadeau pour lui, il est externe »&lt;/h2&gt;
+
+&lt;p&gt;Enfin, chaque année à l&amp;rsquo;approche de Noël et de Pâques, le client offrait des chocolats à ses employés.&lt;/p&gt;
+
+&lt;p&gt;Quelqu&amp;rsquo;un (probablement un stagiaire) devait donc parcourir l&amp;rsquo;usine avec un chariot remplit de lapins en chocolats ou de boîtes de pralinés et en laisser un par poste de travail.&lt;/p&gt;
+
+&lt;p&gt;Arrivant dans l&amp;rsquo;open-space, le préposé fait donc sa besogne en déposant un chocolat sur le bureau de chacun des admins alors en réunion, puis s&amp;rsquo;approche du bureau des techniciens.&lt;/p&gt;
+
+&lt;p&gt;Voyant ça par la vitre de la salle de réunion, le chef d&amp;rsquo;équipe se précipite alors dans l&amp;rsquo;open space pour l&amp;rsquo;informer : « &lt;strong&gt;Ben non, eux c&amp;rsquo;est des externes, il y ont pas droit.&lt;/strong&gt; »&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2016/02/BPowerLogo.png&#34; alt=&#34;BPowerLogo&#34; width=&#34;300&#34; height=&#34;286&#34; class=&#34;aligncenter size-full wp-image-1755&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Franchement, vous trouvez pas qu&amp;rsquo;on vaut mieux que ça ?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facebook pour Android, tueuse de smartphone</title>
+      <link>https://aldarone.fr/facebook-pour-android-tueuse-de-smartphone</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/facebook-pour-android-tueuse-de-smartphone</guid>
+      <description>
+
+&lt;p&gt;Cette semaine j&amp;rsquo;ai installé la dernière version de Resurrection Remix sur mon Galaxy S3.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai fait la totale :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://forum.xda-developers.com/galaxy-s3/development/rom-resurrection-remix-5-2-1-t2972523&#34;&gt;Resurrection Remix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boeffla-kernel.de/&#34;&gt;Boeffla Kernel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://forum.xda-developers.com/showthread.php?t=3034811&#34;&gt;Xposed Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://forum.xda-developers.com/android/software/tk-gapps-t3116347&#34;&gt;Tk GAPPS&lt;/a&gt; (Édition Pico)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Avec ça le S3 tourne avec la dernière version de Lollipop et il tourne bien.&lt;/p&gt;
+
+&lt;p&gt;Enfin… Jusqu&amp;rsquo;au moment d&amp;rsquo;installer les appli Facebook et Facebook Messenger où c&amp;rsquo;est la catastrophe. Son temps de réaction s&amp;rsquo;effondre et la batterie fond à vue d&amp;rsquo;œil.
+J&amp;rsquo;ai même parfois l&amp;rsquo;impression que c&amp;rsquo;est au sens propre tellement le CPU se met à chauffer.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;avais déjà des soupçons depuis la dernière réinstallation complète de mon téléphone et ce coup ci c&amp;rsquo;était la goutte de trop et j&amp;rsquo;ai finalement fait ce que j&amp;rsquo;aurais du faire depuis longtemps : Je les ai virées.&lt;/p&gt;
+
+&lt;h2 id=&#34;facebook-t-abuses-un-peu-quand-même&#34;&gt;Facebook t&amp;rsquo;abuses un peu quand même.&lt;/h2&gt;
+
+&lt;p&gt;Déjà à l&amp;rsquo;installation on peut se douter qu&amp;rsquo;il y a un truc chelou. Parce que les permissions demandées font juste peur.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1675&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-permissions.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-permissions-1024x891.png&#34; alt=&#34;Moi quand je vois ça, je m&amp;#039;en fout parce que j&amp;#039;utilise XPrivacy, mais j&amp;#039;ai de la peine pour les gens qui ne savent pas comment se couvrir.&#34; width=&#34;1024&#34; height=&#34;891&#34; class=&#34;size-large wp-image-1675&#34; /&gt;&lt;/a&gt; Moi quand je vois ça, je m&amp;rsquo;en fout parce que j&amp;rsquo;utilise XPrivacy, mais j&amp;rsquo;ai de la peine pour les gens qui ne savent pas comment se couvrir.[/caption]&lt;/p&gt;
+
+&lt;p&gt;Ensuite le poids téléchargé est un peu effrayant lui aussi.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1676&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-1024x226.png&#34; alt=&#34;20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;#039;imagine que le code espion ça pèse lourd…&#34; width=&#34;1024&#34; height=&#34;226&#34; class=&#34;size-large wp-image-1676&#34; /&gt;&lt;/a&gt; 20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;rsquo;imagine que le code espion ça pèse lourd…[/caption]&lt;/p&gt;
+
+&lt;p&gt;Et puis passé le quart d&amp;rsquo;heure nécessaire à l&amp;rsquo;installation (véridique) la place occupé sur la partition &lt;code&gt;/data&lt;/code&gt; est juste ÉNORME !&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1677&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-2.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-2-1024x529.png&#34; alt=&#34;Yep, le code espion ça pèse vraiment très lourd en fait.&#34; width=&#34;1024&#34; height=&#34;529&#34; class=&#34;size-large wp-image-1677&#34; /&gt;&lt;/a&gt; Yep, le code espion ça pèse vraiment très lourd en fait.[/caption]&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est lent, ça met des plombes à s&amp;rsquo;installer, ça pèse une tonne. Est-ce que ça vaut le coup de les garder juste pour avoir de quoi glandouiller dans le bus en allant ou en rentrant du boulot ?&lt;/p&gt;
+
+&lt;p&gt;Ben non. Hop, à la benne. Et là miracle : Mon téléphone est rapide à nouveau.&lt;/p&gt;
+
+&lt;p&gt;Connaissant Facebook j&amp;rsquo;imagine sans peine que ses applis écoutent en permanence tout ce qu&amp;rsquo;elles peuvent et que si ça ne se voit pas trop sur les téléphone récents, quand il commence à faire son âge ça fini par se remarquer.&lt;/p&gt;
+
+&lt;h2 id=&#34;heureusement-il-y-a-un-remplaçant-face-slim&#34;&gt;Heureusement il y a un remplaçant : Face Slim&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/indywidualny/FaceSlim&#34;&gt;Face Slim&lt;/a&gt; qui porte décidément bien son nom, qui est Libre, disponible sur &lt;a href=&#34;https://f-droid.org/&#34;&gt;F-Droid&lt;/a&gt; et qui consiste en fait à afficher la version mobile de Facebook dans un navigateur intégré en fournissant aussi un moyen d&amp;rsquo;être notifié ainsi que quelques raccourcis.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://f-droid.org/app/org.indywidualni.fblite&#34;&gt;&lt;img src=&#34;https://camo.githubusercontent.com/7df0eafa4433fa4919a56f87c3d99cf81b68d01c/68747470733a2f2f662d64726f69642e6f72672f77696b692f696d616765732f632f63342f462d44726f69642d627574746f6e5f617661696c61626c652d6f6e2e706e67&#34; alt=&#34;Télécharger Face Slim sur F-Droid&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Le fichier d&amp;rsquo;installation fait 800Ko, installée elle occupe 2,55Mo et elle réagit à la vitesse de la 3G. Juste ce qu&amp;rsquo;on attend d&amp;rsquo;une telle appli en fait.&lt;/p&gt;
+
+&lt;p&gt;Comme ça je peux laisser libre cours à mes bas instincts et continuer de profiter d&amp;rsquo;un téléphone rapide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Écrire avec VIM, pusher sur GitHub, publier sur WordPress</title>
+      <link>https://aldarone.fr/ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/ecrire-avec-vim-pusher-sur-github-publier-sur-wordpress</guid>
+      <description>
+
+&lt;h2 id=&#34;résumé-des-épisodes-précédents&#34;&gt;Résumé des épisodes précédents&lt;/h2&gt;
+
+&lt;p&gt;Depuis à peu près un an mon code s&amp;rsquo;écrit dans VIM. Un VIM avec plein de plugins, mais un VIM quand même.&lt;/p&gt;
+
+&lt;p&gt;Depuis j&amp;rsquo;ai installé &lt;a href=&#34;http://www.vimperator.org/vimperator/&#34;&gt;VIMperator&lt;/a&gt; qui permet l&amp;rsquo;utilisation de Firefox au clavier, VIM-style, je suis passé de XFCE4 à GNOME3 à &lt;a href=&#34;http://i3wm.org/&#34;&gt;i3wm&lt;/a&gt; et je me tâte sérieusement à installer &lt;a href=&#34;http://www.vimperator.org/muttator&#34;&gt;muttator&lt;/a&gt; pour Thunderbird.&lt;/p&gt;
+
+&lt;p&gt;Et c&amp;rsquo;est tellement confortable que je n&amp;rsquo;arrive juste plus à m&amp;rsquo;en passer. Qu&amp;rsquo;on me demande d&amp;rsquo;utiliser un SublimeText, un IntelliJ ou un Notepad++ et je me met à pester devant tant d&amp;rsquo;inefficacité.&lt;/p&gt;
+
+&lt;p&gt;Ça a l&amp;rsquo;air un peu prétentieux dit comme ça et je me souviens très bien de ce que je trouve agaçant chez la plupart des évangélistes VIM : Ils oublient très souvent que passer à VIM c&amp;rsquo;est un investissement conséquent.&lt;/p&gt;
+
+&lt;p&gt;Il faut désapprendre à peu près tout ce qu&amp;rsquo;on sait sur les éditeurs de texte, apprendre une palanquée de raccourcis clavier et supporter d&amp;rsquo;être parfaitement inefficace pendant des semaines, voire des mois.&lt;/p&gt;
+
+&lt;p&gt;Impossible donc de jeter la pierre à celles et ceux qui n&amp;rsquo;ont pas le temps ou l&amp;rsquo;envie de s&amp;rsquo;y mettre.&lt;/p&gt;
+
+&lt;p&gt;Mais bref, je suis passé à VIM et je ne peux pas revenir en arrière. Du coup l&amp;rsquo;écriture d&amp;rsquo;article dans l&amp;rsquo;éditeur WordPress je kiffais moyen et j&amp;rsquo;avais commencé à écrire mes articles dans un fichier .md, des fois synchronisé sur ownCloud, des fois posé un peu n&amp;rsquo;importe ou sur mon disque dur.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;était un joyeux bordel et je devais toujours me coltiner le copier-coller dans WordPress. Pour corriger l&amp;rsquo;orthographe, la grammaire ou réécrire des bouts c&amp;rsquo;était soit dans l&amp;rsquo;éditeur, soit à nouveau un copier-coller sur le PC. Bref, c&amp;rsquo;était chiant.&lt;/p&gt;
+
+&lt;p&gt;Et puis j&amp;rsquo;ai entendu parler de &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; qui permet d&amp;rsquo;écrire son blog en markdown et de générer des fichiers HTML qui vont bien.&lt;/p&gt;
+
+&lt;p&gt;Sauf que Aldarone.fr c&amp;rsquo;est pas juste mon blog, c&amp;rsquo;est aussi un réseau WordPress multisite qui héberge d&amp;rsquo;autres blogs, je peux pas simplement virer WordPress pour le remplacer par Jekyll. Il aurait aussi fallu gérer la conservation des URLs et tout. Bref, c&amp;rsquo;était chiant.&lt;/p&gt;
+
+&lt;h2 id=&#34;la-solution&#34;&gt;La solution&lt;/h2&gt;
+
+&lt;p&gt;Heureusement parmi les plugins WordPress il y a à boire et à manger, j&amp;rsquo;ai donc fini par trouver mon graal : &lt;a href=&#34;https://wordpress.org/plugins/wp-github-sync/&#34;&gt;WordPress GitHub Sync&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Après la création d&amp;rsquo;un dépôt dédié sur Github, l&amp;rsquo;autorisation du plugin à y accéder et à être notifié quand le dépôt change, voila tous mes articles regroupés sur &lt;a href=&#34;https://github.com/Aldarone/aldarone.fr&#34;&gt;Aldarone/aldarone.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;À partir de maintenant il me suffit d&amp;rsquo;enregistrer un fichier &lt;code&gt;.md&lt;/code&gt; sur la branche master avec un peu de YAML dans l&amp;rsquo;en-tête pour définir son titre et son statut de publication pour que ce dernier soit automatiquement créé dans WordPress. De même, à chaque modification depuis l&amp;rsquo;administration, WPGHS fera un commit dans le dépôt pour répercuter les changements.&lt;/p&gt;
+
+&lt;p&gt;Tout n&amp;rsquo;est pas parfait et à l&amp;rsquo;heure actuelle je dois encore me rendre dans l&amp;rsquo;administration pour envoyer les images et gérer les catégories, les tags et l&amp;rsquo;image d&amp;rsquo;en tête, mais je vais pas trop me plaindre non plus.&lt;/p&gt;
+
+&lt;h2 id=&#34;et-qu-est-ce-que-ça-implique&#34;&gt;Et qu&amp;rsquo;est-ce que ça implique ?&lt;/h2&gt;
+
+&lt;p&gt;Déjà, écrire son blog dans un dépôt Git c&amp;rsquo;est intéressant en terme de suivi de modifications. C&amp;rsquo;est en tout cas plus pratique que le système moisi de révisions intégré à WordPress.&lt;/p&gt;
+
+&lt;p&gt;En terme de sauvegarde c&amp;rsquo;est assez chouette aussi puisque tous mes articles depuis le début du blog ont été placés dans le dépôt et les prochains seront eux aussi conservés dans un format facilement exploitable si un jour je change de plateforme.&lt;/p&gt;
+
+&lt;p&gt;Enfin, comme le dépôt est public, mes brouillons seront visibles dessus avant publication, je pourrais les faire relire et corriger plus facilement.&lt;/p&gt;
+
+&lt;p&gt;Je ne compte pas désactiver le système de tickets ni de pull request donc les lecteurs et lectrices qui savent utiliser GitHub pourront proposer des corrections et modifications très simplement avec une PR, les autres pourront ouvrir un ticket pour signaler les erreurs.&lt;/p&gt;
+
+&lt;p&gt;Dans tous les cas, améliorer mon workflow d&amp;rsquo;écriture m&amp;rsquo;a donné un petit boost de motivation et je devrais publier plus régulièrement pendant un moment.&lt;/p&gt;
+
+&lt;p&gt;À la prochaine !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brocoup de bruit pour rien - Much ado for Brothing</title>
+      <link>https://aldarone.fr/brocoup-de-bruit-pour-rien-much-ado-for-brothing</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/brocoup-de-bruit-pour-rien-much-ado-for-brothing</guid>
+      <description>&lt;p&gt;À la fin de la semaine passée, une nouvelle inquiétante (pour ne pas dire catastrophique) a commencé à se répandre sur les internets :
+Mozilla agirait de concert avec les féministes pour faire peser une insupportable censure sur le géant Google.&lt;/p&gt;
+
+&lt;p&gt;Voyez plutôt :&lt;/p&gt;
+
+&lt;p&gt;Google a annoncé fin septembre, le 22, un nouvel algorithme de compression nommé Brotli, capable d&amp;rsquo;offrir une compression équivalente à LZMA ou bzip2
+pour des performances approchant celles de deflate. Qui dit nouveau format dit également nouvelle extension de fichier, c&amp;rsquo;est pourquoi, en suivant une convention
+aussi vieille que techniquement dépassée, il fut tout naturellement proposé de tronquer le nom de l&amp;rsquo;algorithme à 3 caractères, donnant ainsi l&amp;rsquo;extension .bro
+aux fichiers compressés par brotli.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est là que le bat blesse et que les vilaines féministes entrent en jeu pour exercer une pression terrible sur la personne ayant fait cette proposition,
+forçant ainsi le malheureux développeur à s&amp;rsquo;auto-censurer pour ne pas subir plus de harcèlement de la part de ces furies.&lt;/p&gt;
+
+&lt;p&gt;Pour lutter contre la pensée unique qui émane de leur action, je décide ce soir, en dépit des risques, de reproduire ici les vifs échanges ayant eu lieu &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=366559#c146&#34;&gt;sur le bugtracker de Mozilla&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Jyrki Alakuijala :
+
+&lt;blockquote&gt;
+  In https://datatracker.ietf.org/doc/draft-alakuijala-brotli/ section 12. &#39;IANA Considerations&#39; we are making a reservation for content encoding type &#39;bro&#39;, not &#39;brotli&#39;.
+
+  We are hoping to establish a file ending .bro for brotli compressed files, a command line tool &#39;bro&#39; for compressing and uncompressing brotli files, and a accept/content encoding type &#39;bro&#39;.
+
+  bro is short for brotli -- there are no hidden meanings in it, just practicality: less typing, less bytes to upload/download, shorter compressed filenames.
+
+  &lt;blockquote&gt;
+    Dans la section 12 du document « Préparations pour l&#39;IANA » nous réservons le type d&#39;encodage de contenu « bro » et non « brotli »
+
+    Nous espérons fournir une extension en .bro pour les fichiers compressés par brotli, un outil en ligne de commande « bro » pour compresser et décompresser les fichiers brotli, ainsi qu&#39;un type d&#39;encodage « bro »
+
+    Bro est le diminutif de brotli, il n&#39;y a pas de sens caché, jsute de la praticité : Moins de caractères, moins d&#39;octets à envoyer ou recevoir, des noms de fichier plus courts.
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Patrick McManus :
+
+&lt;blockquote&gt;
+  Thanks for pointing that out jyrki, can I talk you out of it? Certainly not too late to change the draft registration.
+
+  &#34;bro&#34; has a gender problem, even though the dual meaning is unintentional. It comes of misogynistic and unprofessional due to the world it lives in. I received a series of &#39;bro&#39; jokes in response to my posting about this new feature.
+
+  Best to avoid it rather than spending time defending an arbitrary nickname.
+
+  My interest is only in content-encoding interop.
+
+  &lt;blockquote&gt;
+    Merci pour cette précision jyrki, est-ce que je peux rajouter quelque chose ? Il n&#39;est certainement pas trop tard pour modifier le brouillon d&#39;enregistrement.
+
+    « bro » va poser un problème de genre, même si le double sens n&#39;est pas volontaire. Il semble misogyne et peu professionnel en raison du monde dans lequel nous vivons. J&#39;ai déjà reçu une série de « blague de bro » en réponse à mon annonce de cette nouvelle fonctionnalité.
+
+    Il vaut mieux l&#39;éviter plutôt que de perdre du temps à défendre un surnom arbitraire.
+
+    Mon seul intérêt réside dans l&#39;interopérabilité des encodages de contenu.
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Jyrki Alakuijala :
+
+&lt;blockquote&gt;
+  would you be fine with &#39;br&#39; ?
+
+  &lt;blockquote&gt;
+    Est-ce que « br » conviendrait ?
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Patrick McManus :
+
+&lt;blockquote&gt;
+  sounds good - thanks. I&#39;ll make that change and let the content-provider I know is working with this know.
+
+  &lt;blockquote&gt;
+    Ça m&#39;a l&#39;air bien, merci. Je vais répercuter ce changement et je vais prévenir les fournisseurs de contenu qui travaillent dessus.
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Jyrki Alakuijala :
+
+&lt;blockquote&gt;
+  No, thank you for the advice. It is always better to fix things like this as early as possible.
+
+  &lt;blockquote&gt;
+    Non, merci à toi pour le conseil. C&#39;est toujours mieux de corriger ce genre de choses le plus tôt possible.
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Quelle pression insupportable pèse sur les épaules de ce malheureux Jyrki.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://stream1.gifsoup.com/view/991630/dramatic-look-o.gif&#34; alt=&#34;dramatic look&#34; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Un peu de sérieux s&#39;il vous plait.&lt;/h2&gt;
+
+&lt;p&gt;Depuis cet instant, nous pouvons voir fleurir les articles incendiaires écris par des hommes se sentant menacés par une modification mineure dans un brouillon de spécification.&lt;/p&gt;
+
+&lt;p&gt;Sur &lt;a href=&#34;http://www.ghacks.net/2015/10/11/bro-file-extension-offensive-changed-to-br-instead/&#34;&gt;gHacks&lt;/a&gt; on peut ainsi lire :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  While it does not really matter in the end if the extension is called bro or br or something else, bro should not be offensive to anyone especially since barely anyone will ever come into contact with it in first place. People who are offended by a file extension, or think others might be offended by it, should get their priorities straight as there are bigger fish to fry.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dans un même paragraphe, l&amp;rsquo;auteur est capable d&amp;rsquo;affirmer que ça n&amp;rsquo;a aucune espèce d&amp;rsquo;importance puis de conclure que les féministes devraient revoir leurs priorités. Pourquoi s&amp;rsquo;affoler, en faire un article et s&amp;rsquo;opposer de tout son poids contre un changement qui n&amp;rsquo;aurait pas la moindre importance ?&lt;/p&gt;
+
+&lt;p&gt;Du côté de &lt;a href=&#34;https://www.reddit.com/r/technology/comments/3oa2qh/google_removes_bro_file_extension_from_project/&#34;&gt;Reddit&lt;/a&gt;, ça titre comme ça :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Google removes .bro file extension from project for possibly being offensive and/or misogynistic according to feminists
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alors qu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;une discussion entre deux hommes dont aucun ne déclare spécifiquement qu&amp;rsquo;ils sont féministes.&lt;/p&gt;
+
+&lt;p&gt;Sur &lt;a href=&#34;http://tech.slashdot.org/story/15/10/10/2212233/there-is-no-bro-in-brotli-googlemozilla-engineers-nix-file-type-as-offensive&#34;&gt;Slashdot&lt;/a&gt;, on prétend que le sujet fait controverse depuis l&amp;rsquo;annonce de Brotli :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Several weeks ago, Google launched Brotli, a new open source compression algorithm for the web. Since then, controversy broke out over the choice of &#39;bro&#39; as the content encoding type.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si on regarde la chronologie des fait, c&amp;rsquo;est n&amp;rsquo;est absolument pas le cas :&lt;/p&gt;
+
+&lt;p&gt;Brotli a été annoncé le 22 septembre. Le premier commentaire que je cite plus haut a été posté le 05 octobre, la proposition de passer à .br plutôt que .bro a été émise, acceptée et commitée le 06 octobre. Le post sur Slashdot est arrivé le 10 octobre, soit 4 jours après « la bataille »&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est aussi à partir de ce moment que l&amp;rsquo;on trouve en trouve des traces sur Reddit et que les commentaires du ticket Bugzilla ainsi que du commit validant la modification commencent à se faire troller.&lt;/p&gt;
+
+&lt;p&gt;Qualifier ces évènements de controversés revient à utiliser une définition très particulière du mot « controverse » quand toute cette histoire n&amp;rsquo;est qu&amp;rsquo;une discussion sur un coin de table pendant la rédaction d&amp;rsquo;un brouillon qui a été ensuite montée en épingle par les conservateurs et les réactionnaires. Un cas d&amp;rsquo;école illustrant parfaitement leur maitrise du &lt;a href=&#34;https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt&#34;&gt;FUD&lt;/a&gt; et de l&amp;rsquo;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Astroturfing&#34;&gt;astroturfing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Je laisserai donc le mot de la fin au développeur qui a effectué la modification :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Even if we don&#39;t understand why people are upset from our cultural standpoint, they would be (unnecessarily) upset and this is enough reason not to use it.
+
+  &lt;blockquote&gt;
+    Même si, de notre point de vue culturel, nous ne comprenons pas pourquoi cela dérangerait des gens, illes le seraient sans nécessité et c&#39;est une raison suffisante pour de pas utiliser cette extension.
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Que fait Firefox sur le réseau quand on le démarre et faut-il y remédier ?</title>
+      <link>https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier</guid>
+      <description>&lt;p&gt;En lien avec les évènements relatés dans mon article précédent « &lt;a href=&#34;https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox/&#34;&gt;Une avalanche de FUD sur Mozilla et Firefox.&lt;/a&gt; » &lt;a href=&#34;https://ecirtam.net/links/&#34;&gt;Oros&lt;/a&gt; a conduit &lt;a href=&#34;https://www.ecirtam.net/links/?40QYwg&#34;&gt;une petite étude du comportement d&amp;rsquo;un Firefox fraîchement installé&lt;/a&gt; et en a tiré &lt;a href=&#34;https://github.com/Oros42/firefox_change_prefs&#34;&gt;un fichier de configuration à appliquer&lt;/a&gt; pour le rendre complètement silencieux.&lt;/p&gt;
+
+&lt;p&gt;Cependant, je trouve non seulement que son analyse manque cruellement d&amp;rsquo;explications et que son fichier de configuration propose des valeurs qui vont beaucoup trop loin à mon goût, d&amp;rsquo;autant que ces choix ont pour seule justification le fait de faire taire Firefox. Cette approche est donc dommageable et on voit déjà des partages affolés de la part de gens pour qui « requête réseau » signifie que Firefox vends leurs données personnelles à des grosses corporations :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/molokoloco/status/636533449269084160&#34;&gt;https://twitter.com/molokoloco/status/636533449269084160&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Je vais donc détailler un peu à quoi correspondent les requêtes listées ainsi que ce qui se trouve dans ce fichier de configuration et, quand c&amp;rsquo;est le cas, pourquoi j&amp;rsquo;estime qu&amp;rsquo;une telle désactivation est problématique.&lt;/p&gt;
+
+&lt;p&gt;Pour les requêtes réseaux, je n&amp;rsquo;ai pas leur contenu et ne pourrai donc pas en expliquer certaines mais les noms de domaine des autres sont pour la plupart assez parlants.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1 : www.mozilla.org.
+1 : snippets.cdn.mozilla.net.
+1 : geo.mozilla.org.
+1 : location.services.mozilla.com.
+1 : search.services.mozilla.com.
+1 : self-repair.mozilla.org.
+1 : aus4.mozilla.org.
+3 : search.yahoo.com.
+3 : ff.search.yahoo.com.
+1 : ciscobinary.openh264.org.
+1 : clients1.google.com.
+1 : safebrowsing.google.com.
+53 : safebrowsing-cache.google.com.
+1 : ocsp.digicert.com.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;geo.mozilla.org&lt;/code&gt; et &lt;code&gt;location.services.mozilla.com&lt;/code&gt; correspondent de manière assez évidente à un service de géolocalisation. Mozilla connait donc l&amp;rsquo;emplacement approximatif de tel navigateur. Ces requêtes disparaissent en passant &lt;code&gt;browser.search.geoip.url&lt;/code&gt; à &lt;code&gt;false&lt;/code&gt; cela a donc à voir avec les fonctionnalités de recherche comme nous le verrons dans le détails des options.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;search.services.mozilla.com&lt;/code&gt;, &lt;code&gt;aus4.mozilla.org&lt;/code&gt; et  &lt;code&gt;self-repair.mozilla.org&lt;/code&gt; sont des domaines utilisés par Mozilla pour la maintenance de Firefox : des vérifications de mises à jour pour les deux premiers et le service Heartbeat pour le dernier. &lt;a href=&#34;https://support.mozilla.org/en-US/kb/rate-your-firefox-experience-heartbeat&#34;&gt;Heartbeat étant le service de feedback&lt;/a&gt; pour Firefox (ce panneau « Rate your experience with Firefox » qu&amp;rsquo;on voit s&amp;rsquo;afficher de temps en temps.) Il permet à Mozilla de savoir combien de personnes démarrent leur Firefox chaque jour pour avoir un suivi statistique.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;search.yahoo.com&lt;/code&gt; et &lt;code&gt;ff.search.yahoo.com&lt;/code&gt; sont là pour fournir à Yahoo des statistiques d&amp;rsquo;utilisation. Ils ont un contrat avec Mozilla pour être le moteur de recherche par défaut, ces appels servent à justifier l&amp;rsquo;utilité de ce deal.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ciscobinary.openh264.org&lt;/code&gt; a rapport avec le décodage des vidéos en h264 dans le lecteur HTML5. h264 est un codec brevet et les éditeurs de logiciel qui distribuent un codec h264 doivent payer une licence pour chaque codec distribué. Ça ne s&amp;rsquo;applique pas en Europe car (pour l&amp;rsquo;instant) les brevets logiciels sont encore considérés comme nuls mais aux États-Unis notamment, il faut passer à la caisse. Pour éviter à Mozilla de devoir mettre la plupart de ses économies dans le paiement de la licence à MPEG-LA, Cisco lui fournit gracieusement un codec nommé openh264. Cet appel réseau peut donc aussi bien être présent à des fins de statistiques mais aussi de mise à jour. (Si vous allez dans les Préférences - Modules - Plugins, &lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/08/Capture-d’écran_2015-08-26_19-11-46.png&#34;&gt;vous verrez le codec en question&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Le grand nombre d&amp;rsquo;appels à Google ont rapport au service SafeBrowsing de Google (Navigation Sécurisée en français). C&amp;rsquo;est une liste noire de domaines qui contiennent ou ont contenu divers malwares ou qui pratiquent le phishing. Cela permet au navigateur de bloquer la page avant même de la charger et d&amp;rsquo;&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/08/Capture-d’écran_2015-08-26_19-11-46.png&#34;&gt;afficher une alerte&lt;/a&gt; mais cela implique d&amp;rsquo;envoyer l&amp;rsquo;URL visitée au service. Et ce service est tenu par Google.&lt;/p&gt;
+
+&lt;p&gt;Le dernier, &lt;code&gt;ocsp.digicert.com&lt;/code&gt;, concerne le protocole OCSP (&lt;a href=&#34;https://fr.wikipedia.org/wiki/Online_Certificate_Status_Protocol&#34;&gt;Online Certificate Status Protocol&lt;/a&gt;) et sert à vérifier la validité d&amp;rsquo;un certificat chez son émetteur (ici, DigiCert) afin de s&amp;rsquo;assurer qu&amp;rsquo;il n&amp;rsquo;a pas été révoqué. Ni information personnelle, ni statistique, il s&amp;rsquo;agit d&amp;rsquo;un protocole de sécurité qui va de pair avec TLS.&lt;/p&gt;
+
+&lt;p&gt;On remarquera aussi que, contrairement aux cris d&amp;rsquo;horreur poussés par les détracteurs de Firefox Hello et de l&amp;rsquo;intégration de Pocket, strictement aucune requête réseau ne concerne ces fonctionnalités.&lt;/p&gt;
+
+&lt;p&gt;Voila pour les appels réseau que j&amp;rsquo;ai pu identifier, passons maintenant aux différents blocs du fichier de configuration.&lt;/p&gt;
+
+&lt;h3&gt;Le rafraichissement automatique de certaines pages&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;accessibility.blockautorefresh&#34;,true);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;On commence bien avec un réglage de bon sens. &lt;code&gt;accessibility.blockautorefresh&lt;/code&gt; bloque le rafraichissement automatique de certaines pages. Cette fonction était sensée avant la démocratisation d&amp;rsquo;AJAX pour mettre à jour une page qui disposait d&amp;rsquo;un nouveau contenu mais la technique est usée et abusée par les sites de presse qui profitent des onglets en arrière plan pour se booster les vues et rentabiliser leurs lecteur⋅ices. Pour plus d&amp;rsquo;infos : &lt;a href=&#34;http://kb.mozillazine.org/Accessibility.blockautorefresh&#34;&gt;accessibility.blockautorefresh sur Mozillazine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Des préférences sans lien avec le réseau&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;browser.cache.disk.enable&#34;, false);
+user_pref(&#34;browser.download.panel.shown&#34;, true);
+user_pref(&#34;browser.newtab.url&#34;,&#34;about:blank&#34;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ces trois-là portent plus matière à controverse puisqu&amp;rsquo;il s&amp;rsquo;agit de préférence personnelle.&lt;/p&gt;
+
+&lt;p&gt;Pour le premier pas de cache sur le disque signifie potentiellement moins d&amp;rsquo;accès disques (et c&amp;rsquo;est bien) mais ça signifie aussi que le cache se vide quand on ferme Firefox. Il faudra donc charger à nouveau toutes les ressources sur chaque site web. Ça veut donc dire plus de trafic réseau, plus de charge sur les serveurs et des pages qui s&amp;rsquo;affichent globalement moins vite.&lt;/p&gt;
+
+&lt;p&gt;Pour le second, on force Firefox à nous demander où enregistrer les fichiers qu&amp;rsquo;on télécharge au lieu de les mettre d&amp;rsquo;office dans un dossier spécifié. C&amp;rsquo;est bien quand on apprécie ce comportement, c&amp;rsquo;est moins bien quand on préfère le comportement par défaut. De plus la présence de cette ligne empêche de modifier l&amp;rsquo;option dans Préférences - Général - Téléchargement.&lt;/p&gt;
+
+&lt;p&gt;Idem pour le dernier du bloc, afficher &lt;code&gt;about:blank&lt;/code&gt; à l&amp;rsquo;ouverture d&amp;rsquo;un onglet n&amp;rsquo;est peut-être pas du goût de tout le monde. Alors que &lt;code&gt;about:mozilla&lt;/code&gt; ou &lt;code&gt;about:about&lt;/code&gt; valent le détour.&lt;/p&gt;
+
+&lt;h3&gt;Google SafeBrowsing&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;// I remove all URL because I don&#39;t want to
+// connecte my PC to Google
+user_pref(&#34;browser.safebrowsing.appRepURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.downloads.enabled&#34;, false);
+user_pref(&#34;browser.safebrowsing.downloads.remote.enabled&#34;, false);
+user_pref(&#34;browser.safebrowsing.enabled&#34;, false);
+user_pref(&#34;browser.safebrowsing.gethashURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.malware.enabled&#34;, false);
+user_pref(&#34;browser.safebrowsing.malware.reportURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportErrorURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportGenericURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportMalwareErrorURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportMalwareURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportPhishURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.reportURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.safebrowsing.updateURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.trackingprotection.gethashURL&#34;, &#34;&#34;);
+user_pref(&#34;browser.trackingprotection.updateURL&#34;, &#34;&#34;);
+user_pref(&#34;services.sync.prefs.sync.browser.safebrowsing.enabled&#34;,false);
+user_pref(&#34;services.sync.prefs.sync.browser.safebrowsing.malware.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ici on s&amp;rsquo;attaque à SafeBrowsing de Google. Il y a des pour à propos de cette désactivation : On envoie pas les URLs visitées à Google, mais il y a des contres : on ouvre laisse plus de champs à une infection par Javascript ou à un Phishing. Bref, c&amp;rsquo;est quelque chose qu&amp;rsquo;il faudrait désactiver après réflexion et pas « parce que Firefox envoie des données mon dieu ! »&lt;/p&gt;
+
+&lt;p&gt;Ne vous leurrez pas non plus si vous utilisez GNU/Linux, pas plus tard que début août &lt;a href=&#34;https://blog.mozilla.org/security/2015/08/06/firefox-exploit-found-in-the-wild/&#34;&gt;une faille dans PDF.js permettait à un script JS de récupérer des fichiers de votre ordinateur&lt;/a&gt;, l&amp;rsquo;exploit visait &lt;code&gt;/etc/passwd&lt;/code&gt;, &lt;code&gt;.my.conf&lt;/code&gt; (coucou le mot de passe MySQL) ou encore &lt;code&gt;.bash_history&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Et en aucun cas ne faites ça chez un⋅e ami⋅e ou parent⋅e qui ne maîtrise pas l&amp;rsquo;outil informatique.&lt;/p&gt;
+
+&lt;h3&gt;Le moteur de recherche par défaut&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;browser.search.defaultenginename&#34;, &#34;DuckDuckGo&#34;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Sur le fait de forcer DuckDuckGo comme moteur de recherche par défaut, je n&amp;rsquo;y vois personnellement aucun inconvénient mais il faudra penser à cette ligne si vous préférez utiliser autre chose. Un méta moteur comme l&amp;rsquo;instance &lt;a href=&#34;https://framabee.org/&#34;&gt;searx de Framasoft&lt;/a&gt; par exemple.&lt;/p&gt;
+
+&lt;h3&gt;La géolocalisation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;geo.enabled&#34;,false);
+user_pref(&#34;browser.search.geoip.url&#34;, &#34;&#34;);
+user_pref(&#34;geo.wifi.uri&#34;, &#34;&#34;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ces règles de configuration désactivent la géolocalisation du navigateur. &lt;code&gt;geo.enabled&lt;/code&gt; permet, quand sa valeur est &lt;code&gt;true&lt;/code&gt;, d&amp;rsquo;autoriser certains sites à géolocaliser votre navigateur pour « améliorer » le service fourni. Ça va de Facebook Messenger qui le fait à des fins commerciales et &lt;a href=&#34;https://medium.com/faith-and-future/stalking-your-friends-with-facebook-messenger-9da8820bd27d&#34;&gt;qui fait fuiter l&amp;rsquo;info à vos amis&lt;/a&gt; à &lt;a href=&#34;http://www.monprochainbus.eu/&#34;&gt;monprochainbus.eu&lt;/a&gt; qui indique les arrêts de bus les plus proches sans qu&amp;rsquo;on ait rien à saisir. Dans tous les cas, Firefox vous demande l&amp;rsquo;autorisation.&lt;/p&gt;
+
+&lt;p&gt;De son côté, &lt;code&gt;browser.search.geoip.url&lt;/code&gt; aide le navigateur à identifier le pays dans lequel vous vous trouvez à l&amp;rsquo;aide de la technique &lt;a href=&#34;https://fr.wikipedia.org/wiki/GeoIP&#34;&gt;GeoIP&lt;/a&gt;. Pour cela il effectue une connexion à l&amp;rsquo;adresse &lt;code&gt;&lt;a href=&#34;https://location.services.mozilla.com/v1/country?key=%MOZILLA_API_KEY%&#34;&gt;https://location.services.mozilla.com/v1/country?key=%MOZILLA_API_KEY%&lt;/a&gt;&lt;/code&gt; et reçoit le nom standardisé du pays. Vous remarquerez l&amp;rsquo;envoi d&amp;rsquo;un identifiant unique &lt;code&gt;%MOZILLA_API_KEY%&lt;/code&gt; qui identifie une installation de Firefox. Il est possible que ce soit utilisé à des fins de limitations du nombre de requêtes. Conserver l&amp;rsquo;URL en enlevant &lt;code&gt;?key=%MOZILLA_API_KEY%&lt;/code&gt; ne perturbe pas plus Firefox que ça, empêche Mozilla de suivre votre instance particulière de Firefox mais cela fausse aussi certainement leurs statistiques d&amp;rsquo;usage par pays.&lt;/p&gt;
+
+&lt;p&gt;Enfin, &lt;code&gt;geo.wifi.uri&lt;/code&gt; aide &lt;a href=&#34;https://www.mozilla.org/fr/firefox/geolocation/&#34;&gt;la géolocalisation de Firefox&lt;/a&gt; à se montrer plus précise en utilisant Google Location Services. Firefox envoie donc votre IP, la liste des réseaux Wifi environnants et un identifiant unique régénéré toutes les deux semaines à Google pour obtenir une localisation fiable au niveau de la rue au lieu de n&amp;rsquo;avoir que GeoIP qui est fiable au niveau de la ville (et encore, parfois on a que le pays). Sans cette option, la précision prend un sacré coup ce qui peut jouer des tours aux personnes qui en ont l&amp;rsquo;utilité.&lt;/p&gt;
+
+&lt;p&gt;De plus &lt;a href=&#34;https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/#comment-449&#34;&gt;comme indiqué dans ce commentaire&lt;/a&gt;, il est possible d&amp;rsquo;utiliser Mozilla Location Service à la place de Google Location Service pour la préférence &lt;code&gt;geo.wifi.uri&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3&gt;D&#39;autres préférences sans rapport avec le réseau&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;browser.search.openintab&#34;,true);
+user_pref(&#34;browser.search.showOneOffButtons&#34;,false);
+user_pref(&#34;browser.startup.page&#34;, 0);
+user_pref(&#34;browser.tabs.warnOnClose&#34;, false);
+user_pref(&#34;browser.tabs.warnOnOpen&#34;, false);
+user_pref(&#34;plugins.click_to_play&#34;,true);
+user_pref(&#34;general.warnOnAboutConfig&#34;,false);
+user_pref(&#34;browser.urlbar.trimURLs&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ici on retrouve à nouveau des préférences qui n&amp;rsquo;impactent pas la « vie privée », &lt;code&gt;browser.search.openintab&lt;/code&gt; force l&amp;rsquo;ouverture d&amp;rsquo;un onglet après une recherche dans la barre de recherche, &lt;code&gt;browser.search.showOneOffButtons&lt;/code&gt; masque les boutons des moteurs de recherche installés qui &lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/08/2014-12-09-12-14-37-199895.png&#34;&gt;s&amp;rsquo;affichent en bas du champ de recherche&lt;/a&gt;, &lt;code&gt;browser.startup.page&lt;/code&gt; définit la page qui s&amp;rsquo;affiche au démarrage du navigateur (ici elle est à 0 donc une page blanche, par défaut c&amp;rsquo;est la page d&amp;rsquo;accueil. Du coup ça fait doublon puisque précédemment on a défini la page d&amp;rsquo;accueil à &lt;code&gt;about:blank&lt;/code&gt;), les deux directives &lt;code&gt;browser.tabs&lt;/code&gt; suppriment respectivement l&amp;rsquo;alerte du navigateur quand on le ferme et que plusieurs onglets sont ouverts et l&amp;rsquo;avertissement quand on ouvre un nouvel onglet alors qu&amp;rsquo;il y en a déjà 15 ouverts (&lt;code&gt;browser.tabs.warnOnOpen&lt;/code&gt; va de pair avec &lt;code&gt;browser.tabs.maxOpenBeforeWarn&lt;/code&gt; qui est par défaut à 15)&lt;/p&gt;
+
+&lt;p&gt;De son côté &lt;code&gt;plugins.click_to_play&lt;/code&gt; force l&amp;rsquo;activation des plugins à « Toujours demander » ce qui est &lt;a href=&#34;https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/&#34;&gt;le cas par défaut depuis Firefox 31&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;user_pref(&amp;ldquo;general.warnOnAboutConfig&amp;rdquo;,false);&lt;/code&gt; supprime simplement l&amp;rsquo;avertissement qui s&amp;rsquo;affiche en visitant la page &lt;code&gt;about:config&lt;/code&gt; (comme quand on coche la case « Ne plus me demander » de cette même page d&amp;rsquo;avertissement.)&lt;/p&gt;
+
+&lt;p&gt;Le dernier force l&amp;rsquo;affichage de &lt;code&gt;http://&lt;/code&gt; ou de &lt;code&gt;https://&lt;/code&gt; dans la barre d&amp;rsquo;adresse puisqu&amp;rsquo;ils sont masqués par défaut depuis Firefox 7. À ça on pourrait rajouter le passage de &lt;code&gt;browser.urlbar.formatting.enabled&lt;/code&gt; à &lt;code&gt;false&lt;/code&gt; qui va empêcher d&amp;rsquo;afficher le domaine en noir et les autres parties de l&amp;rsquo;URL en gris.&lt;/p&gt;
+
+&lt;h3&gt;Les rapports de santé de Firefox&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;datareporting.healthreport.service.enabled&#34;,false);
+user_pref(&#34;datareporting.healthreport.uploadEnabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Le service rapport de santé est un service qui enregistre divers statistiques d&amp;rsquo;utilisation comme les derniers crashes de Firefox ou le temps de démarrage moyen. Désactiver le service empêche purement et simplement la création de tels rapports et désactiver le partage fait que Mozilla ne reçoit plus les rapport générés. S&amp;rsquo;il est compréhensible de désactiver le partage du rapport, il peut par contre s&amp;rsquo;avérer problématique de désactiver la création de ces rapports qui peuvent servir à dépanner un Firefox bancal.&lt;/p&gt;
+
+&lt;p&gt;Les rapports en question sont accessibles via la page &lt;code&gt;about:healthreport&lt;/code&gt;, en cliquant sur données brutes vous pouvez voir les rapports tels qu&amp;rsquo;ils sont envoyés à Mozilla, la page en question contient également un bouton pour désactiver le partage (même effet que &lt;code&gt;datareporting.healthreport.uploadEnabled&lt;/code&gt;) et un lien vers une page d&amp;rsquo;explication assez bien faite : &lt;a href=&#34;https://support.mozilla.org/fr/kb/bilan-sante-firefox-comprendre-performances&#34;&gt;Bilan de santé de Firefox – comprendre vos performances navigateur&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;L&#39;injection de contenu dans le presse-papier&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;dom.event.clipboardevents.enable&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cette préférence désactive les évènements JavaScript &lt;code&gt;oncopy&lt;/code&gt;, &lt;code&gt;oncut&lt;/code&gt; et &lt;code&gt;onpaste&lt;/code&gt; qui permettent aux sites web de manipuler le contenu du presse papier. Désactiver cette fonction n&amp;rsquo;a que du positif puisque le site sur lequel vous faites un copier-coller ne pourra pas rajouter du texte arbitraire comme un lien promotionnel après le contenu désiré.&lt;/p&gt;
+
+&lt;h3&gt;Les suggestions de recherche&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;browser.search.suggest.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cette option va désactiver les suggestions de la barre de recherche. C&amp;rsquo;est ce qui permet à DuckDuckGo de vous suggérer « Les hommes les plus riches du monde » quand vous saisissez « Les hommes » ou « Les femmes les plus belles du monde » quand vous saisissez « Les femmes » (On notera au passage l&amp;rsquo;influence du patriarcat sur les suggestions de recherche…).&lt;/p&gt;
+
+&lt;p&gt;Pour que ça fonctionne, Firefox envoie une requête à chaque lettre tapée dans le champ de recherche. Personnellement j&amp;rsquo;ai du mal à saisir l&amp;rsquo;intérêt de désactiver les suggestions que je trouve souvent pertinentes, d&amp;rsquo;autant que quand je tape une phrase, je me fiche de savoir que mon moteur de recherche sait que j&amp;rsquo;en ai saisi chaque lettre une par une.&lt;/p&gt;
+
+&lt;p&gt;Sans les suggestions, Firefox se rabat sur son historique interne.&lt;/p&gt;
+
+&lt;h3&gt;Le User Agent et ses potes&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;// user-agent
+user_pref(&#34;general.appname.override&#34;, &#34;&#34;);
+user_pref(&#34;general.appversion.override&#34;, &#34;&#34;);
+user_pref(&#34;general.oscpu.override&#34;, &#34;&#34;);
+user_pref(&#34;general.platform.override&#34;, &#34;&#34;);
+user_pref(&#34;general.useragent.override&#34;, &#34;Mozilla/5.0 ()&#34;);
+user_pref(&#34;general.useragent.vendor&#34;, &#34;&#34;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Le user-agent est une chaine de caractère identifiant les différents navigateurs, leur version et leur environnement. À titre d&amp;rsquo;exemple, celui de mon Firefox est &lt;code&gt;Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0&lt;/code&gt; On retrouve l&amp;rsquo;environnement pour lequel Firefox a été compilé, sa version, la version de son moteur, etc. Ce bloc-là masque tout ce qu&amp;rsquo;il est possible de masquer dans cette chaine et force en plus sa valeur à une chaine arbitraire et je suis plus que dubitatif sur l&amp;rsquo;utilité de dissimuler cette information.&lt;/p&gt;
+
+&lt;p&gt;Par contre la conséquence la plus directe est de faire baisser les statistiques d&amp;rsquo;utilisation de Firefox puisque les sites qui recensent de telles statistiques ne sauront plus par quel navigateur ils sont visités. Les parts de marché de Firefox sont déjà en baisse plus ou moins constante au profit de Chrome et contribuer à les faire diminuer pour aucun bénéfice revient à confirmer Chrome dans sa position de nouvel IE6 (et on ne veut vraiment pas amplifier le mouvement).&lt;/p&gt;
+
+&lt;p&gt;Bref, masquer son user-agent, sauf cas spécifiques comme par exemple à des fins de tests ou encore quand on utilise Opera et que Google fournit délibérément une version inutilisable de ses application, n&amp;rsquo;a aucun intérêt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mise à jour&lt;/strong&gt; : Visiblement Google aime bien faire n&amp;rsquo;importe quoi avec les user-agents et semble empêcher le plein écran sur Youtube si &lt;code&gt;general.useragent.override&lt;/code&gt; ne contient pas &lt;code&gt;Gecko&lt;/code&gt;, merci à un⋅e anonyme sur OpenNews pour le signalement. (&lt;a href=&#34;https://www.ecirtam.net/opennews/?fFXtjQ&#34;&gt;Le lien vers la question&lt;/a&gt;, &lt;a href=&#34;https://www.ecirtam.net/links/?WCa8lg&#34;&gt;le lien vers la réponse&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3&gt;La lecture HTML5 sous windows et les DRM&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;media.directshow.enabled&#34;,false);
+user_pref(&#34;media.windows-media-foundation.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ces deux préférences n&amp;rsquo;ont d&amp;rsquo;intérêt que sous windows et vont désactiver le lecteur interne de Firefox en ce qui concerne les fichiers mp4 et mp3. Le problème qui se pose c&amp;rsquo;est que les sites proposant un lecteur HTML5 comme SoundCloud ou Youtube vont à présent utiliser la rétro-compatibilité et se rabattront sur Flash. Ce qui est un peu paradoxal quand on pense protéger sa vie privée.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;media.eme.enabled&#34;,false);
+user_pref(&#34;media.gmp-eme-adobe.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Celles-là ont rapport avec le support des EMEs (Encrypted Media Extension) qui sont les DRMs standardisées de HTML5. Comme les DRMs c&amp;rsquo;est purement et simplement de la merde il parait logique de désactiver leur support. Néanmoins, les sites avec EME risquent une fois encore de se rabattre sur Flash qui a lui aussi son système de DRMs, non standardisé lui. Si vous voulez éviter à tout prix les DRMs il faudra donc vous assurer de désactiver Flash également. Et de garder à l&amp;rsquo;esprit que si votre navigateur ne lit pas les fichiers que tous les autres utilisateur⋅ices arrivent à lire, ce n&amp;rsquo;est pas de sa faute.&lt;/p&gt;
+
+&lt;h3&gt;Des fuites d&#39;information&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;media.peerconnection.enabled&#34;,false);
+user_pref(&#34;network.proxy.socks_remote_dns&#34;,true);
+user_pref(&#34;network.http.sendRefererHeader&#34;,0);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;La première préférence à rapport à WebRTC. Ce protocole sert à la communication directe entre deux navigateurs. C&amp;rsquo;est ce qui permet par exemple de jouer en réseau ou de faire de la conférence vidéo en web. Ici, WebRTC est désactivé de force car son implémentation actuelle expose les adresses IPs locales de l&amp;rsquo;ordinateur.  N&amp;rsquo;importe quel site web est donc capable de récupérer la liste de vos IPs et est susceptible de contacter d&amp;rsquo;autres ordinateurs sur le réseau avec des appels AJAX depuis votre navigateur. (Il lui faut tout de même connaître les IPs de destination.) Les proxys et les VPN verront eux aussi leurs adresses exposées. Si vous n&amp;rsquo;utilisez pas WebRTC il est donc plus sûr de désactiver cette option. Le bug concernant cette faille est visible ici &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=1189167&#34;&gt;[meta] ICE candidate generation control and user authorization&lt;/a&gt; et les développements autour sont assez actifs.&lt;/p&gt;
+
+&lt;p&gt;À noter que Chrome y est également vulnérable car le problème provient d&amp;rsquo;un flou dans le standard WebRTC.&lt;/p&gt;
+
+&lt;p&gt;La seconde force Firefox à envoyer les requêtes DNS à travers le proxy si vous en utilisez un. Avec la valeur par défaut, les requêtes sont envoyées sur le résolveur DNS de l&amp;rsquo;ordinateur et le réseau que vous essayez de contourner à l&amp;rsquo;aide d&amp;rsquo;un proxy connait tous les domaines que vous visitez.&lt;/p&gt;
+
+&lt;p&gt;Finalement, la dernière bloque l&amp;rsquo;envoi du referer aux sites que vous visitez. Le referer est le site de provenance quand vous cliquez sur un lien. Par exemple si je visite le Shaarli de SebSauvage et que je clique sur un lien vers le blog de Kevin, ce dernier aura la possibilité de savoir que j&amp;rsquo;ai cliqué sur un lien chez Seb pour arriver chez lui. Ce n&amp;rsquo;est valable qu&amp;rsquo;en HTTP car en HTTPS le referer n&amp;rsquo;est jamais envoyé par Firefox.&lt;/p&gt;
+
+&lt;h3&gt;Des requêtes en avance&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;network.dns.disablePrefetch&#34;,true);
+user_pref(&#34;network.http.speculative-parallel-limit&#34;,0);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ces deux-là visent à améliorer le temps de réaction de Firefox au moment de cliquer sur un lien. Ainsi, le DNS Prefetch consite à lister les liens d&amp;rsquo;une page et de résoudre les noms de domaines associés pour s&amp;rsquo;épargner la durée de résolution au moment du clic. Ça fournit à votre résolveur DNS la liste des domaines liés sur une page et le désactiver augmente le temps de réponse de Firefox de quelques millisecondes (le temps de la résolution DNS). À la fin de la journée, le gain en vitesse cumulé est appréciable et le risque en terme de vie privée est pour le moins inexistant.&lt;/p&gt;
+
+&lt;h3&gt;Activation de Firefox Hello&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;loop.enabled&#34;,true);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cette préférence active Firefox Hello, c&amp;rsquo;est la valeur par défaut donc on empêche sa désactivation. Ce qui ne mène à rien puisque Firefox Hello est basé sur WebRTC qui a été désactivé quelques lignes avant.&lt;/p&gt;
+
+&lt;h3&gt;Les versions de TLS&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;security.ssl3.dhe_rsa_aes_128_sha&#34;,false);
+user_pref(&#34;security.ssl3.dhe_rsa_aes_256_sha&#34;,false);
+user_pref(&#34;security.tls.version.max&#34;,3);
+user_pref(&#34;security.tls.version.min&#34;,2);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ces lignes concernent le protocole TLS qui définit la sécurité en HTTPS. La valeur de &lt;code&gt;tls.version.min&lt;/code&gt; indique qu&amp;rsquo;on accepte au moins TLS1.1 et celle de &lt;code&gt;tls.version.max&lt;/code&gt; indique qu&amp;rsquo;on accepte au plus TLS1.2 (la dernière en date). Les deux premières lignes ont rapport à SSLv3 et ne sont pas pertinentes puisque SSLv3 est antérieure à TLS1.0 et est donc désactivé.&lt;/p&gt;
+
+&lt;h3&gt;Un bloqueur de traqueur intégré&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;privacy.trackingprotection.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;À partir de la version 35, Firefox intègre un bloqueur de traceurs basé sur la liste de Disconnect.me, il serait remarquablement efficace puisqu&amp;rsquo;une paire de chercheurs &lt;a href=&#34;http://www.ghacks.net/2015/05/24/firefox-tracking-protection-decreases-page-load-times-by-44/&#34;&gt;ont publié une étude à son sujet début 2015&lt;/a&gt; indiquant une augmentation de 44% de la vitesse de chargement, une diminution de 39% du traffic réseau et une diminution de 66% du nombre de cookies. Cette fonction est désactivée par défaut et la valeur de cette préférence empêche ici son éventuelle activation (ce qui n&amp;rsquo;est pas très logique si notre but est d&amp;rsquo;améliorer la protection de notre vie privée avec Firefox).&lt;/p&gt;
+
+&lt;h3&gt;La télémétrie : analyse des performances et des fonctions les plus utilisées de Firefox&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;user_pref(&#34;toolkit.telemetry.enabled&#34;,false);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;La télémétrie permet à Mozilla de recueillir des informations importante sur le comportement de Firefox dans une vaste diversité d&amp;rsquo;environnements. Elle est désactivée par défaut dans Firefox Stable et ESR mais activée par défaut sur Beta, Developper et Aurora. La présence de cette préférence empêche son activation et on se retrouve donc à utiliser Firefox sans contribuer à son amélioration. Et c&amp;rsquo;est dommage.&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;S&amp;rsquo;il est tout à fait justifié de surveiller les usages réseaux de nos applications favorites pour veiller à ce qu&amp;rsquo;elles ne nous trahissent pas, chercher aveuglément à les bloquer est loin d&amp;rsquo;être une solution pertinente. Surtout quand cela amène à proposer une configuration à poser puis oublier présentée comme « Améliorant la vie privée » quand cette configuration mêle préférences personnelles, lignes obsolètes ou redondantes et valeurs exposant à plus de tracking ou de malwares, en dépit de quelques parties pertinentes.&lt;/p&gt;
+
+&lt;p&gt;Au vu du temps que m&amp;rsquo;a pris la simple recherche pour comprendre l&amp;rsquo;intérêt de ces options, je suis convaincu que la plupart des gens qui verront et appliqueront ce fichier ne feront que le survoler se retrouvant du coup avec un Firefox au fonctionnement modifié pouvant même être considéré comme défaillant (puisqu&amp;rsquo;il n&amp;rsquo;y a plus de WebRTC, plus de lecteur HTML5, plus d&amp;rsquo;optimisation du chargement de certaines pages) et j&amp;rsquo;estime qu&amp;rsquo;il y a une certaine responsabilité qui ne doit pas se limiter à une bête notice « Lisez le fichier avant de l&amp;rsquo;appliquer » quand on fournit une telle configuration sur internet. (Non, je n&amp;rsquo;aime pas trop &lt;a href=&#34;http://opensource.org/licenses/mit-license.php&#34;&gt;la licence MIT&lt;/a&gt; non plus.)&lt;/p&gt;
+
+&lt;p&gt;Néanmoins, j&amp;rsquo;espère que cet article vous aura permis d&amp;rsquo;en apprendre plus sur le fonctionnement de Firefox et que vous mesurerez bien les tenants et les aboutissants des modifications de configuration que vous ferez à l&amp;rsquo;avenir.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Crédit photo: &lt;a href=&#34;https://www.flickr.com/photos/mpastwa/2671066786/&#34;&gt;social network hub&lt;/a&gt; par &lt;a href=&#34;https://www.flickr.com/photos/mpastwa/&#34;&gt;Mathias Pastwa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Une avalanche de FUD sur Mozilla et Firefox.</title>
+      <link>https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/une-avalanche-de-fud-sur-mozilla-et-firefox</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Attention&lt;/strong&gt; : Cet article est un peu technique et certaines notions risquent de vous échapper si vous n&amp;rsquo;avez pas quelques connaissances de base en développement web.&lt;/p&gt;
+
+&lt;p&gt;Depuis l&amp;rsquo;introduction d&amp;rsquo;un bouton Pocket dans Firefox il ne se passe pas une seule semaine (j&amp;rsquo;aurais pratiquement même tendance à dire « un seul jour » au point où on en est) sans que Mozilla se prenne un nouveau FUD dans la face.&lt;/p&gt;
+
+&lt;h2&gt;Petite définition de FUD :&lt;/h2&gt;
+
+&lt;p&gt;FUD est un acronyme signifiant « Fear, uncertainty and doubt » ou, en français : « Peur, incertitude, doute »&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est généralement une stratégie marketing organisée par une entreprise pour dénigrer un concurrent en semant la peur, l&amp;rsquo;incertitude et le doute dans l&amp;rsquo;esprit des clients.&lt;/p&gt;
+
+&lt;p&gt;Il s&amp;rsquo;agit de manipuler une information pour la parsemer d&amp;rsquo;hypothèses et de conditionnel afin de la rendre angoissante. La répétition de cette manipulation ancre le FUD dans l&amp;rsquo;inconscient collectif et le rend plus efficace.&lt;/p&gt;
+
+&lt;h2&gt;Les derniers FUD auquel Mozilla a du faire face :&lt;/h2&gt;
+
+&lt;h3&gt;Firefox Social API, ou Facebook dans mon Firefox&lt;/h3&gt;
+
+&lt;p&gt;Celui là est assez vieux et il a fini par être oublié. En 2012, Mozilla active la Social API dans Firefox Beta et &lt;a href=&#34;https://blog.mozilla.org/futurereleases/2012/10/22/help-us-test-the-social-api-with-facebook-messenger-for-firefox/&#34;&gt;lance un appel à testeures&lt;/a&gt; pour essayer leur intégration de Facebook Messenger.&lt;/p&gt;
+
+&lt;p&gt;Cette API est très simple et se configure à l&amp;rsquo;aide d&amp;rsquo;une bête chaine en JSON passée au navigateur à l&amp;rsquo;aide d&amp;rsquo;un évènement Javascript. En gros, on indique un nom, quelques urls et l&amp;rsquo;emplacement de boutons et de cadres.&lt;/p&gt;
+
+&lt;p&gt;Ensuite Firefox demande confirmation aux utilisateurices pour l&amp;rsquo;activation du module et le navigateur se charge d&amp;rsquo;afficher le contenus des pages référencées dans les cadres définis.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez voir un exemple d&amp;rsquo;implémentation, j&amp;rsquo;ai participé en mai à l&amp;rsquo;ajout du &lt;a href=&#34;https://github.com/shaarli/Shaarli/commit/8b3c67fccbe7e68b304d3071b1f7a77e0f1fc048#diff-103112dc6ce11f478e58961c697d9931R18&#34;&gt;module Social API sur Shaarli&lt;/a&gt;. Comme on peut le voir c&amp;rsquo;est très simple et très innocent.&lt;/p&gt;
+
+&lt;p&gt;Pourtant, dès cette annonce on a pu voir des inquiets s&amp;rsquo;agiter et répéter à tort et à travers que Facebook s&amp;rsquo;infiltrait dans un module propriétaire de Firefox, que c&amp;rsquo;était la fin de la protection de la vie privée par Mozilla, une pluie de pierre et de feu, sacrifices humains, copulation entre chiens et chats, etc.&lt;/p&gt;
+
+&lt;p&gt;En dépit du fait que Mozilla avait accompagné un article expliquant que les modules Social n&amp;rsquo;avaient accès à aucune information (à l&amp;rsquo;exception de l&amp;rsquo;URL et de la description de la page quand l&amp;rsquo;utilisateure cliquait sur « Partager » évidemment) : &lt;a href=&#34;https://blog.mozilla.org/privacy/2012/10/22/being-social-with-privacy-in-mind/&#34;&gt;Being social with privacy in mind&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  This new functionality doesn’t give your social network access to any additional information from your browser. Again: it’s a lot like having a tab open to your social network.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trois ans plus tard la Social API est largement tombée dans l&amp;rsquo;oubli, Facebook a supprimé la page d&amp;rsquo;activation du module et les gens ont heureusement oublié que « Facebook est intégré par défaut dans Firefox »&lt;/p&gt;
+
+&lt;h3&gt;Firefox Hello&lt;/h3&gt;
+
+&lt;p&gt;Un peu sur le même modèle mais beaucoup plus récent, fin 2014, &lt;a href=&#34;https://blog.mozilla.org/futurereleases/2014/10/16/test-the-new-firefox-hello-webrtc-feature-in-firefox-beta/&#34;&gt;Mozilla annonce l&amp;rsquo;arrivée de Firefox Hello&lt;/a&gt;. Un bouton permettant la discussion instantanée directement dans Firefox en utilisant le protocole WebRTC.&lt;/p&gt;
+
+&lt;p&gt;Pour l&amp;rsquo;occasion ils ont fait un partenariat avec TokBoxi (propriétée de Telefonica), spécialiste dans les communications WebRTC, pour utiliser leur plateforme.&lt;/p&gt;
+
+&lt;p&gt;Rebelote, Mozilla a vendu la vie privée de ses utilisateuricess avec une extension privatrice rendue obligatoire qui ralenti incroyablement Firefox et qui espionne leurs moindres faits et gestes.&lt;/p&gt;
+
+&lt;p&gt;Alors que le bouton ne fait strictement rien tant qu&amp;rsquo;on ne clique pas dessus, de même que son affichage ne ralenti par Firefox puisque les boutons de barre d&amp;rsquo;outils sont chargés de manière asynchrone.&lt;/p&gt;
+
+&lt;h3&gt;Firefox Pocket integration&lt;/h3&gt;
+
+&lt;p&gt;C&amp;rsquo;est cette fois en Juin 2015 que Mozilla annonce &lt;a href=&#34;https://blog.mozilla.org/blog/2015/06/02/firefox-puts-you-in-control-of-your-online-life/&#34;&gt;l&amp;rsquo;intégration d&amp;rsquo;un bouton Pocket dans Firefox&lt;/a&gt;. Pocket est un service de marque-page dont le principal intérêt est sa capacité à reformater le contenu des pages qu&amp;rsquo;on y enregistre pour qu&amp;rsquo;elles soient plus lisibles.&lt;/p&gt;
+
+&lt;p&gt;Ici encore, sacrifice de la vie privée, espionnage des utilisateurs, ralentissements du navigateur.&lt;/p&gt;
+
+&lt;p&gt;Je vais quand même faire une mention spéciale à Numérama pour le titre le plus imbécilement racoleur et mensonger qu&amp;rsquo;il m&amp;rsquo;ait été donné de voir parmis tous les articles alarmistes sur le sujet : &lt;a href=&#34;http://www.donotlink.com/gf33&#34;&gt;« L&amp;rsquo;add-on Pocket imposé par Mozilla sur Firefox avait une faille »&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Notez l&amp;rsquo;élément de langage : « imposé » quand le simple fait de masquer le bouton en deux clic désactive effectivement l&amp;rsquo;add-on en question. Et notez également que la faille dont il est question ici n&amp;rsquo;a absolument rien à voir avec cet addon mais plutôt avec l&amp;rsquo;infrastructure de Pocket. Pour preuve, on peut lire &lt;a href=&#34;https://www.gnu.gl/blog/Posts/multiple-vulnerabilities-in-pocket/&#34;&gt;l&amp;rsquo;article expliquant les détails de la faille&lt;/a&gt; et on peut également utiliser son cerveau et réaliser que Mozilla n&amp;rsquo;a publié aucun correctif en rapport avec Pocket au moment où la faille a été corrigée.&lt;/p&gt;
+
+&lt;p&gt;Comme avec Firefox Hello, le bouton ne fait toujours rien tant qu&amp;rsquo;on ne clique pas dessus, son affichage ne ralenti toujours pas Firefox et le simple fait de l&amp;rsquo;enlever de la barre d&amp;rsquo;outil désactive l&amp;rsquo;exécution du code d&amp;rsquo;affichage du bouton (logique).&lt;/p&gt;
+
+&lt;h3&gt;La signature obligatoire des add-ons&lt;/h3&gt;
+
+&lt;p&gt;En février 2015, Mozilla annonce que &lt;a href=&#34;https://blog.mozilla.org/addons/2015/02/10/extension-signing-safer-experience/&#34;&gt;Firefox refusera de lancer les add-ons qui n&amp;rsquo;ont pas été signés sur addons.mozilla.org&lt;/a&gt; (Aussi appelé AMO). Cette décision est motivée par la sécurité des utilisateurs et vise à analyser le code de toutes les extension Firefox afin d&amp;rsquo;interdire celles qui tenteraient des choses curieuses comme envoyer le contenu de vos fichiers ou la liste de vos mots de passe sur un serveur distant. (Oui, les add-ons peuvent faire ça.)&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;initiative vise aussi à diminuer le nombre de barres d&amp;rsquo;outils et de malware publicitaires installés par des programmes comme… Flash Player.&lt;/p&gt;
+
+&lt;p&gt;Si les utilisateurices de Firefox peuvent se satisfaire d&amp;rsquo;un add-on installé de base qu&amp;rsquo;il est possible de désactiver, avec la signature obligatoire on touche là au cœur même de la liberté des gens puisque la première plainte émise a été de ne plus pouvoir télécharger ses add-ons ailleurs que sur AMO, d&amp;rsquo;ouvrir la porte à la voie de la censure et de transformer Mozilla en dictature de la pensée unique (rien que ça).&lt;/p&gt;
+
+&lt;p&gt;Pourtant, rien de tout ça n&amp;rsquo;est fondé.&lt;/p&gt;
+
+&lt;p&gt;Les extensions qui sont déjà sur AMO sont déjà soumise à une procédure de vérification. Elle est manuelle, effectuée par des bénévoles, la vérification peut prendre plusieurs jours. Et ça fait bien longtemps que personne ne s&amp;rsquo;en est plain. Ces add-ons seront signés automatiquement.&lt;/p&gt;
+
+&lt;p&gt;Les extensions qui ne sont pas sur AMO, et là est la nouveautée, seront soumises à une vérification automatique puis signées. Si la vérification automatique échoue c&amp;rsquo;est une vérification manuelle qui aura lieu, la même que celle pour les add-ons de l&amp;rsquo;AMO. Après signature, le/la développeureuse récupère le fichier xpi de l&amp;rsquo;extension et est libre de le distribuer où bon lui semble.&lt;/p&gt;
+
+&lt;p&gt;Avant signature et pendant le développement de l&amp;rsquo;add-on il faudra utiliser Firefox Aurora ou Firefox Developper Edition pour lancer des add-ons non signés.&lt;/p&gt;
+
+&lt;p&gt;Le point faible de tout ça reste la procédure de review manuelle. À titre d&amp;rsquo;exemple &lt;a href=&#34;https://github.com/EFForg/https-everywhere/issues/2051#issuecomment-130513727&#34;&gt;ça fait 9 mois que HTTPS Everywhere est en review sur l&amp;rsquo;AMO&lt;/a&gt;, étant un add-on soutenu par l&amp;rsquo;EFF ils ont pu obtenir une signature rapide en demandant directement à Mozilla mais tout le monde n&amp;rsquo;est pas l&amp;rsquo;EFF.&lt;/p&gt;
+
+&lt;p&gt;Mozilla est bien conscient de ça et prévoit d&amp;rsquo;améliorer le processus de vérification automatique ainsi que d&amp;rsquo;augmenter la taille des équipes salariées et bénévoles pour la vérification manuelle.&lt;/p&gt;
+
+&lt;h3&gt;La fin des add-ons XUL et SDK&lt;/h3&gt;
+
+&lt;p&gt;Hier, le 21 Août 2015, Mozilla annonce &lt;a href=&#34;https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/&#34;&gt;l&amp;rsquo;obsolescence des add-ons classiques qui utilisent XUL, des add-ons jetpack et des add-ons SDK&lt;/a&gt; pour introduire une nouvelle API d&amp;rsquo;add-on qui sera majoritairement compatible avec celle utilisée par Chrome et Opera mais qui sera étendue pour maintenir l&amp;rsquo;existence d&amp;rsquo;add-ons populaires existants.&lt;/p&gt;
+
+&lt;p&gt;La raison avancée est que les add-ons dépendant d&amp;rsquo;interface bas niveau empêchent les évolutions du navigateur. Electrolysis qui doit apporter le support du multi-process et le sandboxing des onglets a largement été retarder à cause d&amp;rsquo;incompatibilité avec des extensions très utilisées. Il est impossible de remplacer le Gecko vieillissant par Servo pour les mêmes raisons.&lt;/p&gt;
+
+&lt;p&gt;Mettre en place une API limitera, certes, les possibilités de développement d&amp;rsquo;add-ons mais permettra en même temps de faire des changement profonds dans le fonctionnement de Firefox sans trop s&amp;rsquo;inquiéter de voir tous les add-ons crasher dans tous les sens.&lt;/p&gt;
+
+&lt;p&gt;Les réactions FUDesques ne sont sont pas fait attendre et &lt;a href=&#34;http://www.downthemall.net/the-likely-end-of-downthemall/&#34;&gt;le développeur de DownThemAll! a été le premier à s&amp;rsquo;enflammer&lt;/a&gt; en déclarant la mort de DownThemAll, NoScript ou Greasemonkey.&lt;/p&gt;
+
+&lt;p&gt;Bref, c&amp;rsquo;est la fin de la personnalisation dans Firefox qui achève une transformation en clone de Chrome, transformation entamée avec l&amp;rsquo;arrivée de l&amp;rsquo;interface Australis apparue dans les nightlies fin 2013.&lt;/p&gt;
+
+&lt;p&gt;Dans &lt;a href=&#34;https://linuxfr.org/users/kalenx/journaux/la-fin-du-permissive-add-on-model-chez-mozilla-ou-comment-flinguer-une-base-d-extensions&#34;&gt;les journaux LinuxFR&lt;/a&gt; c&amp;rsquo;est la panique également puisqu&amp;rsquo;on apprend ceci :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  L&#39;impossibilité d&#39;accéder au coeur de Firefox et de son interface mènera à la disparition d&#39;extensions extrêmement appréciées et utilisées telles que, outre DownThemAll, TreeStyleTab, NoScript, FireGestures, Drag2Go, Greasemonkey, TabMixPlus, FireFTP, FoxyProxy, AllInOne Sidebar et beaucoup d&#39;autres.
+
+  Comprenons-nous bien : on ne parle pas ici d&#39;un classique cassage d&#39;API qui requiert la réécriture de certaines parties de ces extensions pour les rendre compatibles. Non, on parle d&#39;un changement qui rendra ces extensions impossibles à implémenter en tout ou en partie.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ou encore que l&amp;rsquo;API n&amp;rsquo;est pas officiellement publiée alors qu&amp;rsquo;il reste 18 mois à vivre aux extensions old-school.&lt;/p&gt;
+
+&lt;p&gt;Là encore, rien n&amp;rsquo;est fondé puisque dans l&amp;rsquo;article même de cette annonce, Mozilla donne le lien vers la documentation actuelle : &lt;a href=&#34;https://wiki.mozilla.org/WebExtensions&#34;&gt;WebExtensions&lt;/a&gt; sur laquelle figure des liens vers les modules et fonctions supportées, les fonctions qui ne sont pas encore implémentées, une mention indiquant qu&amp;rsquo;elles le seront prochainement &lt;strong&gt;ainsi qu&amp;rsquo;une liste de fonctions non supportées par Chrome qui seront conservées dans Firefox pour garder des extensions en vie&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  We plan to add our own APIs based on the needs of existing Firefox add-ons :
+
+  &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;NoScript&lt;/strong&gt;-type functionality. This would come in the form of extensions to webRequest and possibly contentSettings.&lt;/li&gt;
+  &lt;li&gt;Sidebars. Opera already supports sidebar functionality; Chrome may soon. We would like to be able to implement &lt;strong&gt;Tree Style Tabs&lt;/strong&gt; or &lt;strong&gt;Vertical Tabs&lt;/strong&gt; by hiding the tab strip and showing a tab sidebar.&lt;/li&gt;
+  &lt;li&gt;Toolbars. Firefox has a lot of existing toolbar add-ons.&lt;/li&gt;
+  &lt;li&gt;Better keyboard shortcut support. We&#39;d like to support &lt;strong&gt;Vimperator&lt;/strong&gt;-type functionality.&lt;/li&gt;
+  &lt;li&gt;Ability to add tabs to about:addons.&lt;/li&gt;
+  &lt;li&gt;Ability to modify the tab strip (&lt;strong&gt;Tab Mix Plus&lt;/strong&gt;).&lt;/li&gt;
+  &lt;li&gt;Ability to take images of frames/tabs (like canvas.drawWindow)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On voit bien que contrairement à ce qui est colporté, Mozilla est conscient de la nécessité de préserver l&amp;rsquo;existence de nombreuses extensions et qu&amp;rsquo;ils ne se priveront pas d&amp;rsquo;aller plus loins que l&amp;rsquo;API de Chrome pour le faire.&lt;/p&gt;
+
+&lt;p&gt;En bref, les extensions Chrome seront facilement portables sur Firefox, les extensions simple de Firefox seront facilement portable sur Chrome et les extensions plus lourdes conserveront leurs fonctionnalités avancées.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Je suis prêt à admettre qu&amp;rsquo;une certaine inquiétude puisse se faire sentir devant tous les changements opérés par Mozilla cette année mais il me semble qu&amp;rsquo;une fois contextualisés ces changements deviennent soit compréhensibles même si pas idéaux, soit justifiés.&lt;/p&gt;
+
+&lt;p&gt;Hello et Pocket résultent de partenariats commerciaux. On le sait et elle était extrêmement critiquée pour ça, Mozilla dépendait grandement du financement de Google (&lt;a href=&#34;http://techcrunch.com/2012/11/15/mozilla-releases-annual-report-for-2011-revenue-up-33-to-163m-majority-from-google/&#34;&gt;85% en 2011&lt;/a&gt;) pourtant et pour s&amp;rsquo;en détacher, c&amp;rsquo;est Yahoo qui devient le nouveau moteur par défaut en Novembre 2014 et on imagine bien qu&amp;rsquo;ils n&amp;rsquo;ont pas la puissance financière d&amp;rsquo;un Google.&lt;/p&gt;
+
+&lt;p&gt;Mozilla se trouve donc obligée de diversifier ses partenariat et jusqu&amp;rsquo;à présent en parvenant avec succès à protéger la vie privée de ses utilisateurices.&lt;/p&gt;
+
+&lt;p&gt;Du côté des add-ons, il s&amp;rsquo;agit de choix techniques qui visent à diminuer le nombre de malwares infectant le navigateur et à permettre plus facilement la réduction de dette technique présente dans Gecko.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai, en revanche du mal à saisir ce qui pousse des gens qui ont tout à perdre de la défection de Firefox à propager des articles alarmistes et infondés pour manifester leur inquiétude.&lt;/p&gt;
+
+&lt;p&gt;Le seul effet que ces critiques ont est de ternir l&amp;rsquo;image d&amp;rsquo;un Firefox qui n&amp;rsquo;en a pas besoin et d&amp;rsquo;affaiblir le seul navigateur Libre et indépendant, poussant les gens à… utiliser Chrome.&lt;/p&gt;
+
+&lt;p&gt;À suivre : &lt;a href=&#34;https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/&#34;&gt;Les requêtes envoyées par un Firefox tout neuf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les communications chiffrées faciles en Mai 2015</title>
+      <link>https://aldarone.fr/les-communications-chiffrees-pour-les-non-informaticien%E2%8B%85nes-en-mai-2015</link>
+      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/les-communications-chiffrees-pour-les-non-informaticien%E2%8B%85nes-en-mai-2015</guid>
+      <description>&lt;p&gt;Il y a un peu plus d&amp;rsquo;un an, j&amp;rsquo;ai parlé de moyens pour sécuriser nos communications sur nos téléphones mobiles. J&amp;rsquo;avais parlé de TextSecure, Redphone et Telegram.&lt;/p&gt;
+
+&lt;p&gt;Avec le vote de la loi sur le renseignement qui &lt;a href=&#34;http://www.laquadrature.net/fr/lassemblee-nationale-vote-la-surveillance-de-masse-des-citoyens-francais&#34;&gt;autorise maintenant le gouvernement à surveiller tout un chacun&lt;/a&gt; sans passer par le moindre juge, il me semble pertinent de refaire un point sur ce qui a changé ou non et sur les nouveaux moyens disponibles.&lt;/p&gt;
+
+&lt;p&gt;Si vous n&amp;rsquo;y connaissez rien en chiffrement, ce n&amp;rsquo;est pas grave, vous pouvez continuer à lire. Je ne présenterai que des outils qui fonctionnent immédiatement après s&amp;rsquo;être installés parce que je fais parti de celleux qui pensent qu&amp;rsquo;une bonne sécurité doit être accessible à toutes et à tous, même si on ne sait pas ce qu&amp;rsquo;est le chiffrement à courbes elliptiques (et aussi parce que les arcanes de la sécurité ont tendance à me filer mal au crane.)&lt;/p&gt;
+
+&lt;p&gt;Comme d&amp;rsquo;habitude, la sécurité n&amp;rsquo;est possible que lorsqu&amp;rsquo;il est possible d&amp;rsquo;examiner le code source des applications qui la mettent en place afin de pouvoir contrôler que le logiciel ne dissimule rien. Exit donc Whatsapp, Skype, Facebook, Bleep, etc. Même si ils prétendent fournir de la sécurité, on est sensé les croire sur parole sans vérification possible. Et vous avez vraiment envie de croire sur parole une entreprise capitaliste vous ?&lt;/p&gt;
+
+&lt;p&gt;Les logiciels dont je vais parler sont Libres, donc open-source et gratuits. Le chiffrement n&amp;rsquo;est actif qu&amp;rsquo;avec les contacts qui utilisent le même logiciel que vous.&lt;/p&gt;
+
+&lt;h1&gt;Les messages mobiles&lt;/h1&gt;
+
+&lt;p&gt;Cette section concerne les SMS et équivalents et se compose de trois logiciels très proches : TextSecure, SMSSecure et Signals.&lt;/p&gt;
+
+&lt;h2&gt;Textsecure&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/textsecure.jpg&#34; alt=&#34;TextSecure, la sécurité simplifiée&#34; width=&#34;705&#34; height=&#34;344&#34; class=&#34;size-full wp-image-1464&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Celui là c&amp;rsquo;est un peu mon préféré. Il était déjà opérationnel l&amp;rsquo;an dernier et je l&amp;rsquo;utilise quotidiennement depuis ce moment là.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est une application pour Android qui peut remplacer (sans obligation) l&amp;rsquo;application SMS standard. Si vous décidez de conserver votre application SMS, vous recevrez les messages TextSecure dans TextSecure et les SMS dans l&amp;rsquo;application SMS.&lt;/p&gt;
+
+&lt;p&gt;Elle permet également d&amp;rsquo;envoyer des MMS qui seront, eux aussi, chiffrés.&lt;/p&gt;
+
+&lt;p&gt;Au premier lancement elle demande de saisir votre numéro de téléphone et quelques secondes plus tard vous recevez un SMS spécial qu&amp;rsquo;elle utilise automatiquement pour s&amp;rsquo;activer.&lt;/p&gt;
+
+&lt;p&gt;Vous pourrez dès lors envoyer des messages chiffrés aux contacts qui l&amp;rsquo;utilisent, sans même y faire attention. Le chiffrement est simplement indiqué par un petit cadenas au bas de chaque message envoyé ou reçu.&lt;/p&gt;
+
+&lt;p&gt;Les SMS reçus sont en vert et les messages TextSecure sont en bleu.&lt;/p&gt;
+
+&lt;p&gt;Concernant le mode de transport il y a plusieurs choses à savoir :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les messages transitent par internet, il vous faut donc un forfait compatible (mais de nos jours pratiquement tous les forfaits incluent au moins 20Mo de données par mois et TextSecure en consomme environ 600Ko)&lt;/li&gt;
+&lt;li&gt;Ils transitent par les serveurs de Google puis par les serveurs d&#39;OpenWhisper (les gens qui développement TextSecure).
+Comme les communications sont chiffrées, Google pourra uniquement voir que vous utilisez l&#39;application (mais comme vous l&#39;avez installée, ils se savent déjà) et de son côté OpenWhisper ne verra que l&#39;identifiant de la personne à qui vous envoyez un message (pour lui délivrer un message, il est logique que le transporteur en connaisse l&#39;adresse)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Télécharger TextSecure sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Néanmoins, pour ne pas passer par Google et OpenWhisper ou pour ne pas être obligé⋅e d&amp;rsquo;utiliser internet, il y a une alternative : SMSSecure.&lt;/p&gt;
+
+&lt;h2&gt;SMSSecure&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/smssecure.png&#34; alt=&#34;SMS Encryption made easy&#34; width=&#34;450&#34; height=&#34;120&#34; class=&#34;size-full wp-image-1591&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SMSSecure est très proche de TextSecure puisqu&amp;rsquo;il partage une grande partie de son code source et donc la même méthode de chiffrement.&lt;/p&gt;
+
+&lt;p&gt;Cette application est apparue quand les développeurs et développeuses de TextSecure ont décidé⋅es d&amp;rsquo;arrêter le support du chiffrement pour les SMS en raison d&amp;rsquo;un trop grand nombre de correctifs nécessaire qui les empêchaient de se concentrer sur l&amp;rsquo;ajout de nouvelles fonctions.&lt;/p&gt;
+
+&lt;p&gt;D&amp;rsquo;autres personnes ont donc copié le code source et ont supprimé tout rapport avec Google et OpenWhisper pour ne développer que la partie SMS.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;interface est donc très proche/identique à celle de TextSecure et pour recevoir des SMS chiffrés elle doit obligatoirement remplacer votre application SMS standard. (Vous pouvez toujours utiliser TextSecure à côté.)&lt;/p&gt;
+
+&lt;p&gt;Elle permet également d&amp;rsquo;envoyer des MMS qui seront, eux aussi, chiffrés.&lt;/p&gt;
+
+&lt;p&gt;Une fois installée, il n&amp;rsquo;y a qu&amp;rsquo;à sélectionner un contact qui vous a prévenu qu&amp;rsquo;ille l&amp;rsquo;utilise et cliquer sur le petit cadenas en haut à droite. Elle va alors lui envoyer un SMS de préparation auquel son téléphone répondra automatiquement et la suite de la conversation se déroulera de manière sécurisée.&lt;/p&gt;
+
+&lt;p&gt;Concernant le mode de transport il y a là aussi des choses à savoir :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Elle utilise les SMS ; comme un message chiffré prend plus de place qu&#39;un message classique il est possible qu&#39;un message de moins de 140 caractères soit automatiquement coupé en plusieurs parties et que votre forfait soit décompté de plusieurs SMS. Attention donc si vous n&#39;avez pas de SMS illimités.&lt;/li&gt;
+&lt;li&gt;Contrairement à TextSecure où Google peut savoir que vous l&#39;utilisez et où OpenWhisper peut savoir à qui vous écrivez, ici c&#39;est votre opérateur mobile et toute personne qui écoute le réseau téléphonique qui peut savoir à qui vous écrivez. À vous de choisir à qui vous préférez exposer votre liste d&#39;interlocuteur⋅ices.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.smssecure.smssecure&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Téléchargez SMSSecure sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Get_it_on_F-Droid-300x104.png&#34; alt=&#34;Get_it_on_F-Droid&#34; width=&#34;300&#34; height=&#34;104&#34; class=&#34;aligncenter size-medium wp-image-1596&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Signal&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg&#34; alt=&#34;Signal - Private Messenger&#34; width=&#34;202&#34; height=&#34;195&#34; class=&#34;aligncenter size-full wp-image-1600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il y a un an, aucune solution libre n&amp;rsquo;existait pour les personnes possédant un iPhone. Mais maintenant il y a Signal.&lt;/p&gt;
+
+&lt;p&gt;Signal est l&amp;rsquo;exact équivalent de TextSecure pour Android et comme il est développée par les mêmes personnes, les gens utilisant Signal peuvent discuter en toute transparence avec les gens utilisant TextSecure.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;application utilise la même procédure d&amp;rsquo;activation que TextSecure : Au premier lancement on saisit son numéro, on reçoit un SMS d&amp;rsquo;activation et c&amp;rsquo;est prêt.&lt;/p&gt;
+
+&lt;p&gt;La seule différence est qu&amp;rsquo;Apple n&amp;rsquo;autorise pas les applications tierces à accéder aux SMS, vous ne pourrez donc pas récupérer tous vos messages dans une seule application et le seul mode de transport disponible sera le même que TextSecure, avec les mêmes points à retenir que ceux cités plus haut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg&#34; alt=&#34;Téléchargez Signal sur l&#39;App Store&#34; width=&#34;300&#34; height=&#34;111&#34; class=&#34;aligncenter size-medium wp-image-1595&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Les appels mobiles&lt;/h1&gt;
+
+&lt;p&gt;Pour ce point, il y a une solution pour Android : RedPhone, et une solution pour iPhone : Signal (oui, la même)&lt;/p&gt;
+
+&lt;h2&gt;RedPhone&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681.jpg&#34; alt=&#34;RedPhone, la sécurité simplifiée.&#34; width=&#34;705&#34; height=&#34;344&#34; class=&#34;size-full wp-image-1458&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Développée par OpenWhisper (les mêmes qui font TextSecure et Signal, décidément), RedPhone permet de passer des appels chiffrés via Internet. Ce ne sera donc pas décompté de votre forfait voix, mais de votre quota de données (sauf si vous êtes en Wifi, ce qui permet de s&amp;rsquo;affranchir du même coup d&amp;rsquo;une mauvaise couverture.)&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;activation se déroule comme avec TextSecure et l&amp;rsquo;usage est ensuite transparent. La réception d&amp;rsquo;appel se fait sans manipulation particulière et au moment de passer un appel, si RedPhone détecte que votre correspondant⋅e est dans son annuaire, il vous offrira le choix de sécuriser l&amp;rsquo;appel ou non.&lt;/p&gt;
+
+&lt;p&gt;Comme pour TextSecure, les données transitent par Google et OpenWhisper, donc Google sait que vous utilisez RedPhone et OpenWhisper sait qui vous appelez. Encore une fois, sans RedPhone c&amp;rsquo;est votre opérateur mobile qui sait qui vous appelez mais il sait également ce que vous racontez.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Télécharger RedPhone sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Signal&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg&#34; alt=&#34;Signal - Private Messenger&#34; width=&#34;202&#34; height=&#34;195&#34; class=&#34;aligncenter size-full wp-image-1600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour iPhone, OpenWhisper a choisi d&amp;rsquo;unifier les usages et Signal permet également de recevoir ou d&amp;rsquo;émettre des appels vers d&amp;rsquo;autres personnes utilisant Signal ou RedPhone.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;activation se fait en même temps que l&amp;rsquo;activation des messages et pour appeler quelqu&amp;rsquo;un il suffit de se rendre dans l&amp;rsquo;historique des messages et de cliquer sur appeler.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg&#34; alt=&#34;Téléchargez Signal sur l&#39;App Store&#34; width=&#34;300&#34; height=&#34;111&#34; class=&#34;aligncenter size-medium wp-image-1595&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;La messagerie instantanée et les conférences audio/vidéo&lt;/h1&gt;
+
+&lt;p&gt;Maintenant on s&amp;rsquo;éloigne un peu du mobile pour s&amp;rsquo;attaquer à un gros morceau de la communication en ligne : Les conférences audio / vidéo et la messagerie instantanée.&lt;/p&gt;
+
+&lt;p&gt;On connait tous Skype, le leader sur le marché. Il appartient à Microsoft, propose des fonctions payantes et, en dépit de la sécurisation qu&amp;rsquo;il annonce, s&amp;rsquo;avère &lt;a href=&#34;http://news.softpedia.com/news/Skype-Provided-Backdoor-Access-to-the-NSA-Before-Microsoft-Takeover-NYT-362384.shtml&#34;&gt;être aussi sécurisé qu&amp;rsquo;une passoire (lien en anglais)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour le remplacer, il n&amp;rsquo;y a pas grand monde. Mais l&amp;rsquo;alternative la plus aboutie est Tox.&lt;/p&gt;
+
+&lt;h2&gt;Tox&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/tox4.png&#34; alt=&#34;Tox me maybe&#34; width=&#34;650&#34; height=&#34;200&#34; class=&#34;aligncenter size-full wp-image-1593&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tox est un logiciel encore incomplet mais néanmoins déjà utilisable au quotidien.&lt;/p&gt;
+
+&lt;p&gt;Il permet de communiquer de plusieurs manières :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Message texte avec une ou plusieurs personnes.&lt;/li&gt;
+&lt;li&gt;Conversation audio avec une ou plusieurs personnes.&lt;/li&gt;
+&lt;li&gt;Conversation vidéo avec une personne. (Les conférences vidéos à plusieurs sont prévues mais les développeurs galèrent un peu sur la meilleure interface possible pour ce cas.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Après installation, Tox génère un identifiant : le ToxId. Il n&amp;rsquo;y a qu&amp;rsquo;à le communiquer à votre contact et après avoir accepté sa requête vous voila prêt⋅es à communiquer.&lt;/p&gt;
+
+&lt;p&gt;La communication s&amp;rsquo;effectue sans passer par aucun serveur et sans moyen de lire ou d&amp;rsquo;altérer le message pendant qu&amp;rsquo;il transite.&lt;/p&gt;
+
+&lt;p&gt;Cependant, comme il n&#39;est pas tout à fait terminé il y a quelques points noirs qui seront prochainement résolus (d&#39;ici la fin de l&#39;année) :
+* Pour accepter une requête de contact il faut être connecté⋅e. Si vous êtes déconnecté⋅e au moment où votre contact l&#39;envoie, il devra la réémettre.
+* Il est impossible d&#39;envoyer des messages à quelqu&#39;un qui est hors ligne car ils disparaîtront dans l&#39;oubli.
+* Il est impossible de rejoindre spontanément une conversation groupée, le seul moyen est d&#39;y être invité⋅e.&lt;/p&gt;
+
+&lt;p&gt;Pour le reste tout y est : Smileys, audio, video, transfert de fichiers,…&lt;/p&gt;
+
+&lt;p&gt;Il est disponible sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#windows&#34;&gt;Windows&lt;/a&gt;, sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#mac_os_x&#34;&gt;MacOS&lt;/a&gt; et sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#gnulinux&#34;&gt;GNU/Linux&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vous avez maintenant toutes les clés en main pour mettre des bâtons dans les roues de quiconque voudrait surveiller vos communications instantanées.&lt;/p&gt;
+
+&lt;p&gt;Ce n&amp;rsquo;est qu&amp;rsquo;en proposant à vos contacts de les utiliser que vos communications seront protégées puisqu&amp;rsquo;il n&amp;rsquo;y a qu&amp;rsquo;avec les contacts qui utilisent le même logiciel que vous que le chiffrement fonctionne. TextSecure et RedPhone sont compatibles avec Signal mais Tox ne fonctionne qu&amp;rsquo;avec les utilisateur et les utilisatrices de Tox et SMSSecure ne fonctionne qu&amp;rsquo;avec les personnes utilisant SMSSecure.&lt;/p&gt;
+
+&lt;p&gt;Alors n&amp;rsquo;hésitez pas, motivez vos contacts et sortez couvert⋅es !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Crédits : &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/3644997857/&#34;&gt;Lockpicking with the hackers.&lt;/a&gt; par &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/&#34;&gt;Sally Crossthwaite&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jouer à Discworld sur un PC récent</title>
+      <link>https://aldarone.fr/jouer-a-discworld-sur-un-pc-recent</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/jouer-a-discworld-sur-un-pc-recent</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036599047258112&#34;&gt;https://twitter.com/terryandrob/status/576036599047258112&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036726046646272&#34;&gt;https://twitter.com/terryandrob/status/576036726046646272&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036888190038016&#34;&gt;https://twitter.com/terryandrob/status/576036888190038016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est l&amp;rsquo;occasion de découvrir ou de redécouvrir ce point&amp;rsquo;n click de légende adapté de l&amp;rsquo;univers de ce grand monsieur et doublé par &lt;a href=&#34;http://en.wikipedia.org/wiki/Eric_Idle&#34;&gt;Eric Idle&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/03/tumblr_mlme6myVhA1s9677oo1_500.gif&#34; alt=&#34;tumblr_mlme6myVhA1s9677oo1_500&#34; width=&#34;500&#34; height=&#34;313&#34; class=&#34;aligncenter size-full wp-image-1576&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour y jouer il nous faut trois choses :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;L&#39;émulateur de point&#39;n click &lt;a href=&#34;http://www.scummvm.org/&#34;&gt;ScummVM&lt;/a&gt;. Si vous êtes sous GNU/Linux, il y a probablement un paquet dans le dépôt de votre distribution. Sinon, trouvez votre plateforme sur &lt;a href=&#34;http://www.scummvm.org/downloads/&#34;&gt;la page de téléchargement&lt;/a&gt; et lancez l&#39;installation.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Les fichiers du jeu, que l&#39;on peut trouver ici : &lt;a href=&#34;http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=691&amp;amp;fic=liens&#34;&gt;LTF Abandonware France, Discworld&lt;/a&gt; (Prenez la version CD, pas la version automatique)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La musique haute qualité réalisée par James Woodcock : &lt;a href=&#34;http://www.jameswoodcock.co.uk/2013/05/04/my-discworld-enhanced-soundtrack-released-v2-1-flac-lossless-audio-included/&#34;&gt;Discworld Enhanced SoundTrack&lt;/a&gt; (Vous pouvez prendre la version FLAC si vous avez de la place à perdre sur votre disque dur, sinon prenez la version OGG)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Après avoir installé ScummVM et décompressé le fichier &lt;code&gt;jeu-00691-discworld_cd-pcdos.7z&lt;/code&gt; on obtient un fichier &lt;code&gt;Discw.iso&lt;/code&gt; qu&amp;rsquo;il faut, lui aussi, décompresser. Ce qui nous intéresse est le dossier &lt;code&gt;DISCWLD&lt;/code&gt; qui contient les données du jeu. Prenez ce dossier et placez le dans un endroit où vous saurez le retrouver facilement.&lt;/p&gt;
+
+&lt;p&gt;Prenez également les fichiers présents dans l&amp;rsquo;archive musicale (&lt;code&gt;track01.ogg&lt;/code&gt;, &lt;code&gt;track02.ogg&lt;/code&gt;, etc.) et placez les dans le dossier &lt;code&gt;DISCWLD&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maintenant, on va démarrer et configurer ScummVM. Une fois la fenêtre ouverte, cliquez sur option et cochez la case « Correction du rapport d&amp;rsquo;aspect », cliquez sur « OK » puis sur « Ajouter »&lt;/p&gt;
+
+&lt;p&gt;Vous devez maintenant chercher le dossier &lt;code&gt;DISCWLD&lt;/code&gt; dans la liste de chemins, quand vous y êtes cliquez sur choisir, puis sélectionnez la langue avec laquelle vous voulez jouer (ce ne sont que pour les sous-titres) et terminez par « Ok. »&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/03/scummvm-ajouter.png&#34; alt=&#34;scummvm-ajouter&#34; width=&#34;628&#34; height=&#34;469&#34; class=&#34;aligncenter size-full wp-image-1571&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vous êtes maintenant prêt⋅e à cliquer sur démarrer et à passer quelques heures d&amp;rsquo;amusement dans l&amp;rsquo;univers unique du Disque Monde.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Précision supplémentaire&lt;/strong&gt; : Il est probable que vous trouviez la taille de la fenêtre un peu réduite. À l&amp;rsquo;époque on jouait à des jeux en 320x200 maintenant on a plutôt des écrans FullHD en 1920x1080, la différence de taille est… conséquente. Il est possible d&amp;rsquo;améliorer l&amp;rsquo;affichage en allant dans les options graphiques et de changer le « mode graphique. »&lt;/p&gt;
+
+&lt;p&gt;Le choix sera surtout une question de goût, personnellement j&amp;rsquo;aime bien le mode « HQ3x » que je trouve adapté au style cartoon du jeu mais certaines personnes le trouvent trop lissé et préfèrent une expérience plus authentique.&lt;/p&gt;
+
+&lt;p&gt;Amusez vous bien !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuck you ownCloud. Fuck you.</title>
+      <link>https://aldarone.fr/fuck-you-owncloud-fuck-you</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/fuck-you-owncloud-fuck-you</guid>
+      <description>&lt;p&gt;/!\ Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d&amp;rsquo;en tenir compte lors de votre lecture. /!&lt;/p&gt;
+
+&lt;h3&gt;Mise à jour du 09 décembre 2014, 14h&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;ai reçu un mail d&amp;rsquo;un lecteur qui m&amp;rsquo;explique comment il a laissé tomber Owncloud devant le manque constant de fiabilité et est passé à &lt;a href=&#34;http://seafile.com/en/home/&#34;&gt;SeaFile&lt;/a&gt;. Il donne plus de détails sur son blog : « &lt;a href=&#34;http://eliotberriot.com/blog/2013/12/18/owncloud-sparkleshare-git-annex-seafile-quelle-solution-libre-pour-heberger-et-synchroniser-ses-fichiers/&#34;&gt;Ownbutt, SparkleShare, Git-Annex, Seafile&amp;hellip; Quelle solution libre pour héberger et synchroniser ses fichiers ?&lt;/a&gt; » et a rédigé une dépêche sur LinuxFR pour présenter la version 3 : « &lt;a href=&#34;https://linuxfr.org/news/seafile-un-dropbox-like-libre-a-heberger-sort-en-version-3&#34;&gt;Seafile, un Dropbox-like libre à héberger sort en version 3&lt;/a&gt; »&lt;/p&gt;
+
+&lt;p&gt;Effectivement ça a l&amp;rsquo;air alléchant, mais SeaFile &lt;a href=&#34;https://github.com/haiwen/seafile/issues/801&#34;&gt;ne propose pas encore de service CardDav, ni CalDav&lt;/a&gt; pour synchroniser des contacts ou des calendriers. Ayant laissé tomber mon instance &lt;a href=&#34;http://baikal-server.com/&#34;&gt;Baïkal&lt;/a&gt; pour passer à OwnCloud, ça m&amp;rsquo;embêterait de séparer à nouveau ces services là.&lt;/p&gt;
+
+&lt;h3&gt;Article d&#39;origine&lt;/h3&gt;
+
+&lt;p&gt;ownButt est un logiciel en PHP qui sert à héberger son propre service de partage de fichiers. Globalement c&amp;rsquo;est un équivalent libre de Dropbox qui fait aussi de la synchro de contacts et de calendriers.&lt;/p&gt;
+
+&lt;p&gt;Il y a quelques temps maintenant, les gestionnaires du projet ont annoncé en grande pompe le module de chiffrement côté serveur qui permet aux utilisateurices de s&amp;rsquo;assurer que leur hébergeur ne pourra pas voir le contenu des fichiers envoyés. (À ce point là, il est important de noter que la personne en charge de l&amp;rsquo;administration dispose d&amp;rsquo;une clé de récupération, au cas où.)&lt;/p&gt;
+
+&lt;p&gt;Même si je suis mon propre hébergeur, je me suis empressé d&amp;rsquo;activer ce module lors de l&amp;rsquo;installation de mon instance il y a deux ou trois mois, imaginant déjà libérer mes potes du joug de Dropbox en les rassurant sur le fait que je ne pourrais pas accéder à leurs dick- ou clit-pics sans qu&amp;rsquo;illes soient au courant.&lt;/p&gt;
+
+&lt;p&gt;Si vous êtes pressés je vous la fait courte : J&amp;rsquo;aurais pas dû.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/12/yjt6EZL.gif&#34; alt=&#34;yjt6EZL&#34; width=&#34;500&#34; height=&#34;271&#34; class=&#34;aligncenter size-full wp-image-1559&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai donc commencé à utiliser le client de synchronisation d&amp;rsquo;abord en transférant toute ma dropbox, puis en activant l&amp;rsquo;envoi automatique de mes photos prises sur mon téléphone, puis en y mettant mes dotfiles pour y avoir accès de partout.&lt;/p&gt;
+
+&lt;p&gt;Jusqu&amp;rsquo;au jour où, pour une raison inconnue, le client de synchronisation d&amp;rsquo;ownButt a merdé pendant la synchro de mon dossier .atom (l&amp;rsquo;éditeur de github) et je me suis retrouvé avec MariaDB qui râlait à la DUPLICATE ENTRY dans une table.&lt;/p&gt;
+
+&lt;p&gt;Évidemment à ce point il y a trop de fichiers en erreur pour corriger à la main et ça me semble trop aléatoire pour être scripté rapidement.&lt;/p&gt;
+
+&lt;p&gt;Après recherches, des pistes semblent indiquer que c&amp;rsquo;est dû à la manière dont le module de chiffrement gère (mal) les noms de fichiers. Je me suis donc dit que j&amp;rsquo;allais juste le désactiver, qu&amp;rsquo;ownButt déchiffrerait mes fichiers au fil des accès et que j&amp;rsquo;aurais juste à supprimer mon dossier pourri et à le renvoyer.&lt;/p&gt;
+
+&lt;p&gt;Hahaha, naïf que je suis. Il faut lancer manuellement une requête de déchiffrement dans les options et évidemment ça prend un temps fou. Firefox laisse tomber la requête AJAX au bout d&amp;rsquo;une demi heure, mais ça continue de tourner et c&amp;rsquo;est le max execution time de PHP qui détermine le temps avant plantage (En l’occurrence, ce fut une heure)&lt;/p&gt;
+
+&lt;p&gt;Je ne me laisse pas démonter et je met un petit &lt;code&gt;set_time_limit(0)&lt;/code&gt; au début du script histoire d&amp;rsquo;être sûr et je le relance en gardant un œil sur les logs dans un &lt;a href=&#34;http://danielmiessler.com/study/tmux/&#34;&gt;tmux&lt;/a&gt;. Deux heures plus tard il plante à nouveau &lt;code&gt;Calling method -&amp;gt;machintruc() on a non-object&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Je commence un peu à m&amp;rsquo;échauffer parce que quand on utilise des fonctions qui renvoient &lt;code&gt;null&lt;/code&gt; ou un objet, la moindre des choses c&amp;rsquo;est de vérifier qu&amp;rsquo;on a bien un objet après l&amp;rsquo;appel à cette fonction… J&amp;rsquo;ajoute cette vérif en loguant bien les erreurs et je relance le bouzin.&lt;/p&gt;
+
+&lt;p&gt;Après cinq heures à mouliner&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;1&#34; rel=&#34;footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; c&amp;rsquo;est au tour de MariaDB de se plaindre : &lt;code&gt;General error: 2006 MySQL server has gone away&lt;/code&gt; Parce que oui, le timeout il est par défaut à 300 secondes. Donc on ouvre la connexion et cinq heures plus tard il y a plus personne au bout du fil. Nouvel essai.&lt;/p&gt;
+
+&lt;p&gt;Après 6 heures, les logs s&amp;rsquo;arrêtent de défiler (j&amp;rsquo;ai rajouté le log du chemin de chaque fichier déchiffré histoire de voir quand ça s&amp;rsquo;arrête parce que sinon c&amp;rsquo;est le noir complet) et comme il n&amp;rsquo;y a pas d&amp;rsquo;erreur je commence à me dire que ça y est, peut-être mes galères sont terminées. Je me connecte donc à l&amp;rsquo;interface web pour voir et… « &lt;em&gt;Le chiffrement était désactivé mais vos fichiers sont toujours chiffrés. Veuillez vous rendre sur vos Paramètres personnels pour déchiffrer vos fichiers.&lt;/em&gt; » cette cochonnerie de message est toujours là. MAIS IL Y A PAS D&amp;rsquo;ERREUR ! APACHE SE TOURNE LES POUCES !&lt;/p&gt;
+
+&lt;p&gt;Évidemment après vérification, une grande partie de mes fichiers est toujours chiffrée, j&amp;rsquo;ai beau relancer leur script de merde ça ne change absolument rien et le client de synchro râle toujours qu&amp;rsquo;il n&amp;rsquo;a pas pu synchroniser * fichiers en raison d&amp;rsquo;une erreur inattendue sur le serveur.&lt;/p&gt;
+
+&lt;p&gt;Bref, je suis bon pour tout supprimer et tout renvoyer. Ce qui avec mon accès ADSL va prendre environ… 130 heures à vitesse maxi. (&amp;#12494;&amp;#3232;&amp;#30410;&amp;#3232;)&amp;#12494;&lt;/p&gt;
+
+&lt;p&gt;N&amp;rsquo;activez pas le module de chiffrement d&amp;rsquo;ownButt. Sauf si vous voulez vous prendre la tête pour rien.&lt;/p&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&#34;fn:1&#34;&gt;
+J&#39;ai 7Go de données, je veux bien que ça prenne du temps, mais c&#39;est rageant quand ça plante pour des conneries…&amp;#160;&lt;a href=&#34;1&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un troll ? Ou pas un troll ? Différentes lectures d&#39;une capture des Simpsons</title>
+      <link>https://aldarone.fr/un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/un-troll-ou-pas-un-troll-differentes-lectures-dune-capture-des-simpsons</guid>
+      <description>&lt;p&gt;Cette après-midi je suis tombé sur un partage trollesque d&amp;rsquo;un gros malin qui voulait se payer une bonne tranche de rigolade au détriment de ces imbéciles de féministes qui prennent la tête (cliquez sur la miniature pour le lire en entier) :&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1537&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;193&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2014/10/1jxCprf.jpg&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/10/1jxCprf-193x300-1412615085.jpg&#34; alt=&#34;L&amp;#039;homme et la femme sont égaux...ou pas...enfin si !&#34; width=&#34;193&#34; height=&#34;300&#34; class=&#34;size-medium wp-image-1537&#34; /&gt;&lt;/a&gt; L&amp;rsquo;homme et la femme sont égaux&amp;hellip;ou pas&amp;hellip;enfin si ![/caption]&lt;/p&gt;
+
+&lt;p&gt;Ce truc est « intéressant » à plusieurs égards.&lt;/p&gt;
+
+&lt;p&gt;D&amp;rsquo;abord parce qu&amp;rsquo;il est partagé par des gens qui généralement s&amp;rsquo;érigent contre « &lt;em&gt;la dictature de la pensée unique&lt;/em&gt; » et qui soudain, devant des femmes qui émettent des opinions à l&amp;rsquo;évidence contradictoires, sont tellement troublés qu&amp;rsquo;ils ne peuvent plus répondre que « Lol, ces connasses arrivent même pas à être d&amp;rsquo;accord. » et que ça me fait doucement ricaner.&lt;/p&gt;
+
+&lt;p&gt;Ensuite parce qu&amp;rsquo;il enchaîne des arguments pouvant être vus différemment selon le contexte où ils sont énoncés.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1544&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;196&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/10/Simpsons-1ereCase-2-196x300.jpg&#34; alt=&#34;- Hommes, femmes, c&amp;#039;est la même chose. - Êtes-vous en train de dire que les hommes et les femmes sont identiques ?&#34; width=&#34;196&#34; height=&#34;300&#34; class=&#34;size-medium wp-image-1544&#34; /&gt; - Hommes, femmes, c&amp;rsquo;est la même chose.&lt;br /&gt;- Êtes-vous en train de dire que les hommes et les femmes sont identiques ?[/caption]&lt;/p&gt;
+
+&lt;p&gt;Quand cette phrase provient d&amp;rsquo;une personne identifiée comme féministe, il est évident qu&amp;rsquo;on se place dans un contexte militant énonçant les choses comme elles devraient être (selon le point de vue de la personne.)&lt;/p&gt;
+
+&lt;p&gt;Mais elle peut aussi être prononcé par quelqu&amp;rsquo;un de non engagé, éventuellement plein de bonne volonté qui considère que l&amp;rsquo;égalité est d&amp;rsquo;ors et déjà acquise.&lt;/p&gt;
+
+&lt;p&gt;On appelle ça être &lt;strong&gt;gender-blind&lt;/strong&gt; et il existe un équivalent raciste : &lt;strong&gt;color-blind&lt;/strong&gt;. Ce sont ces gens qui refusent de voir les inégalités et les discrimination et s&#39;en justifient par le fait que EUX, personnellement, traitent tout le monde sur un pied d&#39;égalité.
+Par conséquent, il serait formellement impossible qu&#39;ils puissent bénéficier du moindre privilège ou qu&#39;ils puissent être sexistes ou racistes.&lt;/p&gt;
+
+&lt;p&gt;Alors que non seulement leur comportement individuel importe peu quand on parle de systèmes oppressif (et très souvent ce comportement n&amp;rsquo;est même pas remis en cause), mais en plus, à moins de vivre dans une bulle isolée il est absolument impossible de ne pas prendre part à de tels systèmes.&lt;/p&gt;
+
+&lt;p&gt;Réduire les problèmes systémiques à un problème de personnes est un moyen facile des les faire disparaître sous le tapis. On appelle ça la dépolitisation et, si c&amp;rsquo;est malheureusement une des pratiques courante chez celles et ceux qui ne luttent pas pour l&amp;rsquo;égalité, elle est encore plus présente chez celles et ceux qui luttent CONTRE.&lt;/p&gt;
+
+&lt;p&gt;Dans ce cas, c&amp;rsquo;est là que les féministes arrivent et expliquent que la situation est loin d&amp;rsquo;être égalitaire, qu&amp;rsquo;il existe des différences entre les hommes et les femmes comme par exemple dans le partage inégal des tâches ménagères, la valorisation inégales entre les activités traditionnellement dévouées aux hommes ou aux femmes, ou encore dans les différences de salaire à poste et compétences équivalentes.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est là aussi que des gens comme (par exemple) les anti-gender de la manif pour tous arrivent (mais ils ne sont pas les seuls) et protestent puisque selon eux les hommes et les femmes étant biologiquement différents, il est donc naturel que les unes soient traitées différemment des autres. Ils en profitent au passage pour passer sous silence que &lt;a href=&#34;http://uneheuredepeine.blogspot.fr/2013/06/lexperience-de-la-boite.html&#34;&gt;ce qui est « naturel » n&amp;rsquo;est pas si évident et intuitif à définir que ça&lt;/a&gt; mais aussi &lt;a href=&#34;http://sexes.blogs.liberation.fr/agnes_giard/2014/07/les-enfants-sauvages-sont-ils-capables-de-se-reproduire-.html&#34;&gt;que nos comportements et nos actes sont très largement influencés par notre culture&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1545&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;197&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/10/Simpsons-UniqueWomen-2-197x300.jpg&#34; alt=&#34;- Les femmes sont uniques dans tous les sens du terme. - Et maintenant il dit que les hommes et les femmes ne sont pas égales !&#34; width=&#34;197&#34; height=&#34;300&#34; class=&#34;size-medium wp-image-1545&#34; /&gt; - Les femmes sont uniques dans tous les sens du terme.&lt;br /&gt;- Et maintenant il dit que les hommes et les femmes ne sont pas égales ![/caption]&lt;/p&gt;
+
+&lt;p&gt;On peut retrouver ce point de vue dans « Women are unique in every way » puisque si les femmes sont uniques mais ont toujours pour point commun d&amp;rsquo;être des femmes, elles sont bien à traiter différemment (on peut même y voir le sexisme bienveillant du galant homme qui traite chaque femme de manière exceptionnelle.) D&amp;rsquo;où la protestation : « Now he&amp;rsquo;s saying women and men aren&amp;rsquo;t equal. »&lt;/p&gt;
+
+&lt;p&gt;Mais en même temps, rappeler que les femmes sont chacune uniques et ne peuvent pas se cantonner à ce que la société voudrait leur imposer c&amp;rsquo;est aussi et surtout ce que disent les « social justice warriors », en généralisant aussi aux hommes, puisque selon nous, chaque unique individu a ses réactions, ses envies, ses préférences propres et il serait beaucoup plus intéressant de vivre dans une société où on ne force pas les gens à rentrer dans un moule qu&amp;rsquo;ils n&amp;rsquo;ont pas choisis pour mieux les exploiter.&lt;/p&gt;
+
+&lt;p&gt;Bref, ce petit extrait des Simpsons montre bien que contrairement à ce que certaines personnes aiment bien ânonner ad nauseam (« Moi je regarde les idées, pas les personnes. ») une même phrase peut vouloir dire tout et son contraire selon les intentions de son auteur.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le support de Windows XP est fini, passer à GNU/Linux réclame un accompagnement</title>
+      <link>https://aldarone.fr/le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement</link>
+      <pubDate>Sat, 05 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/le-support-de-windows-xp-est-fini-passer-a-gnulinux-reclame-un-accompagnement</guid>
+      <description>&lt;p&gt;Le support de Windows XP arrive à son terme dans 3 jours. Après 13 ans, un support étendu de 5 ans, il va enfin entrer dans les archives de l&amp;rsquo;histoire et on en parlera plus. (En fait pas vraiment, la quasi-totalité du parc de distributeurs bancaire est sous XP et les banques n&amp;rsquo;ont pas assez d&amp;rsquo;argent &amp;ndash; lol &amp;mdash; pour le renouveler, donc Microsoft a annoncé qu&amp;rsquo;il développerait des patchs payant sur mesure.)&lt;/p&gt;
+
+&lt;p&gt;Depuis quelques jours, les personnes qui ont encore ce système d&amp;rsquo;exploitation voient s&amp;rsquo;afficher un message leur annonçant la nouvelle et les redirigeant vers une page de la boutique de Microsoft.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/04/fin-support-windows-xp-1.png&#34; alt=&#34;fin-support-windows-xp-1&#34; width=&#34;345&#34; height=&#34;152&#34; class=&#34;aligncenter size-full wp-image-1500&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ces personnes se tournent donc vers leur proche « qui s&amp;rsquo;y connait® » pour lui demander conseil. Pour peu que ce proche soit un libriste, il y a de grandes chance pour que la réponse ressemble un peu à ceci :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Si tu es prêt à faire quelques efforts, je te conseille de passer à Linux.
+
+  Windows est mal pensé et lourd. Il y a aussi plein de failles d&#39;où la nécessité d&#39;installer des antivirus et des anti-malwares etc.
+
+  De toute façon ce qu&#39;il y a de mieux c&#39;est Linux parce que le code est ouvert, ça veut dire qu&#39;on peut aller voir ce qui se passe dedans et le modifier si il nous convient pas. C&#39;est formidable ! Microsoft et Apple sont méchants, leur code est fermé, on sait pas ce qu&#39;ils font, d&#39;ailleurs la NSA a sûrement des porte dérobé pour prendre le contrôle de ton ordinateur, avec les logiciels libre c&#39;est pas possible de faire ça.
+
+  Il y a 4-5 ans Linux c&#39;était compliqué mais plus maintenant&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; rel=&#34;footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, il y a des interfaces graphiques pour tout. Et tout les logiciels de base dont on a besoin sont installés. Et pour en installer de nouveau c&#39;est très simple. En plus l&#39;installation est signée pour être bien sûr qu&#39;on installe la bonne version et pas une version modifiée par quelqu&#39;un de malveillant.
+
+  J&#39;ai passé ma grand-mère à Linux il y a 3 ans&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; rel=&#34;footnote&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; et elle en est très contente. Bref, Linux c&#39;est cool.
+
+  Par contre, je n&#39;assure pas le support technique :P
+&lt;/blockquote&gt;
+
+&lt;p&gt;Objectivement, on a raison quand on dit ce genre de chose. Mais on rate complètement notre cible. Pourquoi ?&lt;/p&gt;
+
+&lt;p&gt;Le problème avec ce discours, c&amp;rsquo;est qu&amp;rsquo;il est complètement idéologique. Pas étonnant qu&amp;rsquo;il passe à mille lieues au dessus de la tête de notre auditoire.&lt;/p&gt;
+
+&lt;p&gt;On est face à quelqu&amp;rsquo;un qui est inquiet de l&amp;rsquo;avenir de son vieux PC de 10ans, qui est resté sous XP par peur du changement parce qu&amp;rsquo;à l&amp;rsquo;époque de Vista tout le monde lui disait que Vista c&amp;rsquo;était nul. Ensuite, confortable sur son XP qui marchait très bien, ille est passé à côté de 7. Maintenant que 8 est sorti, tout le monde lui dit que 8 c&amp;rsquo;est nul[^3].&lt;/p&gt;
+
+&lt;p&gt;Et nous en face on débarque avec nos grandes théories sur le logiciel libre, la sécurité offerte par l&amp;rsquo;open-source, l&amp;rsquo;éthique, la merveilleuse communauté prête à aider son prochain. Le résultat, c&amp;rsquo;est qu&amp;rsquo;on a l&amp;rsquo;air de ça :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6xvv0UGtQHg&#34;&gt;https://www.youtube.com/watch?v=6xvv0UGtQHg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alors qu&amp;rsquo;au fond de nous, on sait très bien qu&amp;rsquo;une transition vers GNU/Linux c&amp;rsquo;est pas aussi simple que ça. La preuve, on commence par commence par « &lt;em&gt;Si tu es prêt à faire quelques efforts&lt;/em&gt; » et on termine par « &lt;em&gt;Par contre, je n&amp;rsquo;assure pas le support technique :P&lt;/em&gt; » qui sonne comme un « &lt;em&gt;T&amp;rsquo;es très con d&amp;rsquo;utiliser Windows, mais si tu veux passer à Linux, tu te démerdes hein.&lt;/em&gt; »&lt;/p&gt;
+
+&lt;p&gt;On sait très bien que parfois, ce foutu &lt;code&gt;update-manager&lt;/code&gt; va planter sans raison. Que le PC va se mettre en veille mais OUPS, c&amp;rsquo;est une carte graphique AMD et on a installé &lt;code&gt;catalyst&lt;/code&gt; parce que &lt;code&gt;radeon&lt;/code&gt; a des perfs ridicules sur ce GPU donc il va freezer au démarrage. Qu&amp;rsquo;il va y avoir une mise à jour de xserver-xorg un peu foireuse et que tout ce que le PC affichera au prochain reboot c&amp;rsquo;est :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Ubuntu 13.10 (tty1)
+login: _
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Et que fatalement, on aura un coup de fil affolé : « &lt;em&gt;Mon PC il marche plus, j&amp;rsquo;ai rien fait, Linux c&amp;rsquo;est de la merde&lt;/em&gt; »&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/04/gollum-scream.gif&#34; alt=&#34;gollum-scream&#34; width=&#34;500&#34; height=&#34;208&#34; class=&#34;aligncenter size-full wp-image-1506&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On voudrait que les gens soient aussi passionnés d&amp;rsquo;informatique que nous et acceptent de passer 2 heures à chercher dans des wikis comment installer cette fichue imprimante multifonction en wifi. Mais ils le sont pas. Et ils le seront jamais.&lt;/p&gt;
+
+&lt;h2&gt;Mais alors, tout est perdu ?&lt;/h2&gt;
+
+&lt;p&gt;Non, tout n&amp;rsquo;est pas perdu. Le saut entre XP et 8 est à peu près aussi énorme &amp;ndash; sinon plus &amp;ndash; que le saut entre XP et n&amp;rsquo;importe quel dérivé d&amp;rsquo;Ubuntu. Et il nous faut sauter sur cette occasion.&lt;/p&gt;
+
+&lt;p&gt;Est-ce que nous préférons voir nos proches nous demander de l&amp;rsquo;aide parce qu&amp;rsquo;ils ont un peu de mal à utiliser GNU/Linux ou est-ce que nous préférons les voir entrer à la FNAC pour renouveler leur PC de bureau et en sortir avec un portable surdimensionné, une licence OEM de Windows 8 pleine de crapwares et un SecureBoot impossible à désactiver ?&lt;/p&gt;
+
+&lt;p&gt;De toute façon il vont pester et galérer parce qu&amp;rsquo;ils ont perdus leurs marques et que cette fichue interface fait pas ce qu&amp;rsquo;ils attendent. Autant qu&amp;rsquo;ils le fasse sur un système qui leur donnera le goût de la liberté.&lt;/p&gt;
+
+&lt;p&gt;Pour ça, il faut prendre nos responsabilités et assurer un vrai accompagnement derrière.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Oui, ça va être dur. Oui, tu vas perdre tes marques et t&#39;auras l&#39;impression de repartir de zéro. Mais ça arrivera aussi avec ce nouveau Windows. Et si tu prends GNU/Linux, je serais là pour te filer un coup de main quand tu en auras besoin.
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/04/independance.gif&#34; alt=&#34;independance&#34; width=&#34;500&#34; height=&#34;203&#34; class=&#34;aligncenter size-full wp-image-1508&#34; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Étape par étape&lt;/h2&gt;
+
+&lt;p&gt;Premièrement, il faut établir la liste des besoins et des particularités du matériel. L&amp;rsquo;imprimante est compatible ? (oui, elle l&amp;rsquo;est) Est-ce que le pilote est facile à installer ? Est-ce que ce logiciel obscur qui n&amp;rsquo;a pas d&amp;rsquo;équivalent fonctionne avec WINE ou &lt;code&gt;mono&lt;/code&gt; ? Bref, là dessus on est rôdé c&amp;rsquo;est du classique.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, il faut lever cette impression de voyage sans retour. C&amp;rsquo;est à dire ne PAS installer de dual-boot de but en blanc.&lt;/p&gt;
+
+&lt;p&gt;Installer une dérivée d&amp;rsquo;Ubuntu sur le PC, déjà ça prend une petite demi-heure, une heure avec les mises à jour si on est ni en Avril ni en Octobre, on peut rajouter le redimensionnement de partition (et donc la sauvegarde des données au cas où) etc. Ça fait peur à la personne qui assiste à ça et qui, à la fin, comprend pas pourquoi son PC a démarré tout seul sur Ubuntu alors qu&amp;rsquo;il fallait booter Windows&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; rel=&#34;footnote&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/04/barney-why.gif&#34; alt=&#34;barney-why&#34; width=&#34;360&#34; height=&#34;306&#34; class=&#34;aligncenter size-full wp-image-1513&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Heureusement, on peut facilement installer un GNU/Linux sur une clé USB, non pas comme LiveUSB mais comme système complet et persistant :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  Tiens, quand t&#39;as besoin de faire un truc précis tu démarres ton PC normalement pour pas être perdu. Et quand tu veux juste glandouiller, surfer un peu, tu mets cette clé avant d&#39;allumer ton PC comme ça tu t&#39;habitues doucement. Et quand t&#39;en aura marre de Windows, tu viens me voir et on fera ce qu&#39;il faut.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Démarrer GNU/Linux devient aussi simple et indolore que d&amp;rsquo;&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2014/04/4d-usb.jpg&#34;&gt;insérer une clé USB dans un port&lt;/a&gt; et l&amp;rsquo;utilisateur/rice est rassuré⋅e parce que son disque dur est intact.&lt;/p&gt;
+
+&lt;p&gt;Pour finir, il faut rester disponible et à l&amp;rsquo;écoute. On vous fait déjà le plaisir de mettre cette foutue clé de temps en temps, s&amp;rsquo;il faut attendre 3 jours pour avoir du support ou se faire envoyer chier, elle va vite finir aux oubliettes.&lt;/p&gt;
+
+&lt;p&gt;Et comme convertir quelqu&amp;rsquo;un ça prend du temps, je déconseille de s&amp;rsquo;amuser à migrer 15 gus à la fois sous peine d&amp;rsquo;être rapidement débordé⋅e. Ne mettons pas la charrue avant les bœufs, une personne satisfaite c&amp;rsquo;est déjà pas mal (et bien assez de boulot.)&lt;/p&gt;
+
+&lt;p&gt;Bref, peut-être que si on arrive à dépasser nos réactions viscérales de « Windows c&amp;rsquo;est caca » et à remettre notre discours au niveau des besoins plutôt que de rester dans l&amp;rsquo;idéologie nébuleuse pour le/la néophyte, on arrivera à faire monter ce fichu taux d&amp;rsquo;utilisation &lt;a href=&#34;https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers&#34;&gt;qui stagne à 1.5% depuis bien trop longtemps&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&#34;fn:1&#34;&gt;
+Ça va faire à peu près 10 ans que Linux était compliqué il y a 4-5 ans.&amp;#160;&lt;a href=&#34;#fnref:1&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:2&#34;&gt;
+Ça fait 5 ans que j&#39;ai passé ma grand-mère à Linux il y a 3 ans.&amp;#160;&lt;a href=&#34;#fnref:2&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:4&#34;&gt;
+Allumer le PC, aller faire un tour, oublier le timeout grub. &lt;em&gt;Oups&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un peu d&#39;intimité dans votre téléphone</title>
+      <link>https://aldarone.fr/un-peu-dintimite-dans-votre-telephone</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/un-peu-dintimite-dans-votre-telephone</guid>
+      <description>&lt;p&gt;En ces temps troublés de surveillance généralisée, les écoutes de la NSA, le scandale Amesys il ne fait plus aucun doute que tout ce qu&amp;rsquo;on dit ou écrit en clair sur Internet est enregistré et sera utilisé contre nous.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1454&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;200&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/team_fortress_2_wallpaper_happy_spy_by_dunkmovies-d5rg9xh-200x125.jpg&#34; alt=&#34;« La curiosité c&amp;#039;est mon péché mignon »&#34; width=&#34;200&#34; height=&#34;125&#34; class=&#34;size-quarter wp-image-1454&#34; /&gt; « La curiosité c&amp;rsquo;est mon péché mignon »[/caption]&lt;/p&gt;
+
+&lt;p&gt;Et si vous pensez n&amp;rsquo;avoir rien à cacher, vous ne pourriez être plus dans l&amp;rsquo;erreur. Seriez-vous prêt⋅es, par exemple, à m&amp;rsquo;envoyer une copie de vos mails ? À me laisser lire vos SMS ou vos messages facebook ? Voire à me laisser installer de quoi en rediriger systématiquement une copie chez moi pour que cette consultation ne soit plus ponctuelle mais systématique et automatique ?&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;en doute, alors pourquoi accepter que d&amp;rsquo;autres le fassent sans vous en demander la permission ?&lt;/p&gt;
+
+&lt;p&gt;Le plus souvent, c&amp;rsquo;est parce que la cryptographie fait peur. C&amp;rsquo;est des maths compliquées, il y a plein de gens qui vous disent qu&amp;rsquo;on est de toute façon jamais protégés à 100% et ça utilise des concepts hyper obscurs.&lt;/p&gt;
+
+&lt;p&gt;Si vous vous êtes déjà retrouvé face à quelqu&amp;rsquo;un qui tente de vous expliquer le besoin de chiffrement en décrivant dans le détail un échange de clé Diffie-Hellman, vous savez sûrement qu&amp;rsquo;on en ressort avec le cerveau en bouillie et l&amp;rsquo;impression que c&amp;rsquo;est se donner beaucoup de mal pour que la NSA ne sache pas que vous aurez un quart d&amp;rsquo;heure de retard en rentrant du boulot.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est pour ça que je vais tenter de procéder autrement en présentant quelques exemples de solutions simples à mettre en place sur votre ordiphone pour que vos communications gagnent un peu en confidentialité.&lt;/p&gt;
+
+&lt;p&gt;Parce qu&amp;rsquo;il faut bien l&amp;rsquo;avouer, pour l&amp;rsquo;instant, passer un appel c&amp;rsquo;est comme crier dans la rue en espérant que personne d&amp;rsquo;autre que votre correspondant n&amp;rsquo;écoute et envoyer un sms ou un mms, c&amp;rsquo;est brandir une pancarte en espérant que personne d&amp;rsquo;autre ne regarde.&lt;/p&gt;
+
+&lt;p&gt;Ces solutions sont toutes &lt;strong&gt;libres&lt;/strong&gt;, c&amp;rsquo;est à dire que le code source des logiciels et les protocoles de sécurité sont publics afin que toutes celles et ceux qui le veulent et qui le peuvent puissent vérifier qu&amp;rsquo;il n&amp;rsquo;y a pas anguille sous roche. Ce n&amp;rsquo;est pas un gage d&amp;rsquo;infaillibilité, mais c&amp;rsquo;est un gage de confiance puisque c&amp;rsquo;est le seul moyen d&amp;rsquo;être sûr qu&amp;rsquo;aucune action malveillante ne sera entreprise volontairement par le logiciel et ses développeurs.&lt;/p&gt;
+
+&lt;p&gt;En revanche, elles ne sont pas anonymisantes. Un observateur sera &lt;strong&gt;&lt;em&gt;capable de voir avec qui&lt;/em&gt;&lt;/strong&gt; vous discutez, mais il lui sera tout de même &lt;strong&gt;&lt;em&gt;impossible de savoir de quoi&lt;/em&gt;&lt;/strong&gt; vous discutez.&lt;/p&gt;
+
+&lt;h2&gt;Pour sécuriser ses appels : RedPhone&lt;/h2&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1458&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681-300x146.jpg&#34; alt=&#34;RedPhone, la sécurité simplifiée.&#34; width=&#34;300&#34; height=&#34;146&#34; class=&#34;size-medium wp-image-1458&#34; /&gt; RedPhone, la sécurité simplifiée.[/caption]&lt;/p&gt;
+
+&lt;p&gt;RedPhone est une solution libre de VoIP chiffrée. Concrètement, ça veut dire que vous allez passer des appels qui passeront par la 3G (et seront comptés dans votre consommation « data ») ou WiFi au lieu d&amp;rsquo;être décomptés de votre forfait voix et que le flux audio sera chiffré pour que seul votre correspondant puisse entendre ce que vous dites.&lt;/p&gt;
+
+&lt;p&gt;Son utilisation est enfantine : Une fois que vous avez &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&#34;&gt;téléchargé et installé RedPhone&lt;/a&gt;, le logiciel va vous demander votre numéro de téléphone et va vous envoyer un SMS de confirmation qu&amp;rsquo;il récupèrera automatiquement. Voila, vous êtes prêt.&lt;/p&gt;
+
+&lt;p&gt;À partir de maintenant, quand vous voudrez passer un appel sécurisé, lancez RedPhone, choisissez un contact. Si il utilise RedPhone, l&amp;rsquo;appel sera chiffré, si il n&amp;rsquo;utilise pas RedPhone vous pourrez lui envoyer un message lui demandant de l&amp;rsquo;installer.&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;rectangular&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1460,1459,1461&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note technique :&lt;/strong&gt; Vous avez peut-être froncé les sourcils, à raison, au moment de lui indiquer votre numéro de téléphone. C&amp;rsquo;est nécessaire pour établir l&amp;rsquo;annuaire des numéros disponibles sur RedPhone et savoir facilement si votre correspondant peut recevoir les appels et c&amp;rsquo;est également la solution la plus fiable pour répondre à une contrainte technique appelée « NAT Traversal. »&lt;/p&gt;
+
+&lt;p&gt;En effet, quand vous utilisez votre smartphone, vous êtes probablement en WiFi derrière une box, ou dans le réseau privé de votre opérateur mobile, bref vous n&amp;rsquo;avez pas un accès &lt;em&gt;direct&lt;/em&gt; à internet. Et dans ce cas, il est très compliqué d&amp;rsquo;établir une connexion avec un tiers situé lui aussi derrière une box ou dans un réseau privé sans passer par un intermédiaire. Toutefois, dans le cas de RedPhone, cet intermédiaire ne sert que de relais et ne peut pas écouter la conversation.&lt;/p&gt;
+
+&lt;h2&gt;Sécuriser ses messages&lt;/h2&gt;
+
+&lt;p&gt;Nous avons vu à quel point il était aisé de passer des appels sécurisés, maintenant voyons comment échanger des messages et des documents. Vous verrez, c&amp;rsquo;est tout aussi simple.&lt;/p&gt;
+
+&lt;h3&gt;La sécurité sans concession : TextSecure&lt;/h3&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1464&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/textsecure-300x146.jpg&#34; alt=&#34;TextSecure, la sécurité simplifiée&#34; width=&#34;300&#34; height=&#34;146&#34; class=&#34;size-medium wp-image-1464&#34; /&gt; TextSecure, la sécurité simplifiée[/caption]&lt;/p&gt;
+
+&lt;p&gt;TextSecure est une solution libre d&amp;rsquo;envoi de SMS chiffrés. Concrètement, cela veut dire que vous allez envoyer des SMS chiffrés qui seront traités comme n&amp;rsquo;importe quel SMS par votre opérateur et qui seront déchiffrés sur le téléphone de votre correspondant⋅e. Depuis la version 2 il est également possible de passer par les serveurs de TextSecure (qui ont le même rôle que ceux de RedPhone) afin que votre opérateur soit dans l&amp;rsquo;incapacité de savoir avec qui vous communiquez.&lt;/p&gt;
+
+&lt;p&gt;Si vous avez une impression de déjà vu, c&amp;rsquo;est normal, elle est développée par la même communauté que RedPhone.&lt;/p&gt;
+
+&lt;p&gt;À l&amp;rsquo;utilisation, c&amp;rsquo;est tout aussi enfantin. L&amp;rsquo;application se présente comme une application de SMS classique. Elle est d&amp;rsquo;ailleurs en passe de devenir l&amp;rsquo;application SMS par défaut de la célèbre ROM pour Android : « Cyanogen »&lt;/p&gt;
+
+&lt;p&gt;Après avoir &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&#34;&gt;téléchargé et installé TextSecure&lt;/a&gt; l&amp;rsquo;application vous demandera si vous souhaitez créer un mot de passe pour protéger vos messages au cas où votre téléphone tomberai entre de mauvaises mains, puis elle vous demandera si il faut importer les SMS déjà existants dans le téléphone vers sa propre base. L&amp;rsquo;intérêt de cette opération étant que vos SMS se retrouvent chiffrés sur votre téléphone et que pour les lire il faudra entrer le mot de passe créé précédemment.&lt;/p&gt;
+
+&lt;p&gt;Vous pourrez tout de même réaliser un export chiffré ou en clair de la base de messages en guise de sauvegarde.&lt;/p&gt;
+
+&lt;p&gt;À partir de maintenant, si vos contacts utilisent eux aussi TextSecure, l&amp;rsquo;application vous proposera de chiffrer vos échanges. Cela se matérialise par un premier échange de clé (celui dont l&amp;rsquo;explication technique donne mal à la tête) automatique puis les SMS seront chiffrés automatiquement sans autre action nécessaire de votre part et sans aucun intermédiaire impliqué.&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;rectangular&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1470,1466,1467,1468,1469&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;Notez tout de même que si vous créer un mot de passe au démarrage de l&amp;rsquo;application et que vous même l&amp;rsquo;oubliez, il vous sera impossible de lire les messages présents dans la base, ils seront alors perdus à jamais. Vous devrez supprimer l&amp;rsquo;application et la réinstaller pour pouvoir régénérer un nouveau mot de passe et recommencer avec une base vide.&lt;/p&gt;
+
+&lt;h3&gt;La sécurité pratique : Telegram&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/Telegram.png&#34; alt=&#34;Telegram&#34; width=&#34;300&#34; height=&#34;300&#34; class=&#34;alignright size-full wp-image-1472&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans la première édition de cet article, je présentais Telegram comme une alternative moins sécurisée mais plus pratique à TextSecure, toutefois depuis la sortie de TextSecure V2 il n&amp;rsquo;y a plus davantage à utiliser Telegram puisque l&amp;rsquo;écart de fonctionnalité est inexistant et la sécurité est bien meilleure.&lt;/p&gt;
+
+&lt;h2&gt;Simple comme bonjour&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift-150x150.jpg&#34; alt=&#34;Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift&#34; width=&#34;150&#34; height=&#34;150&#34; class=&#34;alignleft size-thumbnail wp-image-1480&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Après de longues années où le besoin de confidentialité croissait et où les solutions pour en profiter à un niveau suffisant étaient particulièrement rebutantes, nous voyons à présent arriver de nouvelles applications qui s&amp;rsquo;installent en un clic et sont aussi simple d&amp;rsquo;utilisation et pratique que n&amp;rsquo;importe quelle autre application non sécurisée.&lt;/p&gt;
+
+&lt;p&gt;Il ne vous reste plus qu&amp;rsquo;à sauter le pas.&lt;/p&gt;
+
+&lt;h2&gt;Diffie-Hellman&lt;/h2&gt;
+
+&lt;p&gt;Et comme je ne peux décemment pas vous laisser comme ça en évoquant Diffie-Hellman tout le long de l&amp;rsquo;article ainsi que les maux de tête qu&amp;rsquo;il engendre chez les personnes qui ont des boutons dès qu&amp;rsquo;ils entendent « Arithmétique » voila une petite vidéo en anglais qui vulgarise ce fameux échange de clés en utilisant des couleurs, de la peinture, une corde et une horloge.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3QnD2c4Xovk&#34;&gt;https://www.youtube.com/watch?v=3QnD2c4Xovk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le nouvel album d&#39;Arcade Fire et Youtube</title>
+      <link>https://aldarone.fr/le-nouvel-album-darcade-fire-et-youtube</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/le-nouvel-album-darcade-fire-et-youtube</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est tellement ridiculement pathétique que mes côtes me font encore mal à force d&amp;rsquo;hilarité. Voyez donc :&lt;/p&gt;
+
+&lt;p&gt;Le groupe Arcade Fire sort prochainement un nouvel album nommé Reflektor, pour en faire la promo, ils l&amp;rsquo;ont envoyé dans son intégralité sur Youtube avec leur compte officiel :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=CBjqUEMlHTY&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/10/2013Reflektor2_Instargram_060813.jpg&#34; alt=&#34;2013Reflektor2_Instargram_060813&#34; width=&#34;552&#34; height=&#34;368&#34; class=&#34;aligncenter size-full wp-image-1440&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rien ne vous choque ?&lt;/p&gt;
+
+&lt;p&gt;Et oui ! Il n&amp;rsquo;y a pas de son ! Pourtant en lisant les commentaires on voit des gens s&amp;rsquo;étonner, visiblement la vidéo était bien sonorisée au moment de sa publication. Mais alors pourquoi ?&lt;/p&gt;
+
+&lt;p&gt;La réponse est très simple et tient en un mot : « Ayant-droits »&lt;/p&gt;
+
+&lt;p&gt;En effet, Youtube permet aux maisons de disques de lui fournir des signatures de bandes sons que les gens n&amp;rsquo;ont pas le droit d&amp;rsquo;utiliser dans leurs vidéos. Cette signature s&amp;rsquo;appelle Content-ID. Chaque vidéo est donc automatiquement analysée et si quelqu&amp;rsquo;un a le malheur d&amp;rsquo;utiliser une bande son « protégée » par la couleuvre qu&amp;rsquo;on essaye de nous faire prendre pour le droit d&amp;rsquo;auteur, &lt;a href=&#34;https://support.google.com/youtube/answer/2797370?hl=en&amp;amp;ref_topic=2778545&#34;&gt;la vidéo se retrouve simplement insonorisée&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour les majors et pour Youtube qui rampe à leurs pieds, les membres d&amp;rsquo;Arcade Fire n&amp;rsquo;ont visiblement pas le droit de disposer de leurs œuvres comme ils l&amp;rsquo;entendent. Ils en sont dépossédés.&lt;/p&gt;
+
+&lt;p&gt;Bien joués messieurs du copyright, vous êtes sur la bonne voie, c&amp;rsquo;est sûr.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>« Si on mettait des meufs dans nos jeux vidéos ? »</title>
+      <link>https://aldarone.fr/si-on-mettait-des-meufs-dans-nos-jeux-videos</link>
+      <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/si-on-mettait-des-meufs-dans-nos-jeux-videos</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est une bonne idée ça non ? Mettre des meufs dans un jeu. Ça devrait faire plaisir à tout le monde. Les joueurs ils vont kiffer de pouvoir mater et les gonzesses elles vont pouvoir s&amp;rsquo;identifier plus facilement. En plus comme ça, les féministes peuvent pas dire qu&amp;rsquo;il est que pour les mecs et que les créateurs sont des connard sexistes.&lt;/p&gt;
+
+&lt;h2&gt;Sauf qu&#39;en vrai ça marche pas vraiment comme ça&lt;/h2&gt;
+
+&lt;p&gt;En effet, si il suffisait de rajouter un personnage féminin dans un jeu pour le rendre irréprochable, on serait en droit de se croire au pays des bisounours et les féministes pourraient simplement se détendre en allumant leur console et profiter paisiblement de cette incroyable bulle sans sexisme.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1358&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/Soap-Bubble-Pop.gif&#34; alt=&#34;Zone sans sexisme explosant suite à l&amp;#039;intrusion du premier individu venu&#34; width=&#34;500&#34; height=&#34;275&#34; class=&#34;size-full wp-image-1358&#34; /&gt; Zone sans sexisme explosant suite à l&amp;rsquo;intrusion du premier individu venu[/caption]&lt;/p&gt;
+
+&lt;p&gt;Dans la vraie vie justement la partie « &lt;em&gt;Les joueurs ils vont kiffer de pouvoir mater&lt;/em&gt; » est prépondérante et la quasi totalité des personnages féminins dans les jeux vidéo sont là pour être reluqués. L&amp;rsquo;esprit humain est même tellement fort qu&amp;rsquo;il trouve moyen de le faire partout, y compris là où on ne s&amp;rsquo;y attend pas forcément.&lt;/p&gt;
+
+&lt;h2&gt;Rayman et les filles&lt;/h2&gt;
+
+&lt;h3&gt;Rayman 1&lt;/h3&gt;
+
+&lt;p&gt;Il y a fort fort longtemps (dans le 1er opus) il y avait 2 personnages féminins: La fée Bétilla et Space Mama. Deux femmes qui semblaient appartenir à la même espèce que Rayman, à savoir un tronc, une tête, des mains et des pieds mais ni cou, ni bras, ni jambes. Et, cible enfantine oblige, zéro sexualisation.&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;square&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;2&amp;rdquo; ids=&amp;ldquo;1361,1362&amp;rdquo;]&lt;/p&gt;
+
+&lt;h3&gt;Rayman 2&lt;/h3&gt;
+
+&lt;p&gt;Dans le second épisode, les choses diffèrent un peu. Il y a bien de nouveaux personnages féminins: Uglette, la femme de Globox dont le nom rappelle fortement le mot anglais « Ugly » ainsi que Carmen la… baleine.&lt;/p&gt;
+
+&lt;p&gt;Bétilla est absente de cet épisode et est remplacée par Ly, une autre fée qui n&amp;rsquo;a plus grand chose de Rayman-esque, qui se rapproche beaucoup plus d&amp;rsquo;une humaine :&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;square&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;2&amp;rdquo; ids=&amp;ldquo;1364,1365&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;Curieusement, dès qu&amp;rsquo;une relation sentimentale a été envisagée&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; rel=&#34;footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; l&amp;rsquo;ancien design des fées ne convenait plus et il a fallu revenir à quelque chose de moins ambigu. Oui les fées sont des femmes et pas des entités féminines asexuées.&lt;/p&gt;
+
+&lt;h3&gt;Rayman 3&lt;/h3&gt;
+
+&lt;p&gt;Le troisième opus comprend deux personnages féminins. Une Ludiv, un genre de fée, ayant une apparence de toute jeune fille avec un chapeau et la sorcière Bégoniax dont l&amp;rsquo;apparence est très stéréotypée sorcière :&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;square&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;2&amp;rdquo; ids=&amp;ldquo;1367,1368&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;De 1995 à 2003, on observe donc une certaine diversité chez les personnages féminins importants de l&amp;rsquo;univers de Rayman. Toutefois, on voit déjà une tendance à faire en sorte que chacune soit la seule représentante de sa race. Comme si la palette de leurs comportements ne pouvait être représentée que par le biais de différences physiques majeures.&lt;/p&gt;
+
+&lt;p&gt;À contrario, les ptizêtres, ont directement été envisagés comme étant des variations comportementales d&amp;rsquo;une même base:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/TeensiensCA.jpg&#34; alt=&#34;TeensiensCA&#34; width=&#34;309&#34; height=&#34;395&#34; class=&#34;aligncenter size-full wp-image-1369&#34; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Les Rayman suivants&lt;/h3&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1398&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;150&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/betilla_by_blue_ten-d4t60vn-150x200.png&#34; alt=&#34;Tu as beaucoup changé Bétilla…&#34; width=&#34;150&#34; height=&#34;200&#34; class=&#34;size-quarter wp-image-1398&#34; /&gt;&lt;/a&gt; Tu as beaucoup changé Bétilla…[/caption]&lt;/p&gt;
+
+&lt;p&gt;Ce qui nous amène à Rayman Origins et Rayman Legends qui sont les deux opus où la différence de traitement est la plus flagrante.&lt;/p&gt;
+
+&lt;p&gt;Tout d&amp;rsquo;abord, nous voyons apparaître de nouvelles fées. Cependant, loin d&amp;rsquo;être des personnages uniques ayant leur propre personnalité, nous pouvons les résumer à un seul personnage qui change de vêtements.&lt;/p&gt;
+
+&lt;p&gt;Toutes sont emprisonnées, toutes ont le même physique&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; rel=&#34;footnote&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, toutes sont court vêtues&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; rel=&#34;footnote&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, toutes poussent les mêmes gémissements&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; rel=&#34;footnote&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; au moment de leur libération et font le même geste d&amp;rsquo;encouragement en donnant un nouveau pouvoir à Rayman.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est particulièrement flagrant dans la vidéo suivante qui met bout à bout les libérations des Fées :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=GfbPtJ3cKtE&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/Rayman_Origins_Nymphs.png&#34; alt=&#34;Rayman_Origins_Nymphs&#34; width=&#34;639&#34; height=&#34;357&#34; class=&#34;aligncenter size-full wp-image-1371&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Et de ce qu&amp;rsquo;on sait de Rayman Legends, il n&amp;rsquo;y a pas vraiment de quoi se réjouir non plus puisque si nous verrons l&amp;rsquo;introduction d&amp;rsquo;un nouveau personnage féminin jouable&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; rel=&#34;footnote&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; il est lui aussi loin d&amp;rsquo;être idéal : Barbara la barbare&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1373&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;711&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=e8vQOh5sFPI&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/image_rayman_legends-19892-2528_0006.jpg&#34; alt=&#34;Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi.&#34; width=&#34;711&#34; height=&#34;400&#34; class=&#34;size-full wp-image-1373&#34; /&gt;&lt;/a&gt; Une viking balaise qui va tout défoncer avec une hache, cool vous dites ? Moi aussi.
+[/caption]&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_1375&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;189&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/Vikings-Lagertha-189x200.jpg&#34; alt=&#34;Ça c&amp;#039;est une viking. Barbara, c&amp;#039;est ce qu&amp;#039;imagine un développeur de Jeux vidéo qui pense avec ses couilles.&#34; width=&#34;189&#34; height=&#34;200&#34; class=&#34;size-quarter wp-image-1375&#34; /&gt; Ça c&amp;rsquo;est une viking. Barbara, c&amp;rsquo;est ce qu&amp;rsquo;imagine un développeur de Jeux vidéo qui pense avec ses couilles.[/caption]&lt;/p&gt;
+
+&lt;p&gt;Mais en tant que guerrière, pourquoi est-elle aussi court vêtue ?&lt;/p&gt;
+
+&lt;p&gt;Pourquoi avoir accordé une attention toute particulière aux mouvements de ses seins qui manquent de jaillir de son haut ?&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; rel=&#34;footnote&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Pourquoi utilise-t-elle sa hache comme une arme contondante ?&lt;/p&gt;
+
+&lt;p&gt;Et d&amp;rsquo;ailleurs, pourquoi est-elle la seule avec une arme ? Les autres mettent des baffes et des coups de pied, ses bras à elle sont pas assez musclés ?&lt;/p&gt;
+
+&lt;p&gt;D&amp;rsquo;une diversité toute relative jusqu&amp;rsquo;à Rayman 3, on en arrive à plus aucune diversité du tout depuis Rayman Origins.&lt;/p&gt;
+
+&lt;p&gt;Les seuls personnages féminins présent dans Origins et Legends&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; rel=&#34;footnote&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; sont aussi les seuls personnages à forme humaine et leur seul intérêt réside dans le fait qu&amp;rsquo;elles sont bien foutues et que mater des seins ou soulever la jupe des filles hihihi c&amp;rsquo;est trop rigolo alors que les personnages masculins offrent une grande diversité de caractères et d&amp;rsquo;apparence.&lt;/p&gt;
+
+&lt;h2&gt;Super Tux Kart : Quand un jeu libre se fait prendre la main dans le sac&lt;/h2&gt;
+
+&lt;p&gt;Mon second exemple est l&amp;rsquo;alternative libre à Super Mario Kart, le jeu Super Tux Kart.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/SuperTuxKart.jpg&#34; alt=&#34;SuperTuxKart&#34; width=&#34;800&#34; height=&#34;600&#34; class=&#34;aligncenter size-full wp-image-1352&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De base, le jeu propose 15 personnages différents, tous des mascottes de projets libres comme Tux, eMule, Mozilla, GNU etc. Uniquement des animaux donc et pas forcément masculins (on retrouve ainsi la chimpanzé Suzanne qui vient de Blender)&lt;/p&gt;
+
+&lt;p&gt;Les développeurs ont toutefois trouvé judicieux d&amp;rsquo;intégrer une femme comme personnage jouable dans la prochaine version, une magicienne provenant du projet &lt;a href=&#34;http://opengameart.org/content/faq#q-purpose&#34;&gt;Open Game Art&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/07/Sara-Wizard.png&#34; alt=&#34;Sara-Wizard&#34; width=&#34;335&#34; height=&#34;240&#34; class=&#34;aligncenter size-full wp-image-1380&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ici encore, ce qui part d&amp;rsquo;un bon sentiment va complètement taper à côté à cause de la lorgnette sexiste qui pousse les gens à ne voir les femmes que comme des objets de désir.&lt;/p&gt;
+
+&lt;p&gt;Dès le premier modèle présenté, Sara se voit privée de son pantalon et devra conduire son kart en robe et en talons :&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;square&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1381,1382&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;Pourquoi ne pas avoir conservé un modèle plus fidèle au sprite d&amp;rsquo;origine comme &lt;a href=&#34;http://opengameart.org/content/sara-3d-model&#34;&gt;celui déjà disponible sur le site d&amp;rsquo;Open Game Art&lt;/a&gt; ? Est-ce vraiment comme ça qu&amp;rsquo;il faut mettre sa robe quand on roule en Moto des neiges ? Faut-il seulement faire de la moto-neige en robe&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; rel=&#34;footnote&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; ?&lt;/p&gt;
+
+&lt;p&gt;Mais loin de s&amp;rsquo;arrêter en si bon chemin, les développeurs ont également imaginé qu&amp;rsquo;en retombant après un saut, le vent soulèverait sa robe et nous laisserait apercevoir sa culotte. Pour ce faire, ils vont devoir &lt;strong&gt;faire des modifications dans le moteur du jeu&lt;/strong&gt; afin d&amp;rsquo;intégrer des animations de chute.&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;square&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;2&amp;rdquo; ids=&amp;ldquo;1387,1388&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;Évidemment, &lt;a href=&#34;http://forum.kubuntu-fr.org/viewtopic.php?pid=14069001#p14069001&#34;&gt;l&amp;rsquo;auteur du modèle fait l&amp;rsquo;autruche&lt;/a&gt;, ne voit pas le problème qu&amp;rsquo;il y a à prendre une combattante, remplacer sa tenue de combat par une tenue « de princesse »&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; rel=&#34;footnote&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; complètement inadaptée à la conduite d&amp;rsquo;une moto-neige et à satisfaire le besoin irrépressible de regarder sous sa robe&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; rel=&#34;footnote&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; pour en faire &lt;strong&gt;la seule femme&lt;/strong&gt; d&amp;rsquo;un jeu vidéo.&lt;/p&gt;
+
+&lt;p&gt;Bien sûr, vous pouvez vous soulager la conscience en considérant que ce ne sont que deux exemples mineurs et pas représentatifs, mais ce serait sans compter les centaines de cas sur lesquels on tombe dès qu&amp;rsquo;on s&amp;rsquo;interroge un peu sur la place des femmes dans notre société. Je vous recommande d&amp;rsquo;ailleurs un tumblr assez connu sur le sujet : &lt;a href=&#34;http://eschergirls.tumblr.com/&#34;&gt;EscherGirls&lt;/a&gt; qui se concentre sur ce qui touche à la culture du gaming ou des comics.&lt;/p&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&#34;fn:1&#34;&gt;
+La première image est un concept-art sans équivoque.&amp;#160;&lt;a href=&#34;#fnref:1&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:2&#34;&gt;
+Cheveux longs, visage rond, des gros seins qui remuent, une taille de guêpe, des hanches larges et des petits pieds.&amp;#160;&lt;a href=&#34;#fnref:2&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:3&#34;&gt;
+Un chapeau, un cache tétons, une bande de tissu en guise de jupe et des bas.&amp;#160;&lt;a href=&#34;#fnref:3&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=EgRBN9VpQ34&#34;&gt;Avec la même voix&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:5&#34;&gt;
+Le premier de la série à ma connaissance (hors spin-offs.)&amp;#160;&lt;a href=&#34;#fnref:5&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:6&#34;&gt;
+Mention spéciale à son atterrissage à la 25&lt;sup&gt;ème&lt;/sup&gt; seconde de la vidéo ci dessus.&amp;#160;&lt;a href=&#34;#fnref:6&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:10&#34;&gt;
+Si il y en a d&#39;autres dans Legends, Ubisoft ne juge pas bon de communiquer dessus. Peut-être n&#39;ont elles pas le même… charisme ?&amp;#160;&lt;a href=&#34;#fnref:10&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:7&#34;&gt;
+Je rappelle que Peach et Daisy, quand elles sont en moto, ont la présence d&#39;esprit de &lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2013/07/590px-Mario_Kart_Wii_-_Daisy.png&#34;&gt;se mettre en combinaison&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:7&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:8&#34;&gt;
+Ce sont ses mots : &lt;a href=&#34;http://forum.kubuntu-fr.org/viewtopic.php?pid=14028081#p14028081&#34;&gt;http://forum.kubuntu-fr.org/viewtopic.php?pid=14028081#p14028081&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:8&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li id=&#34;fn:9&#34;&gt;
+Si vous êtes du genre à penser que « ce n&#39;est rien, après tout c&#39;est pas grave », demandez-vous alors pourquoi il y a une si grande résistance face aux critiques.&amp;#160;&lt;a href=&#34;#fnref:9&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aldarone.fr est maintenant un réseau WordPress</title>
+      <link>https://aldarone.fr/aldarone-fr-est-maintenant-un-reseau-wordpress</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://aldarone.fr/aldarone-fr-est-maintenant-un-reseau-wordpress</guid>
+      <description>&lt;p&gt;Un réseau WordPress ? Quézaquo ?&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est une fonction de WordPress apparue avec la version 3 (avant il existait WordPress MU, dédié à cette tâche) et qui permet d&amp;rsquo;héberger plusieurs sites différents avec une seule installation de WordPress.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai à l&amp;rsquo;heure actuelle quatre blogs (et sites) utilisant WordPress sur mon serveur, chacun ayant des extensions, thèmes, espaces web et configurations Nginx différente. Et c&amp;rsquo;est juste hyper relou à administrer puisqu&amp;rsquo;à chaque mise à jour je dois passer faire 4 fois les mêmes modifications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/06/AllWorkAndNoPlay.gif&#34; alt=&#34;All Work And No Play&#34; width=&#34;500&#34; height=&#34;281&#34; class=&#34;aligncenter size-full wp-image-1338&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Centraliser tout ça va donc accélérer les mises à jour et diminuer le risque de faire une erreur en changeant une config&amp;rsquo;&lt;/p&gt;
+
+&lt;h2&gt;Mais ce n&#39;est pas tout !&lt;/h2&gt;
+
+&lt;p&gt;Je vais aussi avoir l&amp;rsquo;occasion de tirer mes proches blogueurs des viles griffes de l&amp;rsquo;hébergement propriétaire et commercial en leur fournissant un service de proximité, infiniment moins limité, avec un support humain et réactif. Et ça, vous devez avouer que c&amp;rsquo;est vachement cool. [/autocongratulation]&lt;/p&gt;
+
+&lt;p&gt;Du coup, si vous voulez sauter le pas et quitter votre fournisseur de blog actuel, envoyez moi un petit mail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

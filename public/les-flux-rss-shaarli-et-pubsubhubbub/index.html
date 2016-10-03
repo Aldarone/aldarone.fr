@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  	<meta property="og:title" content=" Les flux RSS, Shaarli et PubSubHubbub &middot;  Aldarone.fr" />
+  	<meta property="og:site_name" content="Aldarone.fr" />
+  	<meta property="og:url" content="https://aldarone.fr/les-flux-rss-shaarli-et-pubsubhubbub" />
+
+    
+  	<meta property="og:type" content="article" />
+
+    <meta property="og:article:published_time" content="2011-11-07T00:00:00Z" />
+
+    
+    
+
+  <title>
+     Les flux RSS, Shaarli et PubSubHubbub &middot;  Aldarone.fr
+  </title>
+
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://aldarone.fr/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://aldarone.fr/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://aldarone.fr/css/nav.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
+
+
+    
+      
+          <link href="https://aldarone.fr/index.xml" rel="alternate" type="application/rss+xml" title="Aldarone.fr" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.16" />
+
+    <link rel="canonical" href="https://aldarone.fr/les-flux-rss-shaarli-et-pubsubhubbub" />
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Home</a>
+            </li>
+        
+    </ul>
+    
+    
+    <a class="subscribe-button icon-feed" href="https://aldarone.fr/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Les flux RSS, Shaarli et PubSubHubbub</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-11-07T00:00:00Z">
+            Nov 7, 2011
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Derrière ces termes barbares se cache trois outils qui servent beaucoup à la diffusion du contenu sur internet.</p>
+
+<p><a href="http://fr.wikipedia.org/wiki/Flux_RSS">Les flux RSS</a>, vous le savez sûrement, c&rsquo;est ce qui nous évite de faire tous les jours le tour de nos sites préférés comme sur internet avant 2000. <a href="http://sebsauvage.net/rhaa/index.php?2011/09/16/09/29/58-adieu-delicious-diigo-et-stumbleupon-salut-shaarli-">Shaarli</a>, c&rsquo;est un équivalent de <a href="http://delicious.com/">del.ico.us</a>, codé par <a href="http://sebsauvage.net/">Monsieur Sebsauvage</a>, et ça sert à mettre de côté et partager les liens que l&rsquo;ont trouve intéressant. Et <a href="http://www.webrankinfo.com/dossiers/indexation/pubsubhubbub">PubSubHubbub</a> c&rsquo;est quelque chose d&rsquo;assez récent qui s&rsquo;articule avec les flux RSS pour apporter de l&rsquo;instantanéité.</p>
+
+<p>Dans un flux RSS normal, l&rsquo;abonné demande périodiquement au fournisseur si il y a du nouveau. Si le fournisseur à une nouvelle, il se passera donc au maximum une période (de quelques minutes à quelques heures) avant que son abonné l&rsquo;apprenne.</p>
+
+<p>Dans un flux RSS compatible PubSubHubbub, il y a un intermédiaire en plus, un « hub » qui est prévenu automatiquement par le fournisseur dès qu&rsquo;il y a du nouveau. Et le hub va à son tour prévenir les abonnés immédiatement.</p>
+
+<p>Comme souvent, c&rsquo;est une technologie poussée par Google qui l&rsquo;utilise également pour Feedburner, Google Reader, Google Alerts mais aussi pour son service d&rsquo;indexation (Le googlebot agissant comme un abonné, il est prévenu dès qu&rsquo;il y a du nouveau contenu à ajouter à l&rsquo;index)</p>
+
+<p>Et comme souvent, Goole a libéré cette technologie ce qui fait que tout le monde peut l&rsquo;utiliser pour rendre son flux compatible, créer son hub ou faire son client d&rsquo;abonnement.</p>
+
+<p>Pourquoi je vous parle de tout ça ? Parce que quand j&rsquo;utilisais encore Google Reader pour partager mes liens, je les publiais en temps réel sur Twitter à l&rsquo;aide du service <a href="http://reader2twitter.appspot.com/">Reader2Twitter</a>. Mais maintenant que j&rsquo;utilise Shaarli (sur le mini site « <a href="http://share.aldarone.fr/">Les petits liens d&rsquo;Alda</a>. » ) je me retrouvais à devoir attendre plus d&rsquo;une demi-heure que <a href="http://twitterfeed.com/">Twitterfeed</a> vérifie mon flux et publie les nouveautés sur Twitter. Et une demi-heure à l&rsquo;âge de l&rsquo;instantanéité, c&rsquo;est long.</p>
+
+<p>J&rsquo;ai donc retroussé mes manches et ai quelque peu modifié Shaarli pour:
+<ol><li>Rendre les flux RSS et ATOM générés compatibles avec PubSubHubbub</li>
+<li>Prévenir un des hubs choisi qu&rsquo;il y a une mise à jour.</li></ol></p>
+
+<p>Il faut tout d&rsquo;abord récupérer <a href="http://code.google.com/p/pubsubhubbub/source/browse/#svn/trunk/publisher_clients/php">la librairie disponible pour PHP sur le site de PubSubHubbub: Publisher.php</a></p>
+
+<p>Puis rajouter quelques lignes au fichier index.php de Shaarli:</p>
+
+<pre class="brush: php; highlight: [4,5,6,7,8,9,10,11,12,13,14,15,16,17]" title="Ligne 299">
+// ------------------------------------------------------------------------------------------
+// Misc utility functions:
+
+// Update pubsubhubbub
+// External library import
+include './publisher.php';
+$hub_url = 'http://pubsubhubbub.appspot.com/';
+function pubsubhub()
+{
+        global $hub_url;
+        $p = new Publisher($hub_url);
+        $topic_url = array (
+                        serverUrl().$_SERVER['SCRIPT_NAME'].'?do=atom',
+                        serverUrl().$_SERVER['SCRIPT_NAME'].'?do=rss'
+                     );
+        $p-&gt;publish_update($topic_url);
+}
+
+// Returns the server URL (including port and http/https), without path.
+// eg. "http://myserver.com:8080"
+// You can append $_SERVER['SCRIPT_NAME'] to get the current script URL.
+</pre>
+
+<pre class="brush: php; highlight: [9,10,11,12]" title="Ligne 650">
+// Ouput the last 50 links in RSS 2.0 format.
+function showRSS()
+{
+    global $LINKSDB;
+
+// ...
+
+     echo 'Shared linksfr-FR'.$pageaddr.''."nn";
+    echo '<!-- PubSubHubbub Discovery -->
+
+
+          <!-- End Of PubSubHubbub Discovery -->';
+    $i=0;
+    $keys=array(); foreach($linksToDisplay as $key=&gt;$value) { $keys[]=$key; }  // No, I can't use array_keys().
+
+// ...
+
+}
+</pre>
+
+<pre class="brush: php; highlight: [12,13,14]" title="Ligne 680">
+function showATOM()
+{
+    global $LINKSDB;
+
+// ...
+
+    $feed='';
+    $feed.='<title>'.htmlspecialchars($GLOBALS['title']).'</title>';
+    if (!$GLOBALS['config']['HIDE_TIMESTAMPS'] || isLoggedIn()) $feed.=''.htmlspecialchars($latestDate).'';
+    $feed.='';
+    $feed.='<!-- PubSubHubbub Discovery -->
+
+            <!-- End Of PubSubHubbub Discovery -->';
+    $feed.=''.htmlspecialchars($pageaddr).'';
+    $feed.=''.htmlspecialchars($pageaddr).''."nn"; // Yes, I know I should use a real IRI (RFC3987), but the site URL will do.
+    $feed.=$entries;
+    $feed.='';
+    echo $feed;
+    exit;
+}
+</pre>
+
+<pre class="brush: php; highlight: [8]" title="Ligne 1030">
+    // -------- User clicked the "Save" button when editing a link: Save link to database.
+    if (isset($_POST['save_edit']))
+    {
+
+// ...
+
+        $LINKSDB-&gt;savedb(); // save to disk
+        pubsubhub();
+        invalidateCaches();
+
+        // If we are called from the bookmarklet, we must close the popup:
+
+// ...
+        exit;
+    }
+</pre>
+
+<p>Une fois ces modifications effectuées, il ne reste plus qu&rsquo;à attendre que les abonnés demandent une mise à jour du flux. Ensuite s&rsquo;ils sont compatibles, ils passeront en mode PubSubHubbub. Pour tester c&rsquo;est très simple, il suffit de créer un flux feedburner. De base il se met à jour tous les quarts d&rsquo;heure, avec PubSubHubbub activé c&rsquo;est instantané.</p>
+
+<p>Concernant la mise à jour des liens sur twitter, Twitterfeed avait annoncé la compatibilité en 2010 mais il a quand même fallu attendre plus de 30min avant de voir mes liens apparaître. Je suis donc passé à <a href="http://dlvr.it/">dlvr.it</a> qui a une fréquence de mise à jour minimum de 15min et qui permet de cocher une case pour activer PubSubHubbub. Les liens n&rsquo;arrivent toujours pas en temps réel (il faudrait pour ça que je monte mon propre client je suppose) mais les 5 minutes que j&rsquo;ai constaté sont un délai déjà plus acceptable.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+    
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://aldarone.fr/">Alda Marteau-Hardi</a></h4>
+  
+  <p>Je fais du PHP et du Javascript. Et j&#39;essaye aussi d&#39;être un humain décent.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Alsace, France</span>
+    <span class="author-link icon-link"><a href="http://aldarone.fr/">http://aldarone.fr/</a></span>
+  </div>
+</section>
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Les%20flux%20RSS%2c%20Shaarli%20et%20PubSubHubbub&nbsp;-&nbsp;Aldarone.fr&amp;url=https%3a%2f%2faldarone.fr%2fles-flux-rss-shaarli-et-pubsubhubbub"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faldarone.fr%2fles-flux-rss-shaarli-et-pubsubhubbub"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2faldarone.fr%2fles-flux-rss-shaarli-et-pubsubhubbub&amp;description=Les%20flux%20RSS%2c%20Shaarli%20et%20PubSubHubbub"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2faldarone.fr%2fles-flux-rss-shaarli-et-pubsubhubbub"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+  </footer>
+</article>
+
+</main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Aldarone.fr</a> 2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://aldarone.fr/js/index.js"></script>
+    
+</body>
+</html>
+
