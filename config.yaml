@@ -14,7 +14,7 @@ params:
   author: "Alda Marteau-Hardi"
   authorlocation: "Alsace, France"
   authorwebsite: "http://aldarone.fr/"
-  cover: "img/cover.jpg"
+  cover: "img/cover.png"
   bio: "Je fais du PHP et du Javascript. Et j'essaye aussi d'être un humain décent."
   twitterName: "WebScrewdriver"
   githubName: "aldarone"
