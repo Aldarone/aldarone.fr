@@ -4,7 +4,7 @@ title: '#OnVautMieuxQueCa'
 slug: "onvautmieuxqueca"
 ---
 
-https://www.youtube.com/watch?v=E3EbLui2B2k
+{{< youtube E3EbLui2B2k >}}
 
 Des youtubeur⋅euses lancent un appel à témoignagne contre le projet de réforme du code du travail.
 
@@ -60,7 +60,7 @@ Arrivant dans l'open-space, le préposé fait donc sa besogne en déposant un ch
 
 Voyant ça par la vitre de la salle de réunion, le chef d'équipe se précipite alors dans l'open space pour l'informer : « **Ben non, eux c'est des externes, il y ont pas droit.** »
 
-<img src="https://aldarone.fr/wp-content/uploads/2016/02/BPowerLogo.png" alt="BPowerLogo" width="300" height="286" class="aligncenter size-full wp-image-1755" />
+![BPowerLogo](/img/BPowerLogo.png)
 
 **Franchement, vous trouvez pas qu'on vaut mieux que ça ?**
 

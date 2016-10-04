@@ -18,7 +18,11 @@
       <guid>https://aldarone.fr/onvautmieuxqueca</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E3EbLui2B2k&#34;&gt;https://www.youtube.com/watch?v=E3EbLui2B2k&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/E3EbLui2B2k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 
 &lt;p&gt;Des youtubeur⋅euses lancent un appel à témoignagne contre le projet de réforme du code du travail.&lt;/p&gt;
 
@@ -74,7 +78,7 @@
 
 &lt;p&gt;Voyant ça par la vitre de la salle de réunion, le chef d&amp;rsquo;équipe se précipite alors dans l&amp;rsquo;open space pour l&amp;rsquo;informer : « &lt;strong&gt;Ben non, eux c&amp;rsquo;est des externes, il y ont pas droit.&lt;/strong&gt; »&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2016/02/BPowerLogo.png&#34; alt=&#34;BPowerLogo&#34; width=&#34;300&#34; height=&#34;286&#34; class=&#34;aligncenter size-full wp-image-1755&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/BPowerLogo.png&#34; alt=&#34;BPowerLogo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Franchement, vous trouvez pas qu&amp;rsquo;on vaut mieux que ça ?&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -110,15 +114,63 @@ J&amp;rsquo;ai même parfois l&amp;rsquo;impression que c&amp;rsquo;est au sens 
 
 &lt;p&gt;Déjà à l&amp;rsquo;installation on peut se douter qu&amp;rsquo;il y a un truc chelou. Parce que les permissions demandées font juste peur.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1675&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-permissions.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-permissions-1024x891.png&#34; alt=&#34;Moi quand je vois ça, je m&amp;#039;en fout parce que j&amp;#039;utilise XPrivacy, mais j&amp;#039;ai de la peine pour les gens qui ne savent pas comment se couvrir.&#34; width=&#34;1024&#34; height=&#34;891&#34; class=&#34;size-large wp-image-1675&#34; /&gt;&lt;/a&gt; Moi quand je vois ça, je m&amp;rsquo;en fout parce que j&amp;rsquo;utilise XPrivacy, mais j&amp;rsquo;ai de la peine pour les gens qui ne savent pas comment se couvrir.[/caption]&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://aldarone.fr/img/facebook-permissions.png&#34; alt=&#34;Moi quand je vois ça, je m&amp;#39;en fout parce que j&amp;#39;utilise XPrivacy, mais j&amp;#39;ai de la peine pour les gens qui ne savent pas comment se couvrir.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Moi quand je vois ça, je m&amp;#39;en fout parce que j&amp;#39;utilise XPrivacy, mais j&amp;#39;ai de la peine pour les gens qui ne savent pas comment se couvrir.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;Ensuite le poids téléchargé est un peu effrayant lui aussi.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1676&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-1024x226.png&#34; alt=&#34;20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;#039;imagine que le code espion ça pèse lourd…&#34; width=&#34;1024&#34; height=&#34;226&#34; class=&#34;size-large wp-image-1676&#34; /&gt;&lt;/a&gt; 20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;rsquo;imagine que le code espion ça pèse lourd…[/caption]&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://aldarone.fr/img/facebook-size.png&#34; alt=&#34;20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;#39;imagine que le code espion ça pèse lourd…&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        20 Mo pour une appli de messagerie et 44Mo pour une autre qui va bêtement appeler une API ? J&amp;#39;imagine que le code espion ça pèse lourd…
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;Et puis passé le quart d&amp;rsquo;heure nécessaire à l&amp;rsquo;installation (véridique) la place occupé sur la partition &lt;code&gt;/data&lt;/code&gt; est juste ÉNORME !&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1677&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1024&amp;rdquo;]&lt;a href=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-2.png&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/10/facebook-size-2-1024x529.png&#34; alt=&#34;Yep, le code espion ça pèse vraiment très lourd en fait.&#34; width=&#34;1024&#34; height=&#34;529&#34; class=&#34;size-large wp-image-1677&#34; /&gt;&lt;/a&gt; Yep, le code espion ça pèse vraiment très lourd en fait.[/caption]&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://aldarone.fr/img/facebook-size-2.png&#34; alt=&#34;Yep, le code espion ça pèse vraiment très lourd en fait.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Yep, le code espion ça pèse vraiment très lourd en fait.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;C&amp;rsquo;est lent, ça met des plombes à s&amp;rsquo;installer, ça pèse une tonne. Est-ce que ça vaut le coup de les garder juste pour avoir de quoi glandouiller dans le bus en allant ou en rentrant du boulot ?&lt;/p&gt;
 
