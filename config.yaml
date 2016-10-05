@@ -10,6 +10,7 @@ menu:
     - name: "Home"
       url: "/"
 params:
+  IssoDomain: "comments.aldarone.fr"
   title: "Aldarone.fr"
   author: "Alda Marteau-Hardi"
   authorlocation: "Alsace, France"

@@ -1,0 +1,7 @@
+{{ if ne .Params.comments false}}
+{{ if .Site.Params.IssoDomain }}
+<div id="isso-thread"></div>
+<script src="//{{ .Site.Params.IssoDomain }}/js/embed.min.js" type="text/javascript" charset="utf-8" data-isso="//{{ .Site.Params.IssoDomain }}/"></script>
+<noscript>Please enable JavaScript to view the <a href="https://posativ.org/isso/">comments powered by Isso.</a></noscript>
+{{ end }}
+{{ end }}
