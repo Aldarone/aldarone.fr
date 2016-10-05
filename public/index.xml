@@ -7,8 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Oct 2016 08:14:05 +0200</lastBuildDate>
     <atom:link href="https://aldarone.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Les données personnelles enregistrées par Signal</title>
+      <link>https://aldarone.fr/les-donnees-personelles-enregistrees-par-signal</link>
+      <pubDate>Wed, 05 Oct 2016 08:14:05 +0200</pubDate>
+      
+      <guid>https://aldarone.fr/les-donnees-personelles-enregistrees-par-signal</guid>
+      <description>&lt;p&gt;Début 2016, OpenWhisper Systems a été contraint de fournir à la justice américaine les informations personnelles qu&amp;rsquo;ils possédaient sur deux utilisateurs de Signal.&lt;/p&gt;
+
+&lt;p&gt;Dans une volonté de transparence, l&amp;rsquo;organisme a également fait le nécessaire pour pouvoir publier les échanges qu&amp;rsquo;ils ont eu ainsi que les informations (anonymisées) qu&amp;rsquo;ils ont du fournir.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est donc l&amp;rsquo;occasion pour nous de prendre connaissance de l&amp;rsquo;ampleur des données récoltées par Signal.&lt;/p&gt;
+
+&lt;p&gt;En effet, ses détracteurs évoquent régulièrement la dépendance de l&amp;rsquo;application au service de push de Google pour conclure que Signal est une passoire à méta-données et que pour être vraiment à l&amp;rsquo;abri il vaudrait mieux utiliser Silence.&lt;/p&gt;
+
+&lt;p&gt;Pour rappel, Silence utilise les SMS. Les méta-données associées à chaque messages sont donc identiques aux SMS non chiffrés ce qui signifie que les messages envoyées par Silence sont visibles sur la facture détaillée de votre abonnement.&lt;/p&gt;
+
+&lt;p&gt;De son côté Signal utilise une connexion TLS et affirme n&amp;rsquo;enregistrer que le strict minimum pour le fonctionnement du service. Ce qui est à présent prouvé puisque les seules informations fournies à la justice sont :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/signal-subpoena-data.png&#34; alt=&#34;Data provided by Open Whisper Systems: Last connection date and account creation date&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La date de création du compte.&lt;/li&gt;
+&lt;li&gt;La date de dernière connexion au service.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et c&amp;rsquo;est tout.&lt;/p&gt;
+
+&lt;p&gt;Une section nommée « &lt;a href=&#34;https://whispersystems.org/bigbrother/&#34;&gt;Big Brother&lt;/a&gt; » a également été créee pour contenir les futur compte rendu des demandes de la justice.&lt;/p&gt;
+
+&lt;p&gt;Silence conserve comme seul avantage que le transport SMS est toujours plus fiable en France que le transport data, mais on a à présent la certitude que Signal protège bien plus efficacement notre vie privée.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>#OnVautMieuxQueCa</title>
@@ -1492,30 +1525,6 @@ Si vous êtes du genre à penser que « ce n&#39;est rien, après tout c&#39;est
 
 &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aldarone.fr est maintenant un réseau WordPress</title>
-      <link>https://aldarone.fr/aldarone-fr-est-maintenant-un-reseau-wordpress</link>
-      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/aldarone-fr-est-maintenant-un-reseau-wordpress</guid>
-      <description>&lt;p&gt;Un réseau WordPress ? Quézaquo ?&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est une fonction de WordPress apparue avec la version 3 (avant il existait WordPress MU, dédié à cette tâche) et qui permet d&amp;rsquo;héberger plusieurs sites différents avec une seule installation de WordPress.&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;ai à l&amp;rsquo;heure actuelle quatre blogs (et sites) utilisant WordPress sur mon serveur, chacun ayant des extensions, thèmes, espaces web et configurations Nginx différente. Et c&amp;rsquo;est juste hyper relou à administrer puisqu&amp;rsquo;à chaque mise à jour je dois passer faire 4 fois les mêmes modifications.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/06/AllWorkAndNoPlay.gif&#34; alt=&#34;All Work And No Play&#34; width=&#34;500&#34; height=&#34;281&#34; class=&#34;aligncenter size-full wp-image-1338&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Centraliser tout ça va donc accélérer les mises à jour et diminuer le risque de faire une erreur en changeant une config&amp;rsquo;&lt;/p&gt;
-
-&lt;h2&gt;Mais ce n&#39;est pas tout !&lt;/h2&gt;
-
-&lt;p&gt;Je vais aussi avoir l&amp;rsquo;occasion de tirer mes proches blogueurs des viles griffes de l&amp;rsquo;hébergement propriétaire et commercial en leur fournissant un service de proximité, infiniment moins limité, avec un support humain et réactif. Et ça, vous devez avouer que c&amp;rsquo;est vachement cool. [/autocongratulation]&lt;/p&gt;
-
-&lt;p&gt;Du coup, si vous voulez sauter le pas et quitter votre fournisseur de blog actuel, envoyez moi un petit mail.&lt;/p&gt;
 </description>
     </item>
     
