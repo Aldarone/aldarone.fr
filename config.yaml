@@ -20,6 +20,9 @@ params:
   twitterName: "WebScrewdriver"
   githubName: "aldarone"
   hideHUGOSupport: true
+  customFooterPartial: "piwik.html"
+  piwikDomain: "stats.aldarone.fr"
+  piwikId: 1
 
 permalinks:
   post: "/:slug"
