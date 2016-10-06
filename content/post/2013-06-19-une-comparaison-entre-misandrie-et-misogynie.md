@@ -2,6 +2,7 @@
 date: 2013-06-19T00:00:00Z
 title: "Une comparaison entre misandrie et misogynie"
 slug: "une-comparaison-entre-misandrie-et-misogynie"
+image: "/img/sad-man.jpg"
 ---
 
 On pourrait croire à première vue que les deux se valent. Que toutes les formes de violence sont équivalentes, injustifiées et injustifiables. Et que la misandrie est tout aussi dommageable que la misogynie. (J'ai bien dit « <em>dommageable</em> » et pas « <em>condamnable</em>. »)
@@ -64,7 +65,7 @@ En français :
 
 Bien évidemment, comme à chaque fois, certains vont réagir en rappelant qu'eux ne sont pas comme ça ; Que c'est honteux de tenir des propos pareils et de mettre tous les hommes dans le même sac ; Que ça c'est de la misandrie et… que lire ce post les a profondément blessés.
 
-[caption id="attachment_1297" align="aligncenter" width="367"]<img src="https://aldarone.fr/wp-content/uploads/2013/06/Misandry-report.png" alt="Misandry-report" width="367" height="223" class="size-full wp-image-1297" /> « Allo les urgences ? Je voudrais signaler un cas de Misandrie ! Oui, cette fille a surgit de nulle part et a complètement ignoré mes impressions masculines ! »[/caption]
+{{< figure src="https://aldarone.fr/wp-content/uploads/2013/06/Misandry-report.png" caption="Allo les urgences ? Je voudrais signaler un cas de Misandire ! Oui, cette fille a surgit de nulle part et a complètement ignoré mes sentiments d'Homme !" >}}
 
 Peut-être même iront-ils jusqu'à affirmer que la misandrie a les mêmes résultats que la misogynie, comme toutes les haines.
 
