@@ -40,7 +40,7 @@ Et qui pourrait l'en blâmer ? Tout le monde est sur Facebook. Tout le monde tie
 
 Il est temps de se barrer de Facebook et de partir vers des contrées où personne ne risquera d'être coupé de son monde parce qu'une corporation capitaliste en aura décidé ainsi.
 
-: Cet article a bien évidemment une suite dans laquelle se trouve la présentation d'un réseau social alternatif n'étant pas limité par les problèmes inhérents à Facebook : [Diaspora* comme alternative à Facebook][4].
+PS : Cet article a bien évidemment une suite dans laquelle se trouve la présentation d'un réseau social alternatif n'étant pas limité par les problèmes inhérents à Facebook : [Diaspora* comme alternative à Facebook][4].
 
 [1]: https://www.facebook.com/help/112146705538576
 [2]: http://www.francetvinfo.fr/sciences/high-tech/facebook-va-assouplir-ses-regles-sur-l-identite-reelle-de-ses-abonnes_1700523.html
