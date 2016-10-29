@@ -78,6 +78,8 @@ Et on dispose d'une messagerie instantanée située dans une barre latérale à 
 
 J'ai bien conscience que ça demande un changement d'habitude. Qu'on ne sait pas trop si on va s'y retrouver, ni même si des gens vont nous suivre. Mais une chose est sûre, si on essaye pas, si on ne s'accroche pas, il est certain que des choses comme [ce qui est arrivé à G. aujourd'hui][5] ne cesseront jamais de se reproduire et se reproduiront de plus en plus.
 
+Alors saute le pas, inscris-toi, et n'hésite pas à m'ajouter. Mon adresse D\* c'est *alda@framasphere.org*.
+
 [1]: https://www.youtube.com/watch?v=__fCEl1TiJ8
 [2]: https://www.facebook.com/ads/preferences
 [3]: http://www.telerama.fr/medias/les-reseaux-sociaux-meilleurs-ennemis-des-militants,148726.php
