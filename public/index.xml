@@ -7,8 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Sat, 29 Oct 2016 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Oct 2016 19:30:00 +0200</lastBuildDate>
     <atom:link href="https://aldarone.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diaspora* comme alternative à Facebook</title>
+      <link>https://aldarone.fr/diaspora-comme-alternative-a-facebook</link>
+      <pubDate>Sat, 29 Oct 2016 19:30:00 +0200</pubDate>
+      
+      <guid>https://aldarone.fr/diaspora-comme-alternative-a-facebook</guid>
+      <description>
+
+&lt;p&gt;Facebook ça fait longtemps que &lt;a href=&#34;https://www.youtube.com/watch?v=__fCEl1TiJ8&#34;&gt;les hacktivistes&lt;/a&gt; ont compris les problèmes de Facebook. On sait que la centralisation c&amp;rsquo;est tout pourri. On sait que le contrôle unilatéral de nos données c&amp;rsquo;est de la merde. On sait que leur modèle c&amp;rsquo;est l&amp;rsquo;exploitation capitaliste des données qu&amp;rsquo;on leur fourni gratuitement.&lt;/p&gt;
+
+&lt;p&gt;Pourtant, on est toujours sur Facebook. Parce qu&amp;rsquo;on sait pas trop où on irait sinon là bas car ils ont une masse critique qui s&amp;rsquo;auto-alimente.&lt;/p&gt;
+
+&lt;p&gt;On est sur Facebook parce que les autres sont sur Facebook. Et tant qu&amp;rsquo;on arrivera pas à amorcer un mouvement de migration, montrer qu&amp;rsquo;un ailleurs est possible, il est fort probable que les choses restent en l&amp;rsquo;état. Que Facebook continue de capitaliser sur nos photos. Que Facebook continue de &lt;a href=&#34;https://www.facebook.com/ads/preferences&#34;&gt;nous catégoriser pour nous abreuver de pubs&lt;/a&gt;. Que Facebook continue de &lt;a href=&#34;http://www.telerama.fr/medias/les-reseaux-sociaux-meilleurs-ennemis-des-militants,148726.php&#34;&gt;vendre nos données aux gouvernements pour surveiller nos positions politiques&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mais pour ça il faut savoir où partir. Et aujourd&amp;rsquo;hui je vous propose de partir sur Diaspora*, un réseau social libre et décentralisé qui nous permet de reprendre le contrôle de notre vie numérique avec un usage similaire &lt;em&gt;mais pas identique&lt;/em&gt; à Facebook.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/Diaspora_logotype.png&#34; alt=&#34;Logo de Diaspora*&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;libre-et-décentralisé&#34;&gt;Libre et Décentralisé&lt;/h2&gt;
+
+&lt;p&gt;Contrairement à Facebook qui est un réseau privateur et centralisé, Diaspora* ne se présente pas sous la forme d&amp;rsquo;un unique site web mais sous la forme d&amp;rsquo;un réseau ouvert auquel on accède par l&amp;rsquo;intermédiaire de serveurs interconnectés appelés les « pods. »&lt;/p&gt;
+
+&lt;p&gt;Un bénéfice apporté par cette architecture est notamment la possibilité de quiconque ayant les connaissances et les moyens technique d&amp;rsquo;ouvrir son propre pod et de le connecter au réseau, conservant ainsi le contrôle intégral de ses données. Mais cela permet également d&amp;rsquo;échapper à une censure généralisée du réseau puisqu&amp;rsquo;il faudrait réussir à bloquer tous les pods actifs ainsi que les nouveaux qui s&amp;rsquo;ouvriraient à l&amp;rsquo;avenir.&lt;/p&gt;
+
+&lt;p&gt;Du point de vue de nous, utilisateur⋅ice, cela nous donne l&amp;rsquo;assurance de toujours pouvoir rejoindre le réseau en cas de problème sur un pod particulier.&lt;/p&gt;
+
+&lt;p&gt;Malheureusement, c&amp;rsquo;est également la cause d&amp;rsquo;une difficulté de taille : Nous n&amp;rsquo;avons pas l&amp;rsquo;habitude de tels modes de fonctionnement et nous pouvons nous trouver facilement déroutés.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/diaspora-wtf.gif&#34; alt=&#34;Capture du site de la Diaspora Foundation et du clic sur le bouton « S&#39;inscrire »&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;choisir-un-pod-et-s-inscrire&#34;&gt;Choisir un pod et s&amp;rsquo;inscrire&lt;/h2&gt;
+
+&lt;p&gt;Comme on le voit sur le GIF ci dessus, choisir un pod ça fait peur et on a pas forcément envie de lire tout le manuel avant même de pouvoir s&amp;rsquo;inscrire.&lt;/p&gt;
+
+&lt;p&gt;En réalité il s&amp;rsquo;agit juste d&amp;rsquo;en choisir un dans un pays dont on parle la langue, qui a un haut pourcentage de disponibilité et qui dispose de la fonction de discussion instantanée.&lt;/p&gt;
+
+&lt;p&gt;En France le pod diaspora.psyco.fr correspond à tous ces critères et vous pouvez vous y &lt;a href=&#34;https://diaspora.psyco.fr/users/sign_up&#34;&gt;inscrire directement avec ce lien&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Je passe les détails sur les champs e-mail et mot de passe pour m&amp;rsquo;attarder sur le champ nom d&amp;rsquo;utilisateur qui fonctionne plutôt comme sur Twitter que sur Facebook.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est ce champ qui va déterminer notre adresse Diaspora* qui se construit de la manière suivante, un peu comme une adresse e-mail : nom@pod.&lt;/p&gt;
+
+&lt;p&gt;Ainsi, je suis sur le pod &lt;em&gt;framasphere.org&lt;/em&gt; et mon nom d&amp;rsquo;utilisateur est &lt;em&gt;alda&lt;/em&gt;, mon adresse Diaspora* est donc &lt;em&gt;alda@framasphere.org&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;configurer-son-profil&#34;&gt;Configurer son profil&lt;/h2&gt;
+
+&lt;p&gt;Immédiatement après l&amp;rsquo;inscription on arrive sur la page du profil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/diaspora-profil.png&#34; alt=&#34;Capture de la page de remplissage du profil après inscription sur le pod&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le pod nous propose de se connecter à Facebook pour récupérer notre nom et image de profil. Si on choisi de faire ça, on pourra par la suite cocher une case sur Diaspora* afin de répliquer nos posts D* sur Facebook et conserver ainsi le lien avec les gens qui ne nous ont pas suivis.&lt;/p&gt;
+
+&lt;p&gt;Enfin, on va remplir le dernier champ avec une liste de tags qui nous intéressent. On sera alors abonnés à ces tags et les posts qui les contiennent apparaîtrons dans notre flux aux côtés des posts des gens que nous suivrons.&lt;/p&gt;
+
+&lt;h2 id=&#34;savourer-notre-liberté-retrouvée&#34;&gt;Savourer notre liberté retrouvée&lt;/h2&gt;
+
+&lt;p&gt;Une fois notre profil complété, notre pod affiche une page décrivant les principales fonctionnalités de D* et nous encourage à annoncer notre présence en postant publiquement un premier message prérempli qui contient les tags saisis précédemment.&lt;/p&gt;
+
+&lt;p&gt;Mais un réseau social n&amp;rsquo;est pas vraiment social sans contacts à suivre. De ce point de vue là, on peut explorer les profils au grés des tags ou saisir l&amp;rsquo;adresse D* d&amp;rsquo;une connaissance pour la retrouver et nous y abonner en l&amp;rsquo;ajoutant à ce que D* appelle un « aspect »&lt;/p&gt;
+
+&lt;p&gt;Pour l&amp;rsquo;expliquer succintement, on va mettre nos contacts dans un ou plusieurs aspects et lors de la publication d&amp;rsquo;un post, on va sélectionner quels aspects pourront voir ce dernier. Toute personne n&amp;rsquo;étant pas dans un des aspects sélectionné sera incapable d&amp;rsquo;y accéder.&lt;/p&gt;
+
+&lt;p&gt;Pour continuer d&amp;rsquo;avoir une présence sur Facebook (ou Twitter) et inciter nos amis à nous rejoindre, on pourra cocher occasionnellement la case « Partager avec Facebook »&lt;/p&gt;
+
+&lt;p&gt;Il ne nous reste plus qu&amp;rsquo;à supprimer Facebook de nos favoris et de nos smartphones pour le remplacer par un lien vers notre pod et nous aurons fait un petit pas vers la fin de son hégémonie mais un grand pas vers notre indépendance.&lt;/p&gt;
+
+&lt;h2 id=&#34;explorer-les-fonctionnalités-annexes&#34;&gt;Explorer les fonctionnalités annexes&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/diaspora-messagerie.png&#34; alt=&#34;Capture de la page de messagerie du pod&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diaspora* nous permet également d&amp;rsquo;envoyer des messages directs à un contact qui partage ses posts avec nous&lt;/p&gt;
+
+&lt;p&gt;Et on dispose d&amp;rsquo;une messagerie instantanée située dans une barre latérale à droite de la page d&amp;rsquo;accueil. Pour l&amp;rsquo;activer, il est recommandé de créer un aspect « Chat » puis d&amp;rsquo;indiquer à D* qu&amp;rsquo;on autorise les membres de cet aspect à discuter avec nous.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/img/diaspora-im.png&#34; alt=&#34;Capture du bouton « Autoriser le chat » dans la configuration des aspects&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sauter-le-pas&#34;&gt;Sauter le pas&lt;/h2&gt;
+
+&lt;p&gt;J&amp;rsquo;ai bien conscience que ça demande un changement d&amp;rsquo;habitude. Qu&amp;rsquo;on ne sait pas trop si on va s&amp;rsquo;y retrouver, ni même si des gens vont nous suivre. Mais une chose est sûre, si on essaye pas, si on ne s&amp;rsquo;accroche pas, il est certain que des choses comme &lt;a href=&#34;https://aldarone.fr/il-est-temps-de-faire-quelquechose-a-propos-de-facebook/&#34;&gt;ce qui est arrivé à G. aujourd&amp;rsquo;hui&lt;/a&gt; ne cesseront jamais de se reproduire et se reproduiront de plus en plus.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Il est temps de faire quelquechose à propos de Facebook</title>
@@ -52,7 +134,10 @@
 
 &lt;p&gt;Et qui pourrait l&amp;rsquo;en blâmer ? Tout le monde est sur Facebook. Tout le monde tiens ses proches au courant de sa vie sur Facebook. Les concerts, expositions, mariages, vides grenier, food not bombs, manifestations syndicales ou non s&amp;rsquo;organisent sur Facebook. Et Facebook le sait. Donc ils s&amp;rsquo;en foutent de foutre à la porte une portion à leur yeux négligeable de la population pour satisfaire un petit kapo qui a besoin de laisser parler sa transphobie à l&amp;rsquo;occasion.&lt;/p&gt;
 
-&lt;p&gt;Il est temps de se barrer de Facebook et de partir vers des contrées où personne ne risquera d&amp;rsquo;être coupé de son monde parce qu&amp;rsquo;une corporation capitaliste en aura décidé ainsi.&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Il est temps de se barrer de Facebook et de partir vers des contrées où personne ne risquera d&amp;rsquo;être coupé de son monde parce qu&amp;rsquo;une corporation capitaliste en aura décidé ainsi.&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Cet article a bien évidemment une suite dans laquelle se trouve la présentation d&amp;rsquo;un réseau social alternatif n&amp;rsquo;étant pas limité par les problèmes inhérents à Facebook : &lt;a href=&#34;https://aldarone.fr/diaspora-comme-alternative-a-facebook/&#34;&gt;Diaspora* comme alternative à Facebook&lt;/a&gt;.&lt;/p&gt;&lt;/dd&gt;
+&lt;/dl&gt;
 </description>
     </item>
     
@@ -1387,32 +1472,6 @@ Allumer le PC, aller faire un tour, oublier le timeout grub. &lt;em&gt;Oups&lt;/
 &lt;p&gt;Et comme je ne peux décemment pas vous laisser comme ça en évoquant Diffie-Hellman tout le long de l&amp;rsquo;article ainsi que les maux de tête qu&amp;rsquo;il engendre chez les personnes qui ont des boutons dès qu&amp;rsquo;ils entendent « Arithmétique » voila une petite vidéo en anglais qui vulgarise ce fameux échange de clés en utilisant des couleurs, de la peinture, une corde et une horloge.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3QnD2c4Xovk&#34;&gt;https://www.youtube.com/watch?v=3QnD2c4Xovk&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Le nouvel album d&#39;Arcade Fire et Youtube</title>
-      <link>https://aldarone.fr/le-nouvel-album-darcade-fire-et-youtube</link>
-      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/le-nouvel-album-darcade-fire-et-youtube</guid>
-      <description>&lt;p&gt;C&amp;rsquo;est tellement ridiculement pathétique que mes côtes me font encore mal à force d&amp;rsquo;hilarité. Voyez donc :&lt;/p&gt;
-
-&lt;p&gt;Le groupe Arcade Fire sort prochainement un nouvel album nommé Reflektor, pour en faire la promo, ils l&amp;rsquo;ont envoyé dans son intégralité sur Youtube avec leur compte officiel :&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=CBjqUEMlHTY&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2013/10/2013Reflektor2_Instargram_060813.jpg&#34; alt=&#34;2013Reflektor2_Instargram_060813&#34; width=&#34;552&#34; height=&#34;368&#34; class=&#34;aligncenter size-full wp-image-1440&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Rien ne vous choque ?&lt;/p&gt;
-
-&lt;p&gt;Et oui ! Il n&amp;rsquo;y a pas de son ! Pourtant en lisant les commentaires on voit des gens s&amp;rsquo;étonner, visiblement la vidéo était bien sonorisée au moment de sa publication. Mais alors pourquoi ?&lt;/p&gt;
-
-&lt;p&gt;La réponse est très simple et tient en un mot : « Ayant-droits »&lt;/p&gt;
-
-&lt;p&gt;En effet, Youtube permet aux maisons de disques de lui fournir des signatures de bandes sons que les gens n&amp;rsquo;ont pas le droit d&amp;rsquo;utiliser dans leurs vidéos. Cette signature s&amp;rsquo;appelle Content-ID. Chaque vidéo est donc automatiquement analysée et si quelqu&amp;rsquo;un a le malheur d&amp;rsquo;utiliser une bande son « protégée » par la couleuvre qu&amp;rsquo;on essaye de nous faire prendre pour le droit d&amp;rsquo;auteur, &lt;a href=&#34;https://support.google.com/youtube/answer/2797370?hl=en&amp;amp;ref_topic=2778545&#34;&gt;la vidéo se retrouve simplement insonorisée&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour les majors et pour Youtube qui rampe à leurs pieds, les membres d&amp;rsquo;Arcade Fire n&amp;rsquo;ont visiblement pas le droit de disposer de leurs œuvres comme ils l&amp;rsquo;entendent. Ils en sont dépossédés.&lt;/p&gt;
-
-&lt;p&gt;Bien joués messieurs du copyright, vous êtes sur la bonne voie, c&amp;rsquo;est sûr.&lt;/p&gt;
 </description>
     </item>
     
