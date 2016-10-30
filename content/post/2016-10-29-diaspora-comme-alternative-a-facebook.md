@@ -1,7 +1,7 @@
 +++
 comments = true
 date = "2016-10-29T19:30:00+02:00"
-image = "/img/The_Stockpile_October_2015-25.jpg"
+image = "img/The_Stockpile_October_2015-25.jpg"
 slug = "diaspora-comme-alternative-a-facebook"
 title = "Diaspora* comme alternative à Facebook"
 +++

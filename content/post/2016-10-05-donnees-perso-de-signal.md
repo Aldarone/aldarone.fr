@@ -1,7 +1,7 @@
 +++
 comments = true
 date = "2016-10-05T08:14:05+02:00"
-image = "/img/archive-register.jpg"
+image = "img/archive-register.jpg"
 slug = "les-donnees-personelles-enregistrees-par-signal"
 title = "Les données personnelles enregistrées par Signal"
 

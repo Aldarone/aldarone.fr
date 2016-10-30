@@ -1,7 +1,7 @@
 +++
 comments = true
 date = "2016-10-29T19:00:00+02:00"
-image = "/img/lock-door-rust-AnnieSpratt.jpg"
+image = "img/lock-door-rust-AnnieSpratt.jpg"
 slug = "il-est-temps-de-faire-quelquechose-a-propos-de-facebook"
 title = "Il est temps de faire quelquechose à propos de Facebook"
 +++
