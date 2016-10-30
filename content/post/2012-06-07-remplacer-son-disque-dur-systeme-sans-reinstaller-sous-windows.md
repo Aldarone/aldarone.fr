@@ -1,12 +1,8 @@
 ---
 date: 2012-06-07T00:00:00Z
-head_img:
-- |
-  https://aldarone.fr/assets/FuckThatShit.jpg
-head_img_alt:
-- Fuck That Shit
 title: "Remplacer son disque dur système sans réinstaller (Sous Windows)"
 slug: "remplacer-son-disque-dur-systeme-sans-reinstaller-sous-windows"
+image: "img/opened-hard-drive.jpg"
 ---
 
 <p>J'étais tranquillement en train de jouer à <a href="http://www.bay12games.com/dwarves/">Dwarf Fortress</a> quand mon ordi s'est brusquement figé en émettant un des bruits les plus horrible qui soit: <strong>Celui d'un disque dur à l'agonie</strong>.</p>

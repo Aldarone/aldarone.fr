@@ -2,6 +2,7 @@
 date: 2014-12-08T00:00:00Z
 title: "Fuck you ownCloud. Fuck you."
 slug: "fuck-you-owncloud-fuck-you"
+image: "img/danger-sign.jpg"
 ---
 
 /!\ Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d'en tenir compte lors de votre lecture. /!\
