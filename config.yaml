@@ -23,6 +23,8 @@ params:
   customFooterPartial: "piwik.html"
   piwikDomain: "stats.aldarone.fr"
   piwikId: 1
+  social:
+    twitter: "WebScrewdriver"
 
 permalinks:
   post: "/:slug"
