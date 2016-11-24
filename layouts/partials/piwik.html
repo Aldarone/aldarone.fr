@@ -4,12 +4,12 @@
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//{{ .Site.Params.piwikDomain }}/";
+    var u="//{{ .Site.Params.piwikdomain }}/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', {{ .Site.Params.piwikId }}]);
+    _paq.push(['setSiteId', {{ .Site.Params.piwikid }}]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//{{ .Site.Params.piwikDomain }}/piwik.php?idsite={{ .Site.Params.piwikId }}" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//{{ .Site.Params.piwikdomain }}/piwik.php?idsite={{ .Site.Params.piwikid }}" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
