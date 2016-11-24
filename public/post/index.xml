@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aldarone.fr</title>
-    <link>https://aldarone.fr/post/</link>
-    <description>Recent content in Posts on Aldarone.fr</description>
+    <title>Post-rsses on Aldarone.fr</title>
+    <link>https://aldarone.fr/post/index.xml</link>
+    <description>Recent content in Post-rsses on Aldarone.fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Sat, 29 Oct 2016 19:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2016 20:00:00 +0200</lastBuildDate>
     <atom:link href="https://aldarone.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ça sent le souffre chez Riseup</title>
+      <link>https://aldarone.fr/%C3%A7a-sent-le-souffre-chez-riseup</link>
+      <pubDate>Thu, 24 Nov 2016 20:00:00 +0200</pubDate>
+      
+      <guid>https://aldarone.fr/%C3%A7a-sent-le-souffre-chez-riseup</guid>
+      <description>&lt;p&gt;Comme indiqué dans cet article (&lt;a href=&#34;https://c4ss.org/content/47015&#34;&gt;Riseup’s Canary Has Died&lt;/a&gt;), le « warrant canary » de Riseup n&amp;rsquo;a pas été renouvelé après son échéance.&lt;/p&gt;
+
+&lt;p&gt;Ça veut dire qu&amp;rsquo;il est plus que probable que l&amp;rsquo;organisation ait à faire face à une procédure judiciaire dont elle ne peut pas parler et qu&amp;rsquo;elle soit contrainte de fournir des informations personnelles appartenant à certain⋅es de ses usager⋅es à la justice.&lt;/p&gt;
+
+&lt;p&gt;Mais comme elle l&amp;rsquo;a toujours dit: plutôt couper le courant plutôt que céder.&lt;/p&gt;
+
+&lt;p&gt;Il est donc possible que Riseup efface les données en sa possession dans un futur plus ou moins proche. Ce n&amp;rsquo;est donc pas trop le moment de rejoindre leurs services.&lt;/p&gt;
+
+&lt;p&gt;Et j&amp;rsquo;ai fait un compte chez eux HIER. Admirez mon timing.&lt;/p&gt;
+
+&lt;p&gt;Alors du coup quelles sont les alternatives ? J&amp;rsquo;en ai vu trois qui peuvent faire l&amp;rsquo;affaire et que je vais présenter très succintement ici. (Ce ne sont pas les trois seules alternatives qui existent, ce sont juste trois dont j&amp;rsquo;ai entendu parler qui m&amp;rsquo;ont l&amp;rsquo;air suffisamment sérieuse pour considérer de les utiliser quotidiennement.)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://disroot.org/&#34;&gt;disroot.org&lt;/a&gt;, basé aux Pays-Bas. Il y a des mails, du chat et du diaspora*.  Le domaine date de 2015-06 donc c&amp;rsquo;est assez jeune mais ça a aussi l&amp;rsquo;avantage de pas être embarassé par du legacy. Est-ce que ça évolue vite quand il faut ? Est-ce que c&amp;rsquo;est pérenne ?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autistici.org/fr/index.html&#34;&gt;autistici.org&lt;/a&gt;, basé en Italie. Il y a des mails et du chat, le domaine date de 2000-08 du coup on est sûr qu&amp;rsquo;il y a de l&amp;rsquo;expérience. C&amp;rsquo;est assez similaire à ce que proposait riseup. Mention spéciale à &lt;a href=&#34;http://www.autistici.org/fr/who/policy.html&#34;&gt;leur charte qui promeut explicitement les luttes contre les oppressions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openmailbox.org/&#34;&gt;openmailbox.org&lt;/a&gt;, basé en France. Avec mail et chat et dont le domaine date de 2013-05. Ça a l&amp;rsquo;air de tourner rond (une infrastructure à 20k€/an ça fait sérieux) mais du côté du support ça a l&amp;rsquo;air d&amp;rsquo;être un seul gars.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alors on va où ?&lt;/p&gt;
+
+&lt;p&gt;Si je devais choisir pour moi j&amp;rsquo;irai chez Autistici parce qu&amp;rsquo;on est très clairement dans le militantisme #anarchiste et #antifa et qu&amp;rsquo;un service qui tourne depuis 2000 on le voit mal s&amp;rsquo;arrêter du jour au lendemain (ouais je dis ça alors que je cherche des alternatives à Riseup. #irony)&lt;/p&gt;
+
+&lt;p&gt;En second choix Disroot. C&amp;rsquo;est new et shiny, et il⋅les utilisent des outils modernes. Recommandé en premier choix pour les gens qui veulent en profiter pour démarrer sur Diaspora* en même temps, ça fait moins de friction comme ça.&lt;/p&gt;
+
+&lt;p&gt;Enfin Openmailbox n&amp;rsquo;est pas à jeter non plus. Étant en France, on est dans une législation connue et en cas de problème avec le service c&amp;rsquo;est plus facile de discuter si on ne parle que le français.&lt;/p&gt;
+
+&lt;p&gt;Bref, tout n&amp;rsquo;est pas perdu, la relève est visiblement prête à en découdre.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Diaspora* comme alternative à Facebook</title>
@@ -1385,94 +1421,6 @@ Allumer le PC, aller faire un tour, oublier le timeout grub. &lt;em&gt;Oups&lt;/
 
 &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Un peu d&#39;intimité dans votre téléphone</title>
-      <link>https://aldarone.fr/un-peu-dintimite-dans-votre-telephone</link>
-      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/un-peu-dintimite-dans-votre-telephone</guid>
-      <description>&lt;p&gt;En ces temps troublés de surveillance généralisée, les écoutes de la NSA, le scandale Amesys il ne fait plus aucun doute que tout ce qu&amp;rsquo;on dit ou écrit en clair sur Internet est enregistré et sera utilisé contre nous.&lt;/p&gt;
-
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1454&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;200&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/team_fortress_2_wallpaper_happy_spy_by_dunkmovies-d5rg9xh-200x125.jpg&#34; alt=&#34;« La curiosité c&amp;#039;est mon péché mignon »&#34; width=&#34;200&#34; height=&#34;125&#34; class=&#34;size-quarter wp-image-1454&#34; /&gt; « La curiosité c&amp;rsquo;est mon péché mignon »[/caption]&lt;/p&gt;
-
-&lt;p&gt;Et si vous pensez n&amp;rsquo;avoir rien à cacher, vous ne pourriez être plus dans l&amp;rsquo;erreur. Seriez-vous prêt⋅es, par exemple, à m&amp;rsquo;envoyer une copie de vos mails ? À me laisser lire vos SMS ou vos messages facebook ? Voire à me laisser installer de quoi en rediriger systématiquement une copie chez moi pour que cette consultation ne soit plus ponctuelle mais systématique et automatique ?&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;en doute, alors pourquoi accepter que d&amp;rsquo;autres le fassent sans vous en demander la permission ?&lt;/p&gt;
-
-&lt;p&gt;Le plus souvent, c&amp;rsquo;est parce que la cryptographie fait peur. C&amp;rsquo;est des maths compliquées, il y a plein de gens qui vous disent qu&amp;rsquo;on est de toute façon jamais protégés à 100% et ça utilise des concepts hyper obscurs.&lt;/p&gt;
-
-&lt;p&gt;Si vous vous êtes déjà retrouvé face à quelqu&amp;rsquo;un qui tente de vous expliquer le besoin de chiffrement en décrivant dans le détail un échange de clé Diffie-Hellman, vous savez sûrement qu&amp;rsquo;on en ressort avec le cerveau en bouillie et l&amp;rsquo;impression que c&amp;rsquo;est se donner beaucoup de mal pour que la NSA ne sache pas que vous aurez un quart d&amp;rsquo;heure de retard en rentrant du boulot.&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est pour ça que je vais tenter de procéder autrement en présentant quelques exemples de solutions simples à mettre en place sur votre ordiphone pour que vos communications gagnent un peu en confidentialité.&lt;/p&gt;
-
-&lt;p&gt;Parce qu&amp;rsquo;il faut bien l&amp;rsquo;avouer, pour l&amp;rsquo;instant, passer un appel c&amp;rsquo;est comme crier dans la rue en espérant que personne d&amp;rsquo;autre que votre correspondant n&amp;rsquo;écoute et envoyer un sms ou un mms, c&amp;rsquo;est brandir une pancarte en espérant que personne d&amp;rsquo;autre ne regarde.&lt;/p&gt;
-
-&lt;p&gt;Ces solutions sont toutes &lt;strong&gt;libres&lt;/strong&gt;, c&amp;rsquo;est à dire que le code source des logiciels et les protocoles de sécurité sont publics afin que toutes celles et ceux qui le veulent et qui le peuvent puissent vérifier qu&amp;rsquo;il n&amp;rsquo;y a pas anguille sous roche. Ce n&amp;rsquo;est pas un gage d&amp;rsquo;infaillibilité, mais c&amp;rsquo;est un gage de confiance puisque c&amp;rsquo;est le seul moyen d&amp;rsquo;être sûr qu&amp;rsquo;aucune action malveillante ne sera entreprise volontairement par le logiciel et ses développeurs.&lt;/p&gt;
-
-&lt;p&gt;En revanche, elles ne sont pas anonymisantes. Un observateur sera &lt;strong&gt;&lt;em&gt;capable de voir avec qui&lt;/em&gt;&lt;/strong&gt; vous discutez, mais il lui sera tout de même &lt;strong&gt;&lt;em&gt;impossible de savoir de quoi&lt;/em&gt;&lt;/strong&gt; vous discutez.&lt;/p&gt;
-
-&lt;h2&gt;Pour sécuriser ses appels : RedPhone&lt;/h2&gt;
-
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1458&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681-300x146.jpg&#34; alt=&#34;RedPhone, la sécurité simplifiée.&#34; width=&#34;300&#34; height=&#34;146&#34; class=&#34;size-medium wp-image-1458&#34; /&gt; RedPhone, la sécurité simplifiée.[/caption]&lt;/p&gt;
-
-&lt;p&gt;RedPhone est une solution libre de VoIP chiffrée. Concrètement, ça veut dire que vous allez passer des appels qui passeront par la 3G (et seront comptés dans votre consommation « data ») ou WiFi au lieu d&amp;rsquo;être décomptés de votre forfait voix et que le flux audio sera chiffré pour que seul votre correspondant puisse entendre ce que vous dites.&lt;/p&gt;
-
-&lt;p&gt;Son utilisation est enfantine : Une fois que vous avez &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&#34;&gt;téléchargé et installé RedPhone&lt;/a&gt;, le logiciel va vous demander votre numéro de téléphone et va vous envoyer un SMS de confirmation qu&amp;rsquo;il récupèrera automatiquement. Voila, vous êtes prêt.&lt;/p&gt;
-
-&lt;p&gt;À partir de maintenant, quand vous voudrez passer un appel sécurisé, lancez RedPhone, choisissez un contact. Si il utilise RedPhone, l&amp;rsquo;appel sera chiffré, si il n&amp;rsquo;utilise pas RedPhone vous pourrez lui envoyer un message lui demandant de l&amp;rsquo;installer.&lt;/p&gt;
-
-&lt;p&gt;[gallery type=&amp;ldquo;rectangular&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1460,1459,1461&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note technique :&lt;/strong&gt; Vous avez peut-être froncé les sourcils, à raison, au moment de lui indiquer votre numéro de téléphone. C&amp;rsquo;est nécessaire pour établir l&amp;rsquo;annuaire des numéros disponibles sur RedPhone et savoir facilement si votre correspondant peut recevoir les appels et c&amp;rsquo;est également la solution la plus fiable pour répondre à une contrainte technique appelée « NAT Traversal. »&lt;/p&gt;
-
-&lt;p&gt;En effet, quand vous utilisez votre smartphone, vous êtes probablement en WiFi derrière une box, ou dans le réseau privé de votre opérateur mobile, bref vous n&amp;rsquo;avez pas un accès &lt;em&gt;direct&lt;/em&gt; à internet. Et dans ce cas, il est très compliqué d&amp;rsquo;établir une connexion avec un tiers situé lui aussi derrière une box ou dans un réseau privé sans passer par un intermédiaire. Toutefois, dans le cas de RedPhone, cet intermédiaire ne sert que de relais et ne peut pas écouter la conversation.&lt;/p&gt;
-
-&lt;h2&gt;Sécuriser ses messages&lt;/h2&gt;
-
-&lt;p&gt;Nous avons vu à quel point il était aisé de passer des appels sécurisés, maintenant voyons comment échanger des messages et des documents. Vous verrez, c&amp;rsquo;est tout aussi simple.&lt;/p&gt;
-
-&lt;h3&gt;La sécurité sans concession : TextSecure&lt;/h3&gt;
-
-&lt;p&gt;[caption id=&amp;ldquo;attachment_1464&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/textsecure-300x146.jpg&#34; alt=&#34;TextSecure, la sécurité simplifiée&#34; width=&#34;300&#34; height=&#34;146&#34; class=&#34;size-medium wp-image-1464&#34; /&gt; TextSecure, la sécurité simplifiée[/caption]&lt;/p&gt;
-
-&lt;p&gt;TextSecure est une solution libre d&amp;rsquo;envoi de SMS chiffrés. Concrètement, cela veut dire que vous allez envoyer des SMS chiffrés qui seront traités comme n&amp;rsquo;importe quel SMS par votre opérateur et qui seront déchiffrés sur le téléphone de votre correspondant⋅e. Depuis la version 2 il est également possible de passer par les serveurs de TextSecure (qui ont le même rôle que ceux de RedPhone) afin que votre opérateur soit dans l&amp;rsquo;incapacité de savoir avec qui vous communiquez.&lt;/p&gt;
-
-&lt;p&gt;Si vous avez une impression de déjà vu, c&amp;rsquo;est normal, elle est développée par la même communauté que RedPhone.&lt;/p&gt;
-
-&lt;p&gt;À l&amp;rsquo;utilisation, c&amp;rsquo;est tout aussi enfantin. L&amp;rsquo;application se présente comme une application de SMS classique. Elle est d&amp;rsquo;ailleurs en passe de devenir l&amp;rsquo;application SMS par défaut de la célèbre ROM pour Android : « Cyanogen »&lt;/p&gt;
-
-&lt;p&gt;Après avoir &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&#34;&gt;téléchargé et installé TextSecure&lt;/a&gt; l&amp;rsquo;application vous demandera si vous souhaitez créer un mot de passe pour protéger vos messages au cas où votre téléphone tomberai entre de mauvaises mains, puis elle vous demandera si il faut importer les SMS déjà existants dans le téléphone vers sa propre base. L&amp;rsquo;intérêt de cette opération étant que vos SMS se retrouvent chiffrés sur votre téléphone et que pour les lire il faudra entrer le mot de passe créé précédemment.&lt;/p&gt;
-
-&lt;p&gt;Vous pourrez tout de même réaliser un export chiffré ou en clair de la base de messages en guise de sauvegarde.&lt;/p&gt;
-
-&lt;p&gt;À partir de maintenant, si vos contacts utilisent eux aussi TextSecure, l&amp;rsquo;application vous proposera de chiffrer vos échanges. Cela se matérialise par un premier échange de clé (celui dont l&amp;rsquo;explication technique donne mal à la tête) automatique puis les SMS seront chiffrés automatiquement sans autre action nécessaire de votre part et sans aucun intermédiaire impliqué.&lt;/p&gt;
-
-&lt;p&gt;[gallery type=&amp;ldquo;rectangular&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1470,1466,1467,1468,1469&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Notez tout de même que si vous créer un mot de passe au démarrage de l&amp;rsquo;application et que vous même l&amp;rsquo;oubliez, il vous sera impossible de lire les messages présents dans la base, ils seront alors perdus à jamais. Vous devrez supprimer l&amp;rsquo;application et la réinstaller pour pouvoir régénérer un nouveau mot de passe et recommencer avec une base vide.&lt;/p&gt;
-
-&lt;h3&gt;La sécurité pratique : Telegram&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/Telegram.png&#34; alt=&#34;Telegram&#34; width=&#34;300&#34; height=&#34;300&#34; class=&#34;alignright size-full wp-image-1472&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dans la première édition de cet article, je présentais Telegram comme une alternative moins sécurisée mais plus pratique à TextSecure, toutefois depuis la sortie de TextSecure V2 il n&amp;rsquo;y a plus davantage à utiliser Telegram puisque l&amp;rsquo;écart de fonctionnalité est inexistant et la sécurité est bien meilleure.&lt;/p&gt;
-
-&lt;h2&gt;Simple comme bonjour&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift-150x150.jpg&#34; alt=&#34;Montessori-game-Baby-educational-toys-children-old-thirteen-hole-intelligence-box-shape-building-block-toy-gift&#34; width=&#34;150&#34; height=&#34;150&#34; class=&#34;alignleft size-thumbnail wp-image-1480&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Après de longues années où le besoin de confidentialité croissait et où les solutions pour en profiter à un niveau suffisant étaient particulièrement rebutantes, nous voyons à présent arriver de nouvelles applications qui s&amp;rsquo;installent en un clic et sont aussi simple d&amp;rsquo;utilisation et pratique que n&amp;rsquo;importe quelle autre application non sécurisée.&lt;/p&gt;
-
-&lt;p&gt;Il ne vous reste plus qu&amp;rsquo;à sauter le pas.&lt;/p&gt;
-
-&lt;h2&gt;Diffie-Hellman&lt;/h2&gt;
-
-&lt;p&gt;Et comme je ne peux décemment pas vous laisser comme ça en évoquant Diffie-Hellman tout le long de l&amp;rsquo;article ainsi que les maux de tête qu&amp;rsquo;il engendre chez les personnes qui ont des boutons dès qu&amp;rsquo;ils entendent « Arithmétique » voila une petite vidéo en anglais qui vulgarise ce fameux échange de clés en utilisant des couleurs, de la peinture, une corde et une horloge.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3QnD2c4Xovk&#34;&gt;https://www.youtube.com/watch?v=3QnD2c4Xovk&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
