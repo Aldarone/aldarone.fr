@@ -20,7 +20,7 @@ Alors du coup quelles sont les alternatives ? J'en ai vu trois qui peuvent faire
 
 - [disroot.org][2], basé aux Pays-Bas. Il y a des mails, du chat et du diaspora*.  Le domaine date de 2015-06 donc c'est assez jeune mais ça a aussi l'avantage de pas être embarassé par du legacy. Est-ce que ça évolue vite quand il faut ? Est-ce que c'est pérenne ?
 - [autistici.org][3], basé en Italie. Il y a des mails et du chat, le domaine date de 2000-08 du coup on est sûr qu'il y a de l'expérience. C'est assez similaire à ce que proposait riseup. Mention spéciale à [leur charte qui promeut explicitement les luttes contre les oppressions][4]
-- [openmailbox.org][5], basé en France. Avec mail et chat et dont le domaine date de 2013-05. Ça a l'air de tourner rond (une infrastructure à 20k€/an ça fait sérieux) mais du côté du support ça a l'air d'être un seul gars.
+- [openmailbox.org][5], basé en France. Avec mail et chat et dont le domaine date de 2013-05. Ça a l'air de tourner rond (une infrastructure à 20k€/an ça fait sérieux) mais du côté du support ça a l'air d'être un seul gars et pour le moment [il⋅les n'acceptent plus les inscriptions][6] (mais ça devrait rouvrir bientôt).
 
 Alors on va où ?
 
@@ -37,3 +37,4 @@ Bref, tout n'est pas perdu, la relève est visiblement prête à en découdre.
 [3]: http://www.autistici.org/fr/index.html
 [4]: http://www.autistici.org/fr/who/policy.html
 [5]: https://www.openmailbox.org/
+[6]: https://twitter.com/openmailbox_org/status/779548665539092480
