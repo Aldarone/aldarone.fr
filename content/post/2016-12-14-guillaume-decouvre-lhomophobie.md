@@ -12,7 +12,7 @@ Les pages bleues pour les garçons, les pages roses pour les filles et les mini-
 
 Et ce qu'il se passe quand on est un papa blanc hétérosexuel pas sexiste pas raciste pas homophobe et qu'on a un enfant qui voudrait un jouet de page rose alors que lui il est sensé regarder les pages bleues, ce qu'il se passe donc, c'est qu'on découvre l'existence de ce concept jusqu'alors nébuleux et qui s'appelle l'homophobie.
 
-Et alors on écrit un article qu'on appelle « [Voyage au pays des sexistes et des homophobes][3] » pour bien rappeler que ça se passe dans un endroit qui nous est tout à fait éloigné, autant qu'un pays étrangé peut l'être, parce que nous on est pas sexiste. Et on est pas homophobe. Et nos proches non plus. C'est les autres qui le sont.
+Et alors on écrit un article qu'on appelle « [Voyage au pays des sexistes et des homophobes][3] » pour bien rappeler que ça se passe dans un endroit qui nous est tout à fait éloigné, autant qu'un pays étranger peut l'être, parce que nous on est pas sexiste. Et on est pas homophobe. Et nos proches non plus. C'est les autres qui le sont.
 
 ## Le pays des sexistes
 
