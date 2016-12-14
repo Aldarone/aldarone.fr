@@ -12,7 +12,7 @@ Les pages bleues pour les garçons, les pages roses pour les filles et les mini-
 
 Et ce qu'il se passe quand on est un papa blanc hétérosexuel pas sexiste pas raciste pas homophobe et qu'on a un enfant qui voudrait un jouet de page rose alors que lui il est sensé regarder les pages bleues, ce qu'il se passe donc, c'est qu'on découvre l'existence de ce concept jusqu'alors nébuleux et qui s'appelle l'homophobie.
 
-Et alors on écrit un article qu'on appelle « [Voyage au pays des sexistes et des homophobes][1] » pour bien rappeler que ça se passe dans un endroit qui nous est tout à fait éloigné, autant qu'un pays étrangé peut l'être, parce que nous on est pas sexiste. Et on est pas homophobe. Et nos proches non plus. C'est les autres qui le sont.
+Et alors on écrit un article qu'on appelle « [Voyage au pays des sexistes et des homophobes][3] » pour bien rappeler que ça se passe dans un endroit qui nous est tout à fait éloigné, autant qu'un pays étrangé peut l'être, parce que nous on est pas sexiste. Et on est pas homophobe. Et nos proches non plus. C'est les autres qui le sont.
 
 ## Le pays des sexistes
 
@@ -24,7 +24,7 @@ Ok c'est madame qui fait à manger et qui fait la lessive. Mais madame discute a
 
 Et ok, tout naturellement, on admet que comme dans tous les ménages, c'est madame qui en fait le plus.
 
-Et comme ça, au détour d'une phrase, presque nonchalemment, on admet qu'on profite en moyenne de [trentes minutes de temps libre et d'une heure et demi de temps professionnel en plus que madame par jour ][2]. Sans jamais s'interroger sur ce que ça implique en terme de développement personnel et professionnel. Mais on est pas sexiste. Les sexistes c'est les autres.
+Et comme ça, au détour d'une phrase, presque nonchalemment, on admet qu'on profite en moyenne de [trentes minutes de temps libre et d'une heure et demi de temps professionnel en plus que madame par jour ][4]. Sans jamais s'interroger sur ce que ça implique en terme de développement personnel et professionnel. Mais on est pas sexiste. Les sexistes c'est les autres.
 
 ## Le pays des homophobes
 
@@ -38,7 +38,7 @@ D'ailleurs, on est tellement pas homophobe que quand des gens insultent son peti
 
 Tant pis si tous ces cons qui ont le droit de s'exprimer après tout ils  défilaient dans les rues des grandes villes françaises pendant les mois qu'ont duré les interminables débats sur le mariage pour tous.
 
-Tant pis si le nombres de témoignages d'actes LGBTphobes [ne cesse d'augmenter depuis 2002][3] avec un pic quand tous ces cons qui ont le droit de s'exprimer après tout étaient en train de défiler.
+Tant pis si le nombres de témoignages d'actes LGBTphobes [ne cesse d'augmenter depuis 2002][5] avec un pic quand tous ces cons qui ont le droit de s'exprimer après tout étaient en train de défiler.
 
 On est pas homophobes nous alors l'homophobie apparaît soudainement en 2016 quand on fait un tweet à propos d'un gamin qui veut une poupée et c'est juste de la connerie qui ne nous atteint pas après tout.
 
@@ -58,9 +58,9 @@ C'est par cette question, ironiquement, que la réflexion s'arrête. Les pas-sex
 
 La première étape c'est d'arrêter avec l'idée saugrenue que vivant dans une société sexiste, raciste, homophobe, validiste et j'en passe, on peut y échapper.
 
-Les sexistes c'est pas les autres. Les homophobes, c'est pas les autres. Les racistes, c'est pas les autres non plus. [Et ils sont pas juste cons.][4]
+Les sexistes c'est pas les autres. Les homophobes, c'est pas les autres. Les racistes, c'est pas les autres non plus. [Et ils sont pas juste cons.][6]
 
-Cette étape évite de s'imaginer détaché de ces considérations et aide à prendre conscience qu'on peut décemment pas lâcher « pour être honnête, elle en fait plus que moi., comme dans la plupart des foyers. » après avoir dit qu'on est pas sexiste, ou « c’est vraiment épatant à observer » en parlant [de réactions homophobes qui tuent des gens][5].
+Cette étape évite de s'imaginer détaché de ces considérations et aide à prendre conscience qu'on peut décemment pas lâcher « pour être honnête, elle en fait plus que moi., comme dans la plupart des foyers. » après avoir dit qu'on est pas sexiste, ou « c’est vraiment épatant à observer » en parlant [de réactions homophobes qui tuent des gens][7].
 
 Les sexistes, les racistes, les homophobes, c'est nous[^1].
 
@@ -82,12 +82,12 @@ Enfin, l'étape d'après c'est qu'il n'y a pas d'étape d'après. On a mis le do
 
 Parce qu'on a un sacré travail à faire. Mais qu'on a enfin commencé.
 
+[3]: https://medium.com/@gchampeau/voyage-au-pays-des-sexistes-et-homophobes-3706575ea544
+[4]: http://www.inegalites.fr/spip.php?article245
+[5]: https://www.sos-homophobie.org/rapport-annuel-2015
+[6]: https://medium.com/@mcpaccard/le-problème-ici-cest-que-c-est-trop-simple-de-grouper-ces-gens-dans-les-cons-66634585ab4
+[7]: https://www.sos-homophobie.org/article/le-suicide-une-consequence-averee-de-l%E2%80%99homophobie-et-de-la-transphobie
+
 [^1]: D'ailleurs au sujet du racisme et de certains passages de son article, je soupçonne Guillaume d'avoir au mieux un grand angle mort à ce sujet, au pire… pire, mais je veux pas me faire taxer de procès d'intention alors j'ai pas développé.
 
 [^2]: N'allez pas vous imaginer que je sors ces réflexions de mes fesses de gars blanc éclairé. Ça fait des années que j'écoute, que je lis, que des féministes m'accordent de leur temps pour m'expliquer et me recadrer (et elles ont pas fini de le faire). Une grande partie de ce post [a d'ailleur été tiré des réflexions autour de ce fil twitter](https://twitter.com/valerieCG/status/809001185910882304).
-
-[1]: https://medium.com/@gchampeau/voyage-au-pays-des-sexistes-et-homophobes-3706575ea544
-[2]: http://www.inegalites.fr/spip.php?article245
-[3]: https://www.sos-homophobie.org/rapport-annuel-2015
-[4]: https://medium.com/@mcpaccard/le-problème-ici-cest-que-c-est-trop-simple-de-grouper-ces-gens-dans-les-cons-66634585ab4
-[5]: https://www.sos-homophobie.org/article/le-suicide-une-consequence-averee-de-l%E2%80%99homophobie-et-de-la-transphobie
