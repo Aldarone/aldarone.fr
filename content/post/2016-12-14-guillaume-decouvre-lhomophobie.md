@@ -94,4 +94,4 @@ Parce qu'on a un sacré travail à faire. Mais qu'on a enfin commencé.
 
 [^1]: D'ailleurs au sujet du racisme et de certains passages de son article, je soupçonne Guillaume d'avoir au mieux un grand angle mort à ce sujet, au pire… pire, mais je veux pas me faire taxer de procès d'intention alors j'ai pas développé.
 
-[^2]: N'allez pas vous imaginer que je sors ces réflexions de mes fesses de gars blanc éclairé. Ça fait des années que j'écoute, que je lis, que des féministes m'accordent de leur temps pour m'expliquer et me recadrer (et elles ont pas fini de le faire)
+[^2]: N'allez pas vous imaginer que je sors ces réflexions de mes fesses de gars blanc éclairé. Ça fait des années que j'écoute, que je lis, que des féministes m'accordent de leur temps pour m'expliquer et me recadrer (et elles ont pas fini de le faire). Une grande partie de ce post [a d'ailleur été tiré des réflexions autour de ce fil twitter](https://twitter.com/valerieCG/status/809001185910882304).
