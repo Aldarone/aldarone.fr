@@ -7,8 +7,112 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Wed, 14 Dec 2016 14:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2017 17:57:33 +0100</lastBuildDate>
     <atom:link href="https://aldarone.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Combien de temps je vais m&#39;y tenir cette fois ?</title>
+      <link>https://aldarone.fr/combien-de-temps-je-vais-my-tenir-cette-fois/</link>
+      <pubDate>Sun, 29 Jan 2017 17:57:33 +0100</pubDate>
+      
+      <guid>https://aldarone.fr/combien-de-temps-je-vais-my-tenir-cette-fois/</guid>
+      <description>
+
+&lt;p&gt;Histoire de pas toujours écrire un article fleuve et rester silencieuse ici de longues semaines en attendant l&amp;rsquo;idée suivante, je me suis dit que j&amp;rsquo;allais essayer de faire un petit bilan hebdo des trucs vu en ligne qui ont marqué ma semaine.&lt;/p&gt;
+
+&lt;p&gt;Après, je me connais, je sais bien que mes bonnes résolution tombent toujours à l&amp;rsquo;eau après quelques itérations donc c&amp;rsquo;est pas dit que je persiste longtemps. Mais j&amp;rsquo;espère que ça en intéressera le temps que ça durera.&lt;/p&gt;
+
+&lt;p&gt;Et j&amp;rsquo;ai aucune idée du format que ça aura parce que on est Mardi, j&amp;rsquo;ai juste mes notes de la veille et si ça se trouve d&amp;rsquo;ici Vendredi j&amp;rsquo;aurai de quoi écrire un petit roman que je ne voudrais pas forcément infliger au reste du monde.&lt;/p&gt;
+
+&lt;h2 id=&#34;lundi&#34;&gt;Lundi&lt;/h2&gt;
+
+&lt;h3 id=&#34;arch-et-linux-sont-dans-un-bâteau&#34;&gt;Arch et Linux sont dans un bâteau&lt;/h3&gt;
+
+&lt;p&gt;On commence par un peu de technique parce que j&amp;rsquo;ai creusé un peu autour du noyau Linux et d&amp;rsquo;Arch. C&amp;rsquo;est toujours la version 4.8 qui est dans le dépôt stable alors que la version 4.9 est sortie en décembre et que la 4.8 ne sera plus supportée d&amp;rsquo;ici la fin du mois.&lt;/p&gt;
+
+&lt;p&gt;Il s&amp;rsquo;avère que la 4.9 a &lt;a href=&#34;https://bugzilla.kernel.org/show_bug.cgi?id=192111&#34;&gt;un vilain bug&lt;/a&gt; qui empêche les ordis ayant un processeur Intel de démarrer. Ça ne le fait pas avec tous les CPU Intel, mais c&amp;rsquo;est suffisamment gênant pour bloquer le noyau dans les dépôts testing. On espérait une résolution pour la 4.9.5 qui est sortie le 20 Janvier mais &lt;a href=&#34;https://bugs.archlinux.org/task/52246#comment154786&#34;&gt;apparemment ça serait plutôt pour la 4.9.6&lt;/a&gt; (cf. le dernier commentaire) qui sortira prochainement.&lt;/p&gt;
+
+&lt;h3 id=&#34;un-mauvais-docu-sur-le-porn-amateur-professionnel&#34;&gt;Un mauvais docu sur le porn « amateur » professionnel&lt;/h3&gt;
+
+&lt;p&gt;Ensuite, j&amp;rsquo;ai regardé le documentaire Netflix « &lt;a href=&#34;https://www.youtube.com/watch?v=qTkEIGsNXu4&#34;&gt;Hot Girls Wanted&lt;/a&gt; » qui était… plutôt médiocre. Le docu commence alors que des adolescentes arrivent chez leur « agent » après avoir répondu à une annonce et se termine avec soulagement quand elles sont sauvées de la pornographie quelques mois plus tard.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;angle choisi saute aux yeux, il s&amp;rsquo;agit une fois de plus de décrire le travail du sexe comme intrinsèquement mauvais au lieu d&amp;rsquo;attaquer l&amp;rsquo;industrie capitaliste qui exploite les travailleur⋅euses. La critique qu&amp;rsquo;en fait &lt;a href=&#34;http://jezebel.com/in-hot-girls-wanted-porn-isnt-ruining-women-exploitat-1709109263&#34;&gt;le site Jezebel&lt;/a&gt; est assez instructive et pour une vraie critique de l&amp;rsquo;industrie du sexe, je conseillerai probablement « &lt;a href=&#34;http://www.canalplus.fr/infos-documentaires/pornocratie/cid1429571-figure-du-x-engage-feministe-qui-est-la-realisatrice-ovidie.html&#34;&gt;Pornocratie, les nouvelles multinationales du sexe&lt;/a&gt; » d&amp;rsquo;Ovidie si j&amp;rsquo;arrive à mettre la main dessus.&lt;/p&gt;
+
+&lt;h3 id=&#34;des-réflexions-du-genre&#34;&gt;Des réflexions du genre&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;ai aussi lu un article qui a éclairci d&amp;rsquo;un coup beaucoup des choses encore nébuleuses dans ma tête et qu&amp;rsquo;il va falloir que je digère un peu, c&amp;rsquo;est « &lt;a href=&#34;https://raymondreviens.wordpress.com/2017/01/17/anti-guide-du-questionnement-de-genre/&#34;&gt;Anti-guide du questionnement de genre&lt;/a&gt; » du blog Raymond Reviens qui se veut une réponse au « &lt;a href=&#34;http://simonae.fr/militantisme/thematiques-queer/petit-guide-questionnement-genre/&#34;&gt;Petit guide du questionnement de genre&lt;/a&gt; » de chez Simonæ sous un angle qu&amp;rsquo;on pourrait qualifer de matérialiste et anti-libéral (d&amp;rsquo;où, entre autres, le fait que ça me parle)&lt;/p&gt;
+
+&lt;h3 id=&#34;libreelec-sur-odroid-c2&#34;&gt;LibreElec sur ODROID-C2&lt;/h3&gt;
+
+&lt;p&gt;Et puis finalement, j&amp;rsquo;ai passé la dernière beta de &lt;a href=&#34;http://forum.odroid.com/viewtopic.php?f=144&amp;amp;t=24753&amp;amp;sid=b91cb0c1223b33b08e91735f172a1f61&#34;&gt;LibreElec sur mon Odroid-C2&lt;/a&gt;. Il a remplacé mon RaspberryPi 2 (qui tournait sous &lt;a href=&#34;https://osmc.tv/&#34;&gt;OSMC&lt;/a&gt;) pour lire mes fichiers médias puisqu&amp;rsquo;il est capable de décoder du HEVC 10bits et avec la dernière beta disponible je peux enfin afficher les vidéos youtube en FullHD. Le seul truc un peu relou c&amp;rsquo;est qu&amp;rsquo;il a fallu faire une installation complète au lieu de passer par le processus de mise à jour standard.&lt;/p&gt;
+
+&lt;h2 id=&#34;mardi&#34;&gt;Mardi :&lt;/h2&gt;
+
+&lt;h3 id=&#34;pornocratie&#34;&gt;Pornocratie&lt;/h3&gt;
+
+&lt;p&gt;Ça n&amp;rsquo;aura pas trop tardé, j&amp;rsquo;ai pu regarder « Pornocratie » qui était effectivement vachement plus intéressant que « Hot Girls Wanted » puisqu&amp;rsquo;il dénonce les montages financiers fait par les boites de streaming gratuit. Par contre il ne traite que de cet angle et fait un peu dans la nostalgie du temps avant le piratage où les travailleurs et travailleuses du sexe étaient respectées dans le métier 🤔&lt;/p&gt;
+
+&lt;h3 id=&#34;la-signature-de-firefox-nightly&#34;&gt;La signature de Firefox Nightly&lt;/h3&gt;
+
+&lt;p&gt;Apparemment il y a quelques semaines Mozilla a migré le système de build de Firefox sur une nouvelle plateforme et du coup la génération des signatures et des sommes de contrôle est toute pétée. Ça veut dire que quand on installe une verssion nightly, on peut pas être sûres qu&amp;rsquo;on est pas en train de télécharger une version modifiée par un tiers malveillant. &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=1305139#c17&#34;&gt;Tout devrait être rétabli d&amp;rsquo;ici la semaine prochaine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Comme j&amp;rsquo;utilise le paquet &lt;code&gt;firefox-nighlty-fr&lt;/code&gt; d&amp;rsquo;Archlinux j&amp;rsquo;ai du un peu bidouiller le &lt;code&gt;PKGBUILD&lt;/code&gt; pour désactiver la récupération et la vérification des checksums (en gros on replace les commandes curl correspondantes par un gros &lt;code&gt;&#39;SKIP&#39;&lt;/code&gt; et on utilise l&amp;rsquo;option &lt;code&gt;--skipinteg&lt;/code&gt; de &lt;code&gt;makepkg&lt;/code&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;mercredi&#34;&gt;Mercredi :&lt;/h2&gt;
+
+&lt;h3 id=&#34;city-of-stars&#34;&gt;City of stars&lt;/h3&gt;
+
+&lt;p&gt;Perso j&amp;rsquo;adore les comédies musicales, j&amp;rsquo;adore Ryan Gosling, j&amp;rsquo;adore Emma Stone et j&amp;rsquo;ai beaucoup aimé Whisplash. Donc j&amp;rsquo;étais très très hypé pour la sortie de « &lt;a href=&#34;https://www.youtube.com/watch?v=0pdqf4P9MB8&#34;&gt;La La Land&lt;/a&gt; »&lt;/p&gt;
+
+&lt;p&gt;Et je n&amp;rsquo;ai pas été déçu. Du rire et des larmes et des étoiles dans les yeux et les chansons en tête tout le reste de la semaine. C&amp;rsquo;est la crème de la comédie romantique hétéro monogame, avec des chansons en plus.&lt;/p&gt;
+
+&lt;p&gt;Le seul point noir c&amp;rsquo;est que la monogamie c&amp;rsquo;est vraiment de la merde.&lt;/p&gt;
+
+&lt;h3 id=&#34;bad-evil-singleton&#34;&gt;Bad Evil Singleton&lt;/h3&gt;
+
+&lt;p&gt;Au boulot j&amp;rsquo;ai eu à intervenir sur du code comportant un Bad Evil Singleton. Du genre qui répand du Global State dans tous les sens et qui rend affreusement difficile la compréhension des entrée/sortie et le testing.&lt;/p&gt;
+
+&lt;p&gt;Du coup je laisse un message de service : &lt;a href=&#34;https://testing.googleblog.com/2008/08/by-miko-hevery-so-you-join-new-project.html&#34;&gt;Tuez vos singletons&lt;/a&gt; et faites de l&amp;rsquo;injection de dépendance.&lt;/p&gt;
+
+&lt;h2 id=&#34;jeudi&#34;&gt;Jeudi :&lt;/h2&gt;
+
+&lt;h3 id=&#34;ce-beau-pays-qu-est-la-russie&#34;&gt;Ce beau pays qu&amp;rsquo;est la Russie&lt;/h3&gt;
+
+&lt;p&gt;C&amp;rsquo;est toujours agréable de commencer la journée sur des bonnes nouvelles et ce matin là c&amp;rsquo;était donc l&amp;rsquo;annonce de la dépénalisation des violences conjugales en Russie. Au nom, bien sûr, de &lt;a href=&#34;http://www.lemonde.fr/europe/article/2017/01/26/contre-les-valeurs-occidentales-la-russie-depenalise-les-violences-domestiques_5069197_3214.html&#34;&gt;la protection de cette institution séculaire qu&amp;rsquo;est la famille&lt;/a&gt;. Qu&amp;rsquo;est-ce qu&amp;rsquo;on ferait pas pour la sauver celle-là hein ?&lt;/p&gt;
+
+&lt;h3 id=&#34;la-justice-en-milieu-anarcho-queer&#34;&gt;La justice en milieu anarcho-queer&lt;/h3&gt;
+
+&lt;p&gt;Pour rester dans des sujets similaires, je suis tombé sur un texte intéressant sur &lt;a href=&#34;https://colonellerobles.wordpress.com/2014/02/26/premiers-pas-sur-une-corde-raide/&#34;&gt;la manière de gérer les agressions sexuelles en milieu queer et féministe&lt;/a&gt; qui fait écho à quelque chose que j&amp;rsquo;avais lu sur il y a un moment sur &lt;a href=&#34;http://www.atelierdecreationlibertaire.com/IMG/pdf/Deviance_en_societe_libertaire.pdf&#34;&gt;la gestion de la criminalité, sur l&amp;rsquo;exil et sur la peine de mort dans une société anarchiste&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;vendredi&#34;&gt;Vendredi :&lt;/h2&gt;
+
+&lt;h3 id=&#34;une-alternative-à-twitter&#34;&gt;Une alternative à Twitter&lt;/h3&gt;
+
+&lt;p&gt;Toujours à l&amp;rsquo;affut pour quitter les services centralisés et privateurs, j&amp;rsquo;ai décidé de tester Mastodon qui est une réimplémentation de GNUSocial avec une interface beaucoup plus sexy (semblable à celle de Tweetdeck) et quelques fonctionnalités bienvenues.&lt;/p&gt;
+
+&lt;p&gt;Déjà l&amp;rsquo;équivalent des « Tweets » s&amp;rsquo;appelle les « Pouets », ensuite il est possible de passer par une étape de validation avant que quelqu&amp;rsquo;un puisse nous suivre tout en continuant à poster des pouets publics. À l&amp;rsquo;opposé on peut publier des pouets visibles uniquement pour nos followers même si on ne les valide pas.&lt;/p&gt;
+
+&lt;p&gt;Enfin, il y a un système de &lt;a href=&#34;https://www.youtube.com/watch?v=0Y3T6Xz5h7o&#34;&gt;Content Warning&lt;/a&gt; qui permet d&amp;rsquo;écrire des spoilers, ou du contenu trigger qui ne sera affiché qu&amp;rsquo;après un clic sur un bouton.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai rapidement trouvé &lt;a href=&#34;https://github.com/halcy/MastodonToTwitter&#34;&gt;un script super bien foutu pour synchroniser mon compte avec Twitter&lt;/a&gt; et à part pour répondre aux tweets ou aux mentions je n&amp;rsquo;utilise plus que ça depuis.&lt;/p&gt;
+
+&lt;p&gt;Pour tester il faut s&amp;rsquo;incrire sur &lt;a href=&#34;https://mastodon.social/auth/sign_up&#34;&gt;mastodon.social&lt;/a&gt; et pour me suivre il suffit d&amp;rsquo;ajouter &lt;a href=&#34;https://mastodon.social/users/Alda&#34;&gt;Alda@mastodon.social&lt;/a&gt; (Ça marche aussi avec GNUSocial)&lt;/p&gt;
+
+&lt;h3 id=&#34;aux-chiottes-le-citoyennisme&#34;&gt;Aux chiottes le citoyennisme&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;ai dépassé mon quotat de gens qui employaient les termes « citoyen » et « démocratie participative » à tout bout de champ du coup j&amp;rsquo;ai ressorti un article à ce propos trouvé sur « La Bibliothèque Anarchiste » : « &lt;a href=&#34;https://fr.theanarchistlibrary.org/library/machete-individus-ou-citoyens&#34;&gt;Individus ou citoyens&lt;/a&gt; » qui donne du grain à moudre.&lt;/p&gt;
+
+&lt;h3 id=&#34;arch-et-linux-sont-encore-dans-un-bateau&#34;&gt;Arch et Linux sont encore dans un bateau&lt;/h3&gt;
+
+&lt;p&gt;Finalement, j&amp;rsquo;ai fini ma semaine en mettant le noyau Linux à jour suite à la sortie de la version 4.9.6 dans les dépôts. Et la bonne nouvelle c&amp;rsquo;est que des corrections sympa sont présentes dans le module i915 ce qui m&amp;rsquo;a permis de réactiver deux fonctions d&amp;rsquo;économie d&amp;rsquo;énergie qui causaient le clignotement de l&amp;rsquo;écran de mon laptop. J&amp;rsquo;ai gagné 2W de consommation sur batterie ce qui me fait gagner de précieuses minutes d&amp;rsquo;usage, et c&amp;rsquo;est cool.&lt;/p&gt;
+
+&lt;p&gt;En parlant de mon laptop, il ne me reste plus quà résoudre un problème de webcam qui ne fonctionne qu&amp;rsquo;en 480p alors qu&amp;rsquo;elle est FullHD, un problème de hotplug HDMI et le décodage matériel des vidéos en HEVC ou VP9 10bits et il sera 100% fonctionnel. Pour un modèle sorti en septembre 2016, le support matériel est plutôt bon.&lt;/p&gt;
+
+&lt;h2 id=&#34;fin&#34;&gt;Fin&lt;/h2&gt;
+
+&lt;p&gt;Voilà du coup le résumé de la semaine, c&amp;rsquo;est un peu long, peut-être que je splitterai à l&amp;rsquo;avenir, ou peut-être que je mettrai moins d&amp;rsquo;info. Si vous avez des suggestions vous pouvez commenter sur les divers rézosocio, je suis pas si dur à trouver. 😛&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Guillaume découvre l&#39;homophobie</title>
@@ -1356,69 +1460,6 @@ Comme les communications sont chiffrées, Google pourra uniquement voir que vous
 &lt;p&gt;Le choix sera surtout une question de goût, personnellement j&amp;rsquo;aime bien le mode « HQ3x » que je trouve adapté au style cartoon du jeu mais certaines personnes le trouvent trop lissé et préfèrent une expérience plus authentique.&lt;/p&gt;
 
 &lt;p&gt;Amusez vous bien !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fuck you ownCloud. Fuck you.</title>
-      <link>https://aldarone.fr/fuck-you-owncloud-fuck-you/</link>
-      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/fuck-you-owncloud-fuck-you/</guid>
-      <description>&lt;p&gt;/!\ Ce billet contient un certain niveau de rage et de frustration envers un logiciel non coopératif et bugué. Merci d&amp;rsquo;en tenir compte lors de votre lecture. /!&lt;/p&gt;
-
-&lt;h3&gt;Mise à jour du 09 décembre 2014, 14h&lt;/h3&gt;
-
-&lt;p&gt;J&amp;rsquo;ai reçu un mail d&amp;rsquo;un lecteur qui m&amp;rsquo;explique comment il a laissé tomber Owncloud devant le manque constant de fiabilité et est passé à &lt;a href=&#34;http://seafile.com/en/home/&#34;&gt;SeaFile&lt;/a&gt;. Il donne plus de détails sur son blog : « &lt;a href=&#34;http://eliotberriot.com/blog/2013/12/18/owncloud-sparkleshare-git-annex-seafile-quelle-solution-libre-pour-heberger-et-synchroniser-ses-fichiers/&#34;&gt;Ownbutt, SparkleShare, Git-Annex, Seafile&amp;hellip; Quelle solution libre pour héberger et synchroniser ses fichiers ?&lt;/a&gt; » et a rédigé une dépêche sur LinuxFR pour présenter la version 3 : « &lt;a href=&#34;https://linuxfr.org/news/seafile-un-dropbox-like-libre-a-heberger-sort-en-version-3&#34;&gt;Seafile, un Dropbox-like libre à héberger sort en version 3&lt;/a&gt; »&lt;/p&gt;
-
-&lt;p&gt;Effectivement ça a l&amp;rsquo;air alléchant, mais SeaFile &lt;a href=&#34;https://github.com/haiwen/seafile/issues/801&#34;&gt;ne propose pas encore de service CardDav, ni CalDav&lt;/a&gt; pour synchroniser des contacts ou des calendriers. Ayant laissé tomber mon instance &lt;a href=&#34;http://baikal-server.com/&#34;&gt;Baïkal&lt;/a&gt; pour passer à OwnCloud, ça m&amp;rsquo;embêterait de séparer à nouveau ces services là.&lt;/p&gt;
-
-&lt;h3&gt;Article d&#39;origine&lt;/h3&gt;
-
-&lt;p&gt;ownButt est un logiciel en PHP qui sert à héberger son propre service de partage de fichiers. Globalement c&amp;rsquo;est un équivalent libre de Dropbox qui fait aussi de la synchro de contacts et de calendriers.&lt;/p&gt;
-
-&lt;p&gt;Il y a quelques temps maintenant, les gestionnaires du projet ont annoncé en grande pompe le module de chiffrement côté serveur qui permet aux utilisateurices de s&amp;rsquo;assurer que leur hébergeur ne pourra pas voir le contenu des fichiers envoyés. (À ce point là, il est important de noter que la personne en charge de l&amp;rsquo;administration dispose d&amp;rsquo;une clé de récupération, au cas où.)&lt;/p&gt;
-
-&lt;p&gt;Même si je suis mon propre hébergeur, je me suis empressé d&amp;rsquo;activer ce module lors de l&amp;rsquo;installation de mon instance il y a deux ou trois mois, imaginant déjà libérer mes potes du joug de Dropbox en les rassurant sur le fait que je ne pourrais pas accéder à leurs dick- ou clit-pics sans qu&amp;rsquo;illes soient au courant.&lt;/p&gt;
-
-&lt;p&gt;Si vous êtes pressés je vous la fait courte : J&amp;rsquo;aurais pas dû.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/12/yjt6EZL.gif&#34; alt=&#34;yjt6EZL&#34; width=&#34;500&#34; height=&#34;271&#34; class=&#34;aligncenter size-full wp-image-1559&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;J&amp;rsquo;ai donc commencé à utiliser le client de synchronisation d&amp;rsquo;abord en transférant toute ma dropbox, puis en activant l&amp;rsquo;envoi automatique de mes photos prises sur mon téléphone, puis en y mettant mes dotfiles pour y avoir accès de partout.&lt;/p&gt;
-
-&lt;p&gt;Jusqu&amp;rsquo;au jour où, pour une raison inconnue, le client de synchronisation d&amp;rsquo;ownButt a merdé pendant la synchro de mon dossier .atom (l&amp;rsquo;éditeur de github) et je me suis retrouvé avec MariaDB qui râlait à la DUPLICATE ENTRY dans une table.&lt;/p&gt;
-
-&lt;p&gt;Évidemment à ce point il y a trop de fichiers en erreur pour corriger à la main et ça me semble trop aléatoire pour être scripté rapidement.&lt;/p&gt;
-
-&lt;p&gt;Après recherches, des pistes semblent indiquer que c&amp;rsquo;est dû à la manière dont le module de chiffrement gère (mal) les noms de fichiers. Je me suis donc dit que j&amp;rsquo;allais juste le désactiver, qu&amp;rsquo;ownButt déchiffrerait mes fichiers au fil des accès et que j&amp;rsquo;aurais juste à supprimer mon dossier pourri et à le renvoyer.&lt;/p&gt;
-
-&lt;p&gt;Hahaha, naïf que je suis. Il faut lancer manuellement une requête de déchiffrement dans les options et évidemment ça prend un temps fou. Firefox laisse tomber la requête AJAX au bout d&amp;rsquo;une demi heure, mais ça continue de tourner et c&amp;rsquo;est le max execution time de PHP qui détermine le temps avant plantage (En l’occurrence, ce fut une heure)&lt;/p&gt;
-
-&lt;p&gt;Je ne me laisse pas démonter et je met un petit &lt;code&gt;set_time_limit(0)&lt;/code&gt; au début du script histoire d&amp;rsquo;être sûr et je le relance en gardant un œil sur les logs dans un &lt;a href=&#34;http://danielmiessler.com/study/tmux/&#34;&gt;tmux&lt;/a&gt;. Deux heures plus tard il plante à nouveau &lt;code&gt;Calling method -&amp;gt;machintruc() on a non-object&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Je commence un peu à m&amp;rsquo;échauffer parce que quand on utilise des fonctions qui renvoient &lt;code&gt;null&lt;/code&gt; ou un objet, la moindre des choses c&amp;rsquo;est de vérifier qu&amp;rsquo;on a bien un objet après l&amp;rsquo;appel à cette fonction… J&amp;rsquo;ajoute cette vérif en loguant bien les erreurs et je relance le bouzin.&lt;/p&gt;
-
-&lt;p&gt;Après cinq heures à mouliner&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;1&#34; rel=&#34;footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; c&amp;rsquo;est au tour de MariaDB de se plaindre : &lt;code&gt;General error: 2006 MySQL server has gone away&lt;/code&gt; Parce que oui, le timeout il est par défaut à 300 secondes. Donc on ouvre la connexion et cinq heures plus tard il y a plus personne au bout du fil. Nouvel essai.&lt;/p&gt;
-
-&lt;p&gt;Après 6 heures, les logs s&amp;rsquo;arrêtent de défiler (j&amp;rsquo;ai rajouté le log du chemin de chaque fichier déchiffré histoire de voir quand ça s&amp;rsquo;arrête parce que sinon c&amp;rsquo;est le noir complet) et comme il n&amp;rsquo;y a pas d&amp;rsquo;erreur je commence à me dire que ça y est, peut-être mes galères sont terminées. Je me connecte donc à l&amp;rsquo;interface web pour voir et… « &lt;em&gt;Le chiffrement était désactivé mais vos fichiers sont toujours chiffrés. Veuillez vous rendre sur vos Paramètres personnels pour déchiffrer vos fichiers.&lt;/em&gt; » cette cochonnerie de message est toujours là. MAIS IL Y A PAS D&amp;rsquo;ERREUR ! APACHE SE TOURNE LES POUCES !&lt;/p&gt;
-
-&lt;p&gt;Évidemment après vérification, une grande partie de mes fichiers est toujours chiffrée, j&amp;rsquo;ai beau relancer leur script de merde ça ne change absolument rien et le client de synchro râle toujours qu&amp;rsquo;il n&amp;rsquo;a pas pu synchroniser * fichiers en raison d&amp;rsquo;une erreur inattendue sur le serveur.&lt;/p&gt;
-
-&lt;p&gt;Bref, je suis bon pour tout supprimer et tout renvoyer. Ce qui avec mon accès ADSL va prendre environ… 130 heures à vitesse maxi. (&amp;#12494;&amp;#3232;&amp;#30410;&amp;#3232;)&amp;#12494;&lt;/p&gt;
-
-&lt;p&gt;N&amp;rsquo;activez pas le module de chiffrement d&amp;rsquo;ownButt. Sauf si vous voulez vous prendre la tête pour rien.&lt;/p&gt;
-
-&lt;div class=&#34;footnotes&#34;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-
-&lt;li id=&#34;fn:1&#34;&gt;
-J&#39;ai 7Go de données, je veux bien que ça prenne du temps, mais c&#39;est rageant quand ça plante pour des conneries…&amp;#160;&lt;a href=&#34;1&#34; rev=&#34;footnote&#34;&gt;&amp;#8617;&lt;/a&gt;
-&lt;/li&gt;
-
-&lt;/ol&gt;
-&lt;/div&gt;
 </description>
     </item>
     
