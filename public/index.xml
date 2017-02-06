@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Sun, 29 Jan 2017 17:57:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 19:00:00 +0100</lastBuildDate>
     <atom:link href="https://aldarone.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Whoupiii ! Et de deux !</title>
+      <link>https://aldarone.fr/whoupiii-et-de-deux/</link>
+      <pubDate>Mon, 06 Feb 2017 19:00:00 +0100</pubDate>
+      
+      <guid>https://aldarone.fr/whoupiii-et-de-deux/</guid>
+      <description>
+
+&lt;p&gt;Hey c&amp;rsquo;est donc la deuxième fois de suite que j&amp;rsquo;écris un article recensant les choses intéressantes de la semaine et je ne le fais qu&amp;rsquo;avec un seul jour de retard.&lt;/p&gt;
+
+&lt;p&gt;On dirait que je suis bien partie, même si cette fois sera plus sobre que la précédente, la faute à l&amp;rsquo;actualité qui a bouffé tout le temps disponible sur twitter et les tâches pas très passionnantes au boulot qui ne m&amp;rsquo;ont pas motivées à stimuler ma curiosité.&lt;/p&gt;
+
+&lt;h2 id=&#34;lundi&#34;&gt;Lundi&lt;/h2&gt;
+
+&lt;h3 id=&#34;le-global-state-c-est-comme-les-singletons-de-la-merde&#34;&gt;Le Global State c&amp;rsquo;est comme les Singletons : de la merde&lt;/h3&gt;
+
+&lt;p&gt;En premier lieu et suite au lien à propos des Singletons de &lt;a href=&#34;https://aldarone.fr/combien-de-temps-je-vais-my-tenir-cette-fois/&#34;&gt;la semaine dernière&lt;/a&gt;, voilà un petit avertissement qui va de pair avec ces sales bêtes : le grand méchant &lt;a href=&#34;http://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil&#34;&gt;Global State&lt;/a&gt; qui rend impossible à suivre le flux d&amp;rsquo;informations qui transite dans nos application.&lt;/p&gt;
+
+&lt;h3 id=&#34;rafraîchir-la-navigation-par-onglets&#34;&gt;Rafraîchir la navigation par onglets&lt;/h3&gt;
+
+&lt;p&gt;Ensuite, pour celles et ceux qui le savent, Mozilla développe un nouveau moteur HTML, CSS, JS en Rust nommé Servo ainsi qu&amp;rsquo;un navigateur expérimental nommé browser.html. Si Servo va à terme remplacer Gecko dans Firefox, browser.html est uniquement là pour tenter des trucs vite fait. Celà leur permet donc de réfléchir à des moyens de remplacer la navigation classique utilisant des onglets par &lt;a href=&#34;https://medium.com/@patrykadas/lossless-web-navigation-with-trails-9cd48c0abb56#.z76gla3pm&#34;&gt;un nouveau concept se basant sur des arbres&lt;/a&gt;. Et le moins qu&amp;rsquo;on puisse dire c&amp;rsquo;est que ça a l&amp;rsquo;air entousiasmant !&lt;/p&gt;
+
+&lt;h3 id=&#34;nos-amis-les-crustacés-et-leurs-potes-céphalopodes&#34;&gt;Nos amis les crustacés et leurs potes céphalopodes&lt;/h3&gt;
+
+&lt;p&gt;Et pour le dernier lien de la journée, voilà une étude fort intéressante grâce à laquelle nous apprenons que &lt;a href=&#34;https://www.washingtonpost.com/national/health-science/do-lobsters-and-other-invertebrates-feel-pain-new-research-has-some-answers/2014/03/07/f026ea9e-9e59-11e3-b8d8-94577ff66b28_story.html&#34;&gt;les crustacés et les céphalopodes ressentent bel et bien la douleur&lt;/a&gt;. Ça fait donc un argument de moins pour les ennemis des animaux.&lt;/p&gt;
+
+&lt;h2 id=&#34;mardi&#34;&gt;Mardi&lt;/h2&gt;
+
+&lt;h3 id=&#34;ne-faites-pas-votre-propre-crypto&#34;&gt;Ne faites pas votre propre crypto&lt;/h3&gt;
+
+&lt;p&gt;Pour le seul lien du jour vous aurez droit à un petit coup de gueule technique contre un article expliquant comment utiliser des mots de passe dans ses playbooks Ansible sans devoir les stocker en clair.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est effectivement une bonne pratique que de ne pas stocker en clair ses mots de passe, surtout à côté de ses playbooks, mais il y a une règle d&amp;rsquo;or en sécurité informatique qui est la suivante : NE FAITES PAS VOTRE PROPRE CRYPTO. Sauf bien sûr si vous êtes une bande d&amp;rsquo;experts en crypto (et seulement si vous êtes une bande)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lesaventuresdeyannigdanslemondeit.blogspot.com/2017/01/chiffrementdechiffrement-des-mots-de.html&#34;&gt;Cet article&lt;/a&gt; montre donc comment écrire en Python un script qui va chiffrer et déchiffrer des mots de passe à l&amp;rsquo;aide de l&amp;rsquo;algo 3DES. Cet intéressant d&amp;rsquo;un point de vue éducatif mais de grâce ne faites pas ça chez vous.&lt;/p&gt;
+
+&lt;p&gt;Déjà parce que vous avez mieux à faire que maintenir un énième script maison, ensuite parce que &lt;a href=&#34;https://www.keylength.com/fr/4/&#34;&gt;le NIST estime que 3DES ne sera plus fiable d&amp;rsquo;ici 2030&lt;/a&gt; et enfin parce qu&amp;rsquo;Ansible a déjà de quoi gérer ce souci à l&amp;rsquo;aide de la commande &lt;a href=&#34;http://docs.ansible.com/ansible/playbooks_vault.html&#34;&gt;ansible-vault&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Donc retenez deux choses : Ne faites pas votre propre crypto et lisez la doc de vos outils.&lt;/p&gt;
+
+&lt;h2 id=&#34;mercredi&#34;&gt;Mercredi&lt;/h2&gt;
+
+&lt;h3 id=&#34;gitlab-com-et-ses-backups-foireux&#34;&gt;Gitlab.com et ses backups foireux&lt;/h3&gt;
+
+&lt;p&gt;Ce jour a suirtout été marqué par &lt;a href=&#34;https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/&#34;&gt;l&amp;rsquo;énorme plantage de Gitlab.com&lt;/a&gt; qui, à la suite d&amp;rsquo;une erreur de manip et d&amp;rsquo;une politique de backup non testée, a perdu 6h de données.&lt;/p&gt;
+
+&lt;p&gt;Ils ont fait preuve d&amp;rsquo;une transparence assez exemplaire, allant même jusqu&amp;rsquo;à livestreamer les réparations.&lt;/p&gt;
+
+&lt;h2 id=&#34;vendredi&#34;&gt;Vendredi&lt;/h2&gt;
+
+&lt;h3 id=&#34;c-est-quoi-un-blanc&#34;&gt;C&amp;rsquo;est quoi un blanc ?&lt;/h3&gt;
+
+&lt;p&gt;Enfin, pour terminer ce billet, voilà une réflexion assez cruciale dans les luttes de l&amp;rsquo;anti-racisme politique qui, en plus d&amp;rsquo;éclairer pas mal sur le sens de ces luttes permet d&amp;rsquo;évacuer les accusations de « vrai racisme, » de « racialisme, » ou de « communautarisme dont sont souvent accusés les partisans de cet anti-racisme politique :  &lt;a href=&#34;http://indigenes-republique.fr/mais-qui-sont-les-blancs/&#34;&gt;Mais qui sont les blancs ?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fin&#34;&gt;Fin&lt;/h2&gt;
+
+&lt;p&gt;Je vous avais prévenu qu&amp;rsquo;il y aurais moins de liens cette fois, mais j&amp;rsquo;espère me rattraper la semaine prochaine !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Combien de temps je vais m&#39;y tenir cette fois ?</title>
@@ -1416,50 +1476,6 @@ Comme les communications sont chiffrées, Google pourra uniquement voir que vous
 &lt;hr /&gt;
 
 &lt;p&gt;Crédits : &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/3644997857/&#34;&gt;Lockpicking with the hackers.&lt;/a&gt; par &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/&#34;&gt;Sally Crossthwaite&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jouer à Discworld sur un PC récent</title>
-      <link>https://aldarone.fr/jouer-a-discworld-sur-un-pc-recent/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/jouer-a-discworld-sur-un-pc-recent/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036599047258112&#34;&gt;https://twitter.com/terryandrob/status/576036599047258112&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036726046646272&#34;&gt;https://twitter.com/terryandrob/status/576036726046646272&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/terryandrob/status/576036888190038016&#34;&gt;https://twitter.com/terryandrob/status/576036888190038016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est l&amp;rsquo;occasion de découvrir ou de redécouvrir ce point&amp;rsquo;n click de légende adapté de l&amp;rsquo;univers de ce grand monsieur et doublé par &lt;a href=&#34;http://en.wikipedia.org/wiki/Eric_Idle&#34;&gt;Eric Idle&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/03/tumblr_mlme6myVhA1s9677oo1_500.gif&#34; alt=&#34;tumblr_mlme6myVhA1s9677oo1_500&#34; width=&#34;500&#34; height=&#34;313&#34; class=&#34;aligncenter size-full wp-image-1576&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour y jouer il nous faut trois choses :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;L&#39;émulateur de point&#39;n click &lt;a href=&#34;http://www.scummvm.org/&#34;&gt;ScummVM&lt;/a&gt;. Si vous êtes sous GNU/Linux, il y a probablement un paquet dans le dépôt de votre distribution. Sinon, trouvez votre plateforme sur &lt;a href=&#34;http://www.scummvm.org/downloads/&#34;&gt;la page de téléchargement&lt;/a&gt; et lancez l&#39;installation.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Les fichiers du jeu, que l&#39;on peut trouver ici : &lt;a href=&#34;http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=691&amp;amp;fic=liens&#34;&gt;LTF Abandonware France, Discworld&lt;/a&gt; (Prenez la version CD, pas la version automatique)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;La musique haute qualité réalisée par James Woodcock : &lt;a href=&#34;http://www.jameswoodcock.co.uk/2013/05/04/my-discworld-enhanced-soundtrack-released-v2-1-flac-lossless-audio-included/&#34;&gt;Discworld Enhanced SoundTrack&lt;/a&gt; (Vous pouvez prendre la version FLAC si vous avez de la place à perdre sur votre disque dur, sinon prenez la version OGG)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Après avoir installé ScummVM et décompressé le fichier &lt;code&gt;jeu-00691-discworld_cd-pcdos.7z&lt;/code&gt; on obtient un fichier &lt;code&gt;Discw.iso&lt;/code&gt; qu&amp;rsquo;il faut, lui aussi, décompresser. Ce qui nous intéresse est le dossier &lt;code&gt;DISCWLD&lt;/code&gt; qui contient les données du jeu. Prenez ce dossier et placez le dans un endroit où vous saurez le retrouver facilement.&lt;/p&gt;
-
-&lt;p&gt;Prenez également les fichiers présents dans l&amp;rsquo;archive musicale (&lt;code&gt;track01.ogg&lt;/code&gt;, &lt;code&gt;track02.ogg&lt;/code&gt;, etc.) et placez les dans le dossier &lt;code&gt;DISCWLD&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Maintenant, on va démarrer et configurer ScummVM. Une fois la fenêtre ouverte, cliquez sur option et cochez la case « Correction du rapport d&amp;rsquo;aspect », cliquez sur « OK » puis sur « Ajouter »&lt;/p&gt;
-
-&lt;p&gt;Vous devez maintenant chercher le dossier &lt;code&gt;DISCWLD&lt;/code&gt; dans la liste de chemins, quand vous y êtes cliquez sur choisir, puis sélectionnez la langue avec laquelle vous voulez jouer (ce ne sont que pour les sous-titres) et terminez par « Ok. »&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/03/scummvm-ajouter.png&#34; alt=&#34;scummvm-ajouter&#34; width=&#34;628&#34; height=&#34;469&#34; class=&#34;aligncenter size-full wp-image-1571&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Vous êtes maintenant prêt⋅e à cliquer sur démarrer et à passer quelques heures d&amp;rsquo;amusement dans l&amp;rsquo;univers unique du Disque Monde.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Précision supplémentaire&lt;/strong&gt; : Il est probable que vous trouviez la taille de la fenêtre un peu réduite. À l&amp;rsquo;époque on jouait à des jeux en 320x200 maintenant on a plutôt des écrans FullHD en 1920x1080, la différence de taille est… conséquente. Il est possible d&amp;rsquo;améliorer l&amp;rsquo;affichage en allant dans les options graphiques et de changer le « mode graphique. »&lt;/p&gt;
-
-&lt;p&gt;Le choix sera surtout une question de goût, personnellement j&amp;rsquo;aime bien le mode « HQ3x » que je trouve adapté au style cartoon du jeu mais certaines personnes le trouvent trop lissé et préfèrent une expérience plus authentique.&lt;/p&gt;
-
-&lt;p&gt;Amusez vous bien !&lt;/p&gt;
 </description>
     </item>
     
