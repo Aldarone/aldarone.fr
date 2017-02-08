@@ -44,7 +44,7 @@
 
 &lt;p&gt;C&amp;rsquo;est effectivement une bonne pratique que de ne pas stocker en clair ses mots de passe, surtout à côté de ses playbooks, mais il y a une règle d&amp;rsquo;or en sécurité informatique qui est la suivante : NE FAITES PAS VOTRE PROPRE CRYPTO. Sauf bien sûr si vous êtes une bande d&amp;rsquo;experts en crypto (et seulement si vous êtes une bande)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://lesaventuresdeyannigdanslemondeit.blogspot.com/2017/01/chiffrementdechiffrement-des-mots-de.html&#34;&gt;Cet article&lt;/a&gt; montre donc comment écrire en Python un script qui va chiffrer et déchiffrer des mots de passe à l&amp;rsquo;aide de l&amp;rsquo;algo 3DES. Cet intéressant d&amp;rsquo;un point de vue éducatif mais de grâce ne faites pas ça chez vous.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lesaventuresdeyannigdanslemondeit.blogspot.com/2017/01/chiffrementdechiffrement-des-mots-de.html&#34;&gt;Cet article&lt;/a&gt; montre donc comment écrire en Python un script qui va chiffrer et déchiffrer des mots de passe à l&amp;rsquo;aide de l&amp;rsquo;algo 3DES. C&amp;rsquo;est intéressant d&amp;rsquo;un point de vue éducatif mais de grâce ne faites pas ça chez vous.&lt;/p&gt;
 
 &lt;p&gt;Déjà parce que vous avez mieux à faire que maintenir un énième script maison, ensuite parce que &lt;a href=&#34;https://www.keylength.com/fr/4/&#34;&gt;le NIST estime que 3DES ne sera plus fiable d&amp;rsquo;ici 2030&lt;/a&gt; et enfin parce qu&amp;rsquo;Ansible a déjà de quoi gérer ce souci à l&amp;rsquo;aide de la commande &lt;a href=&#34;http://docs.ansible.com/ansible/playbooks_vault.html&#34;&gt;ansible-vault&lt;/a&gt;&lt;/p&gt;
 

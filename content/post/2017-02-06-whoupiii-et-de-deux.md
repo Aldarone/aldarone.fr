@@ -40,7 +40,7 @@ Pour le seul lien du jour vous aurez droit à un petit coup de gueule technique 
 
 C'est effectivement une bonne pratique que de ne pas stocker en clair ses mots de passe, surtout à côté de ses playbooks, mais il y a une règle d'or en sécurité informatique qui est la suivante : NE FAITES PAS VOTRE PROPRE CRYPTO. Sauf bien sûr si vous êtes une bande d'experts en crypto (et seulement si vous êtes une bande)
 
-[Cet article][badcrypto] montre donc comment écrire en Python un script qui va chiffrer et déchiffrer des mots de passe à l'aide de l'algo 3DES. Cet intéressant d'un point de vue éducatif mais de grâce ne faites pas ça chez vous.
+[Cet article][badcrypto] montre donc comment écrire en Python un script qui va chiffrer et déchiffrer des mots de passe à l'aide de l'algo 3DES. C'est intéressant d'un point de vue éducatif mais de grâce ne faites pas ça chez vous.
 
 Déjà parce que vous avez mieux à faire que maintenir un énième script maison, ensuite parce que [le NIST estime que 3DES ne sera plus fiable d'ici 2030][nist] et enfin parce qu'Ansible a déjà de quoi gérer ce souci à l'aide de la commande [ansible-vault][vault]
 
