@@ -7,8 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>2011 - 2016. Publié sous licence Creative Commons Attribution-NoDerivatives 4.0 International</copyright>
-    <lastBuildDate>Mon, 06 Feb 2017 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 10:00:00 +0100</lastBuildDate>
     <atom:link href="https://aldarone.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Three in a row</title>
+      <link>https://aldarone.fr/three-in-a-row/</link>
+      <pubDate>Mon, 13 Feb 2017 10:00:00 +0100</pubDate>
+      
+      <guid>https://aldarone.fr/three-in-a-row/</guid>
+      <description>
+
+&lt;p&gt;Pour la troisième fois consécutive voilà mes liens de la semaine. Une semaine qui a encore été bouffée par une actu prenante (et assez infâme…) et des trucs pas très passionnants au bureau, mais j&amp;rsquo;ai quand même réussi à dégoter deux trois trucs.&lt;/p&gt;
+
+&lt;h2 id=&#34;lundi&#34;&gt;Lundi&lt;/h2&gt;
+
+&lt;p&gt;On commence par &lt;a href=&#34;http://coleremilitante.tumblr.com/post/121094865413/%C3%A0-propos-de-la-toxicit%C3%A9-et-des-abus-en-milieu&#34;&gt;un vieil article datant de 2014&lt;/a&gt; malheureusement toujours d&amp;rsquo;actualité sur le milieu militant en ligne qui a parfois tendance à s&amp;rsquo;enflammer et à avoir du mal à dépasser l&amp;rsquo;examen des comportements individuels.&lt;/p&gt;
+
+&lt;h2 id=&#34;mardi&#34;&gt;Mardi&lt;/h2&gt;
+
+&lt;p&gt;Pour Mardi, on a d&amp;rsquo;abord un article sur la création et l&amp;rsquo;usage du mot « communautarisme » qui &lt;a href=&#34;https://delphysyllepse.wordpress.com/2017/02/05/au-nom-de-la-menace-communautariste-de-fabrice-dhume/&#34;&gt;n&amp;rsquo;existe que comme outil de stigmatisation&lt;/a&gt; de populations minoritaires.&lt;/p&gt;
+
+&lt;p&gt;Ce terme a tout à voir avec le positionnement moral de la gauche anti-raciste française comme expliqué &lt;a href=&#34;https://npa2009.org/idees/antiracisme/combat-contre-lislamophobie-quand-lutte-ouvriere-inverse-la-hierarchie-des-normes&#34;&gt;par l&amp;rsquo;article suivant&lt;/a&gt; qui critique une des prise de position récente de Lutte Ouvrière et qui du même coup nous renseigne un peu plus sur l&amp;rsquo;antiracisme politique, mais également sur les manières de mener des actions en s&amp;rsquo;associant avec des organisations qui ne sont pas entièrement alignées avec nos propres positions.&lt;/p&gt;
+
+&lt;p&gt;Enfin, un petit rappel qui fait du bien : &lt;a href=&#34;https://reflets.info/fillon-macron-hamon-melenchon-le-club-des-on-qui-prend-la-tete/&#34;&gt;nos cadidats à la présidentielle sont les mêmes hommes politiques que d&amp;rsquo;habitude&lt;/a&gt;, qu&amp;rsquo;ils ont été au pouvoir et que tout antisystème qu&amp;rsquo;ils se prétendent rien ne changera en leur confiant les rênes. (On notera aussi qu&amp;rsquo;une certaine jeune députée d&amp;rsquo;extrême-droite a fait le même constat, déclarant : « Les ons ça ose tout, c&amp;rsquo;est à ça qu&amp;rsquo;on les reconnait » avec l&amp;rsquo;air bouffi de suffisance qu&amp;rsquo;on lui connait et oubliant au passage qu&amp;rsquo;avec son prénom et sa famille, elle est aussi dans le club.)&lt;/p&gt;
+
+&lt;h2 id=&#34;mercredi&#34;&gt;Mercredi&lt;/h2&gt;
+
+&lt;p&gt;Arrivé en milieu de semaine, j&amp;rsquo;ai trouvé un article qui peut sembler difficile à aborder quand on est pas sensibilisé aux théories queers mais qui vaut quand même la peine d&amp;rsquo;être réfléchi. Il s&amp;rsquo;agit &lt;a href=&#34;http://www.liberation.fr/debats/2017/02/03/apres-le-livre-imprimons-la-chair_1546205&#34;&gt;un peu de transidentité, un peu de transhumanisme et un peu d&amp;rsquo;impression 3D&lt;/a&gt;. Ça doit être assez proche du Manifeste Cyborg de Donna Haraway que je ne manquerais pas de poster ici quand je l&amp;rsquo;aurais lu et digéré.&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;ai aussi progressé sur le décodage matériel des vidéos 10bits et comme souvent la réponse était dans le man. Il fallait lancer MPV avec l&amp;rsquo;option &lt;code&gt;--vo=vaapi&lt;/code&gt; :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;vaapi: Intel VA API video output driver with support for hardware decoding. Note that there is absolutely no reason to  use this, other than wanting to use hardware decoding to save power on laptops, or possibly preventing video tearing with some setups.
+NOTE: This driver is for compatibility with crappy systems. You can use vaapi hardware decoding with &amp;ndash;vo=opengl too.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Je suppose donc que j&amp;rsquo;ai un crappy system pour le moment.&lt;/p&gt;
+
+&lt;h2 id=&#34;jeudi&#34;&gt;Jeudi&lt;/h2&gt;
+
+&lt;p&gt;Le week-end s&amp;rsquo;approchant, Julien du blog Marie&amp;amp;Julien a lancé &lt;a href=&#34;http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion&#34;&gt;un petit pavé dans la mare&lt;/a&gt; du monde du libre francophone en notant pourquoi selon lui les logiciels libres sont en panne de design et n&amp;rsquo;arrivent à attirer ni utilisateur⋅ices, ni graphistes. Il y a plein de choses pertinentes et si ça ne suffit pas à convaincre, on peut aussi regarder &lt;a href=&#34;https://www.april.org/l-ergonomie-indispensable-l-adoption-massive-du-libre-matthias-dugue-luc-chaffard&#34;&gt;cette conférence de l&amp;rsquo;April sur la nécessité de l&amp;rsquo;ergonomie dans nos logiciels&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Comme cette semaine manque cruellement de liens techniques, je recommande la lecture de &lt;a href=&#34;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.t7v161kgi&#34;&gt;cette introduction à flexbox&lt;/a&gt; qui a des GIFs explicatifs très clairs.&lt;/p&gt;
+
+&lt;h2 id=&#34;vendredi&#34;&gt;Vendredi&lt;/h2&gt;
+
+&lt;p&gt;Enfin, je vais faire une entorse à une règle que je me suis fixée et partager un article en rapport avec l&amp;rsquo;actualité mais la situation est beaucoup trop sérieuse pour la passer sous silence.&lt;/p&gt;
+
+&lt;p&gt;Les flics ont encore dépassé une limite dans l&amp;rsquo;indignité et à peu près tout est fait pour minimiser leurs actes. Voilà donc un article &lt;a href=&#34;http://contre-attaques.org/magazine/article/les-4&#34;&gt;qui met quelques points sur les I&lt;/a&gt; et rappelle qu&amp;rsquo;à tout ramener à des comportements individuels, on s&amp;rsquo;interdit d&amp;rsquo;analyser les systèmes qui rendent possible, excusent ou encouragent de tels comportements.&lt;/p&gt;
+
+&lt;h2 id=&#34;fin&#34;&gt;Fin&lt;/h2&gt;
+
+&lt;p&gt;J&amp;rsquo;espère que cette fournée vous a semblé intéressante et instructive, et je vous dis à la semaine prochaine.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Whoupiii ! Et de deux !</title>
@@ -1314,168 +1367,6 @@ user_pref(&#34;security.tls.version.min&#34;,2);
 &lt;p&gt;Le seul effet que ces critiques ont est de ternir l&amp;rsquo;image d&amp;rsquo;un Firefox qui n&amp;rsquo;en a pas besoin et d&amp;rsquo;affaiblir le seul navigateur Libre et indépendant, poussant les gens à… utiliser Chrome.&lt;/p&gt;
 
 &lt;p&gt;À suivre : &lt;a href=&#34;https://aldarone.fr/que-fait-firefox-sur-le-reseau-quand-on-le-demarre-et-faut-il-y-remedier/&#34;&gt;Les requêtes envoyées par un Firefox tout neuf&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Les communications chiffrées faciles en Mai 2015</title>
-      <link>https://aldarone.fr/les-communications-chiffrees-pour-les-non-informaticien%E2%8B%85nes-en-mai-2015/</link>
-      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aldarone.fr/les-communications-chiffrees-pour-les-non-informaticien%E2%8B%85nes-en-mai-2015/</guid>
-      <description>&lt;p&gt;Il y a un peu plus d&amp;rsquo;un an, j&amp;rsquo;ai parlé de moyens pour sécuriser nos communications sur nos téléphones mobiles. J&amp;rsquo;avais parlé de TextSecure, Redphone et Telegram.&lt;/p&gt;
-
-&lt;p&gt;Avec le vote de la loi sur le renseignement qui &lt;a href=&#34;http://www.laquadrature.net/fr/lassemblee-nationale-vote-la-surveillance-de-masse-des-citoyens-francais&#34;&gt;autorise maintenant le gouvernement à surveiller tout un chacun&lt;/a&gt; sans passer par le moindre juge, il me semble pertinent de refaire un point sur ce qui a changé ou non et sur les nouveaux moyens disponibles.&lt;/p&gt;
-
-&lt;p&gt;Si vous n&amp;rsquo;y connaissez rien en chiffrement, ce n&amp;rsquo;est pas grave, vous pouvez continuer à lire. Je ne présenterai que des outils qui fonctionnent immédiatement après s&amp;rsquo;être installés parce que je fais parti de celleux qui pensent qu&amp;rsquo;une bonne sécurité doit être accessible à toutes et à tous, même si on ne sait pas ce qu&amp;rsquo;est le chiffrement à courbes elliptiques (et aussi parce que les arcanes de la sécurité ont tendance à me filer mal au crane.)&lt;/p&gt;
-
-&lt;p&gt;Comme d&amp;rsquo;habitude, la sécurité n&amp;rsquo;est possible que lorsqu&amp;rsquo;il est possible d&amp;rsquo;examiner le code source des applications qui la mettent en place afin de pouvoir contrôler que le logiciel ne dissimule rien. Exit donc Whatsapp, Skype, Facebook, Bleep, etc. Même si ils prétendent fournir de la sécurité, on est sensé les croire sur parole sans vérification possible. Et vous avez vraiment envie de croire sur parole une entreprise capitaliste vous ?&lt;/p&gt;
-
-&lt;p&gt;Les logiciels dont je vais parler sont Libres, donc open-source et gratuits. Le chiffrement n&amp;rsquo;est actif qu&amp;rsquo;avec les contacts qui utilisent le même logiciel que vous.&lt;/p&gt;
-
-&lt;h1&gt;Les messages mobiles&lt;/h1&gt;
-
-&lt;p&gt;Cette section concerne les SMS et équivalents et se compose de trois logiciels très proches : TextSecure, SMSSecure et Signals.&lt;/p&gt;
-
-&lt;h2&gt;Textsecure&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/textsecure.jpg&#34; alt=&#34;TextSecure, la sécurité simplifiée&#34; width=&#34;705&#34; height=&#34;344&#34; class=&#34;size-full wp-image-1464&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Celui là c&amp;rsquo;est un peu mon préféré. Il était déjà opérationnel l&amp;rsquo;an dernier et je l&amp;rsquo;utilise quotidiennement depuis ce moment là.&lt;/p&gt;
-
-&lt;p&gt;C&amp;rsquo;est une application pour Android qui peut remplacer (sans obligation) l&amp;rsquo;application SMS standard. Si vous décidez de conserver votre application SMS, vous recevrez les messages TextSecure dans TextSecure et les SMS dans l&amp;rsquo;application SMS.&lt;/p&gt;
-
-&lt;p&gt;Elle permet également d&amp;rsquo;envoyer des MMS qui seront, eux aussi, chiffrés.&lt;/p&gt;
-
-&lt;p&gt;Au premier lancement elle demande de saisir votre numéro de téléphone et quelques secondes plus tard vous recevez un SMS spécial qu&amp;rsquo;elle utilise automatiquement pour s&amp;rsquo;activer.&lt;/p&gt;
-
-&lt;p&gt;Vous pourrez dès lors envoyer des messages chiffrés aux contacts qui l&amp;rsquo;utilisent, sans même y faire attention. Le chiffrement est simplement indiqué par un petit cadenas au bas de chaque message envoyé ou reçu.&lt;/p&gt;
-
-&lt;p&gt;Les SMS reçus sont en vert et les messages TextSecure sont en bleu.&lt;/p&gt;
-
-&lt;p&gt;Concernant le mode de transport il y a plusieurs choses à savoir :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les messages transitent par internet, il vous faut donc un forfait compatible (mais de nos jours pratiquement tous les forfaits incluent au moins 20Mo de données par mois et TextSecure en consomme environ 600Ko)&lt;/li&gt;
-&lt;li&gt;Ils transitent par les serveurs de Google puis par les serveurs d&#39;OpenWhisper (les gens qui développement TextSecure).
-Comme les communications sont chiffrées, Google pourra uniquement voir que vous utilisez l&#39;application (mais comme vous l&#39;avez installée, ils se savent déjà) et de son côté OpenWhisper ne verra que l&#39;identifiant de la personne à qui vous envoyez un message (pour lui délivrer un message, il est logique que le transporteur en connaisse l&#39;adresse)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Télécharger TextSecure sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Néanmoins, pour ne pas passer par Google et OpenWhisper ou pour ne pas être obligé⋅e d&amp;rsquo;utiliser internet, il y a une alternative : SMSSecure.&lt;/p&gt;
-
-&lt;h2&gt;SMSSecure&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/smssecure.png&#34; alt=&#34;SMS Encryption made easy&#34; width=&#34;450&#34; height=&#34;120&#34; class=&#34;size-full wp-image-1591&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;SMSSecure est très proche de TextSecure puisqu&amp;rsquo;il partage une grande partie de son code source et donc la même méthode de chiffrement.&lt;/p&gt;
-
-&lt;p&gt;Cette application est apparue quand les développeurs et développeuses de TextSecure ont décidé⋅es d&amp;rsquo;arrêter le support du chiffrement pour les SMS en raison d&amp;rsquo;un trop grand nombre de correctifs nécessaire qui les empêchaient de se concentrer sur l&amp;rsquo;ajout de nouvelles fonctions.&lt;/p&gt;
-
-&lt;p&gt;D&amp;rsquo;autres personnes ont donc copié le code source et ont supprimé tout rapport avec Google et OpenWhisper pour ne développer que la partie SMS.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;interface est donc très proche/identique à celle de TextSecure et pour recevoir des SMS chiffrés elle doit obligatoirement remplacer votre application SMS standard. (Vous pouvez toujours utiliser TextSecure à côté.)&lt;/p&gt;
-
-&lt;p&gt;Elle permet également d&amp;rsquo;envoyer des MMS qui seront, eux aussi, chiffrés.&lt;/p&gt;
-
-&lt;p&gt;Une fois installée, il n&amp;rsquo;y a qu&amp;rsquo;à sélectionner un contact qui vous a prévenu qu&amp;rsquo;ille l&amp;rsquo;utilise et cliquer sur le petit cadenas en haut à droite. Elle va alors lui envoyer un SMS de préparation auquel son téléphone répondra automatiquement et la suite de la conversation se déroulera de manière sécurisée.&lt;/p&gt;
-
-&lt;p&gt;Concernant le mode de transport il y a là aussi des choses à savoir :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Elle utilise les SMS ; comme un message chiffré prend plus de place qu&#39;un message classique il est possible qu&#39;un message de moins de 140 caractères soit automatiquement coupé en plusieurs parties et que votre forfait soit décompté de plusieurs SMS. Attention donc si vous n&#39;avez pas de SMS illimités.&lt;/li&gt;
-&lt;li&gt;Contrairement à TextSecure où Google peut savoir que vous l&#39;utilisez et où OpenWhisper peut savoir à qui vous écrivez, ici c&#39;est votre opérateur mobile et toute personne qui écoute le réseau téléphonique qui peut savoir à qui vous écrivez. À vous de choisir à qui vous préférez exposer votre liste d&#39;interlocuteur⋅ices.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.smssecure.smssecure&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Téléchargez SMSSecure sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://f-droid.org/repository/browse/?fdid=org.smssecure.smssecure&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Get_it_on_F-Droid-300x104.png&#34; alt=&#34;Get_it_on_F-Droid&#34; width=&#34;300&#34; height=&#34;104&#34; class=&#34;aligncenter size-medium wp-image-1596&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Signal&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg&#34; alt=&#34;Signal - Private Messenger&#34; width=&#34;202&#34; height=&#34;195&#34; class=&#34;aligncenter size-full wp-image-1600&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Il y a un an, aucune solution libre n&amp;rsquo;existait pour les personnes possédant un iPhone. Mais maintenant il y a Signal.&lt;/p&gt;
-
-&lt;p&gt;Signal est l&amp;rsquo;exact équivalent de TextSecure pour Android et comme il est développée par les mêmes personnes, les gens utilisant Signal peuvent discuter en toute transparence avec les gens utilisant TextSecure.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;application utilise la même procédure d&amp;rsquo;activation que TextSecure : Au premier lancement on saisit son numéro, on reçoit un SMS d&amp;rsquo;activation et c&amp;rsquo;est prêt.&lt;/p&gt;
-
-&lt;p&gt;La seule différence est qu&amp;rsquo;Apple n&amp;rsquo;autorise pas les applications tierces à accéder aux SMS, vous ne pourrez donc pas récupérer tous vos messages dans une seule application et le seul mode de transport disponible sera le même que TextSecure, avec les mêmes points à retenir que ceux cités plus haut.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg&#34; alt=&#34;Téléchargez Signal sur l&#39;App Store&#34; width=&#34;300&#34; height=&#34;111&#34; class=&#34;aligncenter size-medium wp-image-1595&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1&gt;Les appels mobiles&lt;/h1&gt;
-
-&lt;p&gt;Pour ce point, il y a une solution pour Android : RedPhone, et une solution pour iPhone : Signal (oui, la même)&lt;/p&gt;
-
-&lt;h2&gt;RedPhone&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2014/02/8315ae507a049ffeaf669c32b8644681.jpg&#34; alt=&#34;RedPhone, la sécurité simplifiée.&#34; width=&#34;705&#34; height=&#34;344&#34; class=&#34;size-full wp-image-1458&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Développée par OpenWhisper (les mêmes qui font TextSecure et Signal, décidément), RedPhone permet de passer des appels chiffrés via Internet. Ce ne sera donc pas décompté de votre forfait voix, mais de votre quota de données (sauf si vous êtes en Wifi, ce qui permet de s&amp;rsquo;affranchir du même coup d&amp;rsquo;une mauvaise couverture.)&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;activation se déroule comme avec TextSecure et l&amp;rsquo;usage est ensuite transparent. La réception d&amp;rsquo;appel se fait sans manipulation particulière et au moment de passer un appel, si RedPhone détecte que votre correspondant⋅e est dans son annuaire, il vous offrira le choix de sécuriser l&amp;rsquo;appel ou non.&lt;/p&gt;
-
-&lt;p&gt;Comme pour TextSecure, les données transitent par Google et OpenWhisper, donc Google sait que vous utilisez RedPhone et OpenWhisper sait qui vous appelez. Encore une fois, sans RedPhone c&amp;rsquo;est votre opérateur mobile qui sait qui vous appelez mais il sait également ce que vous racontez.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/Disponible-sur-GooglePlay-300x110.jpg&#34; alt=&#34;Télécharger RedPhone sur Google Play&#34; width=&#34;300&#34; height=&#34;110&#34; class=&#34;aligncenter size-medium wp-image-1594&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Signal&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/07533689-photo-logo-application-signal-ios.jpg&#34; alt=&#34;Signal - Private Messenger&#34; width=&#34;202&#34; height=&#34;195&#34; class=&#34;aligncenter size-full wp-image-1600&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour iPhone, OpenWhisper a choisi d&amp;rsquo;unifier les usages et Signal permet également de recevoir ou d&amp;rsquo;émettre des appels vers d&amp;rsquo;autres personnes utilisant Signal ou RedPhone.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;activation se fait en même temps que l&amp;rsquo;activation des messages et pour appeler quelqu&amp;rsquo;un il suffit de se rendre dans l&amp;rsquo;historique des messages et de cliquer sur appeler.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&#34;&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/DispoSurAppStore-300x111.jpg&#34; alt=&#34;Téléchargez Signal sur l&#39;App Store&#34; width=&#34;300&#34; height=&#34;111&#34; class=&#34;aligncenter size-medium wp-image-1595&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1&gt;La messagerie instantanée et les conférences audio/vidéo&lt;/h1&gt;
-
-&lt;p&gt;Maintenant on s&amp;rsquo;éloigne un peu du mobile pour s&amp;rsquo;attaquer à un gros morceau de la communication en ligne : Les conférences audio / vidéo et la messagerie instantanée.&lt;/p&gt;
-
-&lt;p&gt;On connait tous Skype, le leader sur le marché. Il appartient à Microsoft, propose des fonctions payantes et, en dépit de la sécurisation qu&amp;rsquo;il annonce, s&amp;rsquo;avère &lt;a href=&#34;http://news.softpedia.com/news/Skype-Provided-Backdoor-Access-to-the-NSA-Before-Microsoft-Takeover-NYT-362384.shtml&#34;&gt;être aussi sécurisé qu&amp;rsquo;une passoire (lien en anglais)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour le remplacer, il n&amp;rsquo;y a pas grand monde. Mais l&amp;rsquo;alternative la plus aboutie est Tox.&lt;/p&gt;
-
-&lt;h2&gt;Tox&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://aldarone.fr/wp-content/uploads/2015/05/tox4.png&#34; alt=&#34;Tox me maybe&#34; width=&#34;650&#34; height=&#34;200&#34; class=&#34;aligncenter size-full wp-image-1593&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tox est un logiciel encore incomplet mais néanmoins déjà utilisable au quotidien.&lt;/p&gt;
-
-&lt;p&gt;Il permet de communiquer de plusieurs manières :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Message texte avec une ou plusieurs personnes.&lt;/li&gt;
-&lt;li&gt;Conversation audio avec une ou plusieurs personnes.&lt;/li&gt;
-&lt;li&gt;Conversation vidéo avec une personne. (Les conférences vidéos à plusieurs sont prévues mais les développeurs galèrent un peu sur la meilleure interface possible pour ce cas.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Après installation, Tox génère un identifiant : le ToxId. Il n&amp;rsquo;y a qu&amp;rsquo;à le communiquer à votre contact et après avoir accepté sa requête vous voila prêt⋅es à communiquer.&lt;/p&gt;
-
-&lt;p&gt;La communication s&amp;rsquo;effectue sans passer par aucun serveur et sans moyen de lire ou d&amp;rsquo;altérer le message pendant qu&amp;rsquo;il transite.&lt;/p&gt;
-
-&lt;p&gt;Cependant, comme il n&#39;est pas tout à fait terminé il y a quelques points noirs qui seront prochainement résolus (d&#39;ici la fin de l&#39;année) :
-* Pour accepter une requête de contact il faut être connecté⋅e. Si vous êtes déconnecté⋅e au moment où votre contact l&#39;envoie, il devra la réémettre.
-* Il est impossible d&#39;envoyer des messages à quelqu&#39;un qui est hors ligne car ils disparaîtront dans l&#39;oubli.
-* Il est impossible de rejoindre spontanément une conversation groupée, le seul moyen est d&#39;y être invité⋅e.&lt;/p&gt;
-
-&lt;p&gt;Pour le reste tout y est : Smileys, audio, video, transfert de fichiers,…&lt;/p&gt;
-
-&lt;p&gt;Il est disponible sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#windows&#34;&gt;Windows&lt;/a&gt;, sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#mac_os_x&#34;&gt;MacOS&lt;/a&gt; et sur &lt;a href=&#34;https://wiki.tox.chat/Binaries#gnulinux&#34;&gt;GNU/Linux&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Vous avez maintenant toutes les clés en main pour mettre des bâtons dans les roues de quiconque voudrait surveiller vos communications instantanées.&lt;/p&gt;
-
-&lt;p&gt;Ce n&amp;rsquo;est qu&amp;rsquo;en proposant à vos contacts de les utiliser que vos communications seront protégées puisqu&amp;rsquo;il n&amp;rsquo;y a qu&amp;rsquo;avec les contacts qui utilisent le même logiciel que vous que le chiffrement fonctionne. TextSecure et RedPhone sont compatibles avec Signal mais Tox ne fonctionne qu&amp;rsquo;avec les utilisateur et les utilisatrices de Tox et SMSSecure ne fonctionne qu&amp;rsquo;avec les personnes utilisant SMSSecure.&lt;/p&gt;
-
-&lt;p&gt;Alors n&amp;rsquo;hésitez pas, motivez vos contacts et sortez couvert⋅es !&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Crédits : &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/3644997857/&#34;&gt;Lockpicking with the hackers.&lt;/a&gt; par &lt;a href=&#34;https://www.flickr.com/photos/sally_monster/&#34;&gt;Sally Crossthwaite&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
